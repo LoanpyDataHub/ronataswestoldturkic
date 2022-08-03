@@ -3,13 +3,10 @@ import pathlib
 import attr
 from clldutils.misc import slug
 from lingpy import prosodic_string
-from pylexibank import Dataset as BaseDataset
-from pylexibank import progressbar as pb
-from pylexibank import Language, Lexeme
-from pylexibank import FormSpec
-from re import sub
-
 from lingpy.sequence.sound_classes import token2class
+from pylexibank import (
+Dataset as BaseDataset, FormSpec, Language, Lexeme, progressbar as pb)
+from re import sub
 
 @attr.s
 class CustomLanguage(Language):
@@ -30,7 +27,7 @@ class CustomLexeme(Lexeme):
 def get_clusters(segments):
     """
     Takes a list of phonemes and segments them into consonant and vowel
-    clusters, like so: "abcdeaofgh" -> ["a", "bcd", "eao", "fgh"]
+    clusters, like so: "abcdeaofgh" -> ["a", "b.c.d", "e.a.o", "f.g.h"]
     (c) List 2022"""
     out = [segments[0]]
     for i in range(1, len(segments)):
@@ -108,7 +105,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages()
         args.log.info("added languages")
 
-        # read in data
+        # add forms and borrowings
         data = self.raw_dir.read_csv(
             "wot.tsv", delimiter="\t",
         )

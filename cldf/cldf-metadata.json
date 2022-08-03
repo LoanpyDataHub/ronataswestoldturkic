@@ -8,12 +8,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta from 2011",
-    "dcat:accessURL": "https://github.com/martino-vic/ronatasbertawot",
+    "dcat:accessURL": "https://github.com/martino-vic/rtbwestoldturkic",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
+            "rdf:about": "https://github.com/martino-vic/rtbwestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "df6718a",
+            "dc:created": "e9a8108",
             "dc:title": "Repository"
         },
         {

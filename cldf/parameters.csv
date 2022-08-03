@@ -44,7 +44,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 51_bull,bull,1008,BULL
 52_shackles,shackles,,
 53_judge,judge,861,JUDGE
-54_tobeforgivenbocsanat,"to be forgiven, bocsánat",,
+54_tobeforgiven,to be forgiven,,
 55_toforgive,to forgive,1528,FORGIVE
 56_bucklerwithhandlehandleofdifferentarms,"buckler with handle, handle of different arms",,
 57_knotbend,"knot, bend",760,KNOT
@@ -114,7 +114,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 139_tobecomesmallerremainsmalltoswaytotottertosprain,"to become smaller, remain small, to sway, to totter, tosprain",573,SWAY
 140_stubborn,stubborn,3634,STUBBORN
 141_fieldguardheraldturkishenvoy,field-guard; herald; Turkish envoy,,
-142_roughcoarseuglywildunbridled,"rough, coarse; ugly; wild, unbridled",1548,UGLY
+142_roughcoarseuglywildunbridled,"rough, coarse; ugly; wild, unbridled",1923,ROUGH
 143_towindtoturntodistrortmisinterprettospinayarn,"to wind, to turn, to distrort, misinterpret, to spin a yarn",1588,TURN
 144_bobbinspindle,"bobbin, spindle",277,SPINDLE
 145_excellentworthless,excellent; worthless,,
@@ -210,7 +210,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 256_arm,arm,1673,ARM
 257_damageloss,"damage, loss",2947,DAMAGE (INJURY)
 258_manofgritstoutfellow,"man of grit, stout fellow",,
-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shedfor animals",,
+259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shed for animals",,
 261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,"pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ",3446,PINK
 262_stakepalestick,"stake, pale, stick",1295,STICK
 263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,"a fishing water bird with black feathers, cormorant,Phalacrocorax carbo",840,CORMORANT
@@ -316,7 +316,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 380_armytroopscrowd,"army, troops, crowd",1561,ARMY
 381_anit,a nit,267,NIT
 382_cupgoblet,"cup, goblet",476,CUP
-383_alsoshortsheavesusedtostrengthenathatchedroof,also short sheaves used to strengthen athatched roof,,
+383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,"bristles, also short sheaves used to strengthen a thatched roof",,
 384_evenflatopenwater,"even, flat, open (water)",1633,FLAT
 385_smoothsimit,"smooth, simít",1234,SMOOTH
 386_runningwaterrunningchannelunderamill,"running water, running channel under a mill",,
@@ -364,13 +364,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 434_toceasetostop,"to cease, to stop",1928,CEASE
 435_tostraintofilter,"to strain, to filter",940,STRAIN
 436_virginpure,"virgin, pure",1147,PURE
-437_sorcerermedicineman,"sorcerer, medicine man",394,SHAMAN (FOLK HEALER)
+437_sorcerermedicineman,"sorcerer, medicine man",823,SORCERER
 438_advicecouncil,advice; council,,
 439_witness,witness,1144,WITNESS
 440_tofeedtonourish,"to feed, to nourish",739,FEED
 441_tindertinderfungusfomesfomentarius,"tinder, tinder fungus, Fomes fomentarius",,
 442_bald,bald,1125,BALD
-443_depottarhaz,depot: tárház,,
+443_depot,depot,,
 444_ploughfieldarablefieldstubblefield,"plough field, arable field, stubble field",,
 445_toholdcarrytolastvisszatart,"to hold, carry; to last, visszatart",1448,HOLD
 446_tatar,Tatar,,

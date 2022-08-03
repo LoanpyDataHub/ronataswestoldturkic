@@ -1810,9 +1810,9 @@
         "bad_words_count": 294,
         "bipa_errors": [
             "\u03b3",
-            "t\u02b9",
+            "\u03b4",
             "\u0457",
-            "\u03b4"
+            "t\u02b9"
         ],
         "general_errors": 310,
         "invalid_words": [],
@@ -1987,9 +1987,9 @@
         },
         "sclass_errors": [
             "\u03b3",
-            "t\u02b9",
+            "\u03b4",
             "\u0457",
-            "\u03b4"
+            "t\u02b9"
         ],
         "segments": {
             "a": 538,

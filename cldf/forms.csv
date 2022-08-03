@@ -167,10 +167,10 @@ H-53_judge-1,,H,53_judge,bīrō,bīrō,b iː r oː,,wot,54,true,^ bīrō $,defau
 OH-53_judge-1,,OH,53_judge,birō,birō,b i r oː,,wot,54,true,^ birō $,default,,b i r oː,CVCV,b F r B,False,1306
 EAH-53_judge-1,,EAH,53_judge,biruγ,biruγ,b i r u γ,,wot,54,true,^ biruγ $,default,,b i r u γ,CVCVC,b F r B γ,False,1306
 WOT-53_judge-1,,WOT,53_judge,bïrug,bïrug,b ɯ r u ɡ,,wot,54,false,^ bïrug $,default,,b ɯ r u ɡ,CVCVC,b B r B ɡ,True,1306
-H-54_tobeforgivenbocsanat-1,,H,54_tobeforgivenbocsanat,bočānik,bočānik,b o t͡ʃ aː n i k,,wot,55,true,^ bočānik $,default,bocsánik,b o t͡ʃ aː n i k,CVCVCVC,b B t͡ʃ aː n F k,False,1372
-OH-54_tobeforgivenbocsanat-1,,OH,54_tobeforgivenbocsanat,bočan,bočan,b o t͡ʃ a n,,wot,55,true,^ bočan $,default,,b o t͡ʃ a n,CVCVC,b B t͡ʃ a n,True,1372
-EAH-54_tobeforgivenbocsanat-1,,EAH,54_tobeforgivenbocsanat,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ bolčan $,default,,b o l.t͡ʃ a n,CVCCVC,b B l t͡ʃ a n,True,1372
-WOT-54_tobeforgivenbocsanat-1,,WOT,54_tobeforgivenbocsanat,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ bolčan $,default,,b o l.t͡ʃ a n,CVCCVC,b B l t͡ʃ a n,True,1372
+H-54_tobeforgiven-1,,H,54_tobeforgiven,bočānik,bočānik,b o t͡ʃ aː n i k,,wot,55,true,^ bočānik $,default,bocsánik,b o t͡ʃ aː n i k,CVCVCVC,b B t͡ʃ aː n F k,False,1372
+OH-54_tobeforgiven-1,,OH,54_tobeforgiven,bočan,bočan,b o t͡ʃ a n,,wot,55,true,^ bočan $,default,,b o t͡ʃ a n,CVCVC,b B t͡ʃ a n,True,1372
+EAH-54_tobeforgiven-1,,EAH,54_tobeforgiven,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ bolčan $,default,,b o l.t͡ʃ a n,CVCCVC,b B l t͡ʃ a n,True,1372
+WOT-54_tobeforgiven-1,,WOT,54_tobeforgiven,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ bolčan $,default,,b o l.t͡ʃ a n,CVCCVC,b B l t͡ʃ a n,True,1372
 H-55_toforgive-1,,H,55_toforgive,bočāt,bočāt,b o t͡ʃ aː t,,wot,56,true,^ bočāt $,default,bocsát,b o t͡ʃ aː t,CVCVC,b B t͡ʃ aː t,True,1372
 OH-55_toforgive-1,,OH,55_toforgive,bulšat,bulšat,b u l ʃ a t,,wot,56,true,^ bulšat $,default,,b u l.ʃ a t,CVCCVC,b B l ʃ a t,True,1372
 EAH-55_toforgive-1,,EAH,55_toforgive,bulčat,bulčat,b u l t͡ʃ a t,,wot,56,true,^ bulčat $,default,,b u l.t͡ʃ a t,CVCCVC,b B l t͡ʃ a t,True,1372
@@ -1292,10 +1292,10 @@ WOT-381_anit-1,,WOT,381_anit,širkä,širkä,ʃ i r k ɛ,,wot,382,true,^ širkä
 H-382_cupgoblet-1,,H,382_cupgoblet,šerleg,šerleg,ʃ ɛ r l ɛ ɡ,,wot,383,true,^ šerleg $,default,serleg,ʃ ɛ r.l ɛ ɡ,CVCCVC,ʃ F r l F ɡ,True,1381
 EAH-382_cupgoblet-1,,EAH,382_cupgoblet,šerleg,šerleg,ʃ ɛ r l ɛ ɡ,,wot,383,true,^ šerleg $,default,,ʃ ɛ r.l ɛ ɡ,CVCCVC,ʃ F r l F ɡ,True,1381
 WOT-382_cupgoblet-1,,WOT,382_cupgoblet,širlig,širlig,ʃ i r l i ɡ,,wot,383,true,^ širlig $,default,,ʃ i r.l i ɡ,CVCCVC,ʃ F r l F ɡ,True,1381
-H-383_alsoshortsheavesusedtostrengthenathatchedroof-1,,H,383_alsoshortsheavesusedtostrengthenathatchedroof,šerte,šerte,ʃ ɛ r t ɛ,,wot,384,true,^ šerte $,default,serte,ʃ ɛ r.t ɛ,CVCCV,ʃ F r t F,True,1395
-OH-383_alsoshortsheavesusedtostrengthenathatchedroof-1,,OH,383_alsoshortsheavesusedtostrengthenathatchedroof,širte,širte,ʃ i r t ɛ,,wot,384,true,^ širte $,default,,ʃ i r.t ɛ,CVCCV,ʃ F r t F,True,1395
-EAH-383_alsoshortsheavesusedtostrengthenathatchedroof-1,,EAH,383_alsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ širt $,default,,ʃ i r.t,CVCC,ʃ F r t,True,1395
-WOT-383_alsoshortsheavesusedtostrengthenathatchedroof-1,,WOT,383_alsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ širt $,default,,ʃ i r.t,CVCC,ʃ F r t,True,1395
+H-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,H,383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,šerte,šerte,ʃ ɛ r t ɛ,,wot,384,true,^ šerte $,default,serte,ʃ ɛ r.t ɛ,CVCCV,ʃ F r t F,True,1395
+OH-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,OH,383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širte,širte,ʃ i r t ɛ,,wot,384,true,^ širte $,default,,ʃ i r.t ɛ,CVCCV,ʃ F r t F,True,1395
+EAH-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,EAH,383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ širt $,default,,ʃ i r.t,CVCC,ʃ F r t,True,1395
+WOT-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,WOT,383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ širt $,default,,ʃ i r.t,CVCC,ʃ F r t,True,1395
 H-384_evenflatopenwater-1,,H,384_evenflatopenwater,šīk,šīk,ʃ iː k,,wot,385,true,^ šīk $,default,sík,ʃ iː k,CVC,ʃ F k,True,1533
 EAH-384_evenflatopenwater-1,,EAH,384_evenflatopenwater,šik,šik,ʃ i k,,wot,385,true,^ šik $,default,,ʃ i k,CVC,ʃ F k,True,1533
 WOT-384_evenflatopenwater-1,,WOT,384_evenflatopenwater,šïk,šïk,ʃ ɯ k,,wot,385,false,^ šïk $,default,,ʃ ɯ k,CVC,ʃ B k,True,1533
@@ -1505,9 +1505,9 @@ WOT-441_tindertinderfungusfomesfomentarius-1,,WOT,441_tindertinderfungusfomesfom
 H-442_bald-1,,H,442_bald,tår,tår,t ɒ r,,wot,443,true,^ tår $,default,tar,t ɒ r,CVC,t B r,True,1092
 EAH-442_bald-1,,EAH,442_bald,tar,tar,t a r,,wot,443,true,^ tar $,default,,t a r,CVC,t a r,True,1092
 WOT-442_bald-1,,WOT,442_bald,tar,tar,t a r,,wot,443,true,^ tar $,default,,t a r,CVC,t a r,True,1092
-H-443_depottarhaz-1,,H,443_depottarhaz,tār,tār,t aː r,,wot,444,true,^ tār $,default,tár,t aː r,CVC,t aː r,True,1395
-EAH-443_depottarhaz-1,,EAH,443_depottarhaz,tavar,tavar,t a v a r,,wot,444,true,^ tavar $,default,,t a v a r,CVCVC,t a v a r,True,1395
-WOT-443_depottarhaz-1,,WOT,443_depottarhaz,tavar,tavar,t a v a r,,wot,444,true,^ tavar $,default,,t a v a r,CVCVC,t a v a r,True,1395
+H-443_depot-1,,H,443_depot,tār,tār,t aː r,,wot,444,true,^ tār $,default,tár,t aː r,CVC,t aː r,True,1395
+EAH-443_depot-1,,EAH,443_depot,tavar,tavar,t a v a r,,wot,444,true,^ tavar $,default,,t a v a r,CVCVC,t a v a r,True,1395
+WOT-443_depot-1,,WOT,443_depot,tavar,tavar,t a v a r,,wot,444,true,^ tavar $,default,,t a v a r,CVCVC,t a v a r,True,1395
 H-444_ploughfieldarablefieldstubblefield-1,,H,444_ploughfieldarablefieldstubblefield,tårlō,tårlō,t ɒ r l oː,,wot,445,true,^ tårlō $,default,tarló,t ɒ r.l oː,CVCCV,t B r l B,True,1212
 EAH-444_ploughfieldarablefieldstubblefield-1,,EAH,444_ploughfieldarablefieldstubblefield,tarlaγ,tarlaγ,t a r l a γ,,wot,445,true,^ tarlaγ $,default,,t a r.l a γ,CVCCVC,t a r l a γ,True,1212
 WOT-444_ploughfieldarablefieldstubblefield-1,,WOT,444_ploughfieldarablefieldstubblefield,tarïlaγ,tarïlaγ,t a r ɯ l a γ,,wot,445,true,^ tarïlaγ $,default,,t a r ɯ l a γ,CVCVCVC,t a r B l a γ,True,1212

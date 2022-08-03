@@ -53,7 +53,7 @@
 "bika"	"bikå"			"bika"	"bïka"		"bull"	1138	TRUE
 "bilincs"	"bilinč"	"bilinček"		"bileček"	"biläčäk"		"shackles"	1558	TRUE
 "bíró"	"bīrō"	"birō"		"biruγ"	"bïrug"		"judge"	1306	FALSE
-"bocsánik"	"bočānik"	"bočan"		"bolčan"	"bolčan"		"to be forgiven, bocsánat"	1372	TRUE
+"bocsánik"	"bočānik"	"bočan"		"bolčan"	"bolčan"		"to be forgiven"	1372	TRUE
 "bocsát"	"bočāt"	"bulšat"		"bulčat"	"bolčat"		"to forgive"	1372	TRUE
 "bóda"	"bōdå"	"boldå"		"baldaw"		"baldaw"	"buckler with handle, handle of different arms"	1395	TRUE
 "bog"	"bog"			"bog"	"bog"		"knot, bend"	1138	TRUE
@@ -258,7 +258,7 @@
 "kar"	"kår"			"kar"	"kar"		"arm"	1254	TRUE
 "kár"	"kār"				"kăvar"		"damage, loss"	1372	TRUE
 "karakán"	"kåråkān"			"karakan"	"karakan"		"man of grit, stout fellow"	1800	TRUE
-"karám"	"kårām"			"korām"	"koram"		"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shedfor animals"	1620	TRUE
+"karám"	"kårām"			"korām"	"koram"		"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shed for animals"	1620	TRUE
 "karambél"	"kåråmbēl"			"karampil"	"karampil"		"pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ"	1972	FALSE
 "karambél"	"kåråmbēl"			"karampil"	"karamfil"		"pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ"	1972	FALSE
 "karó"	"kårō"	"kårou̯"		"karoγ"	"karoγ"		"stake, pale, stick"	1395	TRUE
@@ -382,7 +382,7 @@
 "sereg"	"šereg"	"šerig"		"čärig"	"čärig"		"army, troops, crowd"	1057	TRUE
 "serke"	"šerke"			"širke"	"širkä"		"a nit"	1246	TRUE
 "serleg"	"šerleg"			"šerleg"	"širlig"		"cup, goblet"	1381	TRUE
-"serte"	"šerte"	"širte"		"širt"	"širt"		"also short sheaves used to strengthen athatched roof"	1395	TRUE
+"serte"	"šerte"	"širte"		"širt"	"širt"		"bristles, also short sheaves used to strengthen a thatched roof"	1395	TRUE
 "sík"	"šīk"			"šik"	"šïk"		"even, flat, open (water)"	1533	FALSE
 "sima"	"šimå"			"šima"	"šïma"		"smooth, simít"	1138	TRUE
 "sió"	"šiō"			"šiu"	"šiu"		"running water, running channel under a mill"	1614	FALSE
@@ -442,7 +442,7 @@
 "táplál"	"tāplāl"	"tāplā"		"taplaγ"	"taplaγ"		"to feed, to nourish"	1456	TRUE
 "tapló"	"tåplō"	"tåplou̯"	"toplau̯"	"topluγ"	"topluγ"		"tinder, tinder fungus, Fomes fomentarius"	1086	TRUE
 "tar"	"tår"			"tar"	"tar"		"bald"	1092	TRUE
-"tár"	"tār"			"tavar"	"tavar"		"depot: tárház"	1395	TRUE
+"tár"	"tār"			"tavar"	"tavar"		"depot"	1395	TRUE
 "tarló"	"tårlō"			"tarlaγ"	"tarïlaγ"		"plough field, arable field, stubble field"	1212	TRUE
 "tart"	"tårt"			"tart"	"tart"		"to hold, carry; to last, visszatart"	1138	TRUE
 "tatár"	"tåtār"			"tatar"	"tatar"		"Tatar"	1181	TRUE

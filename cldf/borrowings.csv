@@ -47,7 +47,7 @@ ID,Target_Form_ID,Source_Form_ID,Comment,Source
 46-51_bull,EAH-51_bull-1,WOT-51_bull-1,,wot
 47-52_shackles,EAH-52_shackles-1,WOT-52_shackles-1,,wot
 48-53_judge,EAH-53_judge-1,WOT-53_judge-1,,wot
-49-54_tobeforgivenbocsanat,EAH-54_tobeforgivenbocsanat-1,WOT-54_tobeforgivenbocsanat-1,,wot
+49-54_tobeforgiven,EAH-54_tobeforgiven-1,WOT-54_tobeforgiven-1,,wot
 50-55_toforgive,EAH-55_toforgive-1,WOT-55_toforgive-1,,wot
 51-57_knotbend,EAH-57_knotbend-1,WOT-57_knotbend-1,,wot
 52-58_stackofhay,EAH-58_stackofhay-1,WOT-58_stackofhay-1,,wot
@@ -338,7 +338,7 @@ ID,Target_Form_ID,Source_Form_ID,Comment,Source
 337-380_armytroopscrowd,EAH-380_armytroopscrowd-1,WOT-380_armytroopscrowd-1,,wot
 338-381_anit,EAH-381_anit-1,WOT-381_anit-1,,wot
 339-382_cupgoblet,EAH-382_cupgoblet-1,WOT-382_cupgoblet-1,,wot
-340-383_alsoshortsheavesusedtostrengthenathatchedroof,EAH-383_alsoshortsheavesusedtostrengthenathatchedroof-1,WOT-383_alsoshortsheavesusedtostrengthenathatchedroof-1,,wot
+340-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof,EAH-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,WOT-383_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,wot
 341-384_evenflatopenwater,EAH-384_evenflatopenwater-1,WOT-384_evenflatopenwater-1,,wot
 342-385_smoothsimit,EAH-385_smoothsimit-1,WOT-385_smoothsimit-1,,wot
 343-386_runningwaterrunningchannelunderamill,EAH-386_runningwaterrunningchannelunderamill-1,WOT-386_runningwaterrunningchannelunderamill-1,,wot
@@ -394,7 +394,7 @@ ID,Target_Form_ID,Source_Form_ID,Comment,Source
 393-440_tofeedtonourish,EAH-440_tofeedtonourish-1,WOT-440_tofeedtonourish-1,,wot
 394-441_tindertinderfungusfomesfomentarius,EAH-441_tindertinderfungusfomesfomentarius-1,WOT-441_tindertinderfungusfomesfomentarius-1,,wot
 395-442_bald,EAH-442_bald-1,WOT-442_bald-1,,wot
-396-443_depottarhaz,EAH-443_depottarhaz-1,WOT-443_depottarhaz-1,,wot
+396-443_depot,EAH-443_depot-1,WOT-443_depot-1,,wot
 397-444_ploughfieldarablefieldstubblefield,EAH-444_ploughfieldarablefieldstubblefield-1,WOT-444_ploughfieldarablefieldstubblefield-1,,wot
 398-445_toholdcarrytolastvisszatart,EAH-445_toholdcarrytolastvisszatart-1,WOT-445_toholdcarrytolastvisszatart-1,,wot
 399-446_tatar,EAH-446_tatar-1,WOT-446_tatar-1,,wot

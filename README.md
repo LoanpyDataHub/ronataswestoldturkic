@@ -21,7 +21,7 @@ The data used here was extracted from a privately owned PDF-file that can not be
 ## Statistics
 
 
-[![CLDF validation](https://github.com/martino-vic/ronatasbertawot/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/ronatasbertawot/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/martino-vic/rtbwestoldturkic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/rtbwestoldturkic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
