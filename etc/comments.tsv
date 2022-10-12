@@ -6,3 +6,5 @@ hornbeam, Carpinus betulus	according to the corrigenda-section on p. 1494 I chan
 word, biblical word, verb	On p. 439 the etymology reads "ige < *üge ← *ügä". I assumed this must be in fact "ige < *üge ← WOT *ügä"
 Ismaelite, name of an ethnic group in Medieval Hungary	On p. 177 the etymology reads "bösörmēń < *besermen ← *besermen" I assumed this must be in fact "bösörmēń < *besermen ← WOT *besermen"
 charm	The entry "bűbáj" on p. 190 is omitted from the dataset because compounding ("bű+báj") happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of "bű" one is supposed to look up "bűvös" or "bölcs". The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of "bű".
+reason, mind	The full etymology would be "ēs < es ← WOT *es(V)" but I pretended the "(V)" wasn't there because this simplifies things.
+sexual organ of large male animals, of a bull; a whip made from it	The full etymology is "čök < *čük ← WOT *čükV" and I left the "V" on purpose in the WOT word because loanpy was designed to treat "V" as "any vowel" and this data set serves as an input for loanpy.

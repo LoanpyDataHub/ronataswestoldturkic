@@ -453,9 +453,9 @@ H-136_stallion-2,,H,136_stallion,čȫdör,čȫdör,t͡ʃ øː d ø r,,wot,136,tr
 EAH-136_stallion-2,,EAH,136_stallion,čeü̯dür,čeü̯dür,t͡ʃ ɛ w d y r,,wot,136,true,^ čeü̯dür $,default,,t͡ʃ ɛ w.d y r,CVCCVC,t͡ʃ F w d F r,True,1247
 H-136_stallion-3,,H,136_stallion,čȫdör,čȫdör,t͡ʃ øː d ø r,,wot,137,true,^ čȫdör $,default,csődör,t͡ʃ øː d ø r,CVCVC,t͡ʃ F d F r,True,1247
 EAH-136_stallion-3,,EAH,136_stallion,čeü̯dür,čeü̯dür,t͡ʃ ɛ w d y r,,wot,137,true,^ čeü̯dür $,default,,t͡ʃ ɛ w.d y r,CVCCVC,t͡ʃ F w d F r,True,1247
-H-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čök,čök,t͡ʃ ø k,,wot,138,true,^ čök $,default,csök,t͡ʃ ø k,CVC,t͡ʃ F k,True,1198
-EAH-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,t͡ʃ y k,,wot,138,true,^ čük $,default,,t͡ʃ y k,CVC,t͡ʃ F k,True,1198
-WOT-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,WOT,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čükV,čükV,t͡ʃ y k v,,wot,138,false,^ čükV $,default,,t͡ʃ y k.v,CVCC,t͡ʃ F k v,True,1198
+H-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čök,čök,t͡ʃ ø k,"The full etymology is ""čök < *čük ← WOT *čükV"" and I left the ""V"" on purpose in the WOT word because loanpy was designed to treat ""V"" as ""any vowel"" and this data set serves as an input for loanpy.",wot,138,true,^ čök $,default,csök,t͡ʃ ø k,CVC,t͡ʃ F k,True,1198
+EAH-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,t͡ʃ y k,"The full etymology is ""čök < *čük ← WOT *čükV"" and I left the ""V"" on purpose in the WOT word because loanpy was designed to treat ""V"" as ""any vowel"" and this data set serves as an input for loanpy.",wot,138,true,^ čük $,default,,t͡ʃ y k,CVC,t͡ʃ F k,True,1198
+WOT-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,WOT,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čükV,čükV,t͡ʃ y k v,"The full etymology is ""čök < *čük ← WOT *čükV"" and I left the ""V"" on purpose in the WOT word because loanpy was designed to treat ""V"" as ""any vowel"" and this data set serves as an input for loanpy.",wot,138,false,^ čükV $,default,,t͡ʃ y k.v,CVCC,t͡ʃ F k v,True,1198
 H-138_feastchristeningfeastatbaptism-1,,H,138_feastchristeningfeastatbaptism,čök,čök,t͡ʃ ø k,,wot,139,true,^ čök $,default,csök,t͡ʃ ø k,CVC,t͡ʃ F k,True,1841
 EAH-138_feastchristeningfeastatbaptism-1,,EAH,138_feastchristeningfeastatbaptism,čük,čük,t͡ʃ y k,,wot,139,true,^ čük $,default,,t͡ʃ y k,CVC,t͡ʃ F k,True,1841
 WOT-138_feastchristeningfeastatbaptism-1,,WOT,138_feastchristeningfeastatbaptism,čök,čök,t͡ʃ ø k,,wot,139,false,^ čök $,default,,t͡ʃ ø k,CVC,t͡ʃ F k,True,1841
@@ -570,9 +570,9 @@ H-171_oath-2,,H,171_oath,eškü,eškü,ɛ ʃ k y,,wot,172,true,^ eškü $,defaul
 OH-171_oath-2,,OH,171_oath,iškü,iškü,i ʃ k y,,wot,172,true,^ iškü $,default,,i ʃ.k y,VCCV,F ʃ k F,True,1372
 EAH-171_oath-2,,EAH,171_oath,ičkü,ičkü,i t͡ʃ k y,,wot,172,true,^ ičkü $,default,,i t͡ʃ.k y,VCCV,F t͡ʃ k F,True,1372
 WOT-171_oath-2,,WOT,171_oath,ičkü,ičkü,i t͡ʃ k y,,wot,172,false,^ ičkü $,default,,i t͡ʃ.k y,VCCV,F t͡ʃ k F,True,1372
-H-172_reasonmind-1,,H,172_reasonmind,ēs,ēs,eː s,,wot,173,true,^ ēs $,default,ész,eː s,VC,F s,True,1372
-EAH-172_reasonmind-1,,EAH,172_reasonmind,es,es,ɛ s,,wot,173,true,^ es $,default,,ɛ s,VC,F s,True,1372
-WOT-172_reasonmind-1,,WOT,172_reasonmind,es,es,ɛ s,,wot,173,false,^ es $,default,,ɛ s,VC,F s,True,1372
+H-172_reasonmind-1,,H,172_reasonmind,ēs,ēs,eː s,"The full etymology would be ""ēs < es ← WOT *es(V)"" but I pretended the ""(V)"" wasn't there because this simplifies things.",wot,173,true,^ ēs $,default,ész,eː s,VC,F s,True,1372
+EAH-172_reasonmind-1,,EAH,172_reasonmind,es,es,ɛ s,"The full etymology would be ""ēs < es ← WOT *es(V)"" but I pretended the ""(V)"" wasn't there because this simplifies things.",wot,173,true,^ es $,default,,ɛ s,VC,F s,True,1372
+WOT-172_reasonmind-1,,WOT,172_reasonmind,es,es,ɛ s,"The full etymology would be ""ēs < es ← WOT *es(V)"" but I pretended the ""(V)"" wasn't there because this simplifies things.",wot,173,false,^ es $,default,,ɛ s,VC,F s,True,1372
 H-174_rivernameofariver-1,,H,174_rivernameofariver,etel,etel,ɛ t ɛ l,,wot,174,true,^ etel $,default,etel,ɛ t ɛ l,VCVC,F t F l,True,950
 EAH-174_rivernameofariver-1,,EAH,174_rivernameofariver,etil,etil,ɛ t i l,,wot,174,true,^ etil $,default,,ɛ t i l,VCVC,F t F l,True,950
 WOT-174_rivernameofariver-1,,WOT,174_rivernameofariver,ätil,ätil,ɛ t i l,,wot,174,true,^ ätil $,default,,ɛ t i l,VCVC,F t F l,True,950
