@@ -99,11 +99,21 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept["Concepticon_ID"],
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     )
+
         args.log.info("added concepts")
         #print(concepts)
+
+        #add comments
+        comments = self.etc_dir.read_csv(
+            "comments.tsv", delimiter="\t",
+        ) #[['H_en', 'Comment'], ['a', 'b'], ['c', 'd']]
+        comments = {line[0]: line[1] for line in comments}
+        args.log.info("added comments")
+
         # add language
         languages = args.writer.add_languages()
         args.log.info("added languages")
+
 
         # add forms and borrowings
         data = self.raw_dir.read_csv(
@@ -132,6 +142,7 @@ class Dataset(BaseDataset):
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
                         Value=cog,
+                        Comment=comments.get(concept, ""),
                         Source="wot",
                         Loan=get_loan(cognates["WOT_loan"], language),
                         Cognacy=cogid,

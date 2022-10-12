@@ -1689,11 +1689,11 @@ OH-492_torefreshoneselftoresttobecomecured-1,,OH,492_torefreshoneselftoresttobec
 LAH-492_torefreshoneselftoresttobecomecured-1,,LAH,492_torefreshoneselftoresttobecomecured,edül,edül,ɛ d y l,,wot,493,true,^ edül $,default,,ɛ d y l,VCVC,F d F l,True,1578
 EAH-492_torefreshoneselftoresttobecomecured-1,,EAH,492_torefreshoneselftoresttobecomecured,edü,edü,ɛ d y,,wot,493,true,^ edü $,default,,ɛ d y,VCV,F d F,True,1578
 WOT-492_torefreshoneselftoresttobecomecured-1,,WOT,492_torefreshoneselftoresttobecomecured,edü,edü,ɛ d y,,wot,493,true,^ edü $,default,,ɛ d y,VCV,F d F,True,1578
-H-493_feastunnepnap-1,,H,493_feastunnepnap,ünnep,ünnep,y nː ɛ p,,wot,494,true,^ ünnep $,default,ünnep,y nː ɛ p,VCVC,F nː F p,True,1372
-OH-493_feastunnepnap-1,,OH,493_feastunnepnap,üdnep,üdnep,y d n ɛ p,,wot,494,true,^ üdnep $,default,,y d.n ɛ p,VCCVC,F d n F p,True,1372
-LAH-493_feastunnepnap-1,,LAH,493_feastunnepnap,idnep,idnep,i d n ɛ p,,wot,494,true,^ idnep $,default,,i d.n ɛ p,VCCVC,F d n F p,True,1372
-EAH-493_feastunnepnap-1,,EAH,493_feastunnepnap,idnap,idnap,i d n a p,,wot,494,true,^ idnap $,default,,i d.n a p,VCCVC,F d n a p,True,1372
-WOT-493_feastunnepnap-1,,WOT,493_feastunnepnap,edü,edü,ɛ d y,,wot,494,false,^ edü $,default,,ɛ d y,VCV,F d F,True,1372
+H-493_feast-1,,H,493_feast,ünnep,ünnep,y nː ɛ p,,wot,494,true,^ ünnep $,default,ünnep,y nː ɛ p,VCVC,F nː F p,True,1372
+OH-493_feast-1,,OH,493_feast,üdnep,üdnep,y d n ɛ p,,wot,494,true,^ üdnep $,default,,y d.n ɛ p,VCCVC,F d n F p,True,1372
+LAH-493_feast-1,,LAH,493_feast,idnep,idnep,i d n ɛ p,,wot,494,true,^ idnep $,default,,i d.n ɛ p,VCCVC,F d n F p,True,1372
+EAH-493_feast-1,,EAH,493_feast,idnap,idnap,i d n a p,,wot,494,true,^ idnap $,default,,i d.n a p,VCCVC,F d n a p,True,1372
+WOT-493_feast-1,,WOT,493_feast,edü,edü,ɛ d y,,wot,494,false,^ edü $,default,,ɛ d y,VCV,F d F,True,1372
 H-494_heiferroedoe-1,,H,494_heiferroedoe,ünȫ,ünȫ,y n øː,,wot,495,true,^ ünȫ $,default,ünő,y n øː,VCV,F n F,True,1193
 OH-494_heiferroedoe-1,,OH,494_heiferroedoe,inȫ,inȫ,i n øː,,wot,495,true,^ inȫ $,default,,i n øː,VCV,F n F,True,1193
 LAH-494_heiferroedoe-1,,LAH,494_heiferroedoe,ineü,ineü,i n ɛ y,,wot,495,true,^ ineü $,default,,i n ɛ.y,VCVV,F n F F,True,1193

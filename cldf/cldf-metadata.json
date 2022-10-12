@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/rtbwestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "e9a8108",
+            "dc:created": "88ba66a",
             "dc:title": "Repository"
         },
         {
@@ -23,7 +23,7 @@
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "rdf:about": "https://github.com/martino-vic/concepticon-data",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
@@ -51,9 +51,6 @@
     ],
     "rdf:ID": "ronatasbertawot",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
