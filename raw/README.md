@@ -12,4 +12,4 @@ Omitted following entries:
 * TÁBOR: They etymology ("tābor < *tabur ← MT tabur ‘army, military camp’
 < *tabgur < *tabkur ← Mo dabkur") doesn't reference West Old Turkic.
 
-* TENG: See "tengődik". The headword "teng" itself was omitted, because it is derived from "tengődik", which was eventually loaned from WOT *täŋ-. ("tengȫdik- < teng- {with suffs -Ōd-ik} < *teng- ← WOT *täŋ-")
+* TENG: I added "tengődik" instead, since the full etymology is "tengȫdik- < teng- {with suffs -Ōd-ik} < *teng- ← WOT *täŋ-"
