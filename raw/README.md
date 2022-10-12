@@ -14,6 +14,8 @@ Omitted entries:
 
 * TENG: I added "tengődik" instead, since the full etymology is "tengȫdik- < teng- {with suffs -Ōd-ik} < *teng- ← WOT *täŋ-"
 
+* BŰBÁJ: This is a compound, where both components seem to be of West Old Turkic origin. There is an entry for "báj", but an entry for "bű" seems to be missing from the original source.
+
 Quotes:
 
 * p.1005: "Berta suggested a T starting point for the word. However, its first documented appearance is fr the mid-17th c. – certainly a weak point in a T etymology." -- This underpins the notion that the column "year" can be used to filter out improbable etymologies.
