@@ -770,9 +770,9 @@ OH-225_timeweather-1,,OH,225_timeweather,üdȫ,üdȫ,y d øː,,wot,226,true,^ ü
 LAH-225_timeweather-1,,LAH,225_timeweather,üdeü̯,üdeü̯,y d ɛ w,,wot,226,true,^ üdeü̯ $,default,,y d ɛ w,VCVC,F d F w,True,1372
 EAH-225_timeweather-1,,EAH,225_timeweather,üdeγ,üdeγ,y d ɛ γ,,wot,226,true,^ üdeγ $,default,,y d ɛ γ,VCVC,F d F γ,True,1372
 WOT-225_timeweather-1,,WOT,225_timeweather,üdäγ,üdäγ,y d ɛ γ,,wot,226,false,^ üdäγ $,default,,y d ɛ γ,VCVC,F d F γ,True,1372
-H-226_wordbiblicalwordverb-1,,H,226_wordbiblicalwordverb,ige,ige,i ɡ ɛ,,wot,227,true,^ ige $,default,ige,i ɡ ɛ,VCV,F ɡ F,True,1310
-EAH-226_wordbiblicalwordverb-1,,EAH,226_wordbiblicalwordverb,üge,üge,y ɡ ɛ,,wot,227,true,^ üge $,default,,y ɡ ɛ,VCV,F ɡ F,True,1310
-WOT-226_wordbiblicalwordverb-1,,WOT,226_wordbiblicalwordverb,ügä,ügä,y ɡ ɛ,,wot,227,true,^ ügä $,default,,y ɡ ɛ,VCV,F ɡ F,True,1310
+H-226_wordbiblicalwordverb-1,,H,226_wordbiblicalwordverb,ige,ige,i ɡ ɛ,"On p. 439 the etymology reads ""ige < *üge ← *ügä"". I assumed this must be in fact ""ige < *üge ← WOT *ügä""",wot,227,true,^ ige $,default,ige,i ɡ ɛ,VCV,F ɡ F,True,1310
+EAH-226_wordbiblicalwordverb-1,,EAH,226_wordbiblicalwordverb,üge,üge,y ɡ ɛ,"On p. 439 the etymology reads ""ige < *üge ← *ügä"". I assumed this must be in fact ""ige < *üge ← WOT *ügä""",wot,227,true,^ üge $,default,,y ɡ ɛ,VCV,F ɡ F,True,1310
+WOT-226_wordbiblicalwordverb-1,,WOT,226_wordbiblicalwordverb,ügä,ügä,y ɡ ɛ,"On p. 439 the etymology reads ""ige < *üge ← *ügä"". I assumed this must be in fact ""ige < *üge ← WOT *ügä""",wot,227,true,^ ügä $,default,,y ɡ ɛ,VCV,F ɡ F,True,1310
 H-227_yesaffirmativeparticlevery-1,,H,227_yesaffirmativeparticlevery,igen,igen,i ɡ ɛ n,,wot,228,true,^ igen $,default,igen,i ɡ ɛ n,VCVC,F ɡ F n,True,1266
 EAH-227_yesaffirmativeparticlevery-1,,EAH,227_yesaffirmativeparticlevery,egen,egen,ɛ ɡ ɛ n,,wot,228,true,^ egen $,default,,ɛ ɡ ɛ n,VCVC,F ɡ F n,True,1266
 WOT-227_yesaffirmativeparticlevery-1,,WOT,227_yesaffirmativeparticlevery,egän,egän,ɛ ɡ ɛ n,,wot,228,false,^ egän $,default,,ɛ ɡ ɛ n,VCVC,F ɡ F n,True,1266
