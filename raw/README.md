@@ -9,7 +9,7 @@ Omitted following entries:
 
 * GYARMAT: The etymology ("dʹårmåt < H GN < H tribal name Gyarmat") doesn't reference West Old Turkic.
 
-* TÁBOR: They etymology ("tābor < *tabur ← MT tabur ‘army, military camp’
+* TÁBOR: The etymology ("tābor < *tabur ← MT tabur ‘army, military camp’
 < *tabgur < *tabkur ← Mo dabkur") doesn't reference West Old Turkic.
 
 * TENG: I added "tengődik" instead, since the full etymology is "tengȫdik- < teng- {with suffs -Ōd-ik} < *teng- ← WOT *täŋ-"
