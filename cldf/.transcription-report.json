@@ -1811,8 +1811,8 @@
         "bipa_errors": [
             "\u03b3",
             "t\u02b9",
-            "\u03b4",
-            "\u0457"
+            "\u0457",
+            "\u03b4"
         ],
         "general_errors": 310,
         "invalid_words": [],
@@ -1988,8 +1988,8 @@
         "sclass_errors": [
             "\u03b3",
             "t\u02b9",
-            "\u03b4",
-            "\u0457"
+            "\u0457",
+            "\u03b4"
         ],
         "segments": {
             "a": 538,
