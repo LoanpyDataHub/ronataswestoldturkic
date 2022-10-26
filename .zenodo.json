@@ -5,8 +5,28 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Andr\u00e1s R\u00f3na-Tas"
+        },
+        {
+            "name": "\u2020 Berta \u00c1rp\u00e1d"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "L\u00e1szl\u00f3 K\u00e1roly",
+            "type": "Other"
+        },
+        {
+            "name": "Viktor Martinovi\u0107",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

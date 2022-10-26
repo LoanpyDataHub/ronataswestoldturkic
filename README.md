@@ -40,6 +40,19 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Segments:** 59 (4 BIPA errors, 4 CTLS sound class errors, 55 CLTS modified)
 - **Inventory size (avg):** 41.80
 
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+András Róna-Tas | | wrote the entries beginning with the letters A, B, Gy, H, I, J, K | Author |
+† Berta Árpád | | draft of the remaining letters after K | Author |
+László Károly | | in charge of the final editing work | Assistant |
+Viktor Martinović | @martino-vik | CLDF conversion | Other
+Johann-Mattis List | @LinguList| CLDF conversion | Other
+
+
+
+
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
