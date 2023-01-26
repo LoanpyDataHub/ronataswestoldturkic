@@ -887,8 +887,8 @@
         },
         "WOT": {
             "bipa_errors": [
-                "\u03b4",
-                "\u0457"
+                "\u0457",
+                "\u03b4"
             ],
             "general_errors": 10,
             "replacements": {
@@ -1065,8 +1065,8 @@
                 ]
             },
             "sclass_errors": [
-                "\u03b4",
-                "\u0457"
+                "\u0457",
+                "\u03b4"
             ],
             "segments": {
                 "a": 234,
@@ -1191,8 +1191,8 @@
         ],
         "bad_words_count": 10,
         "bipa_errors": [
-            "\u03b4",
-            "\u0457"
+            "\u0457",
+            "\u03b4"
         ],
         "general_errors": 10,
         "invalid_words": [],
@@ -1372,8 +1372,8 @@
             ]
         },
         "sclass_errors": [
-            "\u03b4",
-            "\u0457"
+            "\u0457",
+            "\u03b4"
         ],
         "segments": {
             "a": 538,
