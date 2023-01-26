@@ -127,6 +127,9 @@
                 "z\u02d0": [
                     "z\u02d0"
                 ],
+                "\u00f0": [
+                    "\u00f0"
+                ],
                 "\u00f8": [
                     "\u00f8"
                 ],
@@ -349,6 +352,9 @@
                 ],
                 "z\u02d0": [
                     "z\u02d0"
+                ],
+                "\u00f0": [
+                    "\u00f0"
                 ],
                 "\u00f8": [
                     "\u00f8"
@@ -573,6 +579,9 @@
                 "z\u02d0": [
                     "z\u02d0"
                 ],
+                "\u00f0": [
+                    "\u00f0"
+                ],
                 "\u00f8": [
                     "\u00f8"
                 ],
@@ -790,6 +799,9 @@
                 "z\u02d0": [
                     "z\u02d0"
                 ],
+                "\u00f0": [
+                    "\u00f0"
+                ],
                 "\u00f8": [
                     "\u00f8"
                 ],
@@ -886,11 +898,8 @@
             }
         },
         "WOT": {
-            "bipa_errors": [
-                "\u0457",
-                "\u03b4"
-            ],
-            "general_errors": 10,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "a": [
                     "a"
@@ -1015,6 +1024,9 @@
                 "z\u02d0": [
                     "z\u02d0"
                 ],
+                "\u00f0": [
+                    "\u00f0"
+                ],
                 "\u00f8": [
                     "\u00f8"
                 ],
@@ -1064,10 +1076,7 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "\u0457",
-                "\u03b4"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "a": 234,
                 "a\u02d0": 5,
@@ -1098,6 +1107,7 @@
                 "y": 73,
                 "y\u02d0": 2,
                 "z": 7,
+                "\u00f0": 3,
                 "\u00f8": 36,
                 "\u00f8\u02d0": 2,
                 "\u014b": 11,
@@ -1107,97 +1117,21 @@
                 "\u025b\u02d0": 1,
                 "\u0261": 50,
                 "\u0263": 132,
-                "\u026f": 71,
+                "\u026f": 78,
                 "\u0272": 2,
                 "\u0283": 24,
-                "\u03b4": 3,
-                "\u03c7": 4,
-                "\u0457": 7
+                "\u03c7": 4
             }
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "WOT-202_weed-1",
-                "WOT",
-                "202_weed",
-                "ka\u03b3\u03b4u",
-                "k a \u0263 <s> \u03b4 </s> u"
-            ],
-            [
-                "WOT-220_boatship-1",
-                "WOT",
-                "220_boatship",
-                "\u03c7ay\u0457\u03b3",
-                "\u03c7 a j <s> \u0457 </s> \u0263"
-            ],
-            [
-                "WOT-222_hawk-1",
-                "WOT",
-                "222_hawk",
-                "\u03c7\u0457r\u03b3uy",
-                "\u03c7 <s> \u0457 </s> r \u0263 u j"
-            ],
-            [
-                "WOT-295_timothygrassphleumphleumsp-1",
-                "WOT",
-                "295_timothygrassphleumphleumsp",
-                "kam\u0457\u010d\u00efn",
-                "k a m <s> \u0457 </s> t\u0361\u0283 \u026f n"
-            ],
-            [
-                "WOT-484_bustardotis-1",
-                "WOT",
-                "484_bustardotis",
-                "tog\u03b4ak",
-                "t o \u0261 <s> \u03b4 </s> a k"
-            ],
-            [
-                "WOT-78_stickcane-1",
-                "WOT",
-                "78_stickcane",
-                "but\u0457\u03b3",
-                "b u t <s> \u0457 </s> \u0263"
-            ],
-            [
-                "WOT-78_stickcane-2",
-                "WOT",
-                "78_stickcane",
-                "but\u0457\u03b3",
-                "b u t <s> \u0457 </s> \u0263"
-            ],
-            [
-                "WOT-78_stickcane-3",
-                "WOT",
-                "78_stickcane",
-                "but\u0457\u03b3",
-                "b u t <s> \u0457 </s> \u0263"
-            ],
-            [
-                "WOT-78_stickcane-4",
-                "WOT",
-                "78_stickcane",
-                "but\u0457\u03b3",
-                "b u t <s> \u0457 </s> \u0263"
-            ],
-            [
-                "WOT-93_wheattriticum-1",
-                "WOT",
-                "93_wheattriticum",
-                "bu\u03b3\u03b4ay",
-                "b u \u0263 <s> \u03b4 </s> a j"
-            ]
-        ],
-        "bad_words_count": 10,
-        "bipa_errors": [
-            "\u0457",
-            "\u03b4"
-        ],
-        "general_errors": 10,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 41.8,
+        "inventory_size": 41.599999999999994,
         "replacements": {
             "a": [
                 "a"
@@ -1322,6 +1256,9 @@
             "z\u02d0": [
                 "z\u02d0"
             ],
+            "\u00f0": [
+                "\u00f0"
+            ],
             "\u00f8": [
                 "\u00f8"
             ],
@@ -1371,10 +1308,7 @@
                 "\u03c7"
             ]
         },
-        "sclass_errors": [
-            "\u0457",
-            "\u03b4"
-        ],
+        "sclass_errors": [],
         "segments": {
             "a": 538,
             "a\u02d0": 128,
@@ -1417,6 +1351,7 @@
             "y\u02d0": 58,
             "z": 52,
             "z\u02d0": 1,
+            "\u00f0": 3,
             "\u00f8": 213,
             "\u00f8\u02d0": 58,
             "\u014b": 12,
@@ -1427,14 +1362,12 @@
             "\u025f": 70,
             "\u0261": 166,
             "\u0263": 297,
-            "\u026f": 77,
+            "\u026f": 84,
             "\u0272": 60,
             "\u0283": 151,
             "\u0292": 1,
             "\u03b2": 1,
-            "\u03b4": 3,
-            "\u03c7": 7,
-            "\u0457": 7
+            "\u03c7": 7
         }
     }
 }
