@@ -103,3 +103,6 @@ ENV/
 # shell scripts
 *.sh
 
+# lock files from libre office
+.~lock.*
+
