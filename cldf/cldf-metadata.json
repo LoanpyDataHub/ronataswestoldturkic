@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-8-gaf90fca",
+            "dc:created": "1.0-9-g6ade76f",
             "dc:title": "Repository"
         },
         {
@@ -131,10 +131,6 @@
                     {
                         "datatype": "string",
                         "name": "ProsodicStructure"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "FB_Segments"
                     },
                     {
                         "datatype": "string",

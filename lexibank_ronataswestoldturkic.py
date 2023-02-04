@@ -12,7 +12,6 @@ from re import sub
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
-    FB_Segments = attr.ib(default=None)
     FB_Vowel_Harmony = attr.ib(default=None)
     Year = attr.ib(default=None)
 
@@ -34,27 +33,9 @@ def get_clusters(segments):
             out += [segments[i]]
     return " ".join(out)
 
-def get_front_back_vowels(segments):
-    """
-    logic is similar to get_clusters.
-    Turns front vowels into "F" and back vowels into "B"
-    """
-    out = []
-    for i in range(len(segments)):
-# https://en.wikipedia.org/wiki/Automated_Similarity_Judgment_Program#ASJPcode
-        asjp_class = token2class(segments[i], "asjp")
-        #exchange front vowels with "F" and back ones with "B".
-        if asjp_class in "ieE":  # front vowels
-            out.append("F")
-        elif asjp_class in "uo":  # back vowels
-            out.append("B")
-        else:
-            out.append(segments[i])
-    return " ".join(out)
-
 def has_harmony(segments):
     """if "F" AND "B" are in segments, the word has NO vowel harmony"""
-    return not all(i in get_front_back_vowels(segments) for i in "FB")
+    return not all(i in [] for i in "FB")
 
 def get_loan(loan, language):
     return loan == "TRUE" if language == "WOT" else True
@@ -136,11 +117,9 @@ class Dataset(BaseDataset):
                         Cognacy=cogid,
                         Year=cognates["Year"]
                         ):
-                    front_back = get_front_back_vowels(lex["Segments"])
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-                    lex["FB_Segments"] = front_back
-                    lex["FB_Vowel_Harmony"] = not all(i in front_back for i in "FB")
+                    lex["FB_Vowel_Harmony"] = not all(i in [] for i in "FB")
                     if language == "EAH":
                         eah = lex["ID"]
 
