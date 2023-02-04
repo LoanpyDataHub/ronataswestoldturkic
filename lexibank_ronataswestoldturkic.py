@@ -9,13 +9,7 @@ Dataset as BaseDataset, FormSpec, Language, Lexeme, progressbar as pb)
 from re import sub
 
 @attr.s
-class CustomLanguage(Language):
-    H_orth = attr.ib(default=None)
-
-
-@attr.s
 class CustomLexeme(Lexeme):
-    Orthography = attr.ib(default=None)
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
     FB_Segments = attr.ib(default=None)
@@ -62,16 +56,12 @@ def has_harmony(segments):
     """if "F" AND "B" are in segments, the word has NO vowel harmony"""
     return not all(i in get_front_back_vowels(segments) for i in "FB")
 
-def get_orth(orth, language):
-    return orth if language == "H" else ""
-
 def get_loan(loan, language):
     return loan == "TRUE" if language == "WOT" else True
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "ronataswestoldturkic"
-    language_class = CustomLanguage
     lexeme_class = CustomLexeme
     form_spec = FormSpec(separators=",", first_form_only=True,
                          replacements= [(" ", "")])
@@ -144,7 +134,6 @@ class Dataset(BaseDataset):
                         Source="wot",
                         Loan=get_loan(cognates["WOT_loan"], language),
                         Cognacy=cogid,
-                        Orthography=get_orth(data[i][0], language),
                         Year=cognates["Year"]
                         ):
                     front_back = get_front_back_vowels(lex["Segments"])

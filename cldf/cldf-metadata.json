@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-7-g94548c5",
+            "dc:created": "1.0-8-gaf90fca",
             "dc:title": "Repository"
         },
         {
@@ -126,10 +126,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Orthography"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "CV_Segments"
                     },
                     {
@@ -237,10 +233,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "H_orth"
                     }
                 ],
                 "primaryKey": [
