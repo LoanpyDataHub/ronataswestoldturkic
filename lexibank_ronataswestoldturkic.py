@@ -34,8 +34,16 @@ def get_clusters(segments):
     return " ".join(out)
 
 def has_harmony(segments):
-    """if "F" AND "B" are in segments, the word has NO vowel harmony"""
-    return not all(i in [] for i in "FB")
+    """
+    See issue #22!
+    if no front vowels in word: has harmony.
+    if front vowels and no back vowels: also.
+    """
+    # if word contains at least one front vowel
+    if any(i in segments for i in ['y', 'yː', 'ø', 'øː']):
+        # make sure it contains no back vowel
+        return not any(i in segments for i in ['a', 'aː', 'ɒ', 'ɯ', 'u', 'uː', 'o'])
+    return True
 
 def get_loan(loan, language):
     return loan == "TRUE" if language == "WOT" else True
@@ -76,7 +84,7 @@ class Dataset(BaseDataset):
         #add comments
         comments = self.etc_dir.read_csv(
             "comments.tsv", delimiter="\t",
-        ) #[['H_en', 'Comment'], ['a', 'b'], ['c', 'd']]
+        )  # [['H_en', 'Comment'], ['a', 'b'], ['c', 'd']]
         comments = {line[0]: line[1] for line in comments}
         args.log.info("added comments")
 
@@ -119,7 +127,7 @@ class Dataset(BaseDataset):
                         ):
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-                    lex["FB_Vowel_Harmony"] = not all(i in [] for i in "FB")
+                    lex["FB_Vowel_Harmony"] = has_harmony(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
 
