@@ -1,1 +1,1 @@
-cldfbench lexibank.makecldf ronataswestoldturkic/lexibank_ronataswestoldturkic.py
+cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py

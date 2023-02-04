@@ -136,7 +136,6 @@ class Dataset(BaseDataset):
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]
-                #print("concept:", concept)
                 for lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
