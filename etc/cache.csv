@@ -1,9 +1,0 @@
-﻿forms_csv,source_language,target_language,mode,write_to,path2cache,clusters,vowelharmony,phonotactics_filter,opt_tpr,optimal_howmany,opt_tp,timing,date
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,True,False,True,50%,51,242/489,00:00:59,01/28/23 09:27:22
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,False,False,True,48%,51,233/489,00:00:57,01/28/23 09:31:09
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,True,False,False,47%,51,228/489,00:00:49,01/28/23 09:29:11
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,False,False,False,44%,51,214/489,00:00:49,01/28/23 09:32:57
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,True,True,False,43%,51,209/489,00:00:59,01/28/23 09:28:21
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,True,True,True,42%,51,207/489,00:01:00,01/28/23 09:26:22
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,False,True,True,42%,51,205/489,00:01:00,01/28/23 09:30:11
-cldf/forms.csv,EAH,H,reconstruct,etc/opt_params.csv,etc/cache.csv,False,True,False,42%,51,207/489,00:00:58,01/28/23 09:32:07
