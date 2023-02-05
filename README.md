@@ -22,7 +22,7 @@ The data used here was extracted from a privately owned PDF-file that can not be
 
 
 [![CLDF validation](https://github.com/martino-vic/ronataswestoldturkic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/ronataswestoldturkic/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 29%](https://img.shields.io/badge/Glottolog-29%25-red.svg "Glottolog: 29%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")

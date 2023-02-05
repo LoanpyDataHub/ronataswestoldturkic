@@ -1,20 +1,20 @@
 H_en	Comment
-pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ	on p. 501 the headword is "KARAMBÉL [kåråmbēl]" but the etymology reads "kårånbēl < *karampil ← Cum *karampil, karamfil". I assumed the form with "n" is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.
-secretion, mucus discharged from the eyes	according to the corrigenda-section on p. 1494 I changed "čapa ← WOT *čapaγ" to "čapa < *čapaγ ← WOT *čapaγ"
-candle	according to the corrigenda-section on p. 1494 I changed "dʹertʹå < *ǰarta ← WOT *ǰarta" to "dʹertʹå < *ǰarta ← WOT *yarta"
-hornbeam, Carpinus betulus	according to the corrigenda-section on p. 1494 I changed "dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan" to "dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan"
-word, biblical word, verb	On p. 439 the etymology reads "ige < *üge ← *ügä". I assumed this must be in fact "ige < *üge ← WOT *ügä"
-Ismaelite, name of an ethnic group in Medieval Hungary	On p. 177 the etymology reads "bösörmēń < *besermen ← *besermen". I assumed this must be in fact "bösörmēń < *besermen ← WOT *besermen"
-charm	The entry "bűbáj" on p. 190 is omitted from the dataset because compounding ("bű+báj") happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of "bű" one is supposed to look up "bűvös" or "bölcs". The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of "bű".
-reason, mind	The full etymology would be "ēs < es ← WOT *es(V)" but I pretended the "(V)" wasn't there because this simplifies things.
-sexual organ of large male animals, of a bull; a whip made from it	The full etymology is "čök < *čük ← WOT *čükV" and I left the "V" on purpose in the WOT word because loanpy was designed to treat "V" as "any vowel" and this data set serves as an input for loanpy. Might be that this causes a BIPA error.
+pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ	on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.
+secretion, mucus discharged from the eyes	according to the corrigenda-section on p. 1494 I changed 'čapa ← WOT *čapaγ' to 'čapa < *čapaγ ← WOT *čapaγ'
+candle	according to the corrigenda-section on p. 1494 I changed 'dʹertʹå < *ǰarta ← WOT *ǰarta' to 'dʹertʹå < *ǰarta ← WOT *yarta'
+hornbeam, Carpinus betulus	according to the corrigenda-section on p. 1494 I changed 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan' to 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan'
+word, biblical word, verb	On p. 439 the etymology reads 'ige < *üge ← *ügä'. I assumed this must be in fact 'ige < *üge ← WOT *ügä'
+Ismaelite, name of an ethnic group in Medieval Hungary	On p. 177 the etymology reads 'bösörmēń < *besermen ← *besermen'. I assumed this must be in fact 'bösörmēń < *besermen ← WOT *besermen'
+charm	The entry 'bűbáj' on p. 190 is omitted from the dataset because compounding ('bű+báj') happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of 'bű' one is supposed to look up 'bűvös' or 'bölcs'. The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of 'bű'.
+reason, mind	The full etymology would be 'ēs < es ← WOT *es(V)' but I pretended the '(V)' wasn't there because this simplifies things.
+sexual organ of large male animals, of a bull; a whip made from it	The full etymology is 'čök < *čük ← WOT *čükV' and I left the 'V' on purpose in the WOT word because loanpy was designed to treat 'V' as 'any vowel' and this data set serves as an input for loanpy. Might be that this causes a BIPA error.
 trap; snare (for catching birds); bird cage	see headword CIGLE in original source (nested entry)
 a kind of willow, used for baskets and in viticulture, Salix purpurea	see headword CIGLE in original source (nested entry)
 a kind of willow	see headword CIGLE in original source (nested entry)
-to confess (sins)	For "gyovon" see headword GYÓN
-cloak, gown, overcoat	See headword "KÖPÖNYEG" (with a "G") in the original monograph. The etymological part features a "k" ("köpönyek"), therefore the entry in this data set also contains a "k". The subentry "köpeny" was omitted.
+to confess (sins)	For 'gyovon' see headword GYÓN
+cloak, gown, overcoat	See headword 'KÖPÖNYEG' (with a 'G') in the original monograph. The etymological part features a 'k' ('köpönyek'), therefore the entry in this data set also contains a 'k'. The subentry 'köpeny' was omitted.
 to teach	See headword OK in original (nested entry).
-cause, reason	Sub-entries "okos" and "oktalan" are omitted, because no WOT root is given. "oktat" has a separate entry, since WOT root is given.
+cause, reason	Sub-entries 'okos' and 'oktalan' are omitted, because no WOT root is given. 'oktat' has a separate entry, since WOT root is given.
 milling product	See headword ÖRMÉNY² or ŐR¹ in original (nested entry)
 Armenian	See headword ÖRMÉNY¹ in original
-whirlpool, eddy	For the forms with an "m" ("örmény") see headword ÖRMÉNY³
+whirlpool, eddy	For the forms with an 'm' ('örmény') see headword ÖRMÉNY³
