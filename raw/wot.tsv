@@ -1,4 +1,4 @@
-H	H_trsc	OH	LAH	EAH	WOT	Cum	H_en	Year	WOT_loan
+H	H_trsc	OH	LAH	EAH	WOT	Cum	ENGLISH	Year	WOT_loan
 ács	āč			aγači	aγaččï		carpenter	1222	FALSE
 ágyú	ādʹū	āldʹū	aldau̯	aldaγ	aldaγ		cannon, catapult	1456	TRUE
 ajnároz	åynāroz			ayan	ayan		to fondle, pet, caress	1825	FALSE
@@ -10,8 +10,8 @@ alacs	ålåč			alač	alaču		pied (of an animals coat)	1328	TRUE
 alacs	ålåč			alač	alačo		pied (of an animals coat)	1328	TRUE
 alacs	ålåč			alač	ålåč		pied (of an animals coat)	1328	TRUE
 alma	ålmå			alma	alma		apple	1009	TRUE
-általag	āltålåg			altalag	altïlïg		barrel (wooden container andstandard quantity)	1395	FALSE
-átalag	ātålåg			altalag	altïlïg		barrel (wooden container andstandard quantity)	1395	TRUE
+általag	āltålåg			altalag	altïlïg		barrel (wooden container and standard quantity)	1395	FALSE
+átalag	ātålåg			altalag	altïlïg		barrel (wooden container and standard quantity)	1395	TRUE
 ápol	āpol	apol		op	op		to nurse, take care of	1372	FALSE
 áporodik	āporodik			oporo	opura		to decay, putrify, turn stale	1588	FALSE
 apró	åprō	oprau̯		opuruγ	opuruγ		small, tiny	1145	FALSE
@@ -43,7 +43,7 @@ béklyó	bēklʹō			bikaγu	bïkaγu		hobble, shackle, leg-iron	1395	TRUE
 bélyeg	bēlʹeg	bēlʹeg		beleg	bäläg		stamp, bond, mark	1263	TRUE
 bér	bēr			bērü	berü		wage, rent	1121	TRUE
 bercel	bercel	bercel		bersil	Bärsil		name of a people	1238	FALSE
-bertű	bertǖ	börtǖ	börteü̯	bürtiγ	bürtiγ		grain or small globule of preciousmetal	1560	TRUE
+bertű	bertǖ	börtǖ	börteü̯	bürtiγ	bürtiγ		grain or small globule of precious metal	1560	TRUE
 bese	beše			beše	bäšä		a bird of prey	1130	FALSE
 besenyő	bešeńȫ	bešeneü̯		bešeneγ	bäčänäg		Pecheneg, name of a tribe	1130	FALSE
 betű	betǖ	beteü̯		bitiγ	bitig		letter (of the alphabet)	1416	TRUE
@@ -114,7 +114,7 @@ csalán	čålān			čalān	čalïγan		nettle, Urtica	1214	FALSE
 csalán	čålān			čilān	čalïγan		nettle, Urtica	1214	FALSE
 csalán	čålān			čalaγan	čalïγan		nettle, Urtica	1214	FALSE
 csalit	čålit			čalit	čaltï		thicket, brushwood, dry foliage, grove, meadow	1644	FALSE
-csalit	čålit			čalit	čalït		thicket, brushwood; dry foliage, grove, meadow	1644	FALSE
+csalit	čålit			čalit	čalït		thicket, brushwood, dry foliage, grove, meadow	1644	FALSE
 csanak	čånåk			čanak	čanak		(silver) cup, wooden ladle, earthenware bowl	1367	FALSE
 csata	čåtå			čata	čata		fighting, troop, army group, battle, quarrel, hubbub, flock	1532	FALSE
 csata	čåtå			čata	čatï		fighting, troop, army group, battle, quarrel, hubbub, flock	1532	FALSE

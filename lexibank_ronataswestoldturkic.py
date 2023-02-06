@@ -69,13 +69,13 @@ class Dataset(BaseDataset):
         # add concept
         concepts = {}
         for i, concept in enumerate(self.concepts):
-            idx = str(i)+"_"+slug(concept["H_en"])
-            concepts[concept["H_en"]] = idx
+            idx = str(i)+"_"+slug(concept["ENGLISH"])
+            concepts[concept["ENGLISH"]] = idx
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["H_en"],
-                    Concepticon_ID=concept["Concepticon_ID"],
-                    Concepticon_Gloss=concept["Concepticon_Gloss"],
+                    Name=concept["ENGLISH"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                     )
 
         args.log.info("added concepts")
@@ -84,7 +84,7 @@ class Dataset(BaseDataset):
         #add comments
         comments = self.etc_dir.read_csv(
             "comments.tsv", delimiter="\t",
-        )  # [['H_en', 'Comment'], ['a', 'b'], ['c', 'd']]
+        )  # [['ENGLISH', 'Comment'], ['a', 'b'], ['c', 'd']]
         comments = {line[0]: line[1] for line in comments}
         args.log.info("added comments")
 

@@ -25,7 +25,7 @@ def main():
     dfgot = pd.read_csv(in_path, sep="\t", usecols=["H_en"])
 
     # define list of dictionaries and plug into to_concepticon()
-    glo = [{"gloss": e} for e in dfgot.H_en]
+    glo = [{"gloss": e} for e in dfgot.ENGLISH]
     G = gg(to_concepticon(glo, language="en", max_matches=1))
 
     # map dictionary to new columns

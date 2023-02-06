@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-21-g45562d6",
+            "dc:created": "1.0-23-g597578b",
             "dc:title": "Repository"
         },
         {
@@ -242,7 +242,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 431,
+            "dc:extent": 430,
             "tableSchema": {
                 "columns": [
                     {
