@@ -1,2 +1,2 @@
 wordlist:
-	edictor wordlist --addon="cogid_cognateset_id:cognacy"
+	edictor wordlist --name="edictor/ronataswestoldturkic" --addon="cogid_cognateset_id:COGID"

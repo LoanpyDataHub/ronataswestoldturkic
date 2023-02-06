@@ -177,12 +177,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID
 66	H	barley, Hordeum	árpa	árpa	aː r p ɒ		23
 67	EAH	barley, Hordeum	arpa	arpa	a r p a		23
 68	WOT	barley, Hordeum	arpa	arpa	a r p a		23
-32	H	barrel (wooden container andstandard quantity)	általag	általag	aː l t ɒ l ɒ ɡ		12
-33	EAH	barrel (wooden container andstandard quantity)	altalag	altalag	a l t a l a ɡ		12
-34	WOT	barrel (wooden container andstandard quantity)	altïlïg	altïlïg	a l t ɯ l ɯ ɡ		12
-35	H	barrel (wooden container andstandard quantity)	átalag	átalag	aː t ɒ l ɒ ɡ		13
-36	EAH	barrel (wooden container andstandard quantity)	altalag	altalag	a l t a l a ɡ		13
-37	WOT	barrel (wooden container andstandard quantity)	altïlïg	altïlïg	a l t ɯ l ɯ ɡ		13
+32	H	barrel (wooden container and standard quantity)	általag	általag	aː l t ɒ l ɒ ɡ		12
+33	EAH	barrel (wooden container and standard quantity)	altalag	altalag	a l t a l a ɡ		12
+34	WOT	barrel (wooden container and standard quantity)	altïlïg	altïlïg	a l t ɯ l ɯ ɡ		12
+35	H	barrel (wooden container and standard quantity)	átalag	átalag	aː t ɒ l ɒ ɡ		13
+36	EAH	barrel (wooden container and standard quantity)	altalag	altalag	a l t a l a ɡ		13
+37	WOT	barrel (wooden container and standard quantity)	altïlïg	altïlïg	a l t ɯ l ɯ ɡ		13
 69	H	barrow	ártány	ártány	aː r t aː ɲ		24
 70	EAH	barrow	aritan	aritan	a r i t a n		24
 71	WOT	barrow	arïtan	arïtan	a r ɯ t a n		24
@@ -584,11 +584,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID
 964	EAH	gourd, calabash, Lagenaria vulgaris; head, billy-cock-hat	kåbåk	kåbåk	k ɒ b ɒ k		290
 88	H	governor of Croatia, governor of the southern marches	bán	bán	b aː n		30
 89	WOT	governor of Croatia, governor of the southern marches	bayan	bayan	b a j a n		30
-133	H	grain or small globule of preciousmetal	bertű	bertű	b ɛ r t yː		45
-134	OH	grain or small globule of preciousmetal	börtǖ	börtǖ	b ø r t yː		45
-135	LAH	grain or small globule of preciousmetal	börteü̯	börteü̯	b ø r t ɛ w		45
-136	EAH	grain or small globule of preciousmetal	bürtiγ	bürtiγ	b y r t i ɣ		45
-137	WOT	grain or small globule of preciousmetal	bürtiγ	bürtiγ	b y r t i ɣ		45
+133	H	grain or small globule of precious metal	bertű	bertű	b ɛ r t yː		45
+134	OH	grain or small globule of precious metal	börtǖ	börtǖ	b ø r t yː		45
+135	LAH	grain or small globule of precious metal	börteü̯	börteü̯	b ø r t ɛ w		45
+136	EAH	grain or small globule of precious metal	bürtiγ	bürtiγ	b y r t i ɣ		45
+137	WOT	grain or small globule of precious metal	bürtiγ	bürtiγ	b y r t i ɣ		45
 1457	H	grape, wine grape, Vitis vinifer	szőlő	szőlő	s øː l øː		431
 1458	OH	grape, wine grape, Vitis vinifer	seleγ	seleγ	s ɛ l ɛ ɣ		431
 1459	EAH	grape, wine grape, Vitis vinifer	śeleγ	śeleγ	s ɛ l ɛ ɣ		431
@@ -1267,9 +1267,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID
 375	H	thicket, brushwood, dry foliage, grove, meadow	csalit	csalit	t͡ʃ ɒ l i t		115
 376	EAH	thicket, brushwood, dry foliage, grove, meadow	čalit	čalit	t͡ʃ a l i t		115
 377	WOT	thicket, brushwood, dry foliage, grove, meadow	čaltï	čaltï	t͡ʃ a l t ɯ		115
-378	H	thicket, brushwood; dry foliage, grove, meadow	csalit	csalit	t͡ʃ ɒ l i t		116
-379	EAH	thicket, brushwood; dry foliage, grove, meadow	čalit	čalit	t͡ʃ a l i t		116
-380	WOT	thicket, brushwood; dry foliage, grove, meadow	čalït	čalït	t͡ʃ a l ɯ t		116
+378	H	thicket, brushwood, dry foliage, grove, meadow	csalit	csalit	t͡ʃ ɒ l i t		116
+379	EAH	thicket, brushwood, dry foliage, grove, meadow	čalit	čalit	t͡ʃ a l i t		116
+380	WOT	thicket, brushwood, dry foliage, grove, meadow	čalït	čalït	t͡ʃ a l ɯ t		116
 1154	H	thief	orv	orv	o r v		345
 1155	OH	thief	urvu	urvu	u r v u		345
 1156	LAH	thief	uvru	uvru	u v r u		345
