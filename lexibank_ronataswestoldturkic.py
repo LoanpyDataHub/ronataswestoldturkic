@@ -146,3 +146,5 @@ class Dataset(BaseDataset):
                             "Source": lex["Source"]
                             })
                         borrid += 1
+
+        args.writer.align_cognates()
