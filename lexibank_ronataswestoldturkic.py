@@ -131,13 +131,14 @@ class Dataset(BaseDataset):
                     if language == "EAH":
                         eah = lex["ID"]
 
-                    if language != "WOT":
-                        args.writer.add_cognate(
-                                lexeme=lex,
-                                Cognateset_ID=cogid,
-                                Source="wot"
-                                )
-                    elif eah:
+                    #if language != "WOT":
+                    args.writer.add_cognate(
+                            lexeme=lex,
+                            Cognateset_ID=cogid,
+                            Source="wot"
+                            )
+                    #elif eah:
+                    if eah:
                         args.writer.objects["BorrowingTable"].append({
                             "ID": f'{borrid}-{lex["Parameter_ID"]}',
                             "Target_Form_ID": eah,

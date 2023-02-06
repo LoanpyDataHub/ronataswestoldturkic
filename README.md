@@ -33,7 +33,7 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Lexemes:** 1,755
 - **Sources:** 1
 - **Synonymy:** 1.19
-- **Cognacy:** 1,275 cognates in 512 cognate sets (22 singletons)
+- **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
 - **Tokens:** 8,311
