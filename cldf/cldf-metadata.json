@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "R\u00f3na-Tas, Andr\u00e1s, & Berta, \u00c1rp\u00e1d. (2011) West Old Turkic. Harrassowitz Verlag, Wiesbaden",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/RonaTas-2011-431"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -13,7 +16,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-20-g4f78343",
+            "dc:created": "1.0-21-g45562d6",
             "dc:title": "Repository"
         },
         {
