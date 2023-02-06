@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-23-g597578b",
+            "dc:created": "1.0-24-g51ffc2b",
             "dc:title": "Repository"
         },
         {
@@ -137,7 +137,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "FB_Vowel_Harmony"
+                        "name": "FB_VowelHarmony"
                     },
                     {
                         "datatype": "string",

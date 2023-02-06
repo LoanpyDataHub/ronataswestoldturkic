@@ -12,7 +12,7 @@ from re import sub
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
-    FB_Vowel_Harmony = attr.ib(default=None)
+    FB_VowelHarmony = attr.ib(default=None)
     Year = attr.ib(default=None)
 
 # todo: import the next 3 functions from loanpy
@@ -41,9 +41,10 @@ def has_harmony(segments):
     """
     # if word contains at least one front vowel
     if any(i in segments for i in ['y', 'yː', 'ø', 'øː']):
-        # make sure it contains no back vowel
-        return not any(i in segments for i in ['a', 'aː', 'ɒ', 'ɯ', 'u', 'uː', 'o'])
-    return True
+        # check if it contains a back-vowel
+        if any(i in segments for i in ['a', 'aː', 'ɒ', 'ɯ', 'u', 'uː', 'o']):
+            return "false"  # if yes: no vowel harmony
+    return "true"
 
 def get_loan(loan, language):
     return loan == "TRUE" if language == "WOT" else True
@@ -127,7 +128,7 @@ class Dataset(BaseDataset):
                         ):
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-                    lex["FB_Vowel_Harmony"] = has_harmony(lex["Segments"])
+                    lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
 
