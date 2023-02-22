@@ -8,6 +8,8 @@ from pylexibank import (
 Dataset as BaseDataset, FormSpec, Language, Lexeme, progressbar as pb)
 from re import sub
 
+eah = None
+
 @attr.s
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
@@ -138,8 +140,8 @@ class Dataset(BaseDataset):
                             Cognateset_ID=cogid,
                             Source="wot"
                             )
-                    #elif eah:
-                    if eah:
+
+                    if language == "WOT" and eah:
                         args.writer.objects["BorrowingTable"].append({
                             "ID": f'{borrid}-{lex["Parameter_ID"]}',
                             "Target_Form_ID": eah,
@@ -147,5 +149,6 @@ class Dataset(BaseDataset):
                             "Source": lex["Source"]
                             })
                         borrid += 1
+                        eah = None  # reset memory
 
         args.writer.align_cognates()
