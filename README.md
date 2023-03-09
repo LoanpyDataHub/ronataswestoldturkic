@@ -30,6 +30,7 @@ The data used here was extracted from a privately owned PDF-file that can not be
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/martino-vic/ronataswestoldturkic/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martino-vic/ronataswestoldturkic/tree/main)
 
 - **Varieties:** 5
 - **Concepts:** 430
