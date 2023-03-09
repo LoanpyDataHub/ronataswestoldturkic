@@ -40,8 +40,8 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
 - **Tokens:** 8,311
-- **Segments:** 58 (0 BIPA errors, 0 CLTS sound class errors, 58 CLTS modified)
-- **Inventory size (avg):** 41.60
+- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
+- **Inventory size (avg):** 42.40
 
 # Contributors
 

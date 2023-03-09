@@ -100,9 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# shell scripts
-*.sh
-
 # lock files from libre office
 .~lock.*
 

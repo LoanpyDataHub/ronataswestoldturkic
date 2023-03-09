@@ -1,433 +1,126 @@
-Language_ID	Grapheme	Orthography	IPA
-WOT	aγaččï		a ɣ a t͡ʃː ɯ
-WOT	aldaγ		a l d a ɣ
-WOT	ayan		a j a n
-WOT	al		a l
-WOT	alačï		a l a t͡ʃ ɯ
-WOT	alaču		a l a t͡ʃ u
-WOT	alačo		a l a t͡ʃ o
-WOT	ålåč		ɒ l ɒ t͡ʃ
-WOT	alma		a l m a
-WOT	altïlïg		a l t ɯ l ɯ ɡ
-WOT	op		o p
-WOT	opura		o p u r a
-WOT	opuruγ		o p u r u ɣ
-WOT	orat		o r a t
-WOT	or		o r
-WOT	ar		a r
-WOT	artat		a r t a t
-WOT	aruk		a r u k
-WOT	arpa		a r p a
-WOT	arïtan		a r ɯ t a n
-WOT	askï		a s k ɯ
-WOT	bay		b a j
-WOT	balkan		b a l k a n
-WOT	balta		b a l t a
-WOT	balvan		b a l v a n
-WOT	bayan		b a j a n
-WOT	bagïn		b a ɡ ɯ n
-WOT	barum		b a r u m
-WOT	barčun		b a r t͡ʃ u n
-WOT	bas		b a s
-WOT	baγatur		b a ɣ a t u r
-WOT	bičil		b i t͡ʃ i l
-WOT	baka		b a k a
-WOT	bïkaγu		b ɯ k a ɣ u
-WOT	bäläg		b ɛ l ɛ ɡ
-WOT	berü		b ɛ r y
-WOT	Bärsil		b ɛ r s i l
-WOT	bürtiγ		b y r t i ɣ
-WOT	bäšä		b ɛ ʃ ɛ
-WOT	bäčänäg		b ɛ t͡ʃ ɛ n ɛ ɡ
-WOT	bitig		b i t i ɡ
-WOT	bïčak		b ɯ t͡ʃ a k
-WOT	bïčkï		b ɯ t͡ʃ k ɯ
-WOT	bičkä		b i t͡ʃ k ɛ
-WOT	bïka		b ɯ k a
-WOT	biläčäk		b i l ɛ t͡ʃ ɛ k
-WOT	bïrug		b ɯ r u ɡ
-WOT	bolčan		b o l t͡ʃ a n
-WOT	bolčat		b o l t͡ʃ a t
-WOT	bog		b o ɡ
-WOT	bogul		b o ɡ u l
-WOT	bogut		b o ɡ u t
-WOT	balturgan		b a l t u r ɡ a n
-WOT	boγul		b o ɣ u l
-WOT	bor		b o r
-WOT	bur		b u r
-WOT	buraγu		b u r a ɣ u
-WOT	burč		b u r t͡ʃ
-WOT	burčaγ		b u r t͡ʃ a ɣ
-WOT	borsï		b o r s ɯ
-WOT	basarkan		b a s a r k a n
-WOT	busan		b u s a n
-WOT	bosuγ		b o s u ɣ
-WOT	butїγ		b u t ɯ ɣ
-WOT	bäγ		b ɛ ɣ
-WOT	bögöläk		b ø ɡ ø l ɛ k
-WOT	büγtä		b y ɣ t ɛ
-WOT	büγüči		b y ɣ y t͡ʃ i
-WOT	belčiγ		b ɛ l t͡ʃ i ɣ
-WOT	bülän		b y l ɛ n
-WOT	bärtän		b ɛ r t ɛ n
-WOT	besermen		b ɛ s ɛ r m ɛ n
-WOT	buγ		b u ɣ
-WOT	bolčuγ		b o l t͡ʃ u ɣ
-WOT	bular		b u l a r
-WOT	būs		b uː s
-WOT	buγδay		b u ɣ ð a j
-WOT	bik		b i k
-WOT	bǖn		b yː n
-WOT	bütüγ		b y t y ɣ
-WOT	büγü		b y ɣ y
-WOT	čiglä		t͡ʃ i ɡ l ɛ
-WOT	čiklä		t͡ʃ i k l ɛ
-WOT	čïgla		t͡ʃ ɯ ɡ l a
-WOT	čak		t͡ʃ a k
-WOT	čakkan		t͡ʃ a kː a n
-WOT	čalïγan		t͡ʃ a l ɯ ɣ a n
-WOT	čaltï		t͡ʃ a l t ɯ
-WOT	čalït		t͡ʃ a l ɯ t
-WOT	čanak		t͡ʃ a n a k
-WOT	čata		t͡ʃ a t a
-WOT	čatï		t͡ʃ a t ɯ
-WOT	čat		t͡ʃ a t
-WOT	čeč		t͡ʃ ɛ t͡ʃ
-WOT	čečäk		t͡ʃ ɛ t͡ʃ ɛ k
-WOT	čik		t͡ʃ i k
-WOT	čöpüγ		t͡ʃ ø p y ɣ
-WOT	čöpiγ		t͡ʃ ø p i ɣ
-WOT	čïga		t͡ʃ ɯ ɡ a
-WOT	čïgïr		t͡ʃ ɯ ɡ ɯ r
-WOT	čȧgïr		t͡ʃ ɐ ɡ ɯ r
-WOT	čapaγ		t͡ʃ a p a ɣ
-WOT	čolak		t͡ʃ o l a k
-WOT	čomak		t͡ʃ o m a k
-WOT	čükV		t͡ʃ y k v
-WOT	čök		t͡ʃ ø k
-WOT	čikin		t͡ʃ i k i n
-WOT	čäwiš		t͡ʃ ɛ v i ʃ
-WOT	čunaγ		t͡ʃ u n a ɣ
-WOT	čäwür		t͡ʃ ɛ v y r
-WOT	čäviri		t͡ʃ ɛ v i r i
-WOT	tarï		t a r ɯ
-WOT	darï		d a r ɯ
-WOT	tüli		t y l i
-WOT	düli		d y l i
-WOT	ǰïγaγ		d͡ʒʲ ɯ ɣ a ɣ
-WOT	ǰȧγaγ		d͡ʒʲ ɐ ɣ a ɣ
-WOT	ǰȧsnaγ		d͡ʒʲ ɐ s n a ɣ
-WOT	tül		t y l
-WOT	dül		d y l
-WOT	dïg		d ɯ ɡ
-WOT	tïk		t ɯ k
-WOT	edü		ɛ d y
-WOT	edi		ɛ d i
-WOT	ēk		eː k
-WOT	äkäγ		ɛ k ɛ ɣ
-WOT	äŋ		ɛ ŋ
-WOT	inäγ		i n ɛ ɣ
-WOT	er		ɛ r
-WOT	ärdäm		ɛ r d ɛ m
-WOT	ärkilč		ɛ r k i l t͡ʃ
-WOT	ärin		ɛ r i n
-WOT	äriγ		ɛ r i ɣ
-WOT	ičü		i t͡ʃ y
-WOT	ičkü		i t͡ʃ k y
-WOT	es		ɛ s
-WOT	ätil		ɛ t i l
-WOT	kaγδu		k a ɣ ð u
-WOT	güdän		ɡ y d ɛ n
-WOT	kütän		k y t ɛ n
-WOT	gürän		ɡ y r ɛ n
-WOT	kürän		k y r ɛ n
-WOT	küsäγü		k y s ɛ ɣ y
-WOT	ǰala		d͡ʒʲ a l a
-WOT	ǰalïm		d͡ʒʲ a l ɯ m
-WOT	ǰonaγ		d͡ʒʲ o n a ɣ
-WOT	ǰapaγu		d͡ʒʲ a p a ɣ u
-WOT	ǰaput		d͡ʒʲ a p u t
-WOT	ǰarpa		d͡ʒʲ a r p a
-WOT	ǰarlïγ		d͡ʒʲ a r l ɯ ɣ
-WOT	ǰarat		d͡ʒʲ a r a t
-WOT	ǰas		d͡ʒʲ a s
-WOT	ǰekän		d͡ʒʲ ɛ k ɛ n
-WOT	ǰeŋi		d͡ʒʲ ɛ ŋ i
-WOT	ǰipliγ		d͡ʒʲ i p l i ɣ
-WOT	ǰäpiγ		d͡ʒʲ ɛ p i ɣ
-WOT	ǰäpi		d͡ʒʲ ɛ p i
-WOT	ǰärmäk		d͡ʒʲ ɛ r m ɛ k
-WOT	ǰärmük		d͡ʒʲ ɛ r m y k
-WOT	yarta		j a r t a
-WOT	yartaγan		j a r t a ɣ a n
-WOT	ǰulkučï		d͡ʒʲ u l k u t͡ʃ ɯ
-WOT	ǰom		d͡ʒʲ o m
-WOT	ǰumur		d͡ʒʲ u m u r
-WOT	ǰūn		d͡ʒʲ uː n
-WOT	ǰuvun		d͡ʒʲ u v u n
-WOT	ǰïpar		d͡ʒʲ ɯ p a r
-WOT	ǰinǰü		d͡ʒʲ i n d͡ʒʲ y
-WOT	ǰitür		d͡ʒʲ i t y r
-WOT	ǰäγüz		d͡ʒʲ ɛ ɣ y z
-WOT	ǰul		d͡ʒʲ u l
-WOT	ǰuγur		d͡ʒʲ u ɣ u r
-WOT	ǰigil		d͡ʒʲ i ɡ i l
-WOT	ǰiγil		d͡ʒʲ i ɣ i l
-WOT	ǰägilä		d͡ʒʲ ɛ ɡ i l ɛ
-WOT	ǰemilč		d͡ʒʲ ɛ m i l t͡ʃ
-WOT	ǰemilčen		d͡ʒʲ ɛ m i l t͡ʃ ɛ n
-WOT	ǰereγ		d͡ʒʲ ɛ r ɛ ɣ
-WOT	ǰürüγ		d͡ʒʲ y r y ɣ
-WOT	ǰüγsüγ		d͡ʒʲ y ɣ s y ɣ
-WOT	χayїγ		χ a j ɯ ɣ
-WOT	χoŋar		χ o ŋ a r
-WOT	χїrγuy		χ ɯ r ɣ u j
-WOT	χumakï		χ u m a k ɯ
-WOT	urok		u r o k
-WOT	üdäγ		y d ɛ ɣ
-WOT	ügä		y ɡ ɛ
-WOT	egän		ɛ ɡ ɛ n
-WOT	äyi		ɛ j i
-WOT	ikir		i k i r
-WOT	ïldam		ɯ l d a m
-WOT	il		i l
-WOT	vïm		v ɯ m
-WOT	öŋmäk		ø ŋ m ɛ k
-WOT	ïr		ɯ r
-WOT	ïraγ		ɯ r a ɣ
-WOT	ïsï		ɯ s ɯ
-WOT	yās		j aː s
-WOT	kakï		k a k ɯ
-WOT	kolavuz		k o l a v u z
-WOT	kvaliz		k v a l i z
-WOT	karlukan		k a r l u k a n
-WOT	kantar		k a n t a r
-WOT	karamuγ		k a r a m u ɣ
-WOT	kapkan		k a p k a n
-WOT	kapuγ		k a p u ɣ
-WOT	kar		k a r
-WOT	kăvar		k ɐ v a r
-WOT	karakan		k a r a k a n
-WOT	koram		k o r a m
-WOT	karampil		k a r a m p i l
-WOT	karamfil		k a r a m f i l
-WOT	karoγ		k a r o ɣ
-WOT	karakotan		k a r a k o t a n
-WOT	kargay		k a r ɡ a j
-WOT	kataŋ		k a t a ŋ
-WOT	kazar		k a z a r
-WOT	käbäl		k ɛ b ɛ l
-WOT	käčäkä		k ɛ t͡ʃ ɛ k ɛ
-WOT	kȫk		k øː k
-WOT	kälinčäγ		k ɛ l i n t͡ʃ ɛ ɣ
-WOT	kändir		k ɛ n d i r
-WOT	kenäšū		k ɛ n ɛ ʃ uː
-WOT	kǟp		k ɛː p
-WOT	käpäγ		k ɛ p ɛ ɣ
-WOT	käräp		k ɛ r ɛ p
-WOT	käwir		k ɛ v i r
-WOT	käwiräg		k ɛ v i r ɛ ɡ
-WOT	kärtä		k ɛ r t ɛ
-WOT	küčäläγ		k y t͡ʃ ɛ l ɛ ɣ
-WOT	kēč		k eː t͡ʃ
-WOT	kičin		k i t͡ʃ i n
-WOT	kičiγ		k i t͡ʃ i ɣ
-WOT	kökärilč		k ø k ɛ r i l t͡ʃ
-WOT	kökärčän		k ø k ɛ r t͡ʃ ɛ n
-WOT	kīn		k iː n
-WOT	koldu		k o l d u
-WOT	kolduš		k o l d u ʃ
-WOT	kumlaγ		k u m l a ɣ
-WOT	kamїčïn		k a m ɯ t͡ʃ ɯ n
-WOT	komur		k o m u r
-WOT	kapurčaγ		k a p u r t͡ʃ a ɣ
-WOT	kur		k u r
-WOT	korγan		k o r ɣ a n
-WOT	kowrog		k o v r o ɡ
-WOT	kurum		k u r u m
-WOT	koč		k o t͡ʃ
-WOT	kasmaγ		k a s m a ɣ
-WOT	kädmän		k ɛ d m ɛ n
-WOT	kökän		k ø k ɛ n
-WOT	kölčen		k ø l t͡ʃ ɛ n
-WOT	kindik		k i n d i k
-WOT	köläk		k ø l ɛ k
-WOT	keliγ		k ɛ l i ɣ
-WOT	küńüγ		k y ɲ y ɣ
-WOT	köpčäγ		k ø p t͡ʃ ɛ ɣ
-WOT	köpäk		k ø p ɛ k
-WOT	kepenek		k ɛ p ɛ n ɛ k
-WOT	küpüγ		k y p y ɣ
-WOT	kevrič		k ɛ v r i t͡ʃ
-WOT	kävräγ		k ɛ v r ɛ ɣ
-WOT	kertweliγ		k ɛ r t v ɛ l i ɣ
-WOT	kertmeliγ		k ɛ r t m ɛ l i ɣ
-WOT	küsän		k y s ɛ n
-WOT	kuwan		k u v a n
-WOT	külüläγ		k y l y l ɛ ɣ
-WOT	köligäliγ		k ø l i ɡ ɛ l i ɣ
-WOT	küväy		k y v ɛ j
-WOT	munar		m u n a r
-WOT	nögär		n ø ɡ ɛ r
-WOT	učoγ		u t͡ʃ o ɣ
-WOT	uk		u k
-WOT	aγul		a ɣ u l
-WOT	učaγ		u t͡ʃ a ɣ
-WOT	oγlaγ		o ɣ l a ɣ
-WOT	undaγ		u n d a ɣ
-WOT	untak		u n t a k
-WOT	urus		u r u s
-WOT	aruslan		a r u s l a n
-WOT	určuγ		u r t͡ʃ u ɣ
-WOT	ogru		o ɡ r u
-WOT	orwučï		o r v u t͡ʃ ɯ
-WOT	alčuk		a l t͡ʃ u k
-WOT	ökür		ø k y r
-WOT	ilt		i l t
-WOT	eliγ		ɛ l i ɣ
-WOT	ǖn		yː n
-WOT	ävir		ɛ v i r
-WOT	ävirmän		ɛ v i r m ɛ n
-WOT	ärmäni		ɛ r m ɛ n i
-WOT	ürük		y r y k
-WOT	öγir		ø ɣ i r
-WOT	ävril		ɛ v r i l
-WOT	äγir		ɛ ɣ i r
-WOT	ägirim		ɛ ɡ i r i m
-WOT	ägrim		ɛ ɡ r i m
-WOT	äγirmän		ɛ ɣ i r m ɛ n
-WOT	ägir		ɛ ɡ i r
-WOT	özän		ø z ɛ n
-WOT	čïγt		t͡ʃ ɯ ɣ t
-WOT	čïgït		t͡ʃ ɯ ɡ ɯ t
-WOT	šar		ʃ a r
-WOT	šarï		ʃ a r ɯ
-WOT	šarug		ʃ a r u ɡ
-WOT	šarakan		ʃ a r a k a n
-WOT	čarlaγ		t͡ʃ a r l a ɣ
-WOT	šarmaγ		ʃ a r m a ɣ
-WOT	čaruγ		t͡ʃ a r u ɣ
-WOT	čatur		t͡ʃ a t u r
-WOT	šip		ʃ i p
-WOT	šipir		ʃ i p i r
-WOT	šipiriγ		ʃ i p i r i ɣ
-WOT	čöpräγ		t͡ʃ ø p r ɛ ɣ
-WOT	čöprök		t͡ʃ ø p r ø k
-WOT	šir		ʃ i r
-WOT	čärig		t͡ʃ ɛ r i ɡ
-WOT	širkä		ʃ i r k ɛ
-WOT	širlig		ʃ i r l i ɡ
-WOT	širt		ʃ i r t
-WOT	šïk		ʃ ɯ k
-WOT	šïma		ʃ ɯ m a
-WOT	šiu		ʃ i u
-WOT	šiw		ʃ i v
-WOT	čok		t͡ʃ o k
-WOT	čavlï		t͡ʃ a v l ɯ
-WOT	čavlïm		t͡ʃ a v l ɯ m
-WOT	čum		t͡ʃ u m
-WOT	čumluγ		t͡ʃ u m l u ɣ
-WOT	šire		ʃ i r ɛ
-WOT	šivrigey		ʃ i v r i ɡ ɛ j
-WOT	šilliγ		ʃ i lː i ɣ
-WOT	šiγül		ʃ i ɣ y l
-WOT	čiräγ		t͡ʃ i r ɛ ɣ
-WOT	siγ		s i ɣ
-WOT	sagïm		s a ɡ ɯ m
-WOT	sakaγ		s a k a ɣ
-WOT	sakal		s a k a l
-WOT	sāl		s aː l
-WOT	sām		s aː m
-WOT	saγïn		s a ɣ ɯ n
-WOT	sān		s aː n
-WOT	sanduk		s a n d u k
-WOT	sapaγ		s a p a ɣ
-WOT	sar		s a r
-WOT	čaγrïn		t͡ʃ a ɣ r ɯ n
-WOT	satïγčï		s a t ɯ ɣ t͡ʃ ɯ
-WOT	säkü		s ɛ k y
-WOT	śēl		s eː l
-WOT	sender		s ɛ n d ɛ r
-WOT	sön		s ø n
-WOT	sip		s i p
-WOT	säpliγ		s ɛ p l i ɣ
-WOT	čer		t͡ʃ ɛ r
-WOT	čürüγ		t͡ʃ y r y ɣ
-WOT	sis		s i s
-WOT	sin		s i n
-WOT	sïyrum		s ɯ j r u m
-WOT	sïrt		s ɯ r t
-WOT	sav		s a v
-WOT	soŋkur		s o ŋ k u r
-WOT	sawur		s a v u r
-WOT	sek		s ɛ k
-WOT	čeleγ		t͡ʃ ɛ l ɛ ɣ
-WOT	siŋuk		s i ŋ u k
-WOT	čiγči		t͡ʃ i ɣ t͡ʃ i
-WOT	sür		s y r
-WOT	süzök		s y z ø k
-WOT	taltučï		t a l t u t͡ʃ ɯ
-WOT	tanïlč		t a n ɯ l t͡ʃ
-WOT	tanuγ		t a n u ɣ
-WOT	taplaγ		t a p l a ɣ
-WOT	topluγ		t o p l u ɣ
-WOT	tar		t a r
-WOT	tavar		t a v a r
-WOT	tarïlaγ		t a r ɯ l a ɣ
-WOT	tart		t a r t
-WOT	tatar		t a t a r
-WOT	taturgan		t a t u r ɡ a n
-WOT	tåtrång		t ɒ t r ɒ n ɡ
-WOT	täkir		t ɛ k i r
-WOT	täkänäγ		t ɛ k ɛ n ɛ ɣ
-WOT	tilök		t i l ø k
-WOT	täŋ		t ɛ ŋ
-WOT	teŋäl		t ɛ ŋ ɛ l
-WOT	täŋir		t ɛ ŋ i r
-WOT	tävir		t ɛ v i r
-WOT	tīr		t iː r
-WOT	terem		t ɛ r ɛ m
-WOT	teve		t ɛ v ɛ
-WOT	talkïγ		t a l k ɯ ɣ
-WOT	tana		t a n a
-WOT	tuγ		t u ɣ
-WOT	toγ		t o ɣ
-WOT	toku		t o k u
-WOT	toklu		t o k l u
-WOT	tolmač		t o l m a t͡ʃ
-WOT	turma		t u r m a
-WOT	turo		t u r o
-WOT	turuntay		t u r u n t a j
-WOT	tāt		t aː t
-WOT	tükä		t y k ɛ
-WOT	tümän		t y m ɛ n
-WOT	töγür		t ø ɣ y r
-WOT	tȫr		t øː r
-WOT	türkü		t y r k y
-WOT	törütün		t ø r y t y n
-WOT	törüγän		t ø r y ɣ ɛ n
-WOT	tezäk		t ɛ z ɛ k
-WOT	tokol		t o k o l
-WOT	toraγ		t o r a ɣ
-WOT	toγrïl		t o ɣ r ɯ l
-WOT	togδak		t o ɡ ð a k
-WOT	tikär		t i k ɛ r
-WOT	tükär		t y k ɛ r
-WOT	tör		t ø r
-WOT	tür		t y r
-WOT	tiγuk		t i ɣ u k
-WOT	uγu		u ɣ u
-WOT	urï		u r ɯ
-WOT	örgä		ø r ɡ ɛ
-WOT	erim		ɛ r i m
-WOT	iriγ		i r i ɣ
-WOT	isig		i s i ɡ
-WOT	öväč		ø v ɛ t͡ʃ
-WOT	vay		v a j
-WOT	valaγ		v a l a ɣ
-WOT	väyśäγ		v ɛ j s ɛ ɣ
-WOT	väkü		v ɛ k y
-WOT	vändäg		v ɛ n d ɛ ɡ
-WOT	ver		v ɛ r
-WOT	vertülük		v ɛ r t y l y k
-WOT	särgä		s ɛ r ɡ ɛ
+Grapheme	IPA
+a	a
+å	ɒ
+ā	aː
+ȧ	ɐ
+ă	ɐ
+ä	ɛ
+ǟ	ɛː
+b	b
+B	b
+c	t͡s
+č	t͡ʃ
+d	d
+dz	d͡z
+dzs	d͡ʒ
+e	ɛ
+ë	e
+ē	eː
+f	f
+g	ɡ
+dʹ	ɟ
+h	h
+i	i
+ī	iː
+ï	ɯ
+ї	ɯ
+ǰ	d͡ʒʲ
+y	j
+k	k
+l	l
+ly	j
+lʹ	j
+m	m
+n	n
+ń	ɲ
+ŋ	ŋ
+o	o
+ō	oː
+ö	ø
+ȫ	øː
+p	p
+qu	kv
+r	r
+š	ʃ
+sz	s
+s	s
+ś	sʲ
+t	t
+tʹ	c
+u	u
+ū	uː
+u̯	w
+ü̯	w
+ü	y
+ǖ	yː
+v	v
+w	v
+x	k s
+z	z
+zs	ʒ
+ž	ʒ
+γ	ɣ
+χ	χ
+δ	ð
+β	β
+åå	ɒː
+āā	aːː
+ȧȧ	ɐɐ
+ăă	ɐɐ
+ää	ɛː
+bb	bː
+cc	t͡sː
+čč	t͡ʃː
+dd	dː
+dzdz	d͡zː
+dzsdzs	d͡ʒː
+ee	ɛː
+ëë	eː
+ēē	eːː
+ff	fː
+gg	ɡː
+dʹdʹ	ɟː
+hh	hː
+ii	iː
+īī	iːː
+ïï	ɯː
+її	ɯː
+ǰǰ	d͡ʒʲː
+yy	jː
+kk	kː
+ll	lː
+lyly	jː
+lʹlʹ	jː
+mm	mː
+nn	nː
+ńń	ɲː
+ŋŋ	ŋː
+oo	oː
+ōō	oːː
+öö	øː
+ȫȫ	øːː
+pp	pː
+ququ	kvː
+rr	rː
+šš	ʃː
+szsz	sː
+ss	sː
+tt	tː
+ttʹ	cː
+uu	uː
+u̯u̯	ww
+ūū	uːː
+üü	yː
+ǖǖ	yːː
+ü̯ü̯	ɥː
+vv	vː
+ww	vː
+xx	kː s
+zz	zː
+zszs	ʒː
+žž	ʒː
+γγ	ɣː
+χχ	χː
+δδ	ðː
+ββ	βː
+V	ə
