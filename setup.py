@@ -14,7 +14,7 @@ setup(
             ['ronataswestoldturkic=ronataswestoldturkiccommands']
     },
     install_requires=[
-        'cldfbench', "epitran>=1.24", "ipatok>=0.4.1"
+        'cldfbench', "epitran>=1.24", "ipatok>=0.4.1", "lingpy>=2.6.9"
     ],
     extras_require={
         'test': [
