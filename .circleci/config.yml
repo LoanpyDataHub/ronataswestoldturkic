@@ -1,0 +1,51 @@
+version: 2.1
+
+orbs:
+  python: circleci/python@0.3.2
+
+jobs:
+  build:
+    executor: python/default
+    steps:
+      - run:
+          name: Clone repo
+          command: >
+            git clone https://github.com/martino-vic/ronataswestoldturkic.git
+      - run:
+          name: Clone reference catalogues (takes 1min15s)
+          command: |
+            mkdir concepticon
+            cd concepticon
+            git clone https://github.com/concepticon/concepticon-data.git
+            cd ..
+            git clone https://github.com/glottolog/glottolog.git
+            git clone https://github.com/cldf-clts/clts.git
+      - run:
+          name: install commands
+          command: pip install -e ronataswestoldturkic
+      - run:
+          name: Create comments.tsv
+          command: cldfbench ronataswestoldturkic.makecomments
+      - run:
+          name: Create Hungarian IPA transcriptions
+          command: cldfbench ronataswestoldturkic.makeortho
+      - run:
+          name: run lexibank script
+          command: >
+            cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py
+            --concepticon-version=v3.0.0
+            --glottolog-version=v4.7
+            --clts-version=v2.2.0
+      - run:
+          name: Install pytest
+          command: pip install pytest-cldf
+      - run:
+          name: Test with pytest
+          command: |
+            cd ronataswestoldturkic
+            pytest --cldf-metadata=cldf/cldf-metadata.json test.py
+
+workflows:
+  main:
+    jobs:
+      - build
