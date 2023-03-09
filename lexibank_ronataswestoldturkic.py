@@ -128,9 +128,9 @@ class Dataset(BaseDataset):
                         Cognacy=cogid,
                         Year=cognates["Year"]
                         ):
-#                    lex["CV_Segments"] = get_clusters(lex["Segments"])
-#                    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-#                    lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
+                    lex["CV_Segments"] = get_clusters(lex["Segments"])
+                    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
+                    lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
 
@@ -150,4 +150,4 @@ class Dataset(BaseDataset):
                             })
                         borrid += 1
                         eah = None  # reset memory
-        #args.writer.align_cognates()
+        args.writer.align_cognates()

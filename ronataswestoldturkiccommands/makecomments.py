@@ -1,7 +1,7 @@
 """
 Read comments from raw file and store them in ./etc/comments.tsv.
 """
-from cldfbench_ronataswestoldturkic import Dataset as WOT
+from lexibank_ronataswestoldturkic import Dataset as WOT
 
 def run(args):
     """
@@ -12,7 +12,7 @@ def run(args):
     lines = "Row\tComment"
 
     for idx, row in enumerate(wot.raw_dir.read_csv(
-            "westoldturkic.tsv", delimiter="\t")[1:]):
+            "wot.tsv", delimiter="\t")[1:]):
         if row[-1]:  # =comment
             lines += f"\nWest Old Turkic{idx+1}\t{row[-1]}"
 
