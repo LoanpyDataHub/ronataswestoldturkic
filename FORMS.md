@@ -17,7 +17,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[(' ', '')]`
+- `replacements`: `[('ajnároz', 'ajn'), ('ápol', 'áp'), ('áporodik', 'áporo'), ('árik', 'ár'), ('baszik', 'basz'), ('bocsánik', 'bocsán'), ('bakancs', 'bakan'), ('borít', 'bor'), ('burok', 'bur'), ('bűvös', 'bű'), ('csatol', 'csat'), ('csekély', 'csek'), ('csökok', 'csök'), ('csökönyös', 'csököny'), ('egyház', 'egy'), ('enged', 'eng'), ('engesztel', 'eng'), ('gyaláz', 'gyalá'), ('gyarapodik', 'gyarap'), ('gyarapszik', 'gyarap'), ('ijed', 'ije'), ('ijeszt', 'ije'), ('illik', 'ill'), ('imád', 'im'), ('izzik', 'izzi'), ('kárókatona', 'kárókaton'), ('kérődzik', 'kér'), ('késik', 'kés'), ('koldul', 'koldu'), ('koldus', 'koldu'), ('köpcsös', 'köpcö'), ('mónár köd', 'mónár'), ('oktat', 'okt'), ('önik', 'ön'), ('örül', 'ör'), ('sebes', 'seb'), ('serte', 'sert'), ('séd', 'sé'), ('sólyom', 'sólyo'), ('szender', 'szend'), ('szöndör', 'szönd'), ('szöcske', 'szöcsk'), ('szökik', 'szök'), ('szűnik', 'szűn'), ('táplál', 'táplá'), ('lengődik', 'leng'), ('térül', 'tér'), ('tojik', 'toj'), ('torlódik', 'torló'), ('torlik', 'torli'), ('tökéletes', 'töké'), ('töméntelen', 'tömén'), ('történik', 'történ'), ('üdül', 'üdü')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `True`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.

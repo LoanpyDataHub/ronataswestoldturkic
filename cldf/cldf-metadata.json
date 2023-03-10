@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronataswestoldturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0-32-gddfc378",
+            "dc:created": "1.0-38-g8e376c8",
             "dc:title": "Repository"
         },
         {
@@ -54,6 +54,9 @@
     ],
     "rdf:ID": "ronataswestoldturkic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",

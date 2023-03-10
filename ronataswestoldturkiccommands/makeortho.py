@@ -21,10 +21,9 @@ def run(args):
     lines = "Grapheme\tIPA"
     wrdlst = []
     for row in wot.cldf_dir.read_csv("forms.csv")[1:]:
-        row[4] = sub(" ", "", row[4])
-        if row[2] == "H" and row[4] not in wrdlst:
-            lines += f"\n^{row[4]}$\t{segipa(row[4])}"
-            wrdlst.append(row[4])
+        if row[2] == "H" and row[5] not in wrdlst:
+            lines += f"\n^{row[5]}$\t{segipa(row[5])}"
+            wrdlst.append(row[5])
 
     # write csv
     with open(wot.etc_dir / "orthography" / "H.tsv", "w+") as file:

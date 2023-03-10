@@ -1,0 +1,979 @@
+ID	DOCULECT	ALIGNMENT	COGID
+0	H	#aː t͡ʃ# -#	1
+1	EAH	a ɣ at͡ʃi	1
+2	H	#aː ɟ uː# -#	2
+3	EAH	a l.d a ɣ	2
+4	H	#ɒ j.n aː r + oz#	3
+5	EAH	a j a n	3
+6	H	#aː l# -#	6
+7	EAH	aː l -	6
+8	H	#ɒ l ɒ t͡ʃ# -#	7
+9	EAH	a l a t͡ʃ -	7
+10	H	#ɒ l ɒ t͡ʃ# -#	8
+11	EAH	a l a t͡ʃ -	8
+12	H	#ɒ l ɒ t͡ʃ# -#	9
+13	EAH	a l a t͡ʃ -	9
+14	H	#ɒ l ɒ t͡ʃ# -#	10
+15	EAH	a l a t͡ʃ -	10
+16	H	#ɒ l.m ɒ# -#	11
+17	EAH	a l.m a -	11
+18	H	#aː l.t ɒ l ɒ ɡ# -#	12
+19	EAH	a l.t a l a ɡ -	12
+20	H	#aː t ɒ l ɒ ɡ# -#	13
+21	EAH	a l.t a l a ɡ -	13
+22	H	#aː p + ol#	14
+23	EAH	o p	14
+24	H	#aː p o r o + dik#	15
+25	EAH	o p o r o	15
+26	H	#ɒ p.r oː# -#	16
+27	EAH	o p u ruɣ	16
+28	H	#ɒ r ɒ t# -#	17
+29	EAH	o r a t -	17
+30	H	#ɒ r ɒ t# -#	18
+31	EAH	o r a t -	18
+32	H	#aː r + ik#	19
+33	EAH	aː r	19
+34	H	#aː r.t# -#	20
+35	EAH	aː r.t at	20
+36	H	#aː r.k aː ɲ# -#	21
+37	EAH	a r.k a n -	21
+38	H	#aː r o k# -#	22
+39	EAH	aː r u k -	22
+40	H	#aː r.p ɒ# -#	23
+41	EAH	a r.p a -	23
+42	H	#aː r.t aː ɲ# -#	24
+43	EAH	a r i t an	24
+44	H	#aː s o + k#	25
+45	EAH	a s.k i	25
+46	H	#b aː j# -#	26
+47	EAH	b a j -	26
+48	H	#b ɒ l.k aː ɲ# -#	27
+49	EAH	b a l.k a n -	27
+50	H	#b ɒ l.t ɒ# -#	28
+51	EAH	b a l.t a -	28
+52	H	#b aː l.v aː ɲ# -#	29
+53	EAH	b a l.v a n -	29
+54	H	#b aː n# -#	31
+55	EAH	b a ɣ in	31
+56	H	#b ɒ r aː ɡ# -#	32
+57	EAH	b a r a ɡ -	32
+58	H	#b aː r.t͡s ɒ# -#	33
+59	EAH	b aː s a -	33
+60	H	#b ɒ r o m# -#	34
+61	EAH	b a r u m -	34
+62	H	#b aː r.ʃ o ɲ# -#	35
+63	EAH	b a r.t͡ʃ u n -	35
+64	H	#b ɒ s + ik#	36
+65	EAH	b a s	36
+66	H	#b aː t o r# -#	37
+67	EAH	b a ɣ a t ur	37
+68	H	#b e t͡ʃ y l# -#	38
+69	EAH	b ɛ t͡ʃ ɛ l -	38
+70	H	#b eː k ɒ# -#	39
+71	EAH	b a k a -	39
+72	H	#b eː k oː# -#	40
+73	EAH	b i k a ɣu	40
+74	H	#b eː k.j oː# -#	41
+75	EAH	b i k a ɣu	41
+76	H	#b eː j ɛ ɡ# -#	42
+77	EAH	b ɛ l ɛ ɡ -	42
+78	H	#b eː r# -#	43
+79	EAH	b eː r y	43
+80	H	#b ɛ r.t͡s ɛ l# -#	44
+81	EAH	b ɛ r.s i l -	44
+82	H	#b ɛ r.t yː# -#	45
+83	EAH	b y r.t i ɣ	45
+84	H	#b ɛ ʃ ɛ# -#	46
+85	EAH	b ɛ ʃ ɛ -	46
+86	H	#b ɛ ʃ ɛ ɲ øː# -#	47
+87	EAH	b ɛ ʃ ɛ n ɛ ɣ	47
+88	H	#b ɛ t yː# -#	48
+89	EAH	b i t i ɣ	48
+90	H	#b i t͡ʃ ɒ k# -#	49
+91	EAH	b i t͡ʃ a k -	49
+92	H	#b i t͡ʃ ɒ k# -#	50
+93	EAH	b i t͡ʃ a k -	50
+94	H	#b i t͡ʃ ɒ k# -#	51
+95	EAH	b i t͡ʃ a k -	51
+96	H	#b i k ɒ# -#	52
+97	EAH	b i k a -	52
+98	H	#b i l i n.t͡ʃ# -#	53
+99	EAH	b i l ɛ t͡ʃ ɛk	53
+100	H	#b iː r oː# -#	54
+101	EAH	b i r u ɣ	54
+102	H	#b o t͡ʃ aː n + ik#	55
+103	EAH	b o l.t͡ʃ a n	55
+104	H	#b o t͡ʃ aː t# -#	56
+105	EAH	b u l.t͡ʃ a t -	56
+106	H	#b oː d ɒ# -#	57
+107	EAH	b a l.d a v	57
+108	H	#b o ɡ# -#	58
+109	EAH	b o ɡ -	58
+110	H	#b o ɡ.j ɒ# -#	59
+111	EAH	b o ɡ u l	59
+112	H	#b o j.t# -#	60
+113	EAH	b u ɣ ut	60
+114	H	#b o j.t o r.j aː n# -#	61
+115	EAH	b a l.t u r.ɣ a n -	61
+116	H	#b o k ɒ# -#	62
+117	EAH	b a k a -	62
+118	H	#b ɒ k ɒ + n.t͡ʃ#	63
+119	EAH	b o k ɒ	63
+120	H	#b ɒ k ɒ + n.t͡ʃ#	64
+121	EAH	b ɒ k ɒ	64
+122	H	#b o j# -#	65
+123	EAH	b o ɣ ol	65
+124	H	#b o r# -#	66
+125	EAH	b o r -	66
+126	H	#b o r + iːt#	67
+127	EAH	b o r	67
+128	H	#b u r + ok#	68
+129	EAH	b u r	68
+130	H	#b o r.j uː# -#	69
+131	EAH	b u r a ɣu	69
+132	H	#b o r.ʃ# -#	70
+133	EAH	b u r.t͡ʃ -	70
+134	H	#b o r.ʃ oː# -#	71
+135	EAH	b u r.t͡ʃ a ɣ	71
+136	H	#b o r.z# -#	72
+137	EAH	b o r.s i	72
+138	H	#b o s o r.k aː ɲ# -#	73
+139	EAH	b a s a r.k a n -	73
+140	H	#b o sː ɒ n# -#	74
+141	EAH	b u s a n -	74
+142	H	#b o sː uː# -#	75
+143	EAH	b o s u ɣ	75
+144	H	#b o t# -#	76
+145	EAH	b u t iɣ	76
+146	H	#b o t# -#	77
+147	EAH	b u t iɣ	77
+148	H	#b u t# -#	78
+149	EAH	b u t iɣ	78
+150	H	#b u t# -#	79
+151	EAH	b u t iɣ	79
+152	H	#b o z ɒ# -#	80
+153	EAH	b o z a -	80
+154	H	#b øː# -#	81
+155	EAH	b ɛ ɣ	81
+156	H	#b ø ɡ ø j# -#	82
+157	EAH	b ø ɡ ø l øk	82
+158	H	#b ø j.t# -#	83
+159	EAH	b y ɣ.t ɛ	83
+160	H	#b ø l.t͡ʃ# -#	84
+161	EAH	b y ɣ yt͡ʃi	84
+162	H	#b ø l.t͡ʃ øː# -#	85
+163	EAH	b ɛ l.t͡ʃ ɛ ɣ	85
+164	H	#b ø l eː ɲ# -#	86
+165	EAH	b ɛ l ɛ n -	86
+166	H	#b ø r.t ø n# -#	87
+167	EAH	b ɛ r.t ɛ n -	87
+168	H	#b uː ʃ# -#	89
+169	EAH	b u ɣ -	89
+170	H	#b uː t͡ʃ uː# -#	90
+171	EAH	b u l.t͡ʃ u ɣ	90
+172	H	#b u ɡ ɒ# -#	91
+173	EAH	b u ɡ a -	91
+174	H	#b u l ɒ r# -#	92
+175	EAH	b u l a r -	92
+176	H	#b uː s# -#	93
+177	EAH	b uː s -	93
+178	H	#b uː z ɒ# -#	94
+179	EAH	b u ɣ.z a.i -	94
+180	H	#b u z o ɡ + aːɲ#	95
+181	EAH	b u z.ɡ a n	95
+182	H	#b y kː# -#	96
+183	EAH	b i k -	96
+184	H	#b yː n# -#	97
+185	EAH	b yː n -	97
+186	H	#b y t y# -#	98
+187	EAH	b y t y ɣ	98
+188	H	#b yː v ø + ʃ#	99
+189	EAH	b y ɣ y	99
+190	H	#t͡s i ɡ.l ɛ# -#	100
+191	EAH	t͡ʃ i ɡ.l ɛ -	100
+192	H	#t͡ʃ i ɡ.l ɛ# -#	101
+193	EAH	t͡ʃ i k.l ɛ -	101
+194	H	#t͡ʃ ɛ k.l ɛ# -#	102
+195	EAH	t͡ʃ i k.l ɛ -	102
+196	H	#t͡ʃ ɛ k.j ɛ# -#	103
+197	EAH	t͡ʃ i k.l ɛ -	103
+198	H	#t͡ʃ i k.l ɛ# -#	104
+199	EAH	t͡ʃ i k.l ɛ -	104
+200	H	#t͡ʃ i ɡ o + jɒ#	105
+201	EAH	t͡ʃ i ɡ.l a	105
+202	H	#t͡ʃ i ɡ.l ɒ# -#	106
+203	EAH	t͡ʃ i ɡ.l a -	106
+204	H	#t͡s ø t.k eː ɲ# -#	107
+205	EAH	s y t.k ɛ n -	107
+206	H	#t͡s ø t.k eː ɲ# -#	108
+207	EAH	s y tː ɛ ɡ ɛn	108
+208	H	#t͡ʃ ɒ b ɒ k# -#	109
+209	EAH	t͡ʃ a b a k -	109
+210	H	#t͡ʃ ɒ k# -#	110
+211	EAH	t͡ʃ a k -	110
+212	H	#t͡ʃ aː k aː ɲ# -#	111
+213	EAH	t͡ʃ a k a n -	111
+214	H	#t͡ʃ ɒ l aː n# -#	112
+215	EAH	t͡ʃ a l aː n -	112
+216	H	#t͡ʃ ɒ l aː n# -#	113
+217	EAH	t͡ʃ i l aː n -	113
+218	H	#t͡ʃ ɒ l aː n# -#	114
+219	EAH	t͡ʃ a l a ɣ an	114
+220	H	#t͡ʃ ɒ l i t# -#	115
+221	EAH	t͡ʃ a l i t -	115
+222	H	#t͡ʃ ɒ l i t# -#	116
+223	EAH	t͡ʃ a l i t -	116
+224	H	#t͡ʃ ɒ n ɒ k# -#	117
+225	EAH	t͡ʃ a n a k -	117
+226	H	#t͡ʃ ɒ t ɒ# -#	118
+227	EAH	t͡ʃ a t a -	118
+228	H	#t͡ʃ ɒ t ɒ# -#	119
+229	EAH	t͡ʃ a t a -	119
+230	H	#t͡ʃ ɒ t + ol#	120
+231	EAH	t͡ʃ a t	120
+232	H	#t͡ʃ ɒ t# -#	121
+233	EAH	t͡ʃ a t i	121
+234	H	#t͡ʃ eː t͡ʃ# -#	122
+235	EAH	t͡ʃ e t͡ʃ -	122
+236	H	#t͡ʃ eː t͡ʃ# -#	123
+237	EAH	t͡ʃ e t͡ʃ ɛk	123
+238	H	#t͡ʃ ɛ k + eːl#	124
+239	EAH	t͡ʃ i k	124
+240	H	#t͡ʃ ɛ p yː# -#	125
+241	EAH	t͡ʃ ø p y ɣ	125
+242	H	#t͡ʃ ɛ p yː# -#	126
+243	EAH	t͡ʃ ø p y ɣ	126
+244	H	#t͡ʃ ɛ p yː# -#	127
+245	EAH	t͡ʃ ø p y ɣ	127
+246	H	#t͡ʃ ɛ p yː# -#	128
+247	EAH	t͡ʃ ø p y ɣ	128
+248	H	#t͡ʃ i ɡ ɒ# -#	129
+249	EAH	t͡ʃ ɯ ɡ a -	129
+250	H	#t͡ʃ i ɡ ɛ r# -#	130
+251	EAH	t͡ʃ i ɡ i r -	130
+252	H	#t͡ʃ i ɡ ɛ r# -#	131
+253	EAH	t͡ʃ i ɡ i r -	131
+254	H	#t͡ʃ i p ɒ# -#	132
+255	EAH	t͡ʃ a p a ɣ	132
+256	H	#t͡ʃ o l aː k# -#	133
+257	EAH	t͡ʃ o l a k -	133
+258	H	#t͡ʃ o m ɒ k# -#	134
+259	EAH	t͡ʃ o m a k -	134
+260	H	#t͡ʃ øː d ø r# -#	135
+261	EAH	t͡ʃ ɛ w.d y r -	135
+262	H	#t͡ʃ øː d ø r# -#	136
+263	EAH	t͡ʃ ɛ w.d y r -	136
+264	H	#t͡ʃ øː d ø r# -#	137
+265	EAH	t͡ʃ ɛ w.d y r -	137
+266	H	#t͡ʃ ø k# -#	138
+267	EAH	t͡ʃ y k -	138
+268	H	#t͡ʃ ø k# -#	139
+269	EAH	t͡ʃ y k -	139
+270	H	#t͡ʃ ø k + ik#	140
+271	EAH	t͡ʃ y k	140
+272	H	#t͡ʃ ø k ø ɲ + øʃ#	141
+273	EAH	t͡ʃ y k y n	141
+274	H	#t͡ʃ øː s# -#	142
+275	EAH	t͡ʃ ɛ.y ʃ -	142
+276	H	#t͡ʃ uː ɲ ɒ# -#	143
+277	EAH	t͡ʃ u n a ɣ	143
+278	H	#t͡ʃ yː r# -#	144
+279	EAH	t͡ʃ ɛ v yr	144
+280	H	#t͡ʃ yː r# -#	145
+281	EAH	t͡ʃ ɛ v iri	145
+282	H	#d ɒ k.ʃ i# -#	146
+283	EAH	d͡ʒʲ a k.ʃ i -	146
+284	H	#d ɒ k u# -#	147
+285	EAH	d a k u -	147
+286	H	#d ɒ r ɒ# -#	148
+287	EAH	d a r a -	148
+288	H	#d ɒ r ɒ# -#	149
+289	EAH	d a r a -	149
+290	H	#d eː l# -#	150
+291	EAH	t ø l i	150
+292	H	#d eː l# -#	151
+293	EAH	d ø l i	151
+294	H	#d i.oː# -#	152
+295	EAH	d͡ʒʲ i ɣaɣ	152
+296	H	#d i.oː# -#	153
+297	EAH	d͡ʒʲ i ɣaɣ	153
+298	H	#d i s.n oː# -#	154
+299	EAH	d͡ʒʲ i s.n a ɣ	154
+300	H	#d øː l# -#	155
+301	EAH	d y l -	155
+302	H	#d øː l# -#	156
+303	EAH	d y l -	156
+304	H	#d u ɡ# -#	157
+305	EAH	d ɯ ɡ -	157
+306	H	#d u ɡ# -#	158
+307	EAH	d ɯ ɡ -	158
+308	H	#e ɟ.h + aːz#	159
+309	EAH	e ɟ	159
+310	H	#e ɟ.h + aːz#	160
+311	EAH	e ɟ	160
+312	H	#ɛ k ɛ# -#	162
+313	EAH	ɛ k ɛ ɣ	162
+314	H	#ɛ n.ɡ + ɛd#	163
+315	EAH	ɛ n.ɡ	163
+316	H	#ɛ n.ɡ + ɛs.tɛl#	164
+317	EAH	ɛ n.ɡ	164
+318	H	#ɛ n øː# -#	165
+319	EAH	i n ɛ ɣ	165
+320	H	#eː r# -#	166
+321	EAH	ɛ r -	166
+322	H	#eː r.d ɛ m# -#	167
+323	EAH	ɛ r.d ɛ m -	167
+324	H	#ɛ r.k ø l.t͡ʃ# -#	168
+325	EAH	ɛ r.k ɛ l.t͡ʃ -	168
+326	H	#ɛ r.ɲ ɛ d# -#	169
+327	EAH	ɛ r i n -	169
+328	H	#ɛ r øː# -#	170
+329	EAH	ɛ r i ɣ	170
+330	H	#ɛ ʃ# -#	171
+331	EAH	i t͡ʃ y	171
+332	H	#ɛ ʃ.k y# -#	172
+333	EAH	i t͡ʃ.k y -	172
+334	H	#eː s# -#	173
+335	EAH	ɛ s -	173
+336	H	#ɛ t ɛ l# -#	174
+337	EAH	ɛ t i l -	174
+338	H	#ɛ t i l# -#	175
+339	EAH	ɛ t i l -	175
+340	H	#ɡ ɒ z# -#	176
+341	EAH	k a ɣ.z u	176
+342	H	#ɡ ø d eː ɲ# -#	177
+343	EAH	ɡ y d ɛ n -	177
+344	H	#ɡ ø d eː ɲ# -#	178
+345	EAH	ɡ y d ɛ n -	178
+346	H	#ɡ ø r eː ɲ# -#	179
+347	EAH	ɡ y r ɛ n -	179
+348	H	#ɡ ø r eː ɲ# -#	180
+349	EAH	ɡ y r ɛ n -	180
+350	H	#ɡ y ɟ yː# -#	181
+351	EAH	k y d ɛ ɣy	181
+352	H	#ɡ y z y# -#	182
+353	EAH	k y s ɛ ɣy	182
+354	H	#ɟ ɒ l aː + z#	183
+355	EAH	d͡ʒʲ a l a	183
+356	H	#ɟ ɒ l o m# -#	184
+357	EAH	d͡ʒʲ a l u m -	184
+358	H	#ɟ ɒ n uː# -#	185
+359	EAH	d͡ʒʲ o n a ɣ	185
+360	H	#ɟ ɒ p.j uː# -#	186
+361	EAH	d͡ʒʲ a p.ɣ u -	186
+362	H	#ɟ ɒ p o t# -#	187
+363	EAH	d͡ʒʲ a p u t -	187
+364	H	#ɟ ɒ r ɒ + podik#	188
+365	EAH	d͡ʒʲ a r.p a	188
+366	H	#ɟ ɒ r ɒ + p.sik#	189
+367	EAH	d͡ʒʲ a r.p a	189
+368	H	#ɟ ɒ r.l oː# -#	190
+369	EAH	d͡ʒʲ a r.l ɯ ɣ	190
+370	H	#ɟ aː r.t# -#	191
+371	EAH	d͡ʒʲ a r at	191
+372	H	#ɟ aː s# -#	192
+373	EAH	d͡ʒʲ a s -	192
+374	H	#ɟ eː k eː ɲ# -#	193
+375	EAH	d͡ʒʲ ɛ k ɛ n -	193
+376	H	#ɟ e n.ɡ ɛ# -#	194
+377	EAH	d͡ʒʲ ɛ n.ɡ ɛ -	194
+378	H	#ɟ ɛ p.l øː# -#	195
+379	EAH	d͡ʒʲ i p.l i ɣ	195
+380	H	#ɟ ɛ p yː# -#	196
+381	EAH	d͡ʒʲ ɛ p i ɣ	196
+382	H	#ɟ ɛ p# -#	197
+383	EAH	d͡ʒʲ ɛ p i	197
+384	H	#ɟ ɛ r.m ɛ k# -#	198
+385	EAH	d͡ʒʲ ɛ r.m ɛ k -	198
+386	H	#ɟ ɛ r.m ɛ k# -#	199
+387	EAH	d͡ʒʲ ɛ r.m ɛ k -	199
+388	H	#ɟ ɛ r.c ɒ# -#	200
+389	EAH	d͡ʒʲ a r.t a -	200
+390	H	#ɟ ɛ r.c aː n# -#	201
+391	EAH	d͡ʒʲ a r.t a ɣ an	201
+392	H	#ɟ i l.k o ʃ# -#	202
+393	EAH	d͡ʒʲ i l.k u ʃ -	202
+394	H	#ɟ o m# -#	203
+395	EAH	d͡ʒʲ o m -	203
+396	H	#ɟ o m o r# -#	204
+397	EAH	d͡ʒʲ u m u r -	204
+398	H	#ɟ oː n# -#	205
+399	EAH	d͡ʒʲ uː n -	205
+400	H	#ɟ o v o n# -#	206
+401	EAH	d͡ʒʲ u v u n -	206
+402	H	#ɟ o p aː r# -#	207
+403	EAH	d͡ʒʲ ɯ p a r -	207
+404	H	#ɟ ø n.ɟ# -#	208
+405	EAH	d͡ʒʲ i n.d͡ʒʲ y	208
+406	H	#ɟ ø t ø r# -#	209
+407	EAH	d͡ʒʲ i t y r -	209
+408	H	#ɟ øː z# -#	210
+409	EAH	d͡ʒʲ ɛ ɣ yz	210
+410	H	#ɟ uː l# -#	211
+411	EAH	d͡ʒʲ u l -	211
+412	H	#ɟ uː r# -#	212
+413	EAH	d͡ʒʲ u ɣ ur	212
+414	H	#ɟ yː l# -#	213
+415	EAH	d͡ʒʲ i ɣ il	213
+416	H	#ɟ yː j.t# -#	214
+417	EAH	ɟ yː l -	214
+418	H	#ɟ yː l ø l# -#	215
+419	EAH	d͡ʒʲ ɛ ɣ i l ɛ	215
+420	H	#ɟ y m ø l.t͡ʃ# -#	216
+421	EAH	d͡ʒʲ ɛ m i l.t͡ʃ -	216
+422	H	#ɟ y m ø l.t͡ʃ eː ɲ# -#	217
+423	EAH	d͡ʒʲ ɛ m i l.t͡ʃ ɛ n -	217
+424	H	#ɟ yː r yː# -#	218
+425	EAH	d͡ʒʲ ɛ r ɛ ɣ	218
+426	H	#ɟ yː r yː# -#	219
+427	EAH	d͡ʒʲ y r y ɣ	219
+428	H	#ɟ yː s yː# -#	220
+429	EAH	d͡ʒʲ y ɣ.s y ɣ	220
+430	H	#h ɒ j oː# -#	221
+431	EAH	h a j i ɣ	221
+432	H	#h ɒ r ɒ n.ɡ# -#	222
+433	EAH	h a n.ɡ a r -	222
+434	H	#h ɛ r.j oː# -#	223
+435	EAH	k.s i r.ɣ u j	223
+436	H	#h o m o k# -#	224
+437	EAH	h u m o k i	224
+438	H	#h u r o + k#	225
+439	EAH	u r o k	225
+440	H	#i d øː# -#	226
+441	EAH	y d ɛ ɣ	226
+442	H	#i ɡ ɛ# -#	227
+443	EAH	y ɡ ɛ -	227
+444	H	#i ɡ ɛ n# -#	228
+445	EAH	ɛ ɡ ɛ n -	228
+446	H	#i j ɛ + d#	229
+447	EAH	ɛ j i	229
+448	H	#i j ɛ + s.t#	230
+449	EAH	ɛ j i	230
+450	H	#i k ɛ r# -#	231
+451	EAH	i k i r -	231
+452	H	#i l.d o m# -#	232
+453	EAH	i l.d a m -	232
+454	H	#i lː + ik#	233
+455	EAH	i l	233
+456	H	#i m aː + d#	234
+457	EAH	v i m	234
+458	H	#i n.ɡ# -#	235
+459	EAH	y mː ɛɡ	235
+460	H	#iː r# -#	236
+461	EAH	i r -	236
+462	H	#iː r oː# -#	237
+463	EAH	i r a ɣ	237
+464	H	#i zː i + k#	238
+465	EAH	i s i	238
+466	H	#k ɒ l ɒ.u z# -#	242
+467	EAH	k a l a.u z -	242
+468	H	#k ɒ l oː z# -#	243
+469	EAH	k a l a.u z -	243
+470	H	#k aː l i z# -#	244
+471	EAH	k a l i z -	244
+472	H	#k ɒ l o k aː ɲ# -#	245
+473	EAH	k a r.l u k a n -	245
+474	H	#k o l o k aː ɲ# -#	246
+475	EAH	k a r.l u k a n -	246
+476	H	#k ɒ r.l o k aː ɲ# -#	247
+477	EAH	k a r.l u k a n -	247
+478	H	#k ɒ n.ɟ iː k# -#	251
+479	EAH	k ɒ n.ɟ i k ɒ	251
+480	H	#k ɒ n.ɟ iː k ɒ# -#	252
+481	EAH	k ɒ n.ɟ i k ɒ -	252
+482	H	#k ɒ ɲ ɒ r oː# -#	254
+483	EAH	k a r a m u ɣ	254
+484	H	#k ɒ p.t aː ɲ# -#	255
+485	EAH	k a p.k a n -	255
+486	H	#k ɒ p u# -#	256
+487	EAH	k a p u ɣ	256
+488	H	#k ɒ r# -#	257
+489	EAH	k a r -	257
+490	H	#k ɒ r ɒ k aː n# -#	259
+491	EAH	k a r a k a n -	259
+492	H	#k ɒ r aː m# -#	260
+493	EAH	k o r aː m -	260
+494	H	#k ɒ r ɒ m.b eː l# -#	261
+495	EAH	k a r a m.p i l -	261
+496	H	#k ɒ r ɒ m.b eː l# -#	262
+497	EAH	k a r a m.p i l -	262
+498	H	#k ɒ r oː# -#	263
+499	EAH	k a r o ɣ	263
+500	H	#k aː r oː k ɒ t o n + ɒ#	264
+501	EAH	k a r a k o t a n	264
+502	H	#k ɒ r.v ɒ j# -#	265
+503	EAH	k a r.ɣ a j -	265
+504	H	#k ɒ t aː n.ɡ# -#	266
+505	EAH	k a t aː n.ɡ -	266
+506	H	#k ɒ z aː r# -#	267
+507	EAH	k a z a r -	267
+508	H	#k ɛ t͡ʃ.k ɛ# -#	269
+509	EAH	k ɛ t͡ʃ ɛ kɛ	269
+510	H	#k eː k# -#	270
+511	EAH	k ɛ j.k -	270
+512	H	#k ɛ l ɛ n.ɟ ɛ# -#	271
+513	EAH	k ɛ l i n.t͡ʃ ɛ ɣ	271
+514	H	#k ɛ n.d ɛ r# -#	272
+515	EAH	k ɛ n.d i r -	272
+516	H	#k eː n ɛ ʃ øː# -#	273
+517	EAH	k ɛ n ɛ ʃ yː -	273
+518	H	#k ɛ p ɛ# -#	275
+519	EAH	k ɛ p ɛ ɣ	275
+520	H	#k eː r + øːd͡zik#	277
+521	EAH	k eː r	277
+522	H	#k eː r øː# -#	278
+523	EAH	k ɛ v ɛ rɛɣ	278
+524	H	#k ɛ r.t# -#	279
+525	EAH	k ɛ r.t ɛ	279
+526	H	#k ɛ ʃ ɛ j yː# -#	280
+527	EAH	k y t͡ʃ ɛ l ɛ ɣ	280
+528	H	#k eː ʃ + ik#	281
+529	EAH	k eː t͡ʃ	281
+530	H	#k i t͡ʃ i ɲ# -#	282
+531	EAH	k i t͡ʃ i n -	282
+532	H	#k i t͡ʃ i ɲ# -#	283
+533	EAH	k y t͡ʃ y n -	283
+534	H	#k i t͡ʃ i# -#	284
+535	EAH	k i t͡ʃ i n	284
+536	H	#k i ʃ# -#	285
+537	EAH	k i t͡ʃ iɣ	285
+538	H	#k iː j.t͡s# -#	286
+539	EAH	k i j iz	286
+540	H	#k i k ɛ r i t͡ʃ# -#	287
+541	EAH	k y k ɛ r i l.t͡ʃ -	287
+542	H	#k i k ø t͡ʃ eː ɲ# -#	288
+543	EAH	k y k ɛ r.t͡ʃ ɛ n -	288
+544	H	#k iː n# -#	289
+545	EAH	k iː n -	289
+546	H	#k o b ɒ k# -#	290
+547	EAH	k ɒ b ɒ k -	290
+548	H	#k o b o z# -#	291
+549	EAH	k o b o z -	291
+550	H	#k o l.d u + l#	292
+551	EAH	k o l.d u	292
+552	H	#k o l.d u + ʃ#	293
+553	EAH	k o l.d u	293
+554	H	#k o l.d u + ʃ#	294
+555	EAH	k o l.d u	294
+556	H	#k o m.l oː# -#	295
+557	EAH	k u m.l a ɣ	295
+558	H	#k o m oː t͡ʃ i n# -#	296
+559	EAH	k ɒ m i t͡ʃ i n -	296
+560	H	#k o m o n.d o r# -#	297
+561	EAH	k u m a n.d u r -	297
+562	H	#k o m o r# -#	298
+563	EAH	k o m u r -	298
+564	H	#k o p o r.ʃ oː# -#	299
+565	EAH	k o p u r.t͡ʃ a ɣ	299
+566	H	#k o r# -#	300
+567	EAH	k u r -	300
+568	H	#k o r.h aː ɲ# -#	301
+569	EAH	k o r.ɣ a n -	301
+570	H	#k oː r oː# -#	302
+571	EAH	k u r o ɣ	302
+572	H	#k o r o m# -#	303
+573	EAH	k u r u m -	303
+574	H	#k o ʃ# -#	304
+575	EAH	k o t͡ʃ -	304
+576	H	#k o z.m ɒ# -#	305
+577	EAH	k a s.m a ɣ	305
+578	H	#k ø d.m ø n# -#	306
+579	EAH	k ɛ d.m ɛ n -	306
+580	H	#k ø d.m ɛ n# -#	307
+581	EAH	k ɛ d.m ɛ n -	307
+582	H	#k ø k eː ɲ# -#	308
+583	EAH	k ø k ɛ n -	308
+584	H	#k ø l.t͡ʃ ø n# -#	309
+585	EAH	k y l.t͡ʃ ɛ n -	309
+586	H	#k ø l.d ø k# -#	310
+587	EAH	k i n.d i k -	310
+588	H	#k ø j ø k# -#	311
+589	EAH	k y l ɛ k -	311
+590	H	#k ø j yː# -#	312
+591	EAH	k ɛ l i ɣ	312
+592	H	#k ø m øː d ø r ø ɡ# -#	313
+593	EAH	k ø m ø n.d ø r ø k -	313
+594	H	#k ɛ n.t.r ɛ ɡ# -#	314
+595	EAH	k ø m ø n.d ørøk	314
+596	H	#k ø ɲ.v# -#	315
+597	EAH	k y ɲ yɣ	315
+598	H	#k ø ɲ y# -#	316
+599	EAH	k y ɲ y ɣ	316
+600	H	#k ø p.t͡s ø ʃ# -#	317
+601	EAH	k ø p.t͡ʃ ɛ ɣ -	317
+602	H	#k ø p ɛ t͡s# -#	318
+603	EAH	k ø p ɛ k -	318
+604	H	#k ø p ø ɲ ɛ k# -#	319
+605	EAH	k ɛ p ɛ n ɛ k -	319
+606	H	#k ø p yː# -#	320
+607	EAH	k y p y ɣ	320
+608	H	#k øː r i ʃ# -#	321
+609	EAH	k ɛ v.r i t͡ʃ -	321
+610	H	#k øː r øː# -#	322
+611	EAH	k ɛ v.r ɛ ɣ	322
+612	H	#k ø r.t.v eː j# -#	323
+613	EAH	k ɛ r.t.β ɛ l i	323
+614	H	#k ø r.t.v eː j# -#	324
+615	EAH	k ɛ r.t.m ɛ l iɣ	324
+616	H	#k ø s ø n# -#	325
+617	EAH	k y s ɛ n -	325
+618	H	#k u n# -#	326
+619	EAH	k u v an	326
+620	H	#k u v ɒ s# -#	327
+621	EAH	k u v a z -	327
+622	H	#k y lː øː# -#	328
+623	EAH	k y lː ɛ ɣ	328
+624	H	#k y lː øː# -#	329
+625	EAH	k ø l i ɡɛliɣ	329
+626	H	#k y lː øː# -#	330
+627	EAH	k y v ɛ j	330
+628	H	#m oː n aː r.k + ød#	331
+629	EAH	m u n a r	331
+630	H	#ɲ ø ɡ eː r# -#	332
+631	EAH	n ø ɡ ɛ r -	332
+632	H	#o t͡ʃ uː# -#	333
+633	EAH	u t͡ʃ o ɣ	333
+634	H	#o k# -#	334
+635	EAH	u k -	334
+636	H	#o k.t + ɒt#	335
+637	EAH	u k	335
+638	H	#oː l# -#	336
+639	EAH	a ɣ ul	336
+640	H	#o l.t͡ʃ oː# -#	337
+641	EAH	u t͡ʃ a ɣ	337
+642	H	#o lː oː# -#	338
+643	EAH	o ɣ.l a ɣ	338
+644	H	#o n.d oː# -#	339
+645	EAH	u n.d a ɣ	339
+646	H	#o r o s# -#	342
+647	EAH	u r u s -	342
+648	H	#o r o s.l aː n# -#	343
+649	EAH	u r u s.l aː n -	343
+650	H	#o r.ʃ oː# -#	344
+651	EAH	u r.t͡ʃ u ɣ	344
+652	H	#o r.v# -#	345
+653	EAH	u ɣ.r u	345
+654	H	#o r.v o ʃ# -#	346
+655	EAH	u r.v o t͡ʃ i	346
+656	H	#o ʃ# -#	347
+657	EAH	a l.t͡ʃ uk	347
+658	H	#ø k ø r# -#	348
+659	EAH	y k y r -	348
+660	H	#ø l.t# -#	349
+661	EAH	i l.t -	349
+662	H	#ø j.v# -#	350
+663	EAH	ɛ l iɣ	350
+664	H	#ø n + ik#	351
+665	EAH	y n	351
+666	H	#øː r# -#	352
+667	EAH	ɛ v ir	352
+668	H	#ø r.m eː ɲ# -#	353
+669	EAH	ɛ w.r.m ɛ n -	353
+670	H	#ø r.m eː ɲ# -#	354
+671	EAH	ɛ r.m ɛ n i	354
+672	H	#ø r ø k# -#	355
+673	EAH	y r y k -	355
+674	H	#ø r y l# -#	356
+675	EAH	ø ɣ i r -	356
+676	H	#øː r y l# -#	357
+677	EAH	ɛ v.r i l -	357
+678	H	#ø r.v eː ɲ# -#	358
+679	EAH	ɛ ɣ i r -	358
+680	H	#øː r eː m# -#	359
+681	EAH	ɛ ɣ.r i m -	359
+682	H	#øː r eː m# -#	360
+683	EAH	ɛ ɣ.r i m -	360
+684	H	#ø r.m eː ɲ# -#	361
+685	EAH	ø r.m ɛ n -	361
+686	H	#ø r.m eː ɲ# -#	362
+687	EAH	ø r.m ɛ n -	362
+688	H	#ø r.m eː ɲ# -#	363
+689	EAH	ø r.m ɛ n -	363
+690	H	#ø z ø n# -#	364
+691	EAH	y z ɛ n -	364
+692	H	#ʃ ɒ j.t# -#	365
+693	EAH	t͡ʃ a ɣ.t -	365
+694	H	#ʃ ɒ j.t# -#	366
+695	EAH	t͡ʃ a ɣ.t -	366
+696	H	#ʃ aː r# -#	367
+697	EAH	ʃ a r -	367
+698	H	#ʃ aː r# -#	368
+699	EAH	ʃ a r i	368
+700	H	#ʃ aː r.ɡ ɒ# -#	369
+701	EAH	ʃ a r u ɡ	369
+702	H	#ʃ aː r.k aː ɲ# -#	370
+703	EAH	ʃ aː r.k aː n -	370
+704	H	#ʃ ɒ r.l oː# -#	371
+705	EAH	t͡ʃ a r.l a ɣ	371
+706	H	#ʃ aː r.m ɒ# -#	372
+707	EAH	ʃ a r.m a ɣ	372
+708	H	#ʃ ɒ r u# -#	373
+709	EAH	t͡ʃ a r u ɣ	373
+710	H	#ʃ aː t o r# -#	374
+711	EAH	t͡ʃ a t u r -	374
+712	H	#ʃ ɛ b + ɛʃ#	375
+713	EAH	ʃ ɛ b	375
+714	H	#ʃ ɛ p ɛ r# -#	376
+715	EAH	ʃ i p i r -	376
+716	H	#ʃ ɛ p.r yː# -#	377
+717	EAH	ʃ i p i riɣ	377
+718	H	#ʃ ɛ p.r øː# -#	378
+719	EAH	t͡ʃ ø p.r ɛ ɣ	378
+720	H	#ʃ ɛ p.r øː# -#	379
+721	EAH	t͡ʃ ø p.r ɛ ɣ	379
+722	H	#ʃ eː r# -#	380
+723	EAH	ʃ i r -	380
+724	H	#ʃ ɛ r ɛ ɡ# -#	381
+725	EAH	t͡ʃ ɛ r i ɡ -	381
+726	H	#ʃ ɛ r.k ɛ# -#	382
+727	EAH	ʃ i r.k ɛ -	382
+728	H	#ʃ ɛ r.l ɛ ɡ# -#	383
+729	EAH	ʃ ɛ r.l ɛ ɡ -	383
+730	H	#ʃ ɛ r.t + ɛ#	384
+731	EAH	ʃ i r.t	384
+732	H	#ʃ iː k# -#	385
+733	EAH	ʃ i k -	385
+734	H	#ʃ i m ɒ# -#	386
+735	EAH	ʃ i m a -	386
+736	H	#ʃ i.oː# -#	387
+737	EAH	ʃ i.u -	387
+738	H	#ʃ eː + d#	388
+739	EAH	ʃ i.u	388
+740	H	#ʃ oː j o + m#	390
+741	EAH	t͡ʃ a v.l i	390
+742	H	#ʃ oː j o + m#	391
+743	EAH	t͡ʃ a v.l i	391
+744	H	#ʃ o m# -#	392
+745	EAH	t͡ʃ u m -	392
+746	H	#ʃ o m.j oː# -#	393
+747	EAH	ʃ u m.l u ɣ	393
+748	H	#ʃ ø r# -#	394
+749	EAH	ʃ ɛ r ɛ	394
+750	H	#ʃ øː r ɛ ɡ# -#	395
+751	EAH	ʃ ɛ v.r ɛ ɡ ɛ	395
+752	H	#ʃ y lː øː# -#	396
+753	EAH	ʃ i lː ɛ ɣ	396
+754	H	#ʃ y j# -#	397
+755	EAH	ʃ i ɣ yl	397
+756	H	#ʃ yː r yː# -#	398
+757	EAH	t͡ʃ i r ɛ ɣ	398
+758	H	#ʃ yː# -#	399
+759	EAH	s i ɣ	399
+760	H	#ʃ y v# -#	400
+761	EAH	s i ɣ -	400
+762	H	#s aː ɡ o m# -#	401
+763	EAH	s a ɡ u m -	401
+764	H	#s ɒ k ɒ# -#	402
+765	EAH	s a k a ɣ	402
+766	H	#s ɒ k aː lː# -#	403
+767	EAH	s a k a l -	403
+768	H	#s aː l# -#	404
+769	EAH	s a l -	404
+770	H	#s aː m# -#	405
+771	EAH	s a m -	405
+772	H	#s aː n# -#	406
+773	EAH	s a ɣ in	406
+774	H	#s ɒ p u# -#	409
+775	EAH	s a p a ɣ	409
+776	H	#s aː r# -#	410
+777	EAH	s a r -	410
+778	H	#s aː r.ɲ# -#	411
+779	EAH	sʲ aː r.n -	411
+780	H	#s ɒ t oː t͡ʃ# -#	412
+781	EAH	s a t i ɣ.t͡ʃ i	412
+782	H	#s eː k# -#	413
+783	EAH	s ɛ k y	413
+784	H	#s eː l# -#	414
+785	EAH	s eː l -	414
+786	H	#s ɛ n.d + ɛr#	415
+787	EAH	s ɛ n	415
+788	H	#s ø n.d + ør#	416
+789	EAH	s ø n	416
+790	H	#s eː p# -#	417
+791	EAH	s i p -	417
+792	H	#s ɛ p.l øː# -#	418
+793	EAH	s ɛ p.l ɛ ɣ	418
+794	H	#s ɛ r# -#	419
+795	EAH	sʲ ɛ r -	419
+796	H	#s eː r yː# -#	420
+797	EAH	s y r y ɣ	420
+798	H	#s ɛ s# -#	421
+799	EAH	s i s -	421
+800	H	#s iː n# -#	422
+801	EAH	s i n -	422
+802	H	#s i r o ɲ# -#	423
+803	EAH	s i j.r u m -	423
+804	H	#s i r o ɲ# -#	424
+805	EAH	s i j.r u m -	424
+806	H	#s oː# -#	426
+807	EAH	s a v	426
+808	H	#s o n.ɡ o r# -#	427
+809	EAH	s o n.k o r -	427
+810	H	#s oː r# -#	428
+811	EAH	s a v ur	428
+812	H	#s ø t͡ʃ.k + ɛ#	429
+813	EAH	s ɛ k	429
+814	H	#s ø k + ik#	430
+815	EAH	s ɛ k	430
+816	H	#s øː l øː# -#	431
+817	EAH	sʲ ɛ l ɛ ɣ	431
+818	H	#s ø lː øː# -#	432
+819	EAH	sʲ ɛ l ɛ ɣ	432
+820	H	#s uː ɲ o ɡ# -#	433
+821	EAH	s i n u k -	433
+822	H	#s yː t͡ʃ# -#	434
+823	EAH	sʲ i ɣ.t͡ʃ i	434
+824	H	#s yː n + ik#	435
+825	EAH	s ø n	435
+826	H	#s yː r# -#	436
+827	EAH	s y r -	436
+828	H	#s yː z# -#	437
+829	EAH	s y z øk	437
+830	H	#t aː l.t o ʃ# -#	438
+831	EAH	t a l.t u t͡ʃ i	438
+832	H	#t ɒ n aː t͡ʃ# -#	439
+833	EAH	t a n i l.t͡ʃ -	439
+834	H	#t ɒ n uː# -#	440
+835	EAH	t a n u -	440
+836	H	#t aː p.l aː l# -#	441
+837	EAH	t a p.l a ɣ -	441
+838	H	#t ɒ p.l oː# -#	442
+839	EAH	t o p.l u ɣ	442
+840	H	#t ɒ r# -#	443
+841	EAH	t a r -	443
+842	H	#t aː r# -#	444
+843	EAH	t a v ar	444
+844	H	#t ɒ r.l oː# -#	445
+845	EAH	t a r.l a ɣ	445
+846	H	#t ɒ r.t# -#	446
+847	EAH	t a r.t -	446
+848	H	#t ɒ t aː r# -#	447
+849	EAH	t a t a r -	447
+850	H	#t aː t o r.j aː n# -#	448
+851	EAH	t a t u r.ɣ a n -	448
+852	H	#t aː t o r.j aː n# -#	449
+853	EAH	t a t u r.ɣ a n -	449
+854	H	#t ɛ k ɛ r# -#	450
+855	EAH	t ɛ k ɛ r -	450
+856	H	#t ɛ k.n øː# -#	451
+857	EAH	t ɛ k ɛ nɛɣ	451
+858	H	#t ɛ l ɛ k# -#	452
+859	EAH	t ɛ l y k -	452
+860	H	#t ɛ l ɛ k# -#	453
+861	EAH	t ɛ l y k -	453
+862	H	#t ɛ n.ɡ + øːdik#	454
+863	EAH	t ɛ n.ɡ	454
+864	H	#t ɛ n.ɡ ɛ j# -#	455
+865	EAH	t ɛ n.ɡ ɛ l -	455
+866	H	#t ɛ n.ɡ ɛ r# -#	456
+867	EAH	t ɛ ŋ i r -	456
+868	H	#t eː r y l# -#	457
+869	EAH	t ɛ v i r -	457
+870	H	#t eː r iː t# -#	458
+871	EAH	t ɛ v i r -	458
+872	H	#t eː r.d# -#	459
+873	EAH	t iː r -	459
+874	H	#t ɛ r ɛ m# -#	460
+875	EAH	t ɛ r ɛ m -	460
+876	H	#t ɛ v ɛ# -#	461
+877	EAH	t ɛ v ɛ -	461
+878	H	#t i l oː# -#	462
+879	EAH	t a l.k i ɣ	462
+880	H	#t i n oː# -#	463
+881	EAH	t a n a -	463
+882	H	#t o j + ik#	464
+883	EAH	t u ɣ	464
+884	H	#t o j + ik#	465
+885	EAH	t u ɣ	465
+886	H	#t o k# -#	466
+887	EAH	t o k u	466
+888	H	#t o k.j oː# -#	467
+889	EAH	t o k.l u -	467
+890	H	#t o l.m aː t͡ʃ# -#	468
+891	EAH	t o l.m a t͡ʃ -	468
+892	H	#t o r.m ɒ# -#	469
+893	EAH	t u r.m a -	469
+894	H	#t o r.l oː + dik#	470
+895	EAH	t o r o	470
+896	H	#t o r.l i + k#	471
+897	EAH	t o r o	471
+898	H	#t o r o n.t aː l# -#	472
+899	EAH	t u r u n.t a j -	472
+900	H	#t oː t# -#	473
+901	EAH	t aː t -	473
+902	H	#t ø k eː + lɛtɛʃ#	474
+903	EAH	t y k ɛ	474
+904	H	#t ø m eː n.t + ɛlɛn#	475
+905	EAH	t y m ɛ n	475
+906	H	#t ø r# -#	476
+907	EAH	t y ɣ yr	476
+908	H	#t øː r# -#	477
+909	EAH	t øː r -	477
+910	H	#t ø r ø + k#	478
+911	EAH	t y r.k y	478
+912	H	#t ø r.t eː n + ik#	479
+913	EAH	t ø r.t y n	479
+914	H	#t ø r.v eː ɲ# -#	480
+915	EAH	t y r y ɣ ɛn	480
+916	H	#t øː z ɛ ɡ# -#	481
+917	EAH	t ø z ɛ k -	481
+918	H	#t u l o k# -#	482
+919	EAH	t u k o l -	482
+920	H	#t uː r oː# -#	483
+921	EAH	t o r a ɣ	483
+922	H	#t u r u l# -#	484
+923	EAH	t u ɣ.r ɯ l -	484
+924	H	#t uː z o k# -#	485
+925	EAH	t o ɣ.z a k -	485
+926	H	#t y k ø r# -#	486
+927	EAH	t i k ɛ r -	486
+928	H	#t y k ø r# -#	487
+929	EAH	t y k ɛ r -	487
+930	H	#t yː r# -#	488
+931	EAH	t y r -	488
+932	H	#t yː r# -#	489
+933	EAH	t y r -	489
+934	H	#c uː k# -#	490
+935	EAH	t i ɣ uk	490
+936	H	#u ɡ# -#	491
+937	EAH	u ɡ u	491
+938	H	#uː r# -#	492
+939	EAH	u r i	492
+940	H	#y d y + l#	493
+941	EAH	ɛ d y	493
+942	H	#y nː ɛ p# -#	494
+943	EAH	i d.n a p -	494
+944	H	#y n øː# -#	495
+945	EAH	i n ɛ ɣ	495
+946	H	#i r.ɡ ɛ# -#	496
+947	EAH	y r.ɡ ɛ -	496
+948	H	#y r.ɡ ɛ# -#	497
+949	EAH	y r.ɡ ɛ -	497
+950	H	#y r ø m# -#	498
+951	EAH	ɛ r i m -	498
+952	H	#y r ø m# -#	499
+953	EAH	ɛ r i m -	499
+954	H	#y r y# -#	500
+955	EAH	i r i ɣ	500
+956	H	#y s ø k# -#	501
+957	EAH	i s y ɡ -	501
+958	H	#y s ø ɡ# -#	502
+959	EAH	i s y ɡ -	502
+960	H	#y v ɛ t͡ʃ# -#	503
+961	EAH	ø v ɛ t͡ʃ -	503
+962	H	#v aː j# -#	504
+963	EAH	v a j -	504
+964	H	#v aː j uː# -#	505
+965	EAH	v a l a ɣ	505
+966	H	#v ɛ j.s ɛ# -#	506
+967	EAH	v ɛ j.s ɛ ɣ	506
+968	H	#l eː k# -#	507
+969	EAH	v ɛ k y	507
+970	H	#v eː k# -#	508
+971	EAH	v ɛ k y	508
+972	H	#v ɛ n.d eː ɡ# -#	509
+973	EAH	v ɛ n.d ɛ ɡ -	509
+974	H	#v eː r.t ɛ l ɛ k# -#	511
+975	EAH	v ɛ r.t ɛ l y k -	511
+976	H	#z ɛ r.ɡ ɛ# -#	512
+977	EAH	s ɛ r.ɡ ɛ -	512

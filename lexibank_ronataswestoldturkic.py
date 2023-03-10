@@ -7,6 +7,10 @@ from lingpy.sequence.sound_classes import token2class
 from pylexibank import (
 Dataset as BaseDataset, FormSpec, Language, Lexeme, progressbar as pb)
 from re import sub
+import json
+
+with open("etc/formspec.json") as f:
+    REP = [(k, v) for k, v in json.load(f).items()]
 
 eah = None
 
@@ -56,7 +60,7 @@ class Dataset(BaseDataset):
     id = "ronataswestoldturkic"
     lexeme_class = CustomLexeme
     form_spec = FormSpec(separators=",", first_form_only=True,
-                         replacements= [(" ", "")])
+                         replacements= REP)
 
     def cmd_makecldf(self, args):
 

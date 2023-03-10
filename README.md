@@ -25,10 +25,11 @@ The data used here was extracted from a privately owned PDF-file that can not be
 
 
 [![CLDF validation](https://github.com/martino-vic/ronataswestoldturkic/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/ronataswestoldturkic/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 57%](https://img.shields.io/badge/Glottolog-57%25-red.svg "Glottolog: 57%")
+![Concepticon: 62%](https://img.shields.io/badge/Concepticon-62%25-orange.svg "Concepticon: 62%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/martino-vic/ronataswestoldturkic/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martino-vic/ronataswestoldturkic/tree/main)
 
 - **Varieties:** 5
 - **Concepts:** 430
@@ -38,9 +39,9 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,311
-- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
-- **Inventory size (avg):** 42.40
+- **Tokens:** 8,205
+- **Segments:** 61 (0 BIPA errors, 0 CLTS sound class errors, 61 CLTS modified)
+- **Inventory size (avg):** 43.20
 
 # Contributors
 

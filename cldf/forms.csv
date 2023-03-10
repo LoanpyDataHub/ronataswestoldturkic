@@ -7,7 +7,7 @@ OH-1_cannoncatapult-1,,OH,1_cannoncatapult,āldʹū,āldʹū,aː l ɟ uː,,wot,2
 LAH-1_cannoncatapult-1,,LAH,1_cannoncatapult,aldau̯,aldau̯,a l d a w,,wot,2,true,^ a l d a u̯ $,LAH,a l.d a w,VCCVC,true,1456
 EAH-1_cannoncatapult-1,,EAH,1_cannoncatapult,aldaγ,aldaγ,a l d a ɣ,,wot,2,true,^ a l d a γ $,EAH,a l.d a ɣ,VCCVC,true,1456
 WOT-1_cannoncatapult-1,,WOT,1_cannoncatapult,aldaγ,aldaγ,a l d a ɣ,,wot,2,true,^ a l d a γ $,WOT,a l.d a ɣ,VCCVC,true,1456
-H-2_tofondlepetcaress-1,,H,2_tofondlepetcaress,ajnároz,ajnároz,ɒ j n aː r o z,,wot,3,true,^ajnároz$,H,ɒ j.n aː r o z,VCCVCVC,true,1825
+H-2_tofondlepetcaress-1,,H,2_tofondlepetcaress,ajnároz,ajn,ɒ j n,,wot,3,true,^ajn$,H,ɒ j.n,VCC,true,1825
 EAH-2_tofondlepetcaress-1,,EAH,2_tofondlepetcaress,ayan,ayan,a j a n,,wot,3,true,^ a y a n $,EAH,a j a n,VCVC,true,1825
 WOT-2_tofondlepetcaress-1,,WOT,2_tofondlepetcaress,ayan,ayan,a j a n,,wot,3,false,^ a y a n $,WOT,a j a n,VCVC,true,1825
 H-3_streamcurrent-1,,H,3_streamcurrent,ákos,ákos,aː k o ʃ,,wot,4,true,^ákos$,H,aː k o ʃ,VCVC,true,1903
@@ -36,11 +36,11 @@ WOT-7_barrelwoodencontainerandstandardquantity-1,,WOT,7_barrelwoodencontainerand
 H-7_barrelwoodencontainerandstandardquantity-2,,H,7_barrelwoodencontainerandstandardquantity,átalag,átalag,aː t ɒ l ɒ ɡ,,wot,13,true,^átalag$,H,aː t ɒ l ɒ ɡ,VCVCVC,true,1395
 EAH-7_barrelwoodencontainerandstandardquantity-2,,EAH,7_barrelwoodencontainerandstandardquantity,altalag,altalag,a l t a l a ɡ,,wot,13,true,^ a l t a l a g $,EAH,a l.t a l a ɡ,VCCVCVC,true,1395
 WOT-7_barrelwoodencontainerandstandardquantity-2,,WOT,7_barrelwoodencontainerandstandardquantity,altïlïg,altïlïg,a l t ɯ l ɯ ɡ,,wot,13,true,^ a l t ï l ï g $,WOT,a l.t ɯ l ɯ ɡ,VCCVCVC,true,1395
-H-8_tonursetakecareof-1,,H,8_tonursetakecareof,ápol,ápol,aː p o l,,wot,14,true,^ápol$,H,aː p o l,VCVC,true,1372
+H-8_tonursetakecareof-1,,H,8_tonursetakecareof,ápol,áp,aː p,,wot,14,true,^áp$,H,aː p,VC,true,1372
 OH-8_tonursetakecareof-1,,OH,8_tonursetakecareof,apol,apol,a p o l,,wot,14,true,^ a p o l $,OH,a p o l,VCVC,true,1372
 EAH-8_tonursetakecareof-1,,EAH,8_tonursetakecareof,op,op,o p,,wot,14,true,^ o p $,EAH,o p,VC,true,1372
 WOT-8_tonursetakecareof-1,,WOT,8_tonursetakecareof,op,op,o p,,wot,14,false,^ o p $,WOT,o p,VC,true,1372
-H-9_todecayputrifyturnstale-1,,H,9_todecayputrifyturnstale,áporodik,áporodik,aː p o r o d i k,,wot,15,true,^áporodik$,H,aː p o r o d i k,VCVCVCVC,true,1588
+H-9_todecayputrifyturnstale-1,,H,9_todecayputrifyturnstale,áporodik,áporo,aː p o r o,,wot,15,true,^áporo$,H,aː p o r o,VCVCV,true,1588
 EAH-9_todecayputrifyturnstale-1,,EAH,9_todecayputrifyturnstale,oporo,oporo,o p o r o,,wot,15,true,^ o p o r o $,EAH,o p o r o,VCVCV,true,1588
 WOT-9_todecayputrifyturnstale-1,,WOT,9_todecayputrifyturnstale,opura,opura,o p u r a,,wot,15,false,^ o p u r a $,WOT,o p u r a,VCVCV,true,1588
 H-10_smalltiny-1,,H,10_smalltiny,apró,apró,ɒ p r oː,,wot,16,true,^apró$,H,ɒ p.r oː,VCCV,true,1145
@@ -53,7 +53,7 @@ WOT-11_tomow-1,,WOT,11_tomow,orat,orat,o r a t,,wot,17,true,^ o r a t $,WOT,o r 
 H-11_tomow-2,,H,11_tomow,arat,arat,ɒ r ɒ t,,wot,18,true,^arat$,H,ɒ r ɒ t,VCVC,true,1211
 EAH-11_tomow-2,,EAH,11_tomow,orat,orat,o r a t,,wot,18,true,^ o r a t $,EAH,o r a t,VCVC,true,1211
 WOT-11_tomow-2,,WOT,11_tomow,or,or,o r,,wot,18,true,^ o r $,WOT,o r,VC,true,1211
-H-12_todecayputrefygobadoffoodwater-1,,H,12_todecayputrefygobadoffoodwater,árik,árik,aː r i k,,wot,19,true,^árik$,H,aː r i k,VCVC,true,1878
+H-12_todecayputrefygobadoffoodwater-1,,H,12_todecayputrefygobadoffoodwater,árik,ár,aː r,,wot,19,true,^ár$,H,aː r,VC,true,1878
 EAH-12_todecayputrefygobadoffoodwater-1,,EAH,12_todecayputrefygobadoffoodwater,ār,ār,aː r,,wot,19,true,^ ā r $,EAH,aː r,VC,true,1878
 WOT-12_todecayputrefygobadoffoodwater-1,,WOT,12_todecayputrefygobadoffoodwater,ar,ar,a r,,wot,19,false,^ a r $,WOT,a r,VC,true,1878
 H-13_toharm-1,,H,13_toharm,árt,árt,aː r t,,wot,20,true,^árt$,H,aː r.t,VCC,true,1315
@@ -102,7 +102,7 @@ H-28_velvet-1,,H,28_velvet,bársony,bársony,b aː r ʃ o ɲ,,wot,35,true,^bárs
 OH-28_velvet-1,,OH,28_velvet,baršun,baršun,b a r ʃ u n,,wot,35,true,^ b a r š u n $,OH,b a r.ʃ u n,CVCCVC,true,1221
 EAH-28_velvet-1,,EAH,28_velvet,barčun,barčun,b a r t͡ʃ u n,,wot,35,true,^ b a r č u n $,EAH,b a r.t͡ʃ u n,CVCCVC,true,1221
 WOT-28_velvet-1,,WOT,28_velvet,barčun,barčun,b a r t͡ʃ u n,,wot,35,false,^ b a r č u n $,WOT,b a r.t͡ʃ u n,CVCCVC,true,1221
-H-29_tofuck-1,,H,29_tofuck,baszik,baszik,b ɒ s i k,,wot,36,true,^baszik$,H,b ɒ s i k,CVCVC,true,1213
+H-29_tofuck-1,,H,29_tofuck,baszik,basz,b ɒ s,,wot,36,true,^basz$,H,b ɒ s,CVC,true,1213
 EAH-29_tofuck-1,,EAH,29_tofuck,bas,bas,b a s,,wot,36,true,^ b a s $,EAH,b a s,CVC,true,1213
 WOT-29_tofuck-1,,WOT,29_tofuck,bas,bas,b a s,,wot,36,true,^ b a s $,WOT,b a s,CVC,true,1213
 H-30_courageousbravevaliant-1,,H,30_courageousbravevaliant,bátor,bátor,b aː t o r,,wot,37,true,^bátor$,H,b aː t o r,CVCVC,true,1138
@@ -167,7 +167,7 @@ H-44_judge-1,,H,44_judge,bíró,bíró,b iː r oː,,wot,54,true,^bíró$,H,b iː
 OH-44_judge-1,,OH,44_judge,birō,birō,b i r oː,,wot,54,true,^ b i r ō $,OH,b i r oː,CVCV,true,1306
 EAH-44_judge-1,,EAH,44_judge,biruγ,biruγ,b i r u ɣ,,wot,54,true,^ b i r u γ $,EAH,b i r u ɣ,CVCVC,true,1306
 WOT-44_judge-1,,WOT,44_judge,bïrug,bïrug,b ɯ r u ɡ,,wot,54,false,^ b ï r u g $,WOT,b ɯ r u ɡ,CVCVC,true,1306
-H-45_tobeforgiven-1,,H,45_tobeforgiven,bocsánik,bocsánik,b o t͡ʃ aː n i k,,wot,55,true,^bocsánik$,H,b o t͡ʃ aː n i k,CVCVCVC,true,1372
+H-45_tobeforgiven-1,,H,45_tobeforgiven,bocsánik,bocsán,b o t͡ʃ aː n,,wot,55,true,^bocsán$,H,b o t͡ʃ aː n,CVCVC,true,1372
 OH-45_tobeforgiven-1,,OH,45_tobeforgiven,bočan,bočan,b o t͡ʃ a n,,wot,55,true,^ b o č a n $,OH,b o t͡ʃ a n,CVCVC,true,1372
 EAH-45_tobeforgiven-1,,EAH,45_tobeforgiven,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ b o l č a n $,EAH,b o l.t͡ʃ a n,CVCCVC,true,1372
 WOT-45_tobeforgiven-1,,WOT,45_tobeforgiven,bolčan,bolčan,b o l t͡ʃ a n,,wot,55,true,^ b o l č a n $,WOT,b o l.t͡ʃ a n,CVCCVC,true,1372
@@ -177,7 +177,7 @@ EAH-46_toforgive-1,,EAH,46_toforgive,bulčat,bulčat,b u l t͡ʃ a t,,wot,56,tru
 WOT-46_toforgive-1,,WOT,46_toforgive,bolčat,bolčat,b o l t͡ʃ a t,,wot,56,true,^ b o l č a t $,WOT,b o l.t͡ʃ a t,CVCCVC,true,1372
 H-47_bucklerwithhandlehandleofdifferentarms-1,,H,47_bucklerwithhandlehandleofdifferentarms,bóda,bóda,b oː d ɒ,,wot,57,true,^bóda$,H,b oː d ɒ,CVCV,true,1395
 OH-47_bucklerwithhandlehandleofdifferentarms-1,,OH,47_bucklerwithhandlehandleofdifferentarms,boldå,boldå,b o l d ɒ,,wot,57,true,^ b o l d å $,OH,b o l.d ɒ,CVCCV,true,1395
-EAH-47_bucklerwithhandlehandleofdifferentarms-1,,EAH,47_bucklerwithhandlehandleofdifferentarms,baldaw,baldaw,b a l d a v,,wot,57,true,^ b a l d a w $,EAH,b a l.d a v,CVCCVC,true,1395
+EAH-47_bucklerwithhandlehandleofdifferentarms-1,,EAH,47_bucklerwithhandlehandleofdifferentarms,baldaw,baldaw,b a l d a w,,wot,57,true,^ b a l d a w $,EAH,b a l.d a w,CVCCVC,true,1395
 H-48_knotbend-1,,H,48_knotbend,bog,bog,b o ɡ,,wot,58,true,^bog$,H,b o ɡ,CVC,true,1138
 EAH-48_knotbend-1,,EAH,48_knotbend,bog,bog,b o ɡ,,wot,58,true,^ b o g $,EAH,b o ɡ,CVC,true,1138
 WOT-48_knotbend-1,,WOT,48_knotbend,bog,bog,b o ɡ,,wot,58,true,^ b o g $,WOT,b o ɡ,CVC,true,1138
@@ -197,10 +197,10 @@ WOT-51_burdockarctiumsp-1,,WOT,51_burdockarctiumsp,balturgan,balturgan,b a l t u
 H-52_ankle-1,,H,52_ankle,boka,boka,b o k ɒ,,wot,62,true,^boka$,H,b o k ɒ,CVCV,true,1193
 EAH-52_ankle-1,,EAH,52_ankle,baka,baka,b a k a,,wot,62,true,^ b a k a $,EAH,b a k a,CVCV,true,1193
 WOT-52_ankle-1,,WOT,52_ankle,baka,baka,b a k a,,wot,62,true,^ b a k a $,WOT,b a k a,CVCV,true,1193
-H-53_ankleboot-1,,H,53_ankleboot,bakancs,bakancs,b ɒ k ɒ n t͡ʃ,,wot,63,true,^bakancs$,H,b ɒ k ɒ n.t͡ʃ,CVCVCC,true,1519
+H-53_ankleboot-1,,H,53_ankleboot,bakancs,bakan,b ɒ k ɒ n,,wot,63,true,^bakan$,H,b ɒ k ɒ n,CVCVC,true,1519
 EAH-53_ankleboot-1,,EAH,53_ankleboot,bokå,bokå,b o k ɒ,,wot,63,true,^ b o k å $,EAH,b o k ɒ,CVCV,true,1519
 WOT-53_ankleboot-1,,WOT,53_ankleboot,baka,baka,b a k a,,wot,63,true,^ b a k a $,WOT,b a k a,CVCV,true,1519
-H-53_ankleboot-2,,H,53_ankleboot,bakancs,bakancs,b ɒ k ɒ n t͡ʃ,,wot,64,true,^bakancs$,H,b ɒ k ɒ n.t͡ʃ,CVCVCC,true,1519
+H-53_ankleboot-2,,H,53_ankleboot,bakancs,bakan,b ɒ k ɒ n,,wot,64,true,^bakan$,H,b ɒ k ɒ n,CVCVC,true,1519
 EAH-53_ankleboot-2,,EAH,53_ankleboot,båkå,båkå,b ɒ k ɒ,,wot,64,true,^ b å k å $,EAH,b ɒ k ɒ,CVCV,true,1519
 WOT-53_ankleboot-2,,WOT,53_ankleboot,baka,baka,b a k a,,wot,64,true,^ b a k a $,WOT,b a k a,CVCV,true,1519
 H-54_anthill-1,,H,54_anthill,boly,boly,b o j,,wot,65,true,^boly$,H,b o j,CVC,true,1213
@@ -210,10 +210,10 @@ WOT-54_anthill-1,,WOT,54_anthill,boγul,boγul,b o ɣ u l,,wot,65,false,^ b o γ
 H-55_wine-1,,H,55_wine,bor,bor,b o r,,wot,66,true,^bor$,H,b o r,CVC,true,1086
 EAH-55_wine-1,,EAH,55_wine,bor,bor,b o r,,wot,66,true,^ b o r $,EAH,b o r,CVC,true,1086
 WOT-55_wine-1,,WOT,55_wine,bor,bor,b o r,,wot,66,true,^ b o r $,WOT,b o r,CVC,true,1086
-H-56_tocovertooverturn-1,,H,56_tocovertooverturn,borít,borít,b o r iː t,,wot,67,true,^borít$,H,b o r iː t,CVCVC,true,1456
+H-56_tocovertooverturn-1,,H,56_tocovertooverturn,borít,bor,b o r,,wot,67,true,^bor$,H,b o r,CVC,true,1456
 EAH-56_tocovertooverturn-1,,EAH,56_tocovertooverturn,bor,bor,b o r,,wot,67,true,^ b o r $,EAH,b o r,CVC,true,1456
 WOT-56_tocovertooverturn-1,,WOT,56_tocovertooverturn,bur,bur,b u r,,wot,67,true,^ b u r $,WOT,b u r,CVC,true,1456
-H-57_cover-1,,H,57_cover,burok,burok,b u r o k,,wot,68,true,^burok$,H,b u r o k,CVCVC,true,1456
+H-57_cover-1,,H,57_cover,burok,bur,b u r,,wot,68,true,^bur$,H,b u r,CVC,true,1456
 EAH-57_cover-1,,EAH,57_cover,bur,bur,b u r,,wot,68,true,^ b u r $,EAH,b u r,CVC,true,1456
 WOT-57_cover-1,,WOT,57_cover,bur,bur,b u r,,wot,68,true,^ b u r $,WOT,b u r,CVC,true,1456
 H-58_calf-1,,H,58_calf,borjú,borjú,b o r j uː,,wot,69,true,^borjú$,H,b o r.j uː,CVCCV,true,1332
@@ -326,7 +326,7 @@ WOT-83_sin-1,,WOT,83_sin,bǖn,bǖn,b yː n,,wot,97,true,^ b ǖ n $,WOT,b yː n,C
 H-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,H,84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütü,bütü,b y t y,,wot,98,true,^bütü$,H,b y t y,CVCV,true,1607
 EAH-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,EAH,84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütüγ,bütüγ,b y t y ɣ,,wot,98,true,^ b ü t ü γ $,EAH,b y t y ɣ,CVCVC,true,1607
 WOT-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,WOT,84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütüγ,bütüγ,b y t y ɣ,,wot,98,true,^ b ü t ü γ $,WOT,b y t y ɣ,CVCVC,true,1607
-H-85_magical-1,,H,85_magical,bűvös,bűvös,b yː v ø ʃ,,wot,99,true,^bűvös$,H,b yː v ø ʃ,CVCVC,true,1211
+H-85_magical-1,,H,85_magical,bűvös,bű,b yː,,wot,99,true,^bű$,H,b yː,CV,true,1211
 OH-85_magical-1,,OH,85_magical,bǖ,bǖ,b yː,,wot,99,true,^ b ǖ $,OH,b yː,CV,true,1211
 EAH-85_magical-1,,EAH,85_magical,büγü,büγü,b y ɣ y,,wot,99,true,^ b ü γ ü $,EAH,b y ɣ y,CVCV,true,1211
 WOT-85_magical-1,,WOT,85_magical,büγü,büγü,b y ɣ y,,wot,99,false,^ b ü γ ü $,WOT,b y ɣ y,CVCV,true,1211
@@ -388,7 +388,7 @@ WOT-98_fightingtrooparmygroupbattlequarrelhubbubflock-1,,WOT,98_fightingtrooparm
 H-98_fightingtrooparmygroupbattlequarrelhubbubflock-2,,H,98_fightingtrooparmygroupbattlequarrelhubbubflock,csata,csata,t͡ʃ ɒ t ɒ,,wot,119,true,^csata$,H,t͡ʃ ɒ t ɒ,CVCV,true,1532
 EAH-98_fightingtrooparmygroupbattlequarrelhubbubflock-2,,EAH,98_fightingtrooparmygroupbattlequarrelhubbubflock,čata,čata,t͡ʃ a t a,,wot,119,true,^ č a t a $,EAH,t͡ʃ a t a,CVCV,true,1532
 WOT-98_fightingtrooparmygroupbattlequarrelhubbubflock-2,,WOT,98_fightingtrooparmygroupbattlequarrelhubbubflock,čatï,čatï,t͡ʃ a t ɯ,,wot,119,false,^ č a t ï $,WOT,t͡ʃ a t ɯ,CVCV,true,1532
-H-99_toaddtojointobuckleupsomething-1,,H,99_toaddtojointobuckleupsomething,csatol,csatol,t͡ʃ ɒ t o l,,wot,120,true,^csatol$,H,t͡ʃ ɒ t o l,CVCVC,true,1527
+H-99_toaddtojointobuckleupsomething-1,,H,99_toaddtojointobuckleupsomething,csatol,csat,t͡ʃ ɒ t,,wot,120,true,^csat$,H,t͡ʃ ɒ t,CVC,true,1527
 OH-99_toaddtojointobuckleupsomething-1,,OH,99_toaddtojointobuckleupsomething,čatol,čatol,t͡ʃ a t o l,,wot,120,true,^ č a t o l $,OH,t͡ʃ a t o l,CVCVC,true,1527
 EAH-99_toaddtojointobuckleupsomething-1,,EAH,99_toaddtojointobuckleupsomething,čat,čat,t͡ʃ a t,,wot,120,true,^ č a t $,EAH,t͡ʃ a t,CVC,true,1527
 WOT-99_toaddtojointobuckleupsomething-1,,WOT,99_toaddtojointobuckleupsomething,čat,čat,t͡ʃ a t,,wot,120,false,^ č a t $,WOT,t͡ʃ a t,CVC,true,1527
@@ -463,20 +463,20 @@ H-112_tobecomesmallerremainsmalltoswaytotottertosprain-1,,H,112_tobecomesmallerr
 OH-112_tobecomesmallerremainsmalltoswaytotottertosprain-1,,OH,112_tobecomesmallerremainsmalltoswaytotottertosprain,čök,čök,t͡ʃ ø k,,wot,140,true,^ č ö k $,OH,t͡ʃ ø k,CVC,true,1469
 EAH-112_tobecomesmallerremainsmalltoswaytotottertosprain-1,,EAH,112_tobecomesmallerremainsmalltoswaytotottertosprain,čük,čük,t͡ʃ y k,,wot,140,true,^ č ü k $,EAH,t͡ʃ y k,CVC,true,1469
 WOT-112_tobecomesmallerremainsmalltoswaytotottertosprain-1,,WOT,112_tobecomesmallerremainsmalltoswaytotottertosprain,čök,čök,t͡ʃ ø k,,wot,140,true,^ č ö k $,WOT,t͡ʃ ø k,CVC,true,1469
-H-113_stubborn-1,,H,113_stubborn,csökönyös,csökönyös,t͡ʃ ø k ø ɲ ø ʃ,,wot,141,true,^csökönyös$,H,t͡ʃ ø k ø ɲ ø ʃ,CVCVCVC,true,1808
+H-113_stubborn-1,,H,113_stubborn,csökönyös,csököny,t͡ʃ ø k ø ɲ,,wot,141,true,^csököny$,H,t͡ʃ ø k ø ɲ,CVCVC,true,1808
 OH-113_stubborn-1,,OH,113_stubborn,čököń,čököń,t͡ʃ ø k ø ɲ,,wot,141,true,^ č ö k ö ń $,OH,t͡ʃ ø k ø ɲ,CVCVC,true,1808
 EAH-113_stubborn-1,,EAH,113_stubborn,čükün,čükün,t͡ʃ y k y n,,wot,141,true,^ č ü k ü n $,EAH,t͡ʃ y k y n,CVCVC,true,1808
 WOT-113_stubborn-1,,WOT,113_stubborn,čikin,čikin,t͡ʃ i k i n,,wot,141,true,^ č i k i n $,WOT,t͡ʃ i k i n,CVCVC,true,1808
 H-114_fieldguardheraldturkishenvoy-1,,H,114_fieldguardheraldturkishenvoy,csősz,csősz,t͡ʃ øː s,,wot,142,true,^csősz$,H,t͡ʃ øː s,CVC,true,1193
 EAH-114_fieldguardheraldturkishenvoy-1,,EAH,114_fieldguardheraldturkishenvoy,čäüš,čäüš,t͡ʃ ɛ y ʃ,,wot,142,true,^ č ä ü š $,EAH,t͡ʃ ɛ.y ʃ,CVVC,true,1193
-WOT-114_fieldguardheraldturkishenvoy-1,,WOT,114_fieldguardheraldturkishenvoy,čäwiš,čäwiš,t͡ʃ ɛ v i ʃ,,wot,142,false,^ č ä w i š $,WOT,t͡ʃ ɛ v i ʃ,CVCVC,true,1193
+WOT-114_fieldguardheraldturkishenvoy-1,,WOT,114_fieldguardheraldturkishenvoy,čäwiš,čäwiš,t͡ʃ ɛ w i ʃ,,wot,142,false,^ č ä w i š $,WOT,t͡ʃ ɛ w i ʃ,CVCVC,true,1193
 H-115_roughcoarseuglywildunbridled-1,,H,115_roughcoarseuglywildunbridled,csúnya,csúnya,t͡ʃ uː ɲ ɒ,,wot,143,true,^csúnya$,H,t͡ʃ uː ɲ ɒ,CVCV,true,1604
 OH-115_roughcoarseuglywildunbridled-1,,OH,115_roughcoarseuglywildunbridled,čuńa,čuńa,t͡ʃ u ɲ a,,wot,143,true,^ č u ń a $,OH,t͡ʃ u ɲ a,CVCV,true,1604
 EAH-115_roughcoarseuglywildunbridled-1,,EAH,115_roughcoarseuglywildunbridled,čunaγ,čunaγ,t͡ʃ u n a ɣ,,wot,143,true,^ č u n a γ $,EAH,t͡ʃ u n a ɣ,CVCVC,true,1604
 WOT-115_roughcoarseuglywildunbridled-1,,WOT,115_roughcoarseuglywildunbridled,čunaγ,čunaγ,t͡ʃ u n a ɣ,,wot,143,false,^ č u n a γ $,WOT,t͡ʃ u n a ɣ,CVCVC,true,1604
 H-116_towindtoturntodistrortmisinterprettospinayarn-1,,H,116_towindtoturntodistrortmisinterprettospinayarn,csűr,csűr,t͡ʃ yː r,,wot,144,true,^csűr$,H,t͡ʃ yː r,CVC,true,1836
 EAH-116_towindtoturntodistrortmisinterprettospinayarn-1,,EAH,116_towindtoturntodistrortmisinterprettospinayarn,čevür,čevür,t͡ʃ ɛ v y r,,wot,144,true,^ č e v ü r $,EAH,t͡ʃ ɛ v y r,CVCVC,true,1836
-WOT-116_towindtoturntodistrortmisinterprettospinayarn-1,,WOT,116_towindtoturntodistrortmisinterprettospinayarn,čäwür,čäwür,t͡ʃ ɛ v y r,,wot,144,false,^ č ä w ü r $,WOT,t͡ʃ ɛ v y r,CVCVC,true,1836
+WOT-116_towindtoturntodistrortmisinterprettospinayarn-1,,WOT,116_towindtoturntodistrortmisinterprettospinayarn,čäwür,čäwür,t͡ʃ ɛ w y r,,wot,144,false,^ č ä w ü r $,WOT,t͡ʃ ɛ w y r,CVCVC,true,1836
 H-117_bobbinspindle-1,,H,117_bobbinspindle,csűr,csűr,t͡ʃ yː r,,wot,145,true,^csűr$,H,t͡ʃ yː r,CVC,true,1836
 OH-117_bobbinspindle-1,,OH,117_bobbinspindle,čǖri,čǖri,t͡ʃ yː r i,,wot,145,true,^ č ǖ r i $,OH,t͡ʃ yː r i,CVCV,true,1836
 EAH-117_bobbinspindle-1,,EAH,117_bobbinspindle,čeviri,čeviri,t͡ʃ ɛ v i r i,,wot,145,true,^ č e v i r i $,EAH,t͡ʃ ɛ v i r i,CVCVCV,true,1836
@@ -498,12 +498,12 @@ H-121_noonsouth-2,,H,121_noonsouth,dél,dél,d eː l,,wot,151,true,^dél$,H,d e�
 EAH-121_noonsouth-2,,EAH,121_noonsouth,döli,döli,d ø l i,,wot,151,true,^ d ö l i $,EAH,d ø l i,CVCV,true,1237
 WOT-121_noonsouth-2,,WOT,121_noonsouth,düli,düli,d y l i,,wot,151,true,^ d ü l i $,WOT,d y l i,CVCV,true,1237
 H-122_nutwalnutjuglans-1,,H,122_nutwalnutjuglans,dió,dió,d i oː,,wot,152,true,^dió$,H,d i.oː,CVV,true,1200
-OH-122_nutwalnutjuglans-1,,OH,122_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒʲ i v o,,wot,152,true,^ ǰ i w o $,OH,d͡ʒʲ i v o,CVCV,true,1200
+OH-122_nutwalnutjuglans-1,,OH,122_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒʲ i w o,,wot,152,true,^ ǰ i w o $,OH,d͡ʒʲ i w o,CVCV,true,1200
 LAH-122_nutwalnutjuglans-1,,LAH,122_nutwalnutjuglans,ǰiγau̯,ǰiγau̯,d͡ʒʲ i ɣ a w,,wot,152,true,^ ǰ i γ a u̯ $,LAH,d͡ʒʲ i ɣ a w,CVCVC,true,1200
 EAH-122_nutwalnutjuglans-1,,EAH,122_nutwalnutjuglans,ǰiγaγ,ǰiγaγ,d͡ʒʲ i ɣ a ɣ,,wot,152,true,^ ǰ i γ a γ $,EAH,d͡ʒʲ i ɣ a ɣ,CVCVC,true,1200
 WOT-122_nutwalnutjuglans-1,,WOT,122_nutwalnutjuglans,ǰïγaγ,ǰïγaγ,d͡ʒʲ ɯ ɣ a ɣ,,wot,152,true,^ ǰ ï γ a γ $,WOT,d͡ʒʲ ɯ ɣ a ɣ,CVCVC,true,1200
 H-122_nutwalnutjuglans-2,,H,122_nutwalnutjuglans,dió,dió,d i oː,,wot,153,true,^dió$,H,d i.oː,CVV,true,1200
-OH-122_nutwalnutjuglans-2,,OH,122_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒʲ i v o,,wot,153,true,^ ǰ i w o $,OH,d͡ʒʲ i v o,CVCV,true,1200
+OH-122_nutwalnutjuglans-2,,OH,122_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒʲ i w o,,wot,153,true,^ ǰ i w o $,OH,d͡ʒʲ i w o,CVCV,true,1200
 LAH-122_nutwalnutjuglans-2,,LAH,122_nutwalnutjuglans,ǰiγau̯,ǰiγau̯,d͡ʒʲ i ɣ a w,,wot,153,true,^ ǰ i γ a u̯ $,LAH,d͡ʒʲ i ɣ a w,CVCVC,true,1200
 EAH-122_nutwalnutjuglans-2,,EAH,122_nutwalnutjuglans,ǰiγaγ,ǰiγaγ,d͡ʒʲ i ɣ a ɣ,,wot,153,true,^ ǰ i γ a γ $,EAH,d͡ʒʲ i ɣ a ɣ,CVCVC,true,1200
 WOT-122_nutwalnutjuglans-2,,WOT,122_nutwalnutjuglans,ǰȧγaγ,ǰȧγaγ,d͡ʒʲ ɐ ɣ a ɣ,,wot,153,true,^ ǰ ȧ γ a γ $,WOT,d͡ʒʲ ɐ ɣ a ɣ,CVCVC,true,1200
@@ -535,10 +535,10 @@ WOT-127_wedge-1,,WOT,127_wedge,ēk,ēk,eː k,,wot,161,true,^ ē k $,WOT,eː k,VC
 H-128_plough-1,,H,128_plough,eke,eke,ɛ k ɛ,,wot,162,true,^eke$,H,ɛ k ɛ,VCV,true,1331
 EAH-128_plough-1,,EAH,128_plough,ekeγ,ekeγ,ɛ k ɛ ɣ,,wot,162,true,^ e k e γ $,EAH,ɛ k ɛ ɣ,VCVC,true,1331
 WOT-128_plough-1,,WOT,128_plough,äkäγ,äkäγ,ɛ k ɛ ɣ,,wot,162,false,^ ä k ä γ $,WOT,ɛ k ɛ ɣ,VCVC,true,1331
-H-129_toallowpermitconcedeyieldgiveway-1,,H,129_toallowpermitconcedeyieldgiveway,enged,enged,ɛ n ɡ ɛ d,,wot,163,true,^enged$,H,ɛ n.ɡ ɛ d,VCCVC,true,1195
+H-129_toallowpermitconcedeyieldgiveway-1,,H,129_toallowpermitconcedeyieldgiveway,enged,eng,ɛ n ɡ,,wot,163,true,^eng$,H,ɛ n.ɡ,VCC,true,1195
 EAH-129_toallowpermitconcedeyieldgiveway-1,,EAH,129_toallowpermitconcedeyieldgiveway,eng,eng,ɛ n ɡ,,wot,163,true,^ e n g $,EAH,ɛ n.ɡ,VCC,true,1195
 WOT-129_toallowpermitconcedeyieldgiveway-1,,WOT,129_toallowpermitconcedeyieldgiveway,äŋ,äŋ,ɛ ŋ,,wot,163,true,^ ä ŋ $,WOT,ɛ ŋ,VC,true,1195
-H-130_topropitiate-1,,H,130_topropitiate,engesztel,engesztel,ɛ n ɡ ɛ s t ɛ l,,wot,164,true,^engesztel$,H,ɛ n.ɡ ɛ s.t ɛ l,VCCVCCVC,true,1416
+H-130_topropitiate-1,,H,130_topropitiate,engesztel,eng,ɛ n ɡ,,wot,164,true,^eng$,H,ɛ n.ɡ,VCC,true,1416
 EAH-130_topropitiate-1,,EAH,130_topropitiate,eng,eng,ɛ n ɡ,,wot,164,true,^ e n g $,EAH,ɛ n.ɡ,VCC,true,1416
 WOT-130_topropitiate-1,,WOT,130_topropitiate,äŋ,äŋ,ɛ ŋ,,wot,164,true,^ ä ŋ $,WOT,ɛ ŋ,VC,true,1416
 H-131_communityworkinagricultureakindofcorvee-1,,H,131_communityworkinagricultureakindofcorvee,enő,enő,ɛ n øː,,wot,165,true,^enő$,H,ɛ n øː,VCV,true,1226
@@ -606,7 +606,7 @@ OH-143_gleanermousemusspicilegus-1,,OH,143_gleanermousemusspicilegus,güzǖ,güz
 LAH-143_gleanermousemusspicilegus-1,,LAH,143_gleanermousemusspicilegus,küzeγü,küzeγü,k y z ɛ ɣ y,,wot,182,true,^ k ü z e γ ü $,LAH,k y z ɛ ɣ y,CVCVCV,true,1198
 EAH-143_gleanermousemusspicilegus-1,,EAH,143_gleanermousemusspicilegus,küseγü,küseγü,k y s ɛ ɣ y,,wot,182,true,^ k ü s e γ ü $,EAH,k y s ɛ ɣ y,CVCVCV,true,1198
 WOT-143_gleanermousemusspicilegus-1,,WOT,143_gleanermousemusspicilegus,küsäγü,küsäγü,k y s ɛ ɣ y,,wot,182,false,^ k ü s ä γ ü $,WOT,k y s ɛ ɣ y,CVCVCV,true,1198
-H-144_toabusecalumniate-1,,H,144_toabusecalumniate,gyaláz,gyaláz,ɟ ɒ l aː z,,wot,183,true,^gyaláz$,H,ɟ ɒ l aː z,CVCVC,true,1372
+H-144_toabusecalumniate-1,,H,144_toabusecalumniate,gyaláz,gyalá,ɟ ɒ l aː,,wot,183,true,^gyalá$,H,ɟ ɒ l aː,CVCV,true,1372
 OH-144_toabusecalumniate-1,,OH,144_toabusecalumniate,dʹala,dʹala,ɟ a l a,,wot,183,true,^ dʹ a l a $,OH,ɟ a l a,CVCV,true,1372
 EAH-144_toabusecalumniate-1,,EAH,144_toabusecalumniate,ǰala,ǰala,d͡ʒʲ a l a,,wot,183,true,^ ǰ a l a $,EAH,d͡ʒʲ a l a,CVCV,true,1372
 WOT-144_toabusecalumniate-1,,WOT,144_toabusecalumniate,ǰala,ǰala,d͡ʒʲ a l a,,wot,183,true,^ ǰ a l a $,WOT,d͡ʒʲ a l a,CVCV,true,1372
@@ -624,12 +624,12 @@ WOT-147_wool-1,,WOT,147_wool,ǰapaγu,ǰapaγu,d͡ʒʲ a p a ɣ u,,wot,186,true,
 H-148_cotton-1,,H,148_cotton,gyapot,gyapot,ɟ ɒ p o t,,wot,187,true,^gyapot$,H,ɟ ɒ p o t,CVCVC,true,1372
 EAH-148_cotton-1,,EAH,148_cotton,ǰaput,ǰaput,d͡ʒʲ a p u t,,wot,187,true,^ ǰ a p u t $,EAH,d͡ʒʲ a p u t,CVCVC,true,1372
 WOT-148_cotton-1,,WOT,148_cotton,ǰaput,ǰaput,d͡ʒʲ a p u t,,wot,187,false,^ ǰ a p u t $,WOT,d͡ʒʲ a p u t,CVCVC,true,1372
-H-149_toincreasetoputonweighttogrowstronger-1,,H,149_toincreasetoputonweighttogrowstronger,gyarapodik,gyarapodik,ɟ ɒ r ɒ p o d i k,,wot,188,true,^gyarapodik$,H,ɟ ɒ r ɒ p o d i k,CVCVCVCVC,true,1518
+H-149_toincreasetoputonweighttogrowstronger-1,,H,149_toincreasetoputonweighttogrowstronger,gyarapodik,gyarap,ɟ ɒ r ɒ p,,wot,188,true,^gyarap$,H,ɟ ɒ r ɒ p,CVCVC,true,1518
 OH-149_toincreasetoputonweighttogrowstronger-1,,OH,149_toincreasetoputonweighttogrowstronger,dʹåråp,dʹåråp,ɟ ɒ r ɒ p,,wot,188,true,^ dʹ å r å p $,OH,ɟ ɒ r ɒ p,CVCVC,true,1518
 LAH-149_toincreasetoputonweighttogrowstronger-1,,LAH,149_toincreasetoputonweighttogrowstronger,ǰarap,ǰarap,d͡ʒʲ a r a p,,wot,188,true,^ ǰ a r a p $,LAH,d͡ʒʲ a r a p,CVCVC,true,1518
 EAH-149_toincreasetoputonweighttogrowstronger-1,,EAH,149_toincreasetoputonweighttogrowstronger,ǰarpa,ǰarpa,d͡ʒʲ a r p a,,wot,188,true,^ ǰ a r p a $,EAH,d͡ʒʲ a r.p a,CVCCV,true,1518
 WOT-149_toincreasetoputonweighttogrowstronger-1,,WOT,149_toincreasetoputonweighttogrowstronger,ǰarpa,ǰarpa,d͡ʒʲ a r p a,,wot,188,false,^ ǰ a r p a $,WOT,d͡ʒʲ a r.p a,CVCCV,true,1518
-H-149_toincreasetoputonweighttogrowstronger-2,,H,149_toincreasetoputonweighttogrowstronger,gyarapszik,gyarapszik,ɟ ɒ r ɒ p s i k,,wot,189,true,^gyarapszik$,H,ɟ ɒ r ɒ p.s i k,CVCVCCVC,true,1518
+H-149_toincreasetoputonweighttogrowstronger-2,,H,149_toincreasetoputonweighttogrowstronger,gyarapszik,gyarap,ɟ ɒ r ɒ p,,wot,189,true,^gyarap$,H,ɟ ɒ r ɒ p,CVCVC,true,1518
 OH-149_toincreasetoputonweighttogrowstronger-2,,OH,149_toincreasetoputonweighttogrowstronger,dʹåråp,dʹåråp,ɟ ɒ r ɒ p,,wot,189,true,^ dʹ å r å p $,OH,ɟ ɒ r ɒ p,CVCVC,true,1518
 LAH-149_toincreasetoputonweighttogrowstronger-2,,LAH,149_toincreasetoputonweighttogrowstronger,ǰarap,ǰarap,d͡ʒʲ a r a p,,wot,189,true,^ ǰ a r a p $,LAH,d͡ʒʲ a r a p,CVCVC,true,1518
 EAH-149_toincreasetoputonweighttogrowstronger-2,,EAH,149_toincreasetoputonweighttogrowstronger,ǰarpa,ǰarpa,d͡ʒʲ a r p a,,wot,189,true,^ ǰ a r p a $,EAH,d͡ʒʲ a r.p a,CVCCV,true,1518
@@ -756,7 +756,7 @@ H-180_bell-1,,H,180_bell,harang,harang,h ɒ r ɒ n ɡ,,wot,222,true,^harang$,H,h
 EAH-180_bell-1,,EAH,180_bell,hangar,hangar,h a n ɡ a r,,wot,222,true,^ h a n g a r $,EAH,h a n.ɡ a r,CVCCVC,true,1211
 WOT-180_bell-1,,WOT,180_bell,χoŋar,χoŋar,χ o ŋ a r,,wot,222,true,^ χ o ŋ a r $,WOT,χ o ŋ a r,CVCVC,true,1211
 H-181_hawk-1,,H,181_hawk,herjó,herjó,h ɛ r j oː,,wot,223,true,^herjó$,H,h ɛ r.j oː,CVCCV,true,1366
-EAH-181_hawk-1,,EAH,181_hawk,xirγuy,xirγuy,k s i r ɣ u j,,wot,223,true,^ x i r γ u y $,EAH,k.s i r.ɣ u j,CCVCCVC,true,1366
+EAH-181_hawk-1,,EAH,181_hawk,xirγuy,xirγuy,x i r ɣ u j,,wot,223,true,^ x i r γ u y $,EAH,x i r.ɣ u j,CVCCVC,true,1366
 WOT-181_hawk-1,,WOT,181_hawk,χїrγuy,χїrγuy,χ ɯ r ɣ u j,,wot,223,true,^ χ ї r γ u y $,WOT,χ ɯ r.ɣ u j,CVCCVC,true,1366
 H-182_sand-1,,H,182_sand,homok,homok,h o m o k,,wot,224,true,^homok$,H,h o m o k,CVCVC,true,1055
 OH-182_sand-1,,OH,182_sand,humuki,humuki,h u m u k i,,wot,224,true,^ h u m u k i $,OH,h u m u k i,CVCVCV,true,1055
@@ -776,11 +776,11 @@ WOT-185_wordbiblicalwordverb-1,,WOT,185_wordbiblicalwordverb,ügä,ügä,y ɡ ɛ
 H-186_yesaffirmativeparticlevery-1,,H,186_yesaffirmativeparticlevery,igen,igen,i ɡ ɛ n,,wot,228,true,^igen$,H,i ɡ ɛ n,VCVC,true,1266
 EAH-186_yesaffirmativeparticlevery-1,,EAH,186_yesaffirmativeparticlevery,egen,egen,ɛ ɡ ɛ n,,wot,228,true,^ e g e n $,EAH,ɛ ɡ ɛ n,VCVC,true,1266
 WOT-186_yesaffirmativeparticlevery-1,,WOT,186_yesaffirmativeparticlevery,egän,egän,ɛ ɡ ɛ n,,wot,228,false,^ e g ä n $,WOT,ɛ ɡ ɛ n,VCVC,true,1266
-H-187_tobefrightenedtotakefright-1,,H,187_tobefrightenedtotakefright,ijed,ijed,i j ɛ d,,wot,229,true,^ijed$,H,i j ɛ d,VCVC,true,1362
+H-187_tobefrightenedtotakefright-1,,H,187_tobefrightenedtotakefright,ijed,ije,i j ɛ,,wot,229,true,^ije$,H,i j ɛ,VCV,true,1362
 OH-187_tobefrightenedtotakefright-1,,OH,187_tobefrightenedtotakefright,iye,iye,i j ɛ,,wot,229,true,^ i y e $,OH,i j ɛ,VCV,true,1362
 EAH-187_tobefrightenedtotakefright-1,,EAH,187_tobefrightenedtotakefright,äyi,äyi,ɛ j i,,wot,229,true,^ ä y i $,EAH,ɛ j i,VCV,true,1362
 WOT-187_tobefrightenedtotakefright-1,,WOT,187_tobefrightenedtotakefright,äyi,äyi,ɛ j i,,wot,229,true,^ ä y i $,WOT,ɛ j i,VCV,true,1362
-H-187_tobefrightenedtotakefright-2,,H,187_tobefrightenedtotakefright,ijeszt,ijeszt,i j ɛ s t,,wot,230,true,^ijeszt$,H,i j ɛ s.t,VCVCC,true,1362
+H-187_tobefrightenedtotakefright-2,,H,187_tobefrightenedtotakefright,ijeszt,ije,i j ɛ,,wot,230,true,^ije$,H,i j ɛ,VCV,true,1362
 OH-187_tobefrightenedtotakefright-2,,OH,187_tobefrightenedtotakefright,iye,iye,i j ɛ,,wot,230,true,^ i y e $,OH,i j ɛ,VCV,true,1362
 EAH-187_tobefrightenedtotakefright-2,,EAH,187_tobefrightenedtotakefright,äyi,äyi,ɛ j i,,wot,230,true,^ ä y i $,EAH,ɛ j i,VCV,true,1362
 WOT-187_tobefrightenedtotakefright-2,,WOT,187_tobefrightenedtotakefright,äyi,äyi,ɛ j i,,wot,230,true,^ ä y i $,WOT,ɛ j i,VCV,true,1362
@@ -790,10 +790,10 @@ WOT-188_twin-1,,WOT,188_twin,ikir,ikir,i k i r,,wot,231,false,^ i k i r $,WOT,i 
 H-189_properbehaviour-1,,H,189_properbehaviour,ildom,ildom,i l d o m,,wot,232,true,^ildom$,H,i l.d o m,VCCVC,true,1416
 EAH-189_properbehaviour-1,,EAH,189_properbehaviour,ildam,ildam,i l d a m,,wot,232,true,^ i l d a m $,EAH,i l.d a m,VCCVC,true,1416
 WOT-189_properbehaviour-1,,WOT,189_properbehaviour,ïldam,ïldam,ɯ l d a m,,wot,232,true,^ ï l d a m $,WOT,ɯ l.d a m,VCCVC,true,1416
-H-190_tosuitsomethingtobepropertofitinto-1,,H,190_tosuitsomethingtobepropertofitinto,illik,illik,i lː i k,,wot,233,true,^illik$,H,i lː i k,VCVC,true,1372
+H-190_tosuitsomethingtobepropertofitinto-1,,H,190_tosuitsomethingtobepropertofitinto,illik,ill,i lː,,wot,233,true,^ill$,H,i lː,VC,true,1372
 EAH-190_tosuitsomethingtobepropertofitinto-1,,EAH,190_tosuitsomethingtobepropertofitinto,il,il,i l,,wot,233,true,^ i l $,EAH,i l,VC,true,1372
 WOT-190_tosuitsomethingtobepropertofitinto-1,,WOT,190_tosuitsomethingtobepropertofitinto,il,il,i l,,wot,233,false,^ i l $,WOT,i l,VC,true,1372
-H-191_toadoreworship-1,,H,191_toadoreworship,imád,imád,i m aː d,,wot,234,true,^imád$,H,i m aː d,VCVC,true,1195
+H-191_toadoreworship-1,,H,191_toadoreworship,imád,im,i m,,wot,234,true,^im$,H,i m,VC,true,1195
 OH-191_toadoreworship-1,,OH,191_toadoreworship,vimad,vimad,v i m a d,,wot,234,true,^ v i m a d $,OH,v i m a d,CVCVC,true,1195
 EAH-191_toadoreworship-1,,EAH,191_toadoreworship,vim,vim,v i m,,wot,234,true,^ v i m $,EAH,v i m,CVC,true,1195
 WOT-191_toadoreworship-1,,WOT,191_toadoreworship,vïm,vïm,v ɯ m,,wot,234,false,^ v ï m $,WOT,v ɯ m,CVC,true,1195
@@ -808,7 +808,7 @@ H-194_buttermilk-1,,H,194_buttermilk,író,író,iː r oː,,wot,237,true,^író$
 OH-194_buttermilk-1,,OH,194_buttermilk,irō,irō,i r oː,,wot,237,true,^ i r ō $,OH,i r oː,VCV,true,1395
 EAH-194_buttermilk-1,,EAH,194_buttermilk,iraγ,iraγ,i r a ɣ,,wot,237,true,^ i r a γ $,EAH,i r a ɣ,VCVC,true,1395
 WOT-194_buttermilk-1,,WOT,194_buttermilk,ïraγ,ïraγ,ɯ r a ɣ,,wot,237,true,^ ï r a γ $,WOT,ɯ r a ɣ,VCVC,true,1395
-H-195_toglowbehot-1,,H,195_toglowbehot,izzik,izzik,i zː i k,,wot,238,true,^izzik$,H,i zː i k,VCVC,true,1582
+H-195_toglowbehot-1,,H,195_toglowbehot,izzik,izzi,i zː i,,wot,238,true,^izzi$,H,i zː i,VCV,true,1582
 OH-195_toglowbehot-1,,OH,195_toglowbehot,izi,izi,i z i,,wot,238,true,^ i z i $,OH,i z i,VCV,true,1582
 EAH-195_toglowbehot-1,,EAH,195_toglowbehot,isi,isi,i s i,,wot,238,true,^ i s i $,EAH,i s i,VCV,true,1582
 WOT-195_toglowbehot-1,,WOT,195_toglowbehot,ïsï,ïsï,ɯ s ɯ,,wot,238,true,^ ï s ï $,WOT,ɯ s ɯ,VCV,true,1582
@@ -877,10 +877,10 @@ H-213_stakepalestick-1,,H,213_stakepalestick,karó,karó,k ɒ r oː,,wot,263,tru
 OH-213_stakepalestick-1,,OH,213_stakepalestick,kårou̯,kårou̯,k ɒ r o w,,wot,263,true,^ k å r o u̯ $,OH,k ɒ r o w,CVCVC,true,1395
 EAH-213_stakepalestick-1,,EAH,213_stakepalestick,karoγ,karoγ,k a r o ɣ,,wot,263,true,^ k a r o γ $,EAH,k a r o ɣ,CVCVC,true,1395
 WOT-213_stakepalestick-1,,WOT,213_stakepalestick,karoγ,karoγ,k a r o ɣ,,wot,263,true,^ k a r o γ $,WOT,k a r o ɣ,CVCVC,true,1395
-H-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,H,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kárókatona,kárókatona,k aː r oː k ɒ t o n ɒ,,wot,264,true,^kárókatona$,H,k aː r oː k ɒ t o n ɒ,CVCVCVCVCV,true,1519
-OH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,karakatona,k a r a k a t o n a,,wot,264,true,^ k a r a k a t o n a $,OH,k a r a k a t o n a,CVCVCVCVCV,true,1519
-EAH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,karakotan,k a r a k o t a n,,wot,264,true,^ k a r a k o t a n $,EAH,k a r a k o t a n,CVCVCVCVC,true,1519
-WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,WOT,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,karakotan,k a r a k o t a n,,wot,264,true,^ k a r a k o t a n $,WOT,k a r a k o t a n,CVCVCVCVC,true,1519
+H-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,H,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kárókatona,kárókaton,k aː r oː k ɒ t o n,,wot,264,true,^kárókaton$,H,k aː r oː k ɒ t o n,CVCVCVCVC,true,1519
+OH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,kara katona,k a r a + k a t o n a,,wot,264,true,^ k a r a + k a t o n a $,OH,k a r a + k a t o n a,CVCV_CVCVCV,true,1519
+EAH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,k a r a + k o t a n,,wot,264,true,^ k a r a + k o t a n $,EAH,k a r a + k o t a n,CVCV_CVCVC,true,1519
+WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,WOT,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,k a r a + k o t a n,,wot,264,true,^ k a r a + k o t a n $,WOT,k a r a + k o t a n,CVCV_CVCVC,true,1519
 H-215_sparrowhawkaccipiternnisus-1,,H,215_sparrowhawkaccipiternnisus,karvaly,karvaly,k ɒ r v ɒ j,,wot,265,true,^karvaly$,H,k ɒ r.v ɒ j,CVCCVC,true,1222
 EAH-215_sparrowhawkaccipiternnisus-1,,EAH,215_sparrowhawkaccipiternnisus,karγay,karγay,k a r ɣ a j,,wot,265,true,^ k a r γ a y $,EAH,k a r.ɣ a j,CVCCVC,true,1222
 WOT-215_sparrowhawkaccipiternnisus-1,,WOT,215_sparrowhawkaccipiternnisus,kargay,kargay,k a r ɡ a j,,wot,265,true,^ k a r g a y $,WOT,k a r.ɡ a j,CVCCVC,true,1222
@@ -907,7 +907,7 @@ EAH-222_hempcannabis-1,,EAH,222_hempcannabis,kendir,kendir,k ɛ n d i r,,wot,272
 WOT-222_hempcannabis-1,,WOT,222_hempcannabis,kändir,kändir,k ɛ n d i r,,wot,272,true,^ k ä n d i r $,WOT,k ɛ n.d i r,CVCCVC,true,1192
 H-223_mercury-1,,H,223_mercury,kéneső,kéneső,k eː n ɛ ʃ øː,,wot,273,true,^kéneső$,H,k eː n ɛ ʃ øː,CVCVCV,true,1525
 EAH-223_mercury-1,,EAH,223_mercury,kenešǖ,kenešǖ,k ɛ n ɛ ʃ yː,,wot,273,true,^ k e n e š ǖ $,EAH,k ɛ n ɛ ʃ yː,CVCVCV,true,1525
-WOT-223_mercury-1,,WOT,223_mercury,kenä šū,kenäšū,k ɛ n ɛ ʃ uː,,wot,273,true,^ k e n ä š ū $,WOT,k ɛ n ɛ ʃ uː,CVCVCV,true,1525
+WOT-223_mercury-1,,WOT,223_mercury,kenä šū,kenä šū,k ɛ n ɛ + ʃ uː,,wot,273,true,^ k e n ä + š ū $,WOT,k ɛ n ɛ + ʃ uː,CVCV_CV,true,1525
 H-224_pictureshapeform-1,,H,224_pictureshapeform,kép,kép,k eː p,,wot,274,true,^kép$,H,k eː p,CVC,true,1138
 WOT-224_pictureshapeform-1,,WOT,224_pictureshapeform,kǟp,kǟp,k ɛː p,,wot,274,true,^ k ǟ p $,WOT,k ɛː p,CVC,true,1138
 H-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1,,H,225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven,kepe,kepe,k ɛ p ɛ,,wot,275,true,^kepe$,H,k ɛ p ɛ,CVCV,true,1138
@@ -915,13 +915,13 @@ EAH-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1,,EAH,225_s
 WOT-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1,,WOT,225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven,käpäγ,käpäγ,k ɛ p ɛ ɣ,,wot,275,true,^ k ä p ä γ $,WOT,k ɛ p ɛ ɣ,CVCVC,true,1138
 H-226_akindofship-1,,H,226_akindofship,kerep,kerep,k ɛ r ɛ p,,wot,276,true,^kerep$,H,k ɛ r ɛ p,CVCVC,true,1248
 WOT-226_akindofship-1,,WOT,226_akindofship,käräp,käräp,k ɛ r ɛ p,,wot,276,false,^ k ä r ä p $,WOT,k ɛ r ɛ p,CVCVC,true,1248
-H-227_toruminateofbovines-1,,H,227_toruminateofbovines,kérődzik,kérődzik,k eː r øː d͡z i k,,wot,277,true,^kérődzik$,H,k eː r øː d͡z i k,CVCVCVC,true,1372
+H-227_toruminateofbovines-1,,H,227_toruminateofbovines,kérődzik,kér,k eː r,,wot,277,true,^kér$,H,k eː r,CVC,true,1372
 EAH-227_toruminateofbovines-1,,EAH,227_toruminateofbovines,kēr,kēr,k eː r,,wot,277,true,^ k ē r $,EAH,k eː r,CVC,true,1372
-WOT-227_toruminateofbovines-1,,WOT,227_toruminateofbovines,käwir,käwir,k ɛ v i r,,wot,277,true,^ k ä w i r $,WOT,k ɛ v i r,CVCVC,true,1372
+WOT-227_toruminateofbovines-1,,WOT,227_toruminateofbovines,käwir,käwir,k ɛ w i r,,wot,277,true,^ k ä w i r $,WOT,k ɛ w i r,CVCVC,true,1372
 H-228_cud-1,,H,228_cud,kérő,kérő,k eː r øː,,wot,278,true,^kérő$,H,k eː r øː,CVCV,true,1551
 OH-228_cud-1,,OH,228_cud,kevreγ,kevreγ,k ɛ v r ɛ ɣ,,wot,278,true,^ k e v r e γ $,OH,k ɛ v.r ɛ ɣ,CVCCVC,true,1551
 EAH-228_cud-1,,EAH,228_cud,kevereγ,kevereγ,k ɛ v ɛ r ɛ ɣ,,wot,278,true,^ k e v e r e γ $,EAH,k ɛ v ɛ r ɛ ɣ,CVCVCVC,true,1551
-WOT-228_cud-1,,WOT,228_cud,käwiräg,käwiräg,k ɛ v i r ɛ ɡ,,wot,278,true,^ k ä w i r ä g $,WOT,k ɛ v i r ɛ ɡ,CVCVCVC,true,1551
+WOT-228_cud-1,,WOT,228_cud,käwiräg,käwiräg,k ɛ w i r ɛ ɡ,,wot,278,true,^ k ä w i r ä g $,WOT,k ɛ w i r ɛ ɡ,CVCVCVC,true,1551
 H-229_gardenplaceforanimals-1,,H,229_gardenplaceforanimals,kert,kert,k ɛ r t,,wot,279,true,^kert$,H,k ɛ r.t,CVCC,true,1055
 EAH-229_gardenplaceforanimals-1,,EAH,229_gardenplaceforanimals,kerte,kerte,k ɛ r t ɛ,,wot,279,true,^ k e r t e $,EAH,k ɛ r.t ɛ,CVCCV,true,1055
 WOT-229_gardenplaceforanimals-1,,WOT,229_gardenplaceforanimals,kärtä,kärtä,k ɛ r t ɛ,,wot,279,true,^ k ä r t ä $,WOT,k ɛ r.t ɛ,CVCCV,true,1055
@@ -929,7 +929,7 @@ H-230_vulturevultur-1,,H,230_vulturevultur,keselyű,keselyű,k ɛ ʃ ɛ j yː,,w
 OH-230_vulturevultur-1,,OH,230_vulturevultur,kešeleü̯,kešeleü̯,k ɛ ʃ ɛ l ɛ w,,wot,280,true,^ k e š e l e ü̯ $,OH,k ɛ ʃ ɛ l ɛ w,CVCVCVC,true,1233
 EAH-230_vulturevultur-1,,EAH,230_vulturevultur,küčeleγ,küčeleγ,k y t͡ʃ ɛ l ɛ ɣ,,wot,280,true,^ k ü č e l e γ $,EAH,k y t͡ʃ ɛ l ɛ ɣ,CVCVCVC,true,1233
 WOT-230_vulturevultur-1,,WOT,230_vulturevultur,küčäläγ,küčäläγ,k y t͡ʃ ɛ l ɛ ɣ,,wot,280,true,^ k ü č ä l ä γ $,WOT,k y t͡ʃ ɛ l ɛ ɣ,CVCVCVC,true,1233
-H-231_tobebecomelate-1,,H,231_tobebecomelate,késik,késik,k eː ʃ i k,,wot,281,true,^késik$,H,k eː ʃ i k,CVCVC,true,1138
+H-231_tobebecomelate-1,,H,231_tobebecomelate,késik,kés,k eː ʃ,,wot,281,true,^kés$,H,k eː ʃ,CVC,true,1138
 OH-231_tobebecomelate-1,,OH,231_tobebecomelate,kēš,kēš,k eː ʃ,,wot,281,true,^ k ē š $,OH,k eː ʃ,CVC,true,1138
 EAH-231_tobebecomelate-1,,EAH,231_tobebecomelate,kēč,kēč,k eː t͡ʃ,,wot,281,true,^ k ē č $,EAH,k eː t͡ʃ,CVC,true,1138
 WOT-231_tobebecomelate-1,,WOT,231_tobebecomelate,kēč,kēč,k eː t͡ʃ,,wot,281,false,^ k ē č $,WOT,k eː t͡ʃ,CVC,true,1138
@@ -965,13 +965,13 @@ H-238_gourdcalabashlagenariavulgarisheadbillycockhat-1,,H,238_gourdcalabashlagen
 EAH-238_gourdcalabashlagenariavulgarisheadbillycockhat-1,,EAH,238_gourdcalabashlagenariavulgarisheadbillycockhat,kåbåk,kåbåk,k ɒ b ɒ k,,wot,290,true,^ k å b å k $,EAH,k ɒ b ɒ k,CVCVC,true,1340
 H-239_lutecittern-1,,H,239_lutecittern,koboz,koboz,k o b o z,,wot,291,true,^koboz$,H,k o b o z,CVCVC,true,1193
 EAH-239_lutecittern-1,,EAH,239_lutecittern,koboz,koboz,k o b o z,,wot,291,true,^ k o b o z $,EAH,k o b o z,CVCVC,true,1193
-H-240_tobegtomendicate-1,,H,240_tobegtomendicate,koldul,koldul,k o l d u l,,wot,292,true,^koldul$,H,k o l.d u l,CVCCVC,true,1372
+H-240_tobegtomendicate-1,,H,240_tobegtomendicate,koldul,koldu,k o l d u,,wot,292,true,^koldu$,H,k o l.d u,CVCCV,true,1372
 EAH-240_tobegtomendicate-1,,EAH,240_tobegtomendicate,koldu,koldu,k o l d u,,wot,292,true,^ k o l d u $,EAH,k o l.d u,CVCCV,true,1372
 WOT-240_tobegtomendicate-1,,WOT,240_tobegtomendicate,koldu,koldu,k o l d u,,wot,292,false,^ k o l d u $,WOT,k o l.d u,CVCCV,true,1372
-H-241_beggar-1,,H,241_beggar,koldus,koldus,k o l d u ʃ,,wot,293,true,^koldus$,H,k o l.d u ʃ,CVCCVC,true,1416
+H-241_beggar-1,,H,241_beggar,koldus,koldu,k o l d u,,wot,293,true,^koldu$,H,k o l.d u,CVCCV,true,1416
 EAH-241_beggar-1,,EAH,241_beggar,koldu,koldu,k o l d u,,wot,293,true,^ k o l d u $,EAH,k o l.d u,CVCCV,true,1416
 WOT-241_beggar-1,,WOT,241_beggar,koldu,koldu,k o l d u,,wot,293,false,^ k o l d u $,WOT,k o l.d u,CVCCV,true,1416
-H-241_beggar-2,,H,241_beggar,koldus,koldus,k o l d u ʃ,,wot,294,true,^koldus$,H,k o l.d u ʃ,CVCCVC,true,1416
+H-241_beggar-2,,H,241_beggar,koldus,koldu,k o l d u,,wot,294,true,^koldu$,H,k o l.d u,CVCCV,true,1416
 EAH-241_beggar-2,,EAH,241_beggar,koldu,koldu,k o l d u,,wot,294,true,^ k o l d u $,EAH,k o l.d u,CVCCV,true,1416
 WOT-241_beggar-2,,WOT,241_beggar,kolduš,kolduš,k o l d u ʃ,,wot,294,false,^ k o l d u š $,WOT,k o l.d u ʃ,CVCCVC,true,1416
 H-242_hopshumuluslupulus-1,,H,242_hopshumuluslupulus,komló,komló,k o m l oː,,wot,295,true,^komló$,H,k o m.l oː,CVCCV,true,1086
@@ -998,7 +998,7 @@ WOT-248_tombsmallhillelevateddryplaceinamarsh-1,,WOT,248_tombsmallhillelevateddr
 H-249_drystalkofweed-1,,H,249_drystalkofweed,kóró,kóró,k oː r oː,,wot,302,true,^kóró$,H,k oː r oː,CVCV,true,1200
 OH-249_drystalkofweed-1,,OH,249_drystalkofweed,korou̯,korou̯,k o r o w,,wot,302,true,^ k o r o u̯ $,OH,k o r o w,CVCVC,true,1200
 EAH-249_drystalkofweed-1,,EAH,249_drystalkofweed,kuroγ,kuroγ,k u r o ɣ,,wot,302,true,^ k u r o γ $,EAH,k u r o ɣ,CVCVC,true,1200
-WOT-249_drystalkofweed-1,,WOT,249_drystalkofweed,kowrog,kowrog,k o v r o ɡ,,wot,302,true,^ k o w r o g $,WOT,k o v.r o ɡ,CVCCVC,true,1200
+WOT-249_drystalkofweed-1,,WOT,249_drystalkofweed,kowrog,kowrog,k o w r o ɡ,,wot,302,true,^ k o w r o g $,WOT,k o w.r o ɡ,CVCCVC,true,1200
 H-250_soot-1,,H,250_soot,korom,korom,k o r o m,,wot,303,true,^korom$,H,k o r o m,CVCVC,true,1211
 EAH-250_soot-1,,EAH,250_soot,kurum,kurum,k u r u m,,wot,303,true,^ k u r u m $,EAH,k u r u m,CVCVC,true,1211
 WOT-250_soot-1,,WOT,250_soot,kurum,kurum,k u r u m,,wot,303,true,^ k u r u m $,WOT,k u r u m,CVCVC,true,1211
@@ -1067,7 +1067,7 @@ EAH-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatrought
 WOT-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1,,WOT,264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania,küpüγ,küpüγ,k y p y ɣ,,wot,320,true,^ k ü p ü γ $,WOT,k y p y ɣ,CVCVC,true,1405
 H-265_ashtreefraxinussp-1,,H,265_ashtreefraxinussp,kőris,kőris,k øː r i ʃ,,wot,321,true,^kőris$,H,k øː r i ʃ,CVCVC,true,1055
 OH-265_ashtreefraxinussp-1,,OH,265_ashtreefraxinussp,kǖriš,kǖriš,k yː r i ʃ,,wot,321,true,^ k ǖ r i š $,OH,k yː r i ʃ,CVCVC,true,1055
-EAH-265_ashtreefraxinussp-1,,EAH,265_ashtreefraxinussp,kewrič,kewrič,k ɛ v r i t͡ʃ,,wot,321,true,^ k e w r i č $,EAH,k ɛ v.r i t͡ʃ,CVCCVC,true,1055
+EAH-265_ashtreefraxinussp-1,,EAH,265_ashtreefraxinussp,kewrič,kewrič,k ɛ w r i t͡ʃ,,wot,321,true,^ k e w r i č $,EAH,k ɛ w.r i t͡ʃ,CVCCVC,true,1055
 WOT-265_ashtreefraxinussp-1,,WOT,265_ashtreefraxinussp,kevrič,kevrič,k ɛ v r i t͡ʃ,,wot,321,true,^ k e v r i č $,WOT,k ɛ v.r i t͡ʃ,CVCCVC,true,1055
 H-266_mellowpowderycrumblyrottenmouldy-1,,H,266_mellowpowderycrumblyrottenmouldy,kőrő,kőrő,k øː r øː,,wot,322,true,^kőrő$,H,k øː r øː,CVCV,true,1828
 EAH-266_mellowpowderycrumblyrottenmouldy-1,,EAH,266_mellowpowderycrumblyrottenmouldy,kevreγ,kevreγ,k ɛ v r ɛ ɣ,,wot,322,true,^ k e v r e γ $,EAH,k ɛ v.r ɛ ɣ,CVCCVC,true,1828
@@ -1075,7 +1075,7 @@ WOT-266_mellowpowderycrumblyrottenmouldy-1,,WOT,266_mellowpowderycrumblyrottenmo
 H-267_pearpyruscommunis-1,,H,267_pearpyruscommunis,körtvély,körtvély,k ø r t v eː j,,wot,323,true,^körtvély$,H,k ø r.t.v eː j,CVCCCVC,true,1055
 OH-267_pearpyruscommunis-1,,OH,267_pearpyruscommunis,kërtveli,kërtveli,k e r t v ɛ l i,,wot,323,true,^ k ë r t v e l i $,OH,k e r.t.v ɛ l i,CVCCCVCV,true,1055
 EAH-267_pearpyruscommunis-1,,EAH,267_pearpyruscommunis,kertβeli,kertβeli,k ɛ r t β ɛ l i,,wot,323,true,^ k e r t β e l i $,EAH,k ɛ r.t.β ɛ l i,CVCCCVCV,true,1055
-WOT-267_pearpyruscommunis-1,,WOT,267_pearpyruscommunis,kertweliγ,kertweliγ,k ɛ r t v ɛ l i ɣ,,wot,323,true,^ k e r t w e l i γ $,WOT,k ɛ r.t.v ɛ l i ɣ,CVCCCVCVC,true,1055
+WOT-267_pearpyruscommunis-1,,WOT,267_pearpyruscommunis,kertweliγ,kertweliγ,k ɛ r t w ɛ l i ɣ,,wot,323,true,^ k e r t w e l i γ $,WOT,k ɛ r.t.w ɛ l i ɣ,CVCCCVCVC,true,1055
 H-267_pearpyruscommunis-2,,H,267_pearpyruscommunis,körtvély,körtvély,k ø r t v eː j,,wot,324,true,^körtvély$,H,k ø r.t.v eː j,CVCCCVC,true,1055
 OH-267_pearpyruscommunis-2,,OH,267_pearpyruscommunis,kertmeli,kertmeli,k ɛ r t m ɛ l i,,wot,324,true,^ k e r t m e l i $,OH,k ɛ r.t.m ɛ l i,CVCCCVCV,true,1055
 EAH-267_pearpyruscommunis-2,,EAH,267_pearpyruscommunis,kertmeliγ,kertmeliγ,k ɛ r t m ɛ l i ɣ,,wot,324,true,^ k e r t m e l i γ $,EAH,k ɛ r.t.m ɛ l i ɣ,CVCCCVCVC,true,1055
@@ -1085,10 +1085,10 @@ EAH-268_togreettothank-1,,EAH,268_togreettothank,küsen,küsen,k y s ɛ n,,wot,3
 WOT-268_togreettothank-1,,WOT,268_togreettothank,küsän,küsän,k y s ɛ n,,wot,325,true,^ k ü s ä n $,WOT,k y s ɛ n,CVCVC,true,1316
 H-269_thecumanethnicgroupinhungary-1,,H,269_thecumanethnicgroupinhungary,kun,kun,k u n,,wot,326,true,^kun$,H,k u n,CVC,true,1138
 OH-269_thecumanethnicgroupinhungary-1,,OH,269_thecumanethnicgroupinhungary,kūn,kūn,k uː n,,wot,326,true,^ k ū n $,OH,k uː n,CVC,true,1138
-EAH-269_thecumanethnicgroupinhungary-1,,EAH,269_thecumanethnicgroupinhungary,kuwan,kuwan,k u v a n,,wot,326,true,^ k u w a n $,EAH,k u v a n,CVCVC,true,1138
-WOT-269_thecumanethnicgroupinhungary-1,,WOT,269_thecumanethnicgroupinhungary,kuwan,kuwan,k u v a n,,wot,326,true,^ k u w a n $,WOT,k u v a n,CVCVC,true,1138
+EAH-269_thecumanethnicgroupinhungary-1,,EAH,269_thecumanethnicgroupinhungary,kuwan,kuwan,k u w a n,,wot,326,true,^ k u w a n $,EAH,k u w a n,CVCVC,true,1138
+WOT-269_thecumanethnicgroupinhungary-1,,WOT,269_thecumanethnicgroupinhungary,kuwan,kuwan,k u w a n,,wot,326,true,^ k u w a n $,WOT,k u w a n,CVCVC,true,1138
 H-270_akindofdogahungarianbreedofsheepdog-1,,H,270_akindofdogahungarianbreedofsheepdog,kuvasz,kuvasz,k u v ɒ s,,wot,327,true,^kuvasz$,H,k u v ɒ s,CVCVC,true,1511
-EAH-270_akindofdogahungarianbreedofsheepdog-1,,EAH,270_akindofdogahungarianbreedofsheepdog,kuwaz,kuwaz,k u v a z,,wot,327,true,^ k u w a z $,EAH,k u v a z,CVCVC,true,1511
+EAH-270_akindofdogahungarianbreedofsheepdog-1,,EAH,270_akindofdogahungarianbreedofsheepdog,kuwaz,kuwaz,k u w a z,,wot,327,true,^ k u w a z $,EAH,k u w a z,CVCVC,true,1511
 H-272_laughingbirdpicusviridis-1,,H,272_laughingbirdpicusviridis,küllő,küllő,k y lː øː,,wot,328,true,^küllő$,H,k y lː øː,CVCV,true,1405
 EAH-272_laughingbirdpicusviridis-1,,EAH,272_laughingbirdpicusviridis,külleγ,külleγ,k y lː ɛ ɣ,,wot,328,true,^ k ü ll e γ $,EAH,k y lː ɛ ɣ,CVCVC,true,1405
 WOT-272_laughingbirdpicusviridis-1,,WOT,272_laughingbirdpicusviridis,külüläγ,külüläγ,k y l y l ɛ ɣ,,wot,328,false,^ k ü l ü l ä γ $,WOT,k y l y l ɛ ɣ,CVCVCVC,true,1405
@@ -1102,7 +1102,7 @@ OH-272_laughingbirdpicusviridis-1,,OH,272_laughingbirdpicusviridis,külȫ,külȫ
 LAH-272_laughingbirdpicusviridis-1,,LAH,272_laughingbirdpicusviridis,küvȫ,küvȫ,k y v øː,,wot,330,true,^ k ü v ȫ $,LAH,k y v øː,CVCV,true,1983
 EAH-272_laughingbirdpicusviridis-2,,EAH,272_laughingbirdpicusviridis,küvey,küvey,k y v ɛ j,,wot,330,true,^ k ü v e y $,EAH,k y v ɛ j,CVCVC,true,1983
 WOT-272_laughingbirdpicusviridis-2,,WOT,272_laughingbirdpicusviridis,küväy,küväy,k y v ɛ j,,wot,330,true,^ k ü v ä y $,WOT,k y v ɛ j,CVCVC,true,1983
-H-273_drysummerfograinbow-1,,H,273_drysummerfograinbow,mónár köd,mónárköd,m oː n aː r k ø d,,wot,331,true,^mónárköd$,H,m oː n aː r.k ø d,CVCVCCVC,false,1211
+H-273_drysummerfograinbow-1,,H,273_drysummerfograinbow,mónár köd,mónár,m oː n aː r,,wot,331,true,^mónár$,H,m oː n aː r,CVCVC,true,1211
 OH-273_drysummerfograinbow-1,,OH,273_drysummerfograinbow,mōnār,mōnār,m oː n aː r,,wot,331,true,^ m ō n ā r $,OH,m oː n aː r,CVCVC,true,1211
 EAH-273_drysummerfograinbow-1,,EAH,273_drysummerfograinbow,munar,munar,m u n a r,,wot,331,true,^ m u n a r $,EAH,m u n a r,CVCVC,true,1211
 WOT-273_drysummerfograinbow-1,,WOT,273_drysummerfograinbow,munar,munar,m u n a r,,wot,331,false,^ m u n a r $,WOT,m u n a r,CVCVC,true,1211
@@ -1117,7 +1117,7 @@ WOT-275_chaffhuskswinnowingstailingsrefuseofgrain-1,,WOT,275_chaffhuskswinnowing
 H-276_causereason-1,,H,276_causereason,ok,ok,o k,,wot,334,true,^ok$,H,o k,VC,true,1138
 EAH-276_causereason-1,,EAH,276_causereason,uk,uk,u k,,wot,334,true,^ u k $,EAH,u k,VC,true,1138
 WOT-276_causereason-1,,WOT,276_causereason,uk,uk,u k,,wot,334,true,^ u k $,WOT,u k,VC,true,1138
-H-277_toteach-1,,H,277_toteach,oktat,oktat,o k t ɒ t,,wot,335,true,^oktat$,H,o k.t ɒ t,VCCVC,true,
+H-277_toteach-1,,H,277_toteach,oktat,okt,o k t,,wot,335,true,^okt$,H,o k.t,VCC,true,
 OH-277_toteach-1,,OH,277_toteach,ok,ok,o k,,wot,335,true,^ o k $,OH,o k,VC,true,
 EAH-277_toteach-1,,EAH,277_toteach,uk,uk,u k,,wot,335,true,^ u k $,EAH,u k,VC,true,
 WOT-277_toteach-1,,WOT,277_toteach,uk,uk,u k,,wot,335,true,^ u k $,WOT,u k,VC,true,
@@ -1160,7 +1160,7 @@ WOT-286_thief-1,,WOT,286_thief,ogru,ogru,o ɡ r u,,wot,345,true,^ o g r u $,WOT,
 H-287_physician-1,,H,287_physician,orvos,orvos,o r v o ʃ,,wot,346,true,^orvos$,H,o r.v o ʃ,VCCVC,true,1131
 OH-287_physician-1,,OH,287_physician,urvoš,urvoš,u r v o ʃ,,wot,346,true,^ u r v o š $,OH,u r.v o ʃ,VCCVC,true,1131
 EAH-287_physician-1,,EAH,287_physician,urvoči,urvoči,u r v o t͡ʃ i,,wot,346,true,^ u r v o č i $,EAH,u r.v o t͡ʃ i,VCCVCV,true,1131
-WOT-287_physician-1,,WOT,287_physician,orwučï,orwučï,o r v u t͡ʃ ɯ,,wot,346,true,^ o r w u č ï $,WOT,o r.v u t͡ʃ ɯ,VCCVCV,true,1131
+WOT-287_physician-1,,WOT,287_physician,orwučï,orwučï,o r w u t͡ʃ ɯ,,wot,346,true,^ o r w u č ï $,WOT,o r.w u t͡ʃ ɯ,VCCVCV,true,1131
 H-288_cuneinplayinostabla-1,,H,288_cuneinplayinostabla,os,os,o ʃ,,wot,347,true,^os$,H,o ʃ,VC,true,1405
 OH-288_cuneinplayinostabla-1,,OH,288_cuneinplayinostabla,ošk,ošk,o ʃ k,,wot,347,true,^ o š k $,OH,o ʃ.k,VCC,true,1405
 LAH-288_cuneinplayinostabla-1,,LAH,288_cuneinplayinostabla,ačk,ačk,a t͡ʃ k,,wot,347,true,^ a č k $,LAH,a t͡ʃ.k,VCC,true,1405
@@ -1177,7 +1177,7 @@ H-291_hawkbuzzardbuteobuteo-1,,H,291_hawkbuzzardbuteobuteo,ölyv,ölyv,ø j v,,w
 OH-291_hawkbuzzardbuteobuteo-1,,OH,291_hawkbuzzardbuteobuteo,ölʹü,ölʹü,ø j y,,wot,350,true,^ ö lʹ ü $,OH,ø j y,VCV,true,1055
 EAH-291_hawkbuzzardbuteobuteo-1,,EAH,291_hawkbuzzardbuteobuteo,eliγ,eliγ,ɛ l i ɣ,,wot,350,true,^ e l i γ $,EAH,ɛ l i ɣ,VCVC,true,1055
 WOT-291_hawkbuzzardbuteobuteo-1,,WOT,291_hawkbuzzardbuteobuteo,eliγ,eliγ,ɛ l i ɣ,,wot,350,false,^ e l i γ $,WOT,ɛ l i ɣ,VCVC,true,1055
-H-292_totakeroottogrowstrongerplantanimal-1,,H,292_totakeroottogrowstrongerplantanimal,önik,önik,ø n i k,,wot,351,true,^önik$,H,ø n i k,VCVC,true,1196
+H-292_totakeroottogrowstrongerplantanimal-1,,H,292_totakeroottogrowstrongerplantanimal,önik,ön,ø n,,wot,351,true,^ön$,H,ø n,VC,true,1196
 OH-292_totakeroottogrowstrongerplantanimal-1,,OH,292_totakeroottogrowstrongerplantanimal,ön,ön,ø n,,wot,351,true,^ ö n $,OH,ø n,VC,true,1196
 EAH-292_totakeroottogrowstrongerplantanimal-1,,EAH,292_totakeroottogrowstrongerplantanimal,ün,ün,y n,,wot,351,true,^ ü n $,EAH,y n,VC,true,1196
 WOT-292_totakeroottogrowstrongerplantanimal-1,,WOT,292_totakeroottogrowstrongerplantanimal,ǖn,ǖn,yː n,,wot,351,true,^ ǖ n $,WOT,yː n,VC,true,1196
@@ -1193,7 +1193,7 @@ WOT-295_armenian-1,,WOT,295_armenian,ärmäni,ärmäni,ɛ r m ɛ n i,,wot,354,fa
 H-296_eternal-1,,H,296_eternal,örök,örök,ø r ø k,,wot,355,true,^örök$,H,ø r ø k,VCVC,true,1086
 EAH-296_eternal-1,,EAH,296_eternal,ürük,ürük,y r y k,,wot,355,true,^ ü r ü k $,EAH,y r y k,VCVC,true,1086
 WOT-296_eternal-1,,WOT,296_eternal,ürük,ürük,y r y k,,wot,355,true,^ ü r ü k $,WOT,y r y k,VCVC,true,1086
-H-297_torejoicetobeglad-1,,H,297_torejoicetobeglad,örül,örül,ø r y l,,wot,356,true,^örül$,H,ø r y l,VCVC,true,1372
+H-297_torejoicetobeglad-1,,H,297_torejoicetobeglad,örül,ör,ø r,,wot,356,true,^ör$,H,ø r,VC,true,1372
 OH-297_torejoicetobeglad-1,,OH,297_torejoicetobeglad,ör,ör,ø r,,wot,356,true,^ ö r $,OH,ø r,VC,true,1372
 LAH-297_torejoicetobeglad-1,,LAH,297_torejoicetobeglad,ȫr,ȫr,øː r,,wot,356,true,^ ȫ r $,LAH,øː r,VC,true,1372
 EAH-297_torejoicetobeglad-1,,EAH,297_torejoicetobeglad,öγir,öγir,ø ɣ i r,,wot,356,true,^ ö γ i r $,EAH,ø ɣ i r,VCVC,true,1372
@@ -1204,7 +1204,7 @@ EAH-298_tobecomemad-1,,EAH,298_tobecomemad,evril,evril,ɛ v r i l,,wot,357,true,
 WOT-298_tobecomemad-1,,WOT,298_tobecomemad,ävril,ävril,ɛ v r i l,,wot,357,false,^ ä v r i l $,WOT,ɛ v.r i l,VCCVC,true,1598
 H-299_whirlpooleddy-1,,H,299_whirlpooleddy,örvény,örvény,ø r v eː ɲ,,wot,358,true,^örvény$,H,ø r.v eː ɲ,VCCVC,true,1391
 OH-299_whirlpooleddy-1,,OH,299_whirlpooleddy,ȫr,ȫr,øː r,,wot,358,true,^ ȫ r $,OH,øː r,VC,true,1391
-LAH-299_whirlpooleddy-1,,LAH,299_whirlpooleddy,ewir,ewir,ɛ v i r,,wot,358,true,^ e w i r $,LAH,ɛ v i r,VCVC,true,1391
+LAH-299_whirlpooleddy-1,,LAH,299_whirlpooleddy,ewir,ewir,ɛ w i r,,wot,358,true,^ e w i r $,LAH,ɛ w i r,VCVC,true,1391
 EAH-299_whirlpooleddy-1,,EAH,299_whirlpooleddy,eγir,eγir,ɛ ɣ i r,,wot,358,true,^ e γ i r $,EAH,ɛ ɣ i r,VCVC,true,1391
 WOT-299_whirlpooleddy-1,,WOT,299_whirlpooleddy,äγir,äγir,ɛ ɣ i r,,wot,358,true,^ ä γ i r $,WOT,ɛ ɣ i r,VCVC,true,1391
 H-299_whirlpooleddy-2,,H,299_whirlpooleddy,őrém,őrém,øː r eː m,,wot,359,true,^őrém$,H,øː r eː m,VCVC,true,1095
@@ -1262,7 +1262,7 @@ H-308_tent-1,,H,308_tent,sátor,sátor,ʃ aː t o r,,wot,374,true,^sátor$,H,ʃ 
 OH-308_tent-1,,OH,308_tent,šatur,šatur,ʃ a t u r,,wot,374,true,^ š a t u r $,OH,ʃ a t u r,CVCVC,true,1150
 EAH-308_tent-1,,EAH,308_tent,čatur,čatur,t͡ʃ a t u r,,wot,374,true,^ č a t u r $,EAH,t͡ʃ a t u r,CVCVC,true,1150
 WOT-308_tent-1,,WOT,308_tent,čatur,čatur,t͡ʃ a t u r,,wot,374,true,^ č a t u r $,WOT,t͡ʃ a t u r,CVCVC,true,1150
-H-309_fastquick-1,,H,309_fastquick,sebes,sebes,ʃ ɛ b ɛ ʃ,,wot,375,true,^sebes$,H,ʃ ɛ b ɛ ʃ,CVCVC,true,1039
+H-309_fastquick-1,,H,309_fastquick,sebes,seb,ʃ ɛ b,,wot,375,true,^seb$,H,ʃ ɛ b,CVC,true,1039
 EAH-309_fastquick-1,,EAH,309_fastquick,šeb,šeb,ʃ ɛ b,,wot,375,true,^ š e b $,EAH,ʃ ɛ b,CVC,true,1039
 WOT-309_fastquick-1,,WOT,309_fastquick,šip,šip,ʃ i p,,wot,375,false,^ š i p $,WOT,ʃ i p,CVC,true,1039
 H-310_tosweeptobroom-1,,H,310_tosweeptobroom,seper,seper,ʃ ɛ p ɛ r,,wot,376,true,^seper$,H,ʃ ɛ p ɛ r,CVCVC,true,1372
@@ -1292,7 +1292,7 @@ WOT-315_anit-1,,WOT,315_anit,širkä,širkä,ʃ i r k ɛ,,wot,382,true,^ š i r 
 H-316_cupgoblet-1,,H,316_cupgoblet,serleg,serleg,ʃ ɛ r l ɛ ɡ,,wot,383,true,^serleg$,H,ʃ ɛ r.l ɛ ɡ,CVCCVC,true,1381
 EAH-316_cupgoblet-1,,EAH,316_cupgoblet,šerleg,šerleg,ʃ ɛ r l ɛ ɡ,,wot,383,true,^ š e r l e g $,EAH,ʃ ɛ r.l ɛ ɡ,CVCCVC,true,1381
 WOT-316_cupgoblet-1,,WOT,316_cupgoblet,širlig,širlig,ʃ i r l i ɡ,,wot,383,true,^ š i r l i g $,WOT,ʃ i r.l i ɡ,CVCCVC,true,1381
-H-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,H,317_bristlesalsoshortsheavesusedtostrengthenathatchedroof,serte,serte,ʃ ɛ r t ɛ,,wot,384,true,^serte$,H,ʃ ɛ r.t ɛ,CVCCV,true,1395
+H-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,H,317_bristlesalsoshortsheavesusedtostrengthenathatchedroof,serte,sert,ʃ ɛ r t,,wot,384,true,^sert$,H,ʃ ɛ r.t,CVCC,true,1395
 OH-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,OH,317_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širte,širte,ʃ i r t ɛ,,wot,384,true,^ š i r t e $,OH,ʃ i r.t ɛ,CVCCV,true,1395
 EAH-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,EAH,317_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ š i r t $,EAH,ʃ i r.t,CVCC,true,1395
 WOT-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1,,WOT,317_bristlesalsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,384,true,^ š i r t $,WOT,ʃ i r.t,CVCC,true,1395
@@ -1305,20 +1305,20 @@ WOT-319_smoothsimit-1,,WOT,319_smoothsimit,šïma,šïma,ʃ ɯ m a,,wot,386,true
 H-320_runningwaterrunningchannelunderamill-1,,H,320_runningwaterrunningchannelunderamill,sió,sió,ʃ i oː,,wot,387,true,^sió$,H,ʃ i.oː,CVV,true,1614
 EAH-320_runningwaterrunningchannelunderamill-1,,EAH,320_runningwaterrunningchannelunderamill,šiu,šiu,ʃ i u,,wot,387,true,^ š i u $,EAH,ʃ i.u,CVV,true,1614
 WOT-320_runningwaterrunningchannelunderamill-1,,WOT,320_runningwaterrunningchannelunderamill,šiu,šiu,ʃ i u,,wot,387,false,^ š i u $,WOT,ʃ i.u,CVV,true,1614
-H-321_springwellbrook-1,,H,321_springwellbrook,séd,séd,ʃ eː d,,wot,388,true,^séd$,H,ʃ eː d,CVC,true,1086
+H-321_springwellbrook-1,,H,321_springwellbrook,séd,sé,ʃ eː,,wot,388,true,^sé$,H,ʃ eː,CV,true,1086
 OH-321_springwellbrook-1,,OH,321_springwellbrook,šīd,šīd,ʃ iː d,,wot,388,true,^ š ī d $,OH,ʃ iː d,CVC,true,1086
 EAH-321_springwellbrook-1,,EAH,321_springwellbrook,šiu,šiu,ʃ i u,,wot,388,true,^ š i u $,EAH,ʃ i.u,CVV,true,1086
-WOT-321_springwellbrook-1,,WOT,321_springwellbrook,šiw,šiw,ʃ i v,,wot,388,false,^ š i w $,WOT,ʃ i v,CVC,true,1086
+WOT-321_springwellbrook-1,,WOT,321_springwellbrook,šiw,šiw,ʃ i w,,wot,388,false,^ š i w $,WOT,ʃ i w,CVC,true,1086
 H-322_muchmany-1,,H,322_muchmany,sok,sok,ʃ o k,,wot,389,true,^sok$,H,ʃ o k,CVC,true,1138
 WOT-322_muchmany-1,,WOT,322_muchmany,čok,čok,t͡ʃ o k,,wot,389,false,^ č o k $,WOT,t͡ʃ o k,CVC,true,1138
-H-323_falcon-1,,H,323_falcon,sólyom,sólyom,ʃ oː j o m,,wot,390,true,^sólyom$,H,ʃ oː j o m,CVCVC,true,1082
+H-323_falcon-1,,H,323_falcon,sólyom,sólyo,ʃ oː j o,,wot,390,true,^sólyo$,H,ʃ oː j o,CVCV,true,1082
 OH-323_falcon-1,,OH,323_falcon,šolʹom,šolʹom,ʃ o j o m,,wot,390,true,^ š o lʹ o m $,OH,ʃ o j o m,CVCVC,true,1082
-LAH-323_falcon-1,,LAH,323_falcon,čawlim,čawlim,t͡ʃ a v l i m,,wot,390,true,^ č a w l i m $,LAH,t͡ʃ a v.l i m,CVCCVC,true,1082
+LAH-323_falcon-1,,LAH,323_falcon,čawlim,čawlim,t͡ʃ a w l i m,,wot,390,true,^ č a w l i m $,LAH,t͡ʃ a w.l i m,CVCCVC,true,1082
 EAH-323_falcon-1,,EAH,323_falcon,čavli,čavli,t͡ʃ a v l i,,wot,390,true,^ č a v l i $,EAH,t͡ʃ a v.l i,CVCCV,true,1082
 WOT-323_falcon-1,,WOT,323_falcon,čavlï,čavlï,t͡ʃ a v l ɯ,,wot,390,false,^ č a v l ï $,WOT,t͡ʃ a v.l ɯ,CVCCV,true,1082
-H-323_falcon-2,,H,323_falcon,sólyom,sólyom,ʃ oː j o m,,wot,391,true,^sólyom$,H,ʃ oː j o m,CVCVC,true,1082
+H-323_falcon-2,,H,323_falcon,sólyom,sólyo,ʃ oː j o,,wot,391,true,^sólyo$,H,ʃ oː j o,CVCV,true,1082
 OH-323_falcon-2,,OH,323_falcon,šolʹom,šolʹom,ʃ o j o m,,wot,391,true,^ š o lʹ o m $,OH,ʃ o j o m,CVCVC,true,1082
-LAH-323_falcon-2,,LAH,323_falcon,čawlim,čawlim,t͡ʃ a v l i m,,wot,391,true,^ č a w l i m $,LAH,t͡ʃ a v.l i m,CVCCVC,true,1082
+LAH-323_falcon-2,,LAH,323_falcon,čawlim,čawlim,t͡ʃ a w l i m,,wot,391,true,^ č a w l i m $,LAH,t͡ʃ a w.l i m,CVCCVC,true,1082
 EAH-323_falcon-2,,EAH,323_falcon,čavli,čavli,t͡ʃ a v l i,,wot,391,true,^ č a v l i $,EAH,t͡ʃ a v.l i,CVCCV,true,1082
 WOT-323_falcon-2,,WOT,323_falcon,čavlïm,čavlïm,t͡ʃ a v l ɯ m,,wot,391,false,^ č a v l ï m $,WOT,t͡ʃ a v.l ɯ m,CVCCVC,true,1082
 H-324_dogwoodtreecornelcornus-1,,H,324_dogwoodtreecornelcornus,som,som,ʃ o m,,wot,392,true,^som$,H,ʃ o m,CVC,true,1291
@@ -1392,7 +1392,7 @@ EAH-341_wing-1,,EAH,341_wing,śārn,śārn,sʲ aː r n,,wot,411,true,^ ś ā r n
 WOT-341_wing-1,,WOT,341_wing,čaγrïn,čaγrïn,t͡ʃ a ɣ r ɯ n,,wot,411,false,^ č a γ r ï n $,WOT,t͡ʃ a ɣ.r ɯ n,CVCCVC,true,1372
 H-342_grocergrandhandler-1,,H,342_grocergrandhandler,szatócs,szatócs,s ɒ t oː t͡ʃ,,wot,412,true,^szatócs$,H,s ɒ t oː t͡ʃ,CVCVC,true,1522
 OH-342_grocergrandhandler-1,,OH,342_grocergrandhandler,satōč,satōč,s a t oː t͡ʃ,,wot,412,true,^ s a t ō č $,OH,s a t oː t͡ʃ,CVCVC,true,1522
-LAH-342_grocergrandhandler-1,,LAH,342_grocergrandhandler,satiwči,satiwči,s a t i v t͡ʃ i,,wot,412,true,^ s a t i w č i $,LAH,s a t i v.t͡ʃ i,CVCVCCV,true,1522
+LAH-342_grocergrandhandler-1,,LAH,342_grocergrandhandler,satiwči,satiwči,s a t i w t͡ʃ i,,wot,412,true,^ s a t i w č i $,LAH,s a t i w.t͡ʃ i,CVCVCCV,true,1522
 EAH-342_grocergrandhandler-1,,EAH,342_grocergrandhandler,satiγči,satiγči,s a t i ɣ t͡ʃ i,,wot,412,true,^ s a t i γ č i $,EAH,s a t i ɣ.t͡ʃ i,CVCVCCV,true,1522
 WOT-342_grocergrandhandler-1,,WOT,342_grocergrandhandler,satïγčï,satïγčï,s a t ɯ ɣ t͡ʃ ɯ,,wot,412,false,^ s a t ï γ č ï $,WOT,s a t ɯ ɣ.t͡ʃ ɯ,CVCVCCV,true,1522
 H-343_chairseatbenchthrone-1,,H,343_chairseatbenchthrone,szék,szék,s eː k,,wot,413,true,^szék$,H,s eː k,CVC,true,1156
@@ -1401,10 +1401,10 @@ WOT-343_chairseatbenchthrone-1,,WOT,343_chairseatbenchthrone,säkü,säkü,s ɛ 
 H-344_wind-1,,H,344_wind,szél,szél,s eː l,,wot,414,true,^szél$,H,s eː l,CVC,true,1181
 EAH-344_wind-1,,EAH,344_wind,sēl,sēl,s eː l,,wot,414,true,^ s ē l $,EAH,s eː l,CVC,true,1181
 WOT-344_wind-1,,WOT,344_wind,śēl,śēl,sʲ eː l,,wot,414,false,^ ś ē l $,WOT,sʲ eː l,CVC,true,1181
-H-345_toslumbertodoze-1,,H,345_toslumbertodoze,szender,szender,s ɛ n d ɛ r,,wot,415,true,^szender$,H,s ɛ n.d ɛ r,CVCCVC,true,1372
+H-345_toslumbertodoze-1,,H,345_toslumbertodoze,szender,szend,s ɛ n d,,wot,415,true,^szend$,H,s ɛ n.d,CVCC,true,1372
 EAH-345_toslumbertodoze-1,,EAH,345_toslumbertodoze,sen,sen,s ɛ n,,wot,415,true,^ s e n $,EAH,s ɛ n,CVC,true,1372
 WOT-345_toslumbertodoze-1,,WOT,345_toslumbertodoze,sender,sender,s ɛ n d ɛ r,,wot,415,true,^ s e n d e r $,WOT,s ɛ n.d ɛ r,CVCCVC,true,1372
-H-345_toslumbertodoze-2,,H,345_toslumbertodoze,szöndör,szöndör,s ø n d ø r,,wot,416,true,^szöndör$,H,s ø n.d ø r,CVCCVC,true,1372
+H-345_toslumbertodoze-2,,H,345_toslumbertodoze,szöndör,szönd,s ø n d,,wot,416,true,^szönd$,H,s ø n.d,CVCC,true,1372
 EAH-345_toslumbertodoze-2,,EAH,345_toslumbertodoze,sön,sön,s ø n,,wot,416,true,^ s ö n $,EAH,s ø n,CVC,true,1372
 WOT-345_toslumbertodoze-2,,WOT,345_toslumbertodoze,sön,sön,s ø n,,wot,416,true,^ s ö n $,WOT,s ø n,CVC,true,1372
 H-346_beautiful-1,,H,346_beautiful,szép,szép,s eː p,,wot,417,true,^szép$,H,s eː p,CVC,true,1127
@@ -1438,20 +1438,20 @@ WOT-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemelt
 H-353_rockcliffocciputcrestofmountain-1,,H,353_rockcliffocciputcrestofmountain,szirt,szirt,s i r t,,wot,425,true,^szirt$,H,s i r.t,CVCC,true,1302
 WOT-353_rockcliffocciputcrestofmountain-1,,WOT,353_rockcliffocciputcrestofmountain,sïrt,sïrt,s ɯ r t,,wot,425,false,^ s ï r t $,WOT,s ɯ r.t,CVCC,true,1302
 H-354_word-1,,H,354_word,szó,szó,s oː,,wot,426,true,^szó$,H,s oː,CV,true,1213
-EAH-354_word-1,,EAH,354_word,saw,saw,s a v,,wot,426,true,^ s a w $,EAH,s a v,CVC,true,1213
+EAH-354_word-1,,EAH,354_word,saw,saw,s a w,,wot,426,true,^ s a w $,EAH,s a w,CVC,true,1213
 WOT-354_word-1,,WOT,354_word,sav,sav,s a v,,wot,426,false,^ s a v $,WOT,s a v,CVC,true,1213
 H-355_akindoffalconpielfalcusgyrfalco-1,,H,355_akindoffalconpielfalcusgyrfalco,szongor,szongor,s o n ɡ o r,,wot,427,true,^szongor$,H,s o n.ɡ o r,CVCCVC,true,1282
 EAH-355_akindoffalconpielfalcusgyrfalco-1,,EAH,355_akindoffalconpielfalcusgyrfalco,sonkor,sonkor,s o n k o r,,wot,427,true,^ s o n k o r $,EAH,s o n.k o r,CVCCVC,true,1282
 WOT-355_akindoffalconpielfalcusgyrfalco-1,,WOT,355_akindoffalconpielfalcusgyrfalco,soŋkur,soŋkur,s o ŋ k u r,,wot,427,true,^ s o ŋ k u r $,WOT,s o ŋ.k u r,CVCCVC,true,1282
 H-356_tospreadtoscattertowinnow-1,,H,356_tospreadtoscattertowinnow,szór,szór,s oː r,,wot,428,true,^szór$,H,s oː r,CVC,true,1405
-EAH-356_tospreadtoscattertowinnow-1,,EAH,356_tospreadtoscattertowinnow,sawur,sawur,s a v u r,,wot,428,true,^ s a w u r $,EAH,s a v u r,CVCVC,true,1405
-WOT-356_tospreadtoscattertowinnow-1,,WOT,356_tospreadtoscattertowinnow,sawur,sawur,s a v u r,,wot,428,true,^ s a w u r $,WOT,s a v u r,CVCVC,true,1405
-H-357_grasshopper-1,,H,357_grasshopper,szöcske,szöcske,s ø t͡ʃ k ɛ,,wot,429,true,^szöcske$,H,s ø t͡ʃ.k ɛ,CVCCV,true,1275
+EAH-356_tospreadtoscattertowinnow-1,,EAH,356_tospreadtoscattertowinnow,sawur,sawur,s a w u r,,wot,428,true,^ s a w u r $,EAH,s a w u r,CVCVC,true,1405
+WOT-356_tospreadtoscattertowinnow-1,,WOT,356_tospreadtoscattertowinnow,sawur,sawur,s a w u r,,wot,428,true,^ s a w u r $,WOT,s a w u r,CVCVC,true,1405
+H-357_grasshopper-1,,H,357_grasshopper,szöcske,szöcsk,s ø t͡ʃ k,,wot,429,true,^szöcsk$,H,s ø t͡ʃ.k,CVCC,true,1275
 OH-357_grasshopper-1,,OH,357_grasshopper,sökče,sökče,s ø k t͡ʃ ɛ,,wot,429,true,^ s ö k č e $,OH,s ø k.t͡ʃ ɛ,CVCCV,true,1275
 LAH-357_grasshopper-1,,LAH,357_grasshopper,sökśȫ,sökśȫ,s ø k sʲ øː,,wot,429,true,^ s ö k ś ȫ $,LAH,s ø k.sʲ øː,CVCCV,true,1275
 EAH-357_grasshopper-1,,EAH,357_grasshopper,sek,sek,s ɛ k,,wot,429,true,^ s e k $,EAH,s ɛ k,CVC,true,1275
 WOT-357_grasshopper-1,,WOT,357_grasshopper,sek,sek,s ɛ k,,wot,429,false,^ s e k $,WOT,s ɛ k,CVC,true,1275
-H-358_toleaptojumptoescapetoflee-1,,H,358_toleaptojumptoescapetoflee,szökik,szökik,s ø k i k,,wot,430,true,^szökik$,H,s ø k i k,CVCVC,true,1198
+H-358_toleaptojumptoescapetoflee-1,,H,358_toleaptojumptoescapetoflee,szökik,szök,s ø k,,wot,430,true,^szök$,H,s ø k,CVC,true,1198
 OH-358_toleaptojumptoescapetoflee-1,,OH,358_toleaptojumptoescapetoflee,sök,sök,s ø k,,wot,430,true,^ s ö k $,OH,s ø k,CVC,true,1198
 EAH-358_toleaptojumptoescapetoflee-1,,EAH,358_toleaptojumptoescapetoflee,sek,sek,s ɛ k,,wot,430,true,^ s e k $,EAH,s ɛ k,CVC,true,1198
 WOT-358_toleaptojumptoescapetoflee-1,,WOT,358_toleaptojumptoescapetoflee,sek,sek,s ɛ k,,wot,430,true,^ s e k $,WOT,s ɛ k,CVC,true,1198
@@ -1469,10 +1469,10 @@ EAH-360_mosquitognatculexpipens-1,,EAH,360_mosquitognatculexpipens,sinuk,sinuk,s
 WOT-360_mosquitognatculexpipens-1,,WOT,360_mosquitognatculexpipens,siŋuk,siŋuk,s i ŋ u k,,wot,433,true,^ s i ŋ u k $,WOT,s i ŋ u k,CVCVC,true,1230
 H-361_furrier-1,,H,361_furrier,szűcs,szűcs,s yː t͡ʃ,,wot,434,true,^szűcs$,H,s yː t͡ʃ,CVC,true,1181
 OH-361_furrier-1,,OH,361_furrier,seü̯či,seü̯či,s ɛ w t͡ʃ i,,wot,434,true,^ s e ü̯ č i $,OH,s ɛ w.t͡ʃ i,CVCCV,true,1181
-LAH-361_furrier-1,,LAH,361_furrier,siwči,siwči,s i v t͡ʃ i,,wot,434,true,^ s i w č i $,LAH,s i v.t͡ʃ i,CVCCV,true,1181
+LAH-361_furrier-1,,LAH,361_furrier,siwči,siwči,s i w t͡ʃ i,,wot,434,true,^ s i w č i $,LAH,s i w.t͡ʃ i,CVCCV,true,1181
 EAH-361_furrier-1,,EAH,361_furrier,śiγči,śiγči,sʲ i ɣ t͡ʃ i,,wot,434,true,^ ś i γ č i $,EAH,sʲ i ɣ.t͡ʃ i,CVCCV,true,1181
 WOT-361_furrier-1,,WOT,361_furrier,čiγči,čiγči,t͡ʃ i ɣ t͡ʃ i,,wot,434,true,^ č i γ č i $,WOT,t͡ʃ i ɣ.t͡ʃ i,CVCCV,true,1181
-H-362_toceasetostop-1,,H,362_toceasetostop,szűnik,szűnik,s yː n i k,,wot,435,true,^szűnik$,H,s yː n i k,CVCVC,true,1372
+H-362_toceasetostop-1,,H,362_toceasetostop,szűnik,szűn,s yː n,,wot,435,true,^szűn$,H,s yː n,CVC,true,1372
 OH-362_toceasetostop-1,,OH,362_toceasetostop,sün,sün,s y n,,wot,435,true,^ s ü n $,OH,s y n,CVC,true,1372
 EAH-362_toceasetostop-1,,EAH,362_toceasetostop,sön,sön,s ø n,,wot,435,true,^ s ö n $,EAH,s ø n,CVC,true,1372
 WOT-362_toceasetostop-1,,WOT,362_toceasetostop,sön,sön,s ø n,,wot,435,true,^ s ö n $,WOT,s ø n,CVC,true,1372
@@ -1493,7 +1493,7 @@ WOT-366_advicecouncil-1,,WOT,366_advicecouncil,tanïlč,tanïlč,t a n ɯ l t͡�
 H-367_witness-1,,H,367_witness,tanú,tanú,t ɒ n uː,,wot,440,true,^tanú$,H,t ɒ n uː,CVCV,true,1350
 EAH-367_witness-1,,EAH,367_witness,tanu,tanu,t a n u,,wot,440,true,^ t a n u $,EAH,t a n u,CVCV,true,1350
 WOT-367_witness-1,,WOT,367_witness,tanuγ,tanuγ,t a n u ɣ,,wot,440,false,^ t a n u γ $,WOT,t a n u ɣ,CVCVC,true,1350
-H-368_tofeedtonourish-1,,H,368_tofeedtonourish,táplál,táplál,t aː p l aː l,,wot,441,true,^táplál$,H,t aː p.l aː l,CVCCVC,true,1456
+H-368_tofeedtonourish-1,,H,368_tofeedtonourish,táplál,táplá,t aː p l aː,,wot,441,true,^táplá$,H,t aː p.l aː,CVCCV,true,1456
 OH-368_tofeedtonourish-1,,OH,368_tofeedtonourish,tāplā,tāplā,t aː p l aː,,wot,441,true,^ t ā p l ā $,OH,t aː p.l aː,CVCCV,true,1456
 EAH-368_tofeedtonourish-1,,EAH,368_tofeedtonourish,taplaγ,taplaγ,t a p l a ɣ,,wot,441,true,^ t a p l a γ $,EAH,t a p.l a ɣ,CVCCVC,true,1456
 WOT-368_tofeedtonourish-1,,WOT,368_tofeedtonourish,taplaγ,taplaγ,t a p l a ɣ,,wot,441,true,^ t a p l a γ $,WOT,t a p.l a ɣ,CVCCVC,true,1456
@@ -1548,7 +1548,7 @@ WOT-381_axle-1,,WOT,381_axle,teŋäl,teŋäl,t ɛ ŋ ɛ l,,wot,455,true,^ t e ŋ
 H-382_sea-1,,H,382_sea,tenger,tenger,t ɛ n ɡ ɛ r,,wot,456,true,^tenger$,H,t ɛ n.ɡ ɛ r,CVCCVC,true,1152
 EAH-382_sea-1,,EAH,382_sea,teŋir,teŋir,t ɛ ŋ i r,,wot,456,true,^ t e ŋ i r $,EAH,t ɛ ŋ i r,CVCVC,true,1152
 WOT-382_sea-1,,WOT,382_sea,täŋir,täŋir,t ɛ ŋ i r,,wot,456,true,^ t ä ŋ i r $,WOT,t ɛ ŋ i r,CVCVC,true,1152
-H-383_toturntochangetheoriginaldirection-1,,H,383_toturntochangetheoriginaldirection,térül,térül,t eː r y l,,wot,457,true,^térül$,H,t eː r y l,CVCVC,true,1372
+H-383_toturntochangetheoriginaldirection-1,,H,383_toturntochangetheoriginaldirection,térül,tér,t eː r,,wot,457,true,^tér$,H,t eː r,CVC,true,1372
 OH-383_toturntochangetheoriginaldirection-1,,OH,383_toturntochangetheoriginaldirection,tēr,tēr,t eː r,,wot,457,true,^ t ē r $,OH,t eː r,CVC,true,1372
 EAH-383_toturntochangetheoriginaldirection-1,,EAH,383_toturntochangetheoriginaldirection,tevir,tevir,t ɛ v i r,,wot,457,true,^ t e v i r $,EAH,t ɛ v i r,CVCVC,true,1372
 WOT-383_toturntochangetheoriginaldirection-1,,WOT,383_toturntochangetheoriginaldirection,tävir,tävir,t ɛ v i r,,wot,457,false,^ t ä v i r $,WOT,t ɛ v i r,CVCVC,true,1372
@@ -1572,12 +1572,12 @@ WOT-387_hempbreakerswinglescutch-1,,WOT,387_hempbreakerswinglescutch,talkïγ,ta
 H-388_steeryoungbullockox-1,,H,388_steeryoungbullockox,tinó,tinó,t i n oː,,wot,463,true,^tinó$,H,t i n oː,CVCV,true,1219
 EAH-388_steeryoungbullockox-1,,EAH,388_steeryoungbullockox,tana,tana,t a n a,,wot,463,true,^ t a n a $,EAH,t a n a,CVCV,true,1219
 WOT-388_steeryoungbullockox-1,,WOT,388_steeryoungbullockox,tana,tana,t a n a,,wot,463,false,^ t a n a $,WOT,t a n a,CVCV,true,1219
-H-389_tolayeggs-1,,H,389_tolayeggs,tojik,tojik,t o j i k,,wot,464,true,^tojik$,H,t o j i k,CVCVC,true,1536
+H-389_tolayeggs-1,,H,389_tolayeggs,tojik,toj,t o j,,wot,464,true,^toj$,H,t o j,CVC,true,1536
 OH-389_tolayeggs-1,,OH,389_tolayeggs,tuik,tuik,t u i k,,wot,464,true,^ t u i k $,OH,t u.i k,CVVC,true,1536
 LAH-389_tolayeggs-1,,LAH,389_tolayeggs,tuγik,tuγik,t u ɣ i k,,wot,464,true,^ t u γ i k $,LAH,t u ɣ i k,CVCVC,true,1536
 EAH-389_tolayeggs-1,,EAH,389_tolayeggs,tuγ,tuγ,t u ɣ,,wot,464,true,^ t u γ $,EAH,t u ɣ,CVC,true,1536
 WOT-389_tolayeggs-1,,WOT,389_tolayeggs,tuγ,tuγ,t u ɣ,,wot,464,false,^ t u γ $,WOT,t u ɣ,CVC,true,1536
-H-389_tolayeggs-2,,H,389_tolayeggs,tojik,tojik,t o j i k,,wot,465,true,^tojik$,H,t o j i k,CVCVC,true,1536
+H-389_tolayeggs-2,,H,389_tolayeggs,tojik,toj,t o j,,wot,465,true,^toj$,H,t o j,CVC,true,1536
 OH-389_tolayeggs-2,,OH,389_tolayeggs,tuik,tuik,t u i k,,wot,465,true,^ t u i k $,OH,t u.i k,CVVC,true,1536
 LAH-389_tolayeggs-2,,LAH,389_tolayeggs,tuγik,tuγik,t u ɣ i k,,wot,465,true,^ t u γ i k $,LAH,t u ɣ i k,CVCVC,true,1536
 EAH-389_tolayeggs-2,,EAH,389_tolayeggs,tuγ,tuγ,t u ɣ,,wot,465,true,^ t u γ $,EAH,t u ɣ,CVC,true,1536
@@ -1595,12 +1595,12 @@ WOT-392_interpreter-1,,WOT,392_interpreter,tolmač,tolmač,t o l m a t͡ʃ,,wot,
 H-393_horseradisharmoraciarusticana-1,,H,393_horseradisharmoraciarusticana,torma,torma,t o r m ɒ,,wot,469,true,^torma$,H,t o r.m ɒ,CVCCV,true,1252
 EAH-393_horseradisharmoraciarusticana-1,,EAH,393_horseradisharmoraciarusticana,turma,turma,t u r m a,,wot,469,true,^ t u r m a $,EAH,t u r.m a,CVCCV,true,1252
 WOT-393_horseradisharmoraciarusticana-1,,WOT,393_horseradisharmoraciarusticana,turma,turma,t u r m a,,wot,469,true,^ t u r m a $,WOT,t u r.m a,CVCCV,true,1252
-H-394_topileuptobecomeblocked-1,,H,394_topileuptobecomeblocked,torlódik,torlódik,t o r l oː d i k,,wot,470,true,^torlódik$,H,t o r.l oː d i k,CVCCVCVC,true,1508
+H-394_topileuptobecomeblocked-1,,H,394_topileuptobecomeblocked,torlódik,torló,t o r l oː,,wot,470,true,^torló$,H,t o r.l oː,CVCCV,true,1508
 OH-394_topileuptobecomeblocked-1,,OH,394_topileuptobecomeblocked,torol,torol,t o r o l,,wot,470,true,^ t o r o l $,OH,t o r o l,CVCVC,true,1508
 LAH-394_topileuptobecomeblocked-1,,LAH,394_topileuptobecomeblocked,toro,toro,t o r o,,wot,470,true,^ t o r o $,LAH,t o r o,CVCV,true,1508
 EAH-394_topileuptobecomeblocked-1,,EAH,394_topileuptobecomeblocked,toro,toro,t o r o,,wot,470,true,^ t o r o $,EAH,t o r o,CVCV,true,1508
 WOT-394_topileuptobecomeblocked-1,,WOT,394_topileuptobecomeblocked,turo,turo,t u r o,,wot,470,true,^ t u r o $,WOT,t u r o,CVCV,true,1508
-H-394_topileuptobecomeblocked-2,,H,394_topileuptobecomeblocked,torlik,torlik,t o r l i k,,wot,471,true,^torlik$,H,t o r.l i k,CVCCVC,true,1508
+H-394_topileuptobecomeblocked-2,,H,394_topileuptobecomeblocked,torlik,torli,t o r l i,,wot,471,true,^torli$,H,t o r.l i,CVCCV,true,1508
 OH-394_topileuptobecomeblocked-2,,OH,394_topileuptobecomeblocked,torol,torol,t o r o l,,wot,471,true,^ t o r o l $,OH,t o r o l,CVCVC,true,1508
 LAH-394_topileuptobecomeblocked-2,,LAH,394_topileuptobecomeblocked,toro,toro,t o r o,,wot,471,true,^ t o r o $,LAH,t o r o,CVCV,true,1508
 EAH-394_topileuptobecomeblocked-2,,EAH,394_topileuptobecomeblocked,toro,toro,t o r o,,wot,471,true,^ t o r o $,EAH,t o r o,CVCV,true,1508
@@ -1613,12 +1613,12 @@ H-396_slovak-1,,H,396_slovak,tót,tót,t oː t,,wot,473,true,^tót$,H,t oː t,CV
 OH-396_slovak-1,,OH,396_slovak,tat,tat,t a t,,wot,473,true,^ t a t $,OH,t a t,CVC,true,1121
 EAH-396_slovak-1,,EAH,396_slovak,tāt,tāt,t aː t,,wot,473,true,^ t ā t $,EAH,t aː t,CVC,true,1121
 WOT-396_slovak-1,,WOT,396_slovak,tāt,tāt,t aː t,,wot,473,false,^ t ā t $,WOT,t aː t,CVC,true,1121
-H-397_perfect-1,,H,397_perfect,tökéletes,tökéletes,t ø k eː l ɛ t ɛ ʃ,,wot,474,true,^tökéletes$,H,t ø k eː l ɛ t ɛ ʃ,CVCVCVCVC,true,1372
+H-397_perfect-1,,H,397_perfect,tökéletes,töké,t ø k eː,,wot,474,true,^töké$,H,t ø k eː,CVCV,true,1372
 OH-397_perfect-1,,OH,397_perfect,tökēl,tökēl,t ø k eː l,,wot,474,true,^ t ö k ē l $,OH,t ø k eː l,CVCVC,true,1372
 LAH-397_perfect-1,,LAH,397_perfect,tökē,tökē,t ø k eː,,wot,474,true,^ t ö k ē $,LAH,t ø k eː,CVCV,true,1372
 EAH-397_perfect-1,,EAH,397_perfect,tüke,tüke,t y k ɛ,,wot,474,true,^ t ü k e $,EAH,t y k ɛ,CVCV,true,1372
 WOT-397_perfect-1,,WOT,397_perfect,tükä,tükä,t y k ɛ,,wot,474,true,^ t ü k ä $,WOT,t y k ɛ,CVCV,true,1372
-H-398_innumerable-1,,H,398_innumerable,töméntelen,töméntelen,t ø m eː n t ɛ l ɛ n,,wot,475,true,^töméntelen$,H,t ø m eː n.t ɛ l ɛ n,CVCVCCVCVC,true,1213
+H-398_innumerable-1,,H,398_innumerable,töméntelen,tömén,t ø m eː n,,wot,475,true,^tömén$,H,t ø m eː n,CVCVC,true,1213
 OH-398_innumerable-1,,OH,398_innumerable,tömēń,tömēń,t ø m eː ɲ,,wot,475,true,^ t ö m ē ń $,OH,t ø m eː ɲ,CVCVC,true,1213
 EAH-398_innumerable-1,,EAH,398_innumerable,tümen,tümen,t y m ɛ n,,wot,475,true,^ t ü m e n $,EAH,t y m ɛ n,CVCVC,true,1213
 WOT-398_innumerable-1,,WOT,398_innumerable,tümän,tümän,t y m ɛ n,,wot,475,true,^ t ü m ä n $,WOT,t y m ɛ n,CVCVC,true,1213
@@ -1635,7 +1635,7 @@ OH-401_turkturkishturkicottoman-1,,OH,401_turkturkishturkicottoman,türük,tür�
 LAH-401_turkturkishturkicottoman-1,,LAH,401_turkturkishturkicottoman,türk,türk,t y r k,,wot,478,true,^ t ü r k $,LAH,t y r.k,CVCC,true,1055
 EAH-401_turkturkishturkicottoman-1,,EAH,401_turkturkishturkicottoman,türkü,türkü,t y r k y,,wot,478,true,^ t ü r k ü $,EAH,t y r.k y,CVCCV,true,1055
 WOT-401_turkturkishturkicottoman-1,,WOT,401_turkturkishturkicottoman,türkü,türkü,t y r k y,,wot,478,true,^ t ü r k ü $,WOT,t y r.k y,CVCCV,true,1055
-H-402_tohappentooccur-1,,H,402_tohappentooccur,történik,történik,t ø r t eː n i k,,wot,479,true,^történik$,H,t ø r.t eː n i k,CVCCVCVC,true,1372
+H-402_tohappentooccur-1,,H,402_tohappentooccur,történik,történ,t ø r t eː n,,wot,479,true,^történ$,H,t ø r.t eː n,CVCCVC,true,1372
 OH-402_tohappentooccur-1,,OH,402_tohappentooccur,törtēn,törtēn,t ø r t eː n,,wot,479,true,^ t ö r t ē n $,OH,t ø r.t eː n,CVCCVC,true,1372
 EAH-402_tohappentooccur-1,,EAH,402_tohappentooccur,törtün,törtün,t ø r t y n,,wot,479,true,^ t ö r t ü n $,EAH,t ø r.t y n,CVCCVC,true,1372
 WOT-402_tohappentooccur-1,,WOT,402_tohappentooccur,törütün,törütün,t ø r y t y n,,wot,479,true,^ t ö r ü t ü n $,WOT,t ø r y t y n,CVCVCVC,true,1372
@@ -1675,7 +1675,7 @@ EAH-411_torollupascrolloronessleeves-1,,EAH,411_torollupascrolloronessleeves,tü
 WOT-411_torollupascrolloronessleeves-1,,WOT,411_torollupascrolloronessleeves,tür,tür,t y r,,wot,489,true,^ t ü r $,WOT,t y r,CVC,true,1525
 H-412_hen-1,,H,412_hen,tyúk,tyúk,c uː k,,wot,490,true,^tyúk$,H,c uː k,CVC,true,1109
 OH-412_hen-1,,OH,412_hen,tiuk,tiuk,t i u k,,wot,490,true,^ t i u k $,OH,t i.u k,CVVC,true,1109
-LAH-412_hen-1,,LAH,412_hen,tiwuk,tiwuk,t i v u k,,wot,490,true,^ t i w u k $,LAH,t i v u k,CVCVC,true,1109
+LAH-412_hen-1,,LAH,412_hen,tiwuk,tiwuk,t i w u k,,wot,490,true,^ t i w u k $,LAH,t i w u k,CVCVC,true,1109
 EAH-412_hen-1,,EAH,412_hen,tiγuk,tiγuk,t i ɣ u k,,wot,490,true,^ t i γ u k $,EAH,t i ɣ u k,CVCVC,true,1109
 WOT-412_hen-1,,WOT,412_hen,tiγuk,tiγuk,t i ɣ u k,,wot,490,true,^ t i γ u k $,WOT,t i ɣ u k,CVCVC,true,1109
 H-413_owlstrix-1,,H,413_owlstrix,ug,ug,u ɡ,,wot,491,true,^ug$,H,u ɡ,VC,true,1075
@@ -1684,7 +1684,7 @@ WOT-413_owlstrix-1,,WOT,413_owlstrix,uγu,uγu,u ɣ u,,wot,491,true,^ u γ u $,W
 H-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1,,H,414_gentlemanlordsirhighdignitylordalsoofakingorofgod,úr,úr,uː r,,wot,492,true,^úr$,H,uː r,VC,true,1009
 EAH-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1,,EAH,414_gentlemanlordsirhighdignitylordalsoofakingorofgod,uri,uri,u r i,,wot,492,true,^ u r i $,EAH,u r i,VCV,true,1009
 WOT-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1,,WOT,414_gentlemanlordsirhighdignitylordalsoofakingorofgod,urï,urï,u r ɯ,,wot,492,true,^ u r ï $,WOT,u r ɯ,VCV,true,1009
-H-415_torefreshoneselftoresttobecomecured-1,,H,415_torefreshoneselftoresttobecomecured,üdül,üdül,y d y l,,wot,493,true,^üdül$,H,y d y l,VCVC,true,1578
+H-415_torefreshoneselftoresttobecomecured-1,,H,415_torefreshoneselftoresttobecomecured,üdül,üdü,y d y,,wot,493,true,^üdü$,H,y d y,VCV,true,1578
 OH-415_torefreshoneselftoresttobecomecured-1,,OH,415_torefreshoneselftoresttobecomecured,idül,idül,i d y l,,wot,493,true,^ i d ü l $,OH,i d y l,VCVC,true,1578
 LAH-415_torefreshoneselftoresttobecomecured-1,,LAH,415_torefreshoneselftoresttobecomecured,edül,edül,ɛ d y l,,wot,493,true,^ e d ü l $,LAH,ɛ d y l,VCVC,true,1578
 EAH-415_torefreshoneselftoresttobecomecured-1,,EAH,415_torefreshoneselftoresttobecomecured,edü,edü,ɛ d y,,wot,493,true,^ e d ü $,EAH,ɛ d y,VCV,true,1578
