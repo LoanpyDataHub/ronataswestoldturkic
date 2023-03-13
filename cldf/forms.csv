@@ -878,9 +878,9 @@ OH-213_stakepalestick-1,,OH,213_stakepalestick,kårou̯,kårou̯,k ɒ r o w,,wot
 EAH-213_stakepalestick-1,,EAH,213_stakepalestick,karoγ,karoγ,k a r o ɣ,,wot,263,true,^ k a r o γ $,EAH,k a r o ɣ,CVCVC,true,1395
 WOT-213_stakepalestick-1,,WOT,213_stakepalestick,karoγ,karoγ,k a r o ɣ,,wot,263,true,^ k a r o γ $,WOT,k a r o ɣ,CVCVC,true,1395
 H-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,H,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kárókatona,kárókaton,k aː r oː k ɒ t o n,,wot,264,true,^kárókaton$,H,k aː r oː k ɒ t o n,CVCVCVCVC,true,1519
-OH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,kara katona,k a r a + k a t o n a,,wot,264,true,^ k a r a + k a t o n a $,OH,k a r a + k a t o n a,CVCV_CVCVCV,true,1519
-EAH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,k a r a + k o t a n,,wot,264,true,^ k a r a + k o t a n $,EAH,k a r a + k o t a n,CVCV_CVCVC,true,1519
-WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,WOT,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,k a r a + k o t a n,,wot,264,true,^ k a r a + k o t a n $,WOT,k a r a + k o t a n,CVCV_CVCVC,true,1519
+OH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,karakatona,k a r a k a t o n a,,wot,264,true,^ k a r a k a t o n a $,OH,k a r a k a t o n a,CVCVCVCVCV,true,1519
+EAH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,karakotan,k a r a k o t a n,,wot,264,true,^ k a r a k o t a n $,EAH,k a r a k o t a n,CVCVCVCVC,true,1519
+WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,WOT,214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,karakotan,k a r a k o t a n,,wot,264,true,^ k a r a k o t a n $,WOT,k a r a k o t a n,CVCVCVCVC,true,1519
 H-215_sparrowhawkaccipiternnisus-1,,H,215_sparrowhawkaccipiternnisus,karvaly,karvaly,k ɒ r v ɒ j,,wot,265,true,^karvaly$,H,k ɒ r.v ɒ j,CVCCVC,true,1222
 EAH-215_sparrowhawkaccipiternnisus-1,,EAH,215_sparrowhawkaccipiternnisus,karγay,karγay,k a r ɣ a j,,wot,265,true,^ k a r γ a y $,EAH,k a r.ɣ a j,CVCCVC,true,1222
 WOT-215_sparrowhawkaccipiternnisus-1,,WOT,215_sparrowhawkaccipiternnisus,kargay,kargay,k a r ɡ a j,,wot,265,true,^ k a r g a y $,WOT,k a r.ɡ a j,CVCCVC,true,1222
@@ -907,7 +907,7 @@ EAH-222_hempcannabis-1,,EAH,222_hempcannabis,kendir,kendir,k ɛ n d i r,,wot,272
 WOT-222_hempcannabis-1,,WOT,222_hempcannabis,kändir,kändir,k ɛ n d i r,,wot,272,true,^ k ä n d i r $,WOT,k ɛ n.d i r,CVCCVC,true,1192
 H-223_mercury-1,,H,223_mercury,kéneső,kéneső,k eː n ɛ ʃ øː,,wot,273,true,^kéneső$,H,k eː n ɛ ʃ øː,CVCVCV,true,1525
 EAH-223_mercury-1,,EAH,223_mercury,kenešǖ,kenešǖ,k ɛ n ɛ ʃ yː,,wot,273,true,^ k e n e š ǖ $,EAH,k ɛ n ɛ ʃ yː,CVCVCV,true,1525
-WOT-223_mercury-1,,WOT,223_mercury,kenä šū,kenä šū,k ɛ n ɛ + ʃ uː,,wot,273,true,^ k e n ä + š ū $,WOT,k ɛ n ɛ + ʃ uː,CVCV_CV,true,1525
+WOT-223_mercury-1,,WOT,223_mercury,kenä šū,kenäšū,k ɛ n ɛ ʃ uː,,wot,273,true,^ k e n ä š ū $,WOT,k ɛ n ɛ ʃ uː,CVCVCV,true,1525
 H-224_pictureshapeform-1,,H,224_pictureshapeform,kép,kép,k eː p,,wot,274,true,^kép$,H,k eː p,CVC,true,1138
 WOT-224_pictureshapeform-1,,WOT,224_pictureshapeform,kǟp,kǟp,k ɛː p,,wot,274,true,^ k ǟ p $,WOT,k ɛː p,CVC,true,1138
 H-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1,,H,225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven,kepe,kepe,k ɛ p ɛ,,wot,275,true,^kepe$,H,k ɛ p ɛ,CVCV,true,1138

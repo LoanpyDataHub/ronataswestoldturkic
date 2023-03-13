@@ -4,9 +4,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -190,7 +187,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 1,
                 "a": 241,
                 "a\u02d0": 14,
                 "b": 76,
@@ -242,9 +238,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -476,9 +469,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -706,9 +696,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -892,7 +879,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 1,
                 "a": 45,
                 "a\u02d0": 12,
                 "b": 33,
@@ -941,9 +927,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1127,7 +1110,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 2,
                 "a": 234,
                 "a\u02d0": 5,
                 "b": 69,
@@ -1184,11 +1166,8 @@
         "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 43.2,
+        "inventory_size": 42.6,
         "replacements": {
-            "+": [
-                "+"
-            ],
             "a": [
                 "a"
             ],
@@ -1372,7 +1351,6 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 4,
             "a": 538,
             "a\u02d0": 126,
             "b": 268,

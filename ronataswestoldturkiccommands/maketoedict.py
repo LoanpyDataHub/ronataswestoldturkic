@@ -3,34 +3,11 @@ Read col CV_Segments in forms.csv
 Apply custom alignment
 Write to edictor/wot.tsv
 """
-
-from lexibank_ronataswestoldturkic import Dataset as WOT
-
-def uralign(left, right):
-    """
-    custom alignment for Hungarian-protoHungarian
-    """
-
-    left, right = left.split(), right.split()
-    # tag word initial & final cluster, only in left
-    left[0], left[-1] = "#" + left[0], left[-1] + "#"
-
-    # go sequentially and squeeze the leftover together to one suffix
-    # e.g. "a,b","c,d,e,f,g->"a,b,-#","c,d,efg
-    diff = abs(len(right) - len(left))
-    if len(left) < len(right):
-        left += ["-#"]
-        right = right[:-diff] + ["".join(right[-diff:])]
-    elif len(left) > len(right):
-        left = left[:-diff] + ["+"] + ["".join(left[-diff:])]
-    else:
-        left, right = left + ["-#"], right + ["-"]
-
-    return f'{" ".join(left)}\n{" ".join(right)}'
+from loanpy.recovery import uralign
 
 def prefilter(data):
     """
-    Keep only cogsets where H-EAH-WOT occurs, ditch OH and LAH
+    Keep only cogsets where H and EAH occurs, ditch OH and LAH
     """
     cogid = 1
     cogset = set()
@@ -77,8 +54,8 @@ def run(args):
     Write to edictor/wot.tsv
     """
 
-    ds = WOT()
-    dfwot = prefilter(ds.cldf_dir.read_csv("forms.csv"))
+    with open("cldf/forms.csv", "r") as f:
+        dfwot = prefilter([i.split(",") for i in f.read().split("\n")[1:][:-1]])
     iterwot = iter(dfwot)
     dfalign = "ALIGNMENT"
     while True:
@@ -94,5 +71,5 @@ def run(args):
     for i, (ra, rb) in enumerate(zip(dfalign.split("\n")[1:], dfwot)):
         final += "\n" + "\t".join([str(i), rb[12], ra, rb[9]])
 
-    with open("edictor/wot4.tsv", "w+") as f:
+    with open("edictor/toedict0.tsv", "w+") as f:
         f.write(final)
