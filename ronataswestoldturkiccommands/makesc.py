@@ -15,5 +15,5 @@ def run(args):
     with open(f"edictor/{args.inname}", "r") as f:
         out = qfy(f.read(), args.heurname)
     # store as json-file
-    with open(f"edictor/{args.outname}", "w+") as f:
+    with open(f"loanpy/{args.outname}", "w+") as f:
         json.dump(out, f)
