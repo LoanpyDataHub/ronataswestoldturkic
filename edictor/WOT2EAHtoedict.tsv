@@ -21,8 +21,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 19	12	WOT	a l t ɯ l ɯ ɡ	VCCVCVC
 20	13	EAH	a l t a l a ɡ	VCCVCVC
 21	13	WOT	a l t ɯ l ɯ ɡ	VCCVCVC
-22	14	EAH	o p - -	VC
-23	14	WOT	o p - -	VC
+22	14	EAH	o p	VC
+23	14	WOT	o p	VC
 24	15	EAH	o p o r o	VCVCV
 25	15	WOT	o p u r a	VCVCV
 26	16	EAH	o p u r u ɣ	VCVCVC
@@ -41,8 +41,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 39	23	WOT	a r p a	VCCV
 40	24	EAH	a r i t a n	VCVCVC
 41	24	WOT	a r ɯ t a n	VCVCVC
-42	25	EAH	a s - k i	VCCV
-43	25	WOT	a s - k ɯ	VCCV
+42	25	EAH	a s k i	VCCV
+43	25	WOT	a s k ɯ	VCCV
 44	26	EAH	b a j	CVC
 45	26	WOT	b a j	CVC
 46	27	EAH	b a l k a n	CVCCVC
@@ -91,8 +91,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 89	51	WOT	b i t͡ʃ - k ɛ	CVCCV
 90	52	EAH	b i k a	CVCV
 91	52	WOT	b ɯ k a	CVCV
-92	53	EAH	b i l ɛ - t͡ʃ ɛ k	CVCVCVC
-93	53	WOT	b i l ɛ - t͡ʃ ɛ k	CVCVCVC
+92	53	EAH	b i l ɛ t͡ʃ ɛ k	CVCVCVC
+93	53	WOT	b i l ɛ t͡ʃ ɛ k	CVCVCVC
 94	54	EAH	b i r u ɣ	CVCVC
 95	54	WOT	b ɯ r u ɡ	CVCVC
 96	55	EAH	b o l t͡ʃ a n	CVCCVC
@@ -101,18 +101,18 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 99	56	WOT	b o l t͡ʃ a t	CVCCVC
 100	58	EAH	b o ɡ	CVC
 101	58	WOT	b o ɡ	CVC
-102	59	EAH	b o ɡ - - u l	CVCVC
-103	59	WOT	b o ɡ - - u l	CVCVC
+102	59	EAH	b o ɡ u l	CVCVC
+103	59	WOT	b o ɡ u l	CVCVC
 104	60	EAH	b u ɣ u t	CVCVC
 105	60	WOT	b o ɡ u t	CVCVC
 106	61	EAH	b a l t u r ɣ a n	CVCCVCCVC
 107	61	WOT	b a l t u r ɡ a n	CVCCVCCVC
 108	62	EAH	b a k a	CVCV
 109	62	WOT	b a k a	CVCV
-110	63	EAH	b o k ɒ -	CVCV
-111	63	WOT	b a k a -	CVCV
-112	64	EAH	b ɒ k ɒ -	CVCV
-113	64	WOT	b a k a -	CVCV
+110	63	EAH	b o k ɒ	CVCV
+111	63	WOT	b a k a	CVCV
+112	64	EAH	b ɒ k ɒ	CVCV
+113	64	WOT	b a k a	CVCV
 114	65	EAH	b o ɣ o l	CVCVC
 115	65	WOT	b o ɣ u l	CVCVC
 116	66	EAH	b o r	CVC
@@ -185,8 +185,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 183	103	WOT	t͡ʃ i k l ɛ	CVCCV
 184	104	EAH	t͡ʃ i k l ɛ	CVCCV
 185	104	WOT	t͡ʃ i k l ɛ	CVCCV
-186	105	EAH	t͡ʃ i ɡ - l a	CVCCV
-187	105	WOT	t͡ʃ ɯ ɡ - l a	CVCCV
+186	105	EAH	t͡ʃ i ɡ l a	CVCCV
+187	105	WOT	t͡ʃ ɯ ɡ l a	CVCCV
 188	106	EAH	t͡ʃ i ɡ l a	CVCCV
 189	106	WOT	t͡ʃ ɯ ɡ l a	CVCCV
 190	110	EAH	t͡ʃ a k	CVC
@@ -209,16 +209,16 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 207	118	WOT	t͡ʃ a t a	CVCV
 208	119	EAH	t͡ʃ a t a	CVCV
 209	119	WOT	t͡ʃ a t ɯ	CVCV
-210	120	EAH	t͡ʃ a t - -	CVC
-211	120	WOT	t͡ʃ a t - -	CVC
-212	121	EAH	t͡ʃ a t i -	CVCV
-213	121	WOT	t͡ʃ a t ɯ -	CVCV
+210	120	EAH	t͡ʃ a t	CVC
+211	120	WOT	t͡ʃ a t	CVC
+212	121	EAH	t͡ʃ a t i	CVCV
+213	121	WOT	t͡ʃ a t ɯ	CVCV
 214	122	EAH	t͡ʃ e t͡ʃ	CVC
 215	122	WOT	t͡ʃ ɛ t͡ʃ	CVC
 216	123	EAH	t͡ʃ e t͡ʃ ɛ k	CVCVC
 217	123	WOT	t͡ʃ ɛ t͡ʃ ɛ k	CVCVC
-218	124	EAH	t͡ʃ i k - -	CVC
-219	124	WOT	t͡ʃ i k - -	CVC
+218	124	EAH	t͡ʃ i k	CVC
+219	124	WOT	t͡ʃ i k	CVC
 220	125	EAH	t͡ʃ ø p y ɣ	CVCVC
 221	125	WOT	t͡ʃ ø p y ɣ	CVCVC
 222	126	EAH	t͡ʃ ø p y ɣ	CVCVC
@@ -243,8 +243,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 241	138	WOT	t͡ʃ y k ə	CVCV
 242	139	EAH	t͡ʃ y k	CVC
 243	139	WOT	t͡ʃ ø k	CVC
-244	140	EAH	t͡ʃ y - - k	CVC
-245	140	WOT	t͡ʃ ø - - k	CVC
+244	140	EAH	t͡ʃ y k	CVC
+245	140	WOT	t͡ʃ ø k	CVC
 246	141	EAH	t͡ʃ y k y n	CVCVC
 247	141	WOT	t͡ʃ i k i n	CVCVC
 248	142	EAH	t͡ʃ ɛ - y ʃ	CVVC
@@ -277,10 +277,10 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 275	157	WOT	d ɯ ɡ	CVC
 276	158	EAH	d ɯ ɡ	CVC
 277	158	WOT	t ɯ k	CVC
-278	159	EAH	e ɟ - - -	VC
-279	159	WOT	ɛ d - y -	VCV
-280	160	EAH	e ɟ - - -	VC
-281	160	WOT	ɛ d - i -	VCV
+278	159	EAH	e ɟ -	VC
+279	159	WOT	ɛ d y	VCV
+280	160	EAH	e ɟ -	VC
+281	160	WOT	ɛ d i	VCV
 282	162	EAH	ɛ k ɛ ɣ	VCVC
 283	162	WOT	ɛ k ɛ ɣ	VCVC
 284	163	EAH	ɛ n ɡ	VCC
@@ -295,8 +295,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 293	167	WOT	ɛ r d ɛ m	VCCVC
 294	168	EAH	ɛ r k ɛ l t͡ʃ	VCCVCC
 295	168	WOT	ɛ r k i l t͡ʃ	VCCVCC
-296	169	EAH	ɛ r - i n	VCVC
-297	169	WOT	ɛ r - i n	VCVC
+296	169	EAH	ɛ r i n	VCVC
+297	169	WOT	ɛ r i n	VCVC
 298	170	EAH	ɛ r i ɣ	VCVC
 299	170	WOT	ɛ r i ɣ	VCVC
 300	171	EAH	i t͡ʃ y	VCV
@@ -331,10 +331,10 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 329	186	WOT	d͡ʒʲ a p a ɣ u	CVCVCV
 330	187	EAH	d͡ʒʲ a p u t	CVCVC
 331	187	WOT	d͡ʒʲ a p u t	CVCVC
-332	188	EAH	d͡ʒʲ a r - p a	CVCCV
-333	188	WOT	d͡ʒʲ a r - p a	CVCCV
-334	189	EAH	d͡ʒʲ a r - p a	CVCCV
-335	189	WOT	d͡ʒʲ a r - p a	CVCCV
+332	188	EAH	d͡ʒʲ a r p a	CVCCV
+333	188	WOT	d͡ʒʲ a r p a	CVCCV
+334	189	EAH	d͡ʒʲ a r p a	CVCCV
+335	189	WOT	d͡ʒʲ a r p a	CVCCV
 336	190	EAH	d͡ʒʲ a r l ɯ ɣ	CVCCVC
 337	190	WOT	d͡ʒʲ a r l ɯ ɣ	CVCCVC
 338	191	EAH	d͡ʒʲ a r a t	CVCVC
@@ -383,10 +383,10 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 381	212	WOT	d͡ʒʲ u ɣ u r	CVCVC
 382	213	EAH	d͡ʒʲ i ɣ i l	CVCVC
 383	213	WOT	d͡ʒʲ i ɡ i l	CVCVC
-384	214	EAH	ɟ yː - - l -	CVC
-385	214	WOT	d͡ʒʲ i ɣ i l -	CVCVC
-386	215	EAH	d͡ʒʲ ɛ ɣ i l ɛ -	CVCVCV
-387	215	WOT	d͡ʒʲ ɛ ɡ i l ɛ -	CVCVCV
+384	214	EAH	ɟ yː - - l	CVC
+385	214	WOT	d͡ʒʲ i ɣ i l	CVCVC
+386	215	EAH	d͡ʒʲ ɛ ɣ i l ɛ	CVCVCV
+387	215	WOT	d͡ʒʲ ɛ ɡ i l ɛ	CVCVCV
 388	216	EAH	d͡ʒʲ ɛ m i l t͡ʃ	CVCVCC
 389	216	WOT	d͡ʒʲ ɛ m i l t͡ʃ	CVCVCC
 390	217	EAH	d͡ʒʲ ɛ m i l t͡ʃ ɛ n	CVCVCCVC
@@ -399,14 +399,14 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 397	220	WOT	d͡ʒʲ y ɣ s y ɣ	CVCCVC
 398	221	EAH	h a j i ɣ	CVCVC
 399	221	WOT	χ a j ɯ ɣ	CVCVC
-400	222	EAH	h a - - n ɡ a r	CVCCVC
-401	222	WOT	χ o - - ŋ - a r	CVCVC
-402	223	EAH	x i r ɣ u j -	CVCCVC
-403	223	WOT	χ ɯ r ɣ u j -	CVCCVC
+400	222	EAH	h a n ɡ a r	CVCCVC
+401	222	WOT	χ o ŋ - a r	CVCVC
+402	223	EAH	x i r ɣ u j	CVCCVC
+403	223	WOT	χ ɯ r ɣ u j	CVCCVC
 404	224	EAH	h u m o k i	CVCVCV
 405	224	WOT	χ u m a k ɯ	CVCVCV
-406	225	EAH	- u r o k	VCVC
-407	225	WOT	- u r o k	VCVC
+406	225	EAH	u r o k	VCVC
+407	225	WOT	u r o k	VCVC
 408	226	EAH	y d ɛ ɣ	VCVC
 409	226	WOT	y d ɛ ɣ	VCVC
 410	227	EAH	y ɡ ɛ	VCV
@@ -423,8 +423,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 421	232	WOT	ɯ l d a m	VCCVC
 422	233	EAH	i l	VC
 423	233	WOT	i l	VC
-424	234	EAH	v i m - -	CVC
-425	234	WOT	v ɯ m - -	CVC
+424	234	EAH	v i m	CVC
+425	234	WOT	v ɯ m	CVC
 426	235	EAH	y - mː ɛ ɡ	VCVC
 427	235	WOT	ø ŋ m ɛ k	VCCVC
 428	236	EAH	i r	VC
@@ -461,8 +461,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 459	262	WOT	k a r a m f i l	CVCVCCVC
 460	263	EAH	k a r o ɣ	CVCVC
 461	263	WOT	k a r o ɣ	CVCVC
-462	264	EAH	k a r a k o t a n -	CVCVCVCVC
-463	264	WOT	k a r a k o t a n -	CVCVCVCVC
+462	264	EAH	k a r a k o t a n	CVCVCVCVC
+463	264	WOT	k a r a k o t a n	CVCVCVCVC
 464	265	EAH	k a r ɣ a j	CVCCVC
 465	265	WOT	k a r ɡ a j	CVCCVC
 466	266	EAH	k a t aː n ɡ	CVCVCC
@@ -551,8 +551,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 549	316	WOT	k y ɲ y ɣ	CVCVC
 550	317	EAH	k ø p t͡ʃ ɛ ɣ	CVCCVC
 551	317	WOT	k ø p t͡ʃ ɛ ɣ	CVCCVC
-552	318	EAH	k ø p ɛ k - -	CVCVC
-553	318	WOT	k ø p ɛ k - -	CVCVC
+552	318	EAH	k ø p ɛ k	CVCVC
+553	318	WOT	k ø p ɛ k	CVCVC
 554	319	EAH	k ɛ p ɛ n ɛ k	CVCVCVC
 555	319	WOT	k ɛ p ɛ n ɛ k	CVCVCVC
 556	320	EAH	k y p y ɣ	CVCVC
@@ -583,12 +583,12 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 581	333	WOT	u t͡ʃ o ɣ	VCVC
 582	334	EAH	u k	VC
 583	334	WOT	u k	VC
-584	335	EAH	u k -	VC
-585	335	WOT	u k -	VC
+584	335	EAH	u k	VC
+585	335	WOT	u k	VC
 586	336	EAH	a ɣ u l	VCVC
 587	336	WOT	a ɣ u l	VCVC
-588	337	EAH	u - t͡ʃ a ɣ	VCVC
-589	337	WOT	u - t͡ʃ a ɣ	VCVC
+588	337	EAH	u t͡ʃ a ɣ	VCVC
+589	337	WOT	u t͡ʃ a ɣ	VCVC
 590	338	EAH	o ɣ l a ɣ	VCCVC
 591	338	WOT	o ɣ l a ɣ	VCCVC
 592	339	EAH	u n d a ɣ	VCCVC
@@ -599,8 +599,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 597	343	WOT	a r u s l a n	VCVCCVC
 598	344	EAH	u r t͡ʃ u ɣ	VCCVC
 599	344	WOT	u r t͡ʃ u ɣ	VCCVC
-600	345	EAH	u ɣ r - u	VCCV
-601	345	WOT	o ɡ r - u	VCCV
+600	345	EAH	u ɣ r u	VCCV
+601	345	WOT	o ɡ r u	VCCV
 602	346	EAH	u r v o t͡ʃ i	VCCVCV
 603	346	WOT	o r w u t͡ʃ ɯ	VCCVCV
 604	347	EAH	a l t͡ʃ u k	VCCVC
@@ -609,8 +609,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 607	348	WOT	ø k y r	VCVC
 608	349	EAH	i l t	VCC
 609	349	WOT	i l t	VCC
-610	350	EAH	ɛ l - i ɣ	VCVC
-611	350	WOT	ɛ l - i ɣ	VCVC
+610	350	EAH	ɛ l i ɣ	VCVC
+611	350	WOT	ɛ l i ɣ	VCVC
 612	351	EAH	y n	VC
 613	351	WOT	yː n	VC
 614	352	EAH	ɛ v i r	VCVC
@@ -625,17 +625,17 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 623	356	WOT	ø ɣ i r	VCVC
 624	357	EAH	ɛ v r i l	VCCVC
 625	357	WOT	ɛ v r i l	VCCVC
-626	358	EAH	ɛ - ɣ i r	VCVC
-627	358	WOT	ɛ - ɣ i r	VCVC
-628	359	EAH	- - ɛ ɣ r i m	VCCVC
-629	359	WOT	ɛ ɡ i - r i m	VCVCVC
-630	360	EAH	- ɛ ɣ r i m	VCCVC
-631	360	WOT	- ɛ ɡ r i m	VCCVC
-632	361	EAH	- - ø r m ɛ n	VCCVC
+626	358	EAH	ɛ ɣ i r	VCVC
+627	358	WOT	ɛ ɣ i r	VCVC
+628	359	EAH	ɛ ɣ - r i m	VCCVC
+629	359	WOT	ɛ ɡ i r i m	VCVCVC
+630	360	EAH	ɛ ɣ r i m	VCCVC
+631	360	WOT	ɛ ɡ r i m	VCCVC
+632	361	EAH	ø - - r m ɛ n	VCCVC
 633	361	WOT	ɛ ɣ i r m ɛ n	VCVCCVC
-634	362	EAH	- - ø r m ɛ n	VCCVC
+634	362	EAH	ø - - r m ɛ n	VCCVC
 635	362	WOT	ɛ ɡ i r - - -	VCVC
-636	363	EAH	- - ø r m ɛ n	VCCVC
+636	363	EAH	ø - - r m ɛ n	VCCVC
 637	363	WOT	ɛ ɡ i r - - -	VCVC
 638	364	EAH	y z ɛ n	VCVC
 639	364	WOT	ø z ɛ n	VCVC
@@ -647,8 +647,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 645	367	WOT	ʃ a r	CVC
 646	368	EAH	ʃ a r i	CVCV
 647	368	WOT	ʃ a r ɯ	CVCV
-648	369	EAH	ʃ a r u ɡ -	CVCVC
-649	369	WOT	ʃ a r u ɡ -	CVCVC
+648	369	EAH	ʃ a r u ɡ	CVCVC
+649	369	WOT	ʃ a r u ɡ	CVCVC
 650	370	EAH	ʃ aː r - k aː n	CVCCVC
 651	370	WOT	ʃ a r a k a n	CVCVCVC
 652	371	EAH	t͡ʃ a r l a ɣ	CVCCVC
@@ -677,8 +677,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 675	382	WOT	ʃ i r k ɛ	CVCCV
 676	383	EAH	ʃ ɛ r l ɛ ɡ	CVCCVC
 677	383	WOT	ʃ i r l i ɡ	CVCCVC
-678	384	EAH	ʃ i r t -	CVCC
-679	384	WOT	ʃ i r t -	CVCC
+678	384	EAH	ʃ i r t	CVCC
+679	384	WOT	ʃ i r t	CVCC
 680	385	EAH	ʃ i k	CVC
 681	385	WOT	ʃ ɯ k	CVC
 682	386	EAH	ʃ i m a	CVCV
@@ -687,8 +687,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 685	387	WOT	ʃ i u	CVV
 686	388	EAH	ʃ i u -	CVV
 687	388	WOT	ʃ i - w	CVC
-688	390	EAH	t͡ʃ a v l i -	CVCCV
-689	390	WOT	t͡ʃ a v l ɯ -	CVCCV
+688	390	EAH	t͡ʃ a v l i	CVCCV
+689	390	WOT	t͡ʃ a v l ɯ	CVCCV
 690	391	EAH	t͡ʃ a v l i -	CVCCV
 691	391	WOT	t͡ʃ a v l ɯ m	CVCCVC
 692	392	EAH	t͡ʃ u m	CVC
@@ -699,8 +699,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 697	394	WOT	ʃ i r ɛ	CVCV
 698	395	EAH	ʃ ɛ v r ɛ ɡ ɛ -	CVCCVCV
 699	395	WOT	ʃ i v r i ɡ ɛ j	CVCCVCVC
-700	396	EAH	ʃ i lː ɛ - ɣ	CVCVC
-701	396	WOT	ʃ i lː i - ɣ	CVCVC
+700	396	EAH	ʃ i lː ɛ ɣ	CVCVC
+701	396	WOT	ʃ i lː i ɣ	CVCVC
 702	397	EAH	ʃ i ɣ y l	CVCVC
 703	397	WOT	ʃ i ɣ y l	CVCVC
 704	398	EAH	t͡ʃ i r ɛ ɣ	CVCVC
@@ -735,8 +735,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 733	414	WOT	sʲ eː l	CVC
 734	415	EAH	s ɛ n - - -	CVC
 735	415	WOT	s ɛ n d ɛ r	CVCCVC
-736	416	EAH	s ø n -	CVC
-737	416	WOT	s ø n -	CVC
+736	416	EAH	s ø n	CVC
+737	416	WOT	s ø n	CVC
 738	417	EAH	s i p	CVC
 739	417	WOT	s i p	CVC
 740	418	EAH	s ɛ p l ɛ ɣ	CVCCVC
@@ -759,8 +759,8 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 757	427	WOT	s o ŋ k u r	CVCCVC
 758	428	EAH	s a w u r	CVCVC
 759	428	WOT	s a w u r	CVCVC
-760	429	EAH	s ɛ - k -	CVC
-761	429	WOT	s ɛ - k -	CVC
+760	429	EAH	s ɛ k	CVC
+761	429	WOT	s ɛ k	CVC
 762	430	EAH	s ɛ k	CVC
 763	430	WOT	s ɛ k	CVC
 764	431	EAH	sʲ ɛ l ɛ ɣ	CVCVC
@@ -809,18 +809,18 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 807	452	WOT	t i l ø k	CVCVC
 808	453	EAH	t ɛ l y k	CVCVC
 809	453	WOT	t i l ø k	CVCVC
-810	454	EAH	t ɛ n ɡ - - - -	CVCC
-811	454	WOT	t ɛ ŋ - - - - -	CVC
+810	454	EAH	t ɛ n ɡ	CVCC
+811	454	WOT	t ɛ ŋ -	CVC
 812	455	EAH	t ɛ n ɡ ɛ l	CVCCVC
 813	455	WOT	t ɛ ŋ - ɛ l	CVCVC
-814	456	EAH	t ɛ ŋ - i r	CVCVC
-815	456	WOT	t ɛ ŋ - i r	CVCVC
+814	456	EAH	t ɛ ŋ i r	CVCVC
+815	456	WOT	t ɛ ŋ i r	CVCVC
 816	457	EAH	t ɛ v i r	CVCVC
 817	457	WOT	t ɛ v i r	CVCVC
-818	458	EAH	t ɛ v i r - -	CVCVC
-819	458	WOT	t ɛ v i r - -	CVCVC
-820	459	EAH	t iː r -	CVC
-821	459	WOT	t iː r -	CVC
+818	458	EAH	t ɛ v i r	CVCVC
+819	458	WOT	t ɛ v i r	CVCVC
+820	459	EAH	t iː r	CVC
+821	459	WOT	t iː r	CVC
 822	460	EAH	t ɛ r ɛ m	CVCVC
 823	460	WOT	t ɛ r ɛ m	CVCVC
 824	461	EAH	t ɛ v ɛ	CVCV
@@ -829,10 +829,10 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 827	462	WOT	t a l k ɯ ɣ	CVCCVC
 828	463	EAH	t a n a	CVCV
 829	463	WOT	t a n a	CVCV
-830	464	EAH	t u ɣ - -	CVC
-831	464	WOT	t u ɣ - -	CVC
-832	465	EAH	t u - ɣ - -	CVC
-833	465	WOT	t o - ɣ - -	CVC
+830	464	EAH	t u ɣ	CVC
+831	464	WOT	t u ɣ	CVC
+832	465	EAH	t u ɣ	CVC
+833	465	WOT	t o ɣ	CVC
 834	466	EAH	t o k u	CVCV
 835	466	WOT	t o k u	CVCV
 836	467	EAH	t o k l u	CVCCV
@@ -841,24 +841,24 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 839	468	WOT	t o l m a t͡ʃ	CVCCVC
 840	469	EAH	t u r m a	CVCCV
 841	469	WOT	t u r m a	CVCCV
-842	470	EAH	t o r - o -	CVCV
-843	470	WOT	t u r - o -	CVCV
-844	471	EAH	t o r - o -	CVCV
-845	471	WOT	t u r - o -	CVCV
+842	470	EAH	t o r o	CVCV
+843	470	WOT	t u r o	CVCV
+844	471	EAH	t o r o	CVCV
+845	471	WOT	t u r o	CVCV
 846	472	EAH	t u r u n t a j	CVCVCCVC
 847	472	WOT	t u r u n t a j	CVCVCCVC
 848	473	EAH	t aː t	CVC
 849	473	WOT	t aː t	CVC
-850	474	EAH	t y k ɛ -	CVCV
-851	474	WOT	t y k ɛ -	CVCV
+850	474	EAH	t y k ɛ	CVCV
+851	474	WOT	t y k ɛ	CVCV
 852	475	EAH	t y m ɛ n	CVCVC
 853	475	WOT	t y m ɛ n	CVCVC
 854	476	EAH	t y ɣ y r	CVCVC
 855	476	WOT	t ø ɣ y r	CVCVC
 856	477	EAH	t øː r	CVC
 857	477	WOT	t øː r	CVC
-858	478	EAH	t y r - k y	CVCCV
-859	478	WOT	t y r - k y	CVCCV
+858	478	EAH	t y r k y	CVCCV
+859	478	WOT	t y r k y	CVCCV
 860	479	EAH	t ø r - t y n	CVCCVC
 861	479	WOT	t ø r y t y n	CVCVCVC
 862	480	EAH	t y r y ɣ ɛ n	CVCVCVC
@@ -887,12 +887,12 @@ ID	COGID	DOCULECT	ALIGNMENT	PROSODY
 885	491	WOT	u ɣ u	VCV
 886	492	EAH	u r i	VCV
 887	492	WOT	u r ɯ	VCV
-888	493	EAH	ɛ d y -	VCV
-889	493	WOT	ɛ d y -	VCV
+888	493	EAH	ɛ d y	VCV
+889	493	WOT	ɛ d y	VCV
 890	494	EAH	i d n a p	VCCVC
 891	494	WOT	ɛ d - y -	VCV
-892	495	EAH	i n ɛ ɣ -	VCVC
-893	495	WOT	i n ɛ ɣ -	VCVC
+892	495	EAH	i n ɛ ɣ	VCVC
+893	495	WOT	i n ɛ ɣ	VCVC
 894	496	EAH	y r ɡ ɛ	VCCV
 895	496	WOT	ø r ɡ ɛ	VCCV
 896	497	EAH	y r ɡ ɛ	VCCV
