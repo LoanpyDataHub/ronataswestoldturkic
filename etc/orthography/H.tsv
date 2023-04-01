@@ -129,7 +129,7 @@ Grapheme	IPA
 ^ëgyház$	e ɟ h aː z
 ^ék$	eː k
 ^eke$	ɛ k ɛ
-^eng$	ɛ n ɡ
+^eng$	ɛ ŋ
 ^enő$	ɛ n øː
 ^ér$	eː r
 ^érdem$	eː r d ɛ m
@@ -156,7 +156,7 @@ Grapheme	IPA
 ^gyárt$	ɟ aː r t
 ^gyász$	ɟ aː s
 ^gyékény$	ɟ eː k eː ɲ
-^gyënge$	ɟ e n ɡ ɛ
+^gyënge$	ɟ e ŋ ɡ ɛ
 ^gyeplő$	ɟ ɛ p l øː
 ^gyepű$	ɟ ɛ p yː
 ^gyep$	ɟ ɛ p
@@ -169,7 +169,7 @@ Grapheme	IPA
 ^gyón$	ɟ oː n
 ^gyovon$	ɟ o v o n
 ^gyopár$	ɟ o p aː r
-^gyöngy$	ɟ ø n ɟ
+^gyöngy$	ɟ ø ɲ ɟ
 ^gyötör$	ɟ ø t ø r
 ^győz$	ɟ øː z
 ^gyúl$	ɟ uː l
@@ -182,7 +182,7 @@ Grapheme	IPA
 ^gyűrű$	ɟ yː r yː
 ^gyűszű$	ɟ yː s yː
 ^hajó$	h ɒ j oː
-^harang$	h ɒ r ɒ n ɡ
+^harang$	h ɒ r ɒ ŋ
 ^herjó$	h ɛ r j oː
 ^homok$	h o m o k
 ^hurok$	h u r o k
@@ -194,7 +194,7 @@ Grapheme	IPA
 ^ildom$	i l d o m
 ^ill$	i lː
 ^im$	i m
-^ing$	i n ɡ
+^ing$	i ŋ
 ^ír$	iː r
 ^író$	iː r oː
 ^izzi$	i zː i
@@ -210,8 +210,8 @@ Grapheme	IPA
 ^kamcsi$	k ɒ m t͡ʃ i
 ^kamsi$	k ɒ m ʃ i
 ^kamzsi$	k ɒ m ʒ i
-^kangyík$	k ɒ n ɟ iː k
-^kangyíka$	k ɒ n ɟ iː k ɒ
+^kangyík$	k ɒ ɲ ɟ iː k
+^kangyíka$	k ɒ ɲ ɟ iː k ɒ
 ^kantár$	k ɒ n t aː r
 ^kanyaró$	k ɒ ɲ ɒ r oː
 ^kaptány$	k ɒ p t aː ɲ
@@ -224,12 +224,12 @@ Grapheme	IPA
 ^karó$	k ɒ r oː
 ^kárókaton$	k aː r oː k ɒ t o n
 ^karvaly$	k ɒ r v ɒ j
-^katáng$	k ɒ t aː n ɡ
+^katáng$	k ɒ t aː ŋ
 ^kazár$	k ɒ z aː r
 ^kebel$	k ɛ b ɛ l
 ^kecske$	k ɛ t͡ʃ k ɛ
 ^kék$	k eː k
-^kelengye$	k ɛ l ɛ n ɟ ɛ
+^kelengye$	k ɛ l ɛ ɲ ɟ ɛ
 ^kender$	k ɛ n d ɛ r
 ^kéneső$	k eː n ɛ ʃ øː
 ^kép$	k eː p
@@ -368,7 +368,7 @@ Grapheme	IPA
 ^szirony$	s i r o ɲ
 ^szirt$	s i r t
 ^szó$	s oː
-^szongor$	s o n ɡ o r
+^szongor$	s o ŋ ɡ o r
 ^szór$	s oː r
 ^szöcsk$	s ø t͡ʃ k
 ^szök$	s ø k
@@ -393,9 +393,9 @@ Grapheme	IPA
 ^teker$	t ɛ k ɛ r
 ^teknő$	t ɛ k n øː
 ^telek$	t ɛ l ɛ k
-^tengődik$	t ɛ n ɡ øː d i k
-^tengely$	t ɛ n ɡ ɛ j
-^tenger$	t ɛ n ɡ ɛ r
+^tengődik$	t ɛ ŋ ɡ øː d i k
+^tengely$	t ɛ ŋ ɡ ɛ j
+^tenger$	t ɛ ŋ ɡ ɛ r
 ^tér$	t eː r
 ^térít$	t eː r iː t
 ^térd$	t eː r d

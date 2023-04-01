@@ -74,9 +74,9 @@ H-18_gauntrygantryforsupportingbarrels-1,,H,18_gauntrygantryforsupportingbarrels
 OH-18_gauntrygantryforsupportingbarrels-1,,OH,18_gauntrygantryforsupportingbarrels,ask,ask,a s k,,wot,25,true,^ a s k $,OH,a s.k,VCC,true,1480
 EAH-18_gauntrygantryforsupportingbarrels-1,,EAH,18_gauntrygantryforsupportingbarrels,aski,aski,a s k i,,wot,25,true,^ a s k i $,EAH,a s.k i,VCCV,true,1480
 WOT-18_gauntrygantryforsupportingbarrels-1,,WOT,18_gauntrygantryforsupportingbarrels,askï,askï,a s k ɯ,,wot,25,false,^ a s k ï $,WOT,a s.k ɯ,VCCV,true,1480
-H-19_charm-1,,H,19_charm,báj,báj,b aː j,,wot,26,true,^báj$,H,b aː j,CVC,true,1395
-EAH-19_charm-1,,EAH,19_charm,bay,bay,b a j,,wot,26,true,^ b a y $,EAH,b a j,CVC,true,1395
-WOT-19_charm-1,,WOT,19_charm,bay,bay,b a j,,wot,26,true,^ b a y $,WOT,b a j,CVC,true,1395
+H-19_charm-1,,H,19_charm,báj,báj,b aː j,"The entry 'bűbáj' on p. 190 is omitted from the dataset because compounding ('bű+báj') happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of 'bű' one is supposed to look up 'bűvös' or 'bölcs'. The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of 'bű'.",wot,26,true,^báj$,H,b aː j,CVC,true,1395
+EAH-19_charm-1,,EAH,19_charm,bay,bay,b a j,"The entry 'bűbáj' on p. 190 is omitted from the dataset because compounding ('bű+báj') happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of 'bű' one is supposed to look up 'bűvös' or 'bölcs'. The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of 'bű'.",wot,26,true,^ b a y $,EAH,b a j,CVC,true,1395
+WOT-19_charm-1,,WOT,19_charm,bay,bay,b a j,"The entry 'bűbáj' on p. 190 is omitted from the dataset because compounding ('bű+báj') happened only in Hungarian. Therefore, there is no counterpart to be aligned with in West Old Turkic. For the etymology of 'bű' one is supposed to look up 'bűvös' or 'bölcs'. The former seems to be lacking from the dictionary, and the latter doesn't explain the etymology of 'bű'.",wot,26,true,^ b a y $,WOT,b a j,CVC,true,1395
 H-20_soggyplacemoorswampmarsh-1,,H,20_soggyplacemoorswampmarsh,balkány,balkány,b ɒ l k aː ɲ,,wot,27,true,^balkány$,H,b ɒ l.k aː ɲ,CVCCVC,true,1181
 EAH-20_soggyplacemoorswampmarsh-1,,EAH,20_soggyplacemoorswampmarsh,balkan,balkan,b a l k a n,,wot,27,true,^ b a l k a n $,EAH,b a l.k a n,CVCCVC,true,1181
 WOT-20_soggyplacemoorswampmarsh-1,,WOT,20_soggyplacemoorswampmarsh,balkan,balkan,b a l k a n,,wot,27,true,^ b a l k a n $,WOT,b a l.k a n,CVCCVC,true,1181
@@ -290,9 +290,9 @@ WOT-72_bison-1,,WOT,72_bison,bülän,bülän,b y l ɛ n,,wot,86,false,^ b ü l �
 H-73_prisonjail-1,,H,73_prisonjail,börtön,börtön,b ø r t ø n,,wot,87,true,^börtön$,H,b ø r.t ø n,CVCCVC,true,1261
 EAH-73_prisonjail-1,,EAH,73_prisonjail,berten,berten,b ɛ r t ɛ n,,wot,87,true,^ b e r t e n $,EAH,b ɛ r.t ɛ n,CVCCVC,true,1261
 WOT-73_prisonjail-1,,WOT,73_prisonjail,bärtän,bärtän,b ɛ r t ɛ n,,wot,87,true,^ b ä r t ä n $,WOT,b ɛ r.t ɛ n,CVCCVC,true,1261
-H-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,H,74_ismaelitenameofanethnicgroupinmedievalhungary,böszörmény,böszörmény,b ø s ø r m eː ɲ,,wot,88,true,^böszörmény$,H,b ø s ø r.m eː ɲ,CVCVCCVC,true,1246
-OH-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,OH,74_ismaelitenameofanethnicgroupinmedievalhungary,besermen,besermen,b ɛ s ɛ r m ɛ n,,wot,88,true,^ b e s e r m e n $,OH,b ɛ s ɛ r.m ɛ n,CVCVCCVC,true,1246
-WOT-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,WOT,74_ismaelitenameofanethnicgroupinmedievalhungary,besermen,besermen,b ɛ s ɛ r m ɛ n,,wot,88,true,^ b e s e r m e n $,WOT,b ɛ s ɛ r.m ɛ n,CVCVCCVC,true,1246
+H-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,H,74_ismaelitenameofanethnicgroupinmedievalhungary,böszörmény,böszörmény,b ø s ø r m eː ɲ,On p. 177 the etymology reads 'bösörmēń < *besermen ← *besermen'. I assumed this must be in fact 'bösörmēń < *besermen ← WOT *besermen',wot,88,true,^böszörmény$,H,b ø s ø r.m eː ɲ,CVCVCCVC,true,1246
+OH-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,OH,74_ismaelitenameofanethnicgroupinmedievalhungary,besermen,besermen,b ɛ s ɛ r m ɛ n,On p. 177 the etymology reads 'bösörmēń < *besermen ← *besermen'. I assumed this must be in fact 'bösörmēń < *besermen ← WOT *besermen',wot,88,true,^ b e s e r m e n $,OH,b ɛ s ɛ r.m ɛ n,CVCVCCVC,true,1246
+WOT-74_ismaelitenameofanethnicgroupinmedievalhungary-1,,WOT,74_ismaelitenameofanethnicgroupinmedievalhungary,besermen,besermen,b ɛ s ɛ r m ɛ n,On p. 177 the etymology reads 'bösörmēń < *besermen ← *besermen'. I assumed this must be in fact 'bösörmēń < *besermen ← WOT *besermen',wot,88,true,^ b e s e r m e n $,WOT,b ɛ s ɛ r.m ɛ n,CVCVCCVC,true,1246
 H-75_sadbadtempered-1,,H,75_sadbadtempered,bús,bús,b uː ʃ,,wot,89,true,^bús$,H,b uː ʃ,CVC,true,1138
 OH-75_sadbadtempered-1,,OH,75_sadbadtempered,bū,bū,b uː,,wot,89,true,^ b ū $,OH,b uː,CV,true,1138
 EAH-75_sadbadtempered-1,,EAH,75_sadbadtempered,buγ,buγ,b u ɣ,,wot,89,true,^ b u γ $,EAH,b u ɣ,CVC,true,1138
@@ -333,25 +333,25 @@ WOT-85_magical-1,,WOT,85_magical,büγü,büγü,b y ɣ y,,wot,99,false,^ b ü �
 H-86_akindofwillowsalixelgnos-1,,H,86_akindofwillowsalixelgnos,cigle,cigle,t͡s i ɡ l ɛ,,wot,100,true,^cigle$,H,t͡s i ɡ.l ɛ,CVCCV,true,1275
 EAH-86_akindofwillowsalixelgnos-1,,EAH,86_akindofwillowsalixelgnos,čigle,čigle,t͡ʃ i ɡ l ɛ,,wot,100,true,^ č i g l e $,EAH,t͡ʃ i ɡ.l ɛ,CVCCV,true,1275
 WOT-86_akindofwillowsalixelgnos-1,,WOT,86_akindofwillowsalixelgnos,čiglä,čiglä,t͡ʃ i ɡ l ɛ,,wot,100,true,^ č i g l ä $,WOT,t͡ʃ i ɡ.l ɛ,CVCCV,true,1275
-H-87_trapsnareforcatchingbirdsbirdcage-1,,H,87_trapsnareforcatchingbirdsbirdcage,csigle,csigle,t͡ʃ i ɡ l ɛ,,wot,101,true,^csigle$,H,t͡ʃ i ɡ.l ɛ,CVCCV,true,1549
-EAH-87_trapsnareforcatchingbirdsbirdcage-1,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,101,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
-WOT-87_trapsnareforcatchingbirdsbirdcage-1,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,,wot,101,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
-H-87_trapsnareforcatchingbirdsbirdcage-2,,H,87_trapsnareforcatchingbirdsbirdcage,csekle,csekle,t͡ʃ ɛ k l ɛ,,wot,102,true,^csekle$,H,t͡ʃ ɛ k.l ɛ,CVCCV,true,1549
-EAH-87_trapsnareforcatchingbirdsbirdcage-2,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,102,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
-WOT-87_trapsnareforcatchingbirdsbirdcage-2,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,,wot,102,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
-H-87_trapsnareforcatchingbirdsbirdcage-3,,H,87_trapsnareforcatchingbirdsbirdcage,cseklye,cseklye,t͡ʃ ɛ k j ɛ,,wot,103,true,^cseklye$,H,t͡ʃ ɛ k.j ɛ,CVCCV,true,1549
-EAH-87_trapsnareforcatchingbirdsbirdcage-3,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,103,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
-WOT-87_trapsnareforcatchingbirdsbirdcage-3,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,,wot,103,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
-H-87_trapsnareforcatchingbirdsbirdcage-4,,H,87_trapsnareforcatchingbirdsbirdcage,csikle,csikle,t͡ʃ i k l ɛ,,wot,104,true,^csikle$,H,t͡ʃ i k.l ɛ,CVCCV,true,1549
-EAH-87_trapsnareforcatchingbirdsbirdcage-4,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,104,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
-WOT-87_trapsnareforcatchingbirdsbirdcage-4,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,,wot,104,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
-H-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,H,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,csigolya,csigolya,t͡ʃ i ɡ o j ɒ,,wot,105,true,^csigolya$,H,t͡ʃ i ɡ o j ɒ,CVCVCV,true,1358
-OH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,OH,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čigolʹa,čigolʹa,t͡ʃ i ɡ o j a,,wot,105,true,^ č i g o lʹ a $,OH,t͡ʃ i ɡ o j a,CVCVCV,true,1358
-EAH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,EAH,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čigla,čigla,t͡ʃ i ɡ l a,,wot,105,true,^ č i g l a $,EAH,t͡ʃ i ɡ.l a,CVCCV,true,1358
-WOT-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,WOT,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čïgla,čïgla,t͡ʃ ɯ ɡ l a,,wot,105,true,^ č ï g l a $,WOT,t͡ʃ ɯ ɡ.l a,CVCCV,true,1358
-H-89_akindofwillow-1,,H,89_akindofwillow,csigla,csigla,t͡ʃ i ɡ l ɒ,,wot,106,true,^csigla$,H,t͡ʃ i ɡ.l ɒ,CVCCV,true,1358
-EAH-89_akindofwillow-1,,EAH,89_akindofwillow,čigla,čigla,t͡ʃ i ɡ l a,,wot,106,true,^ č i g l a $,EAH,t͡ʃ i ɡ.l a,CVCCV,true,1358
-WOT-89_akindofwillow-1,,WOT,89_akindofwillow,čïgla,čïgla,t͡ʃ ɯ ɡ l a,,wot,106,true,^ č ï g l a $,WOT,t͡ʃ ɯ ɡ.l a,CVCCV,true,1358
+H-87_trapsnareforcatchingbirdsbirdcage-1,,H,87_trapsnareforcatchingbirdsbirdcage,csigle,csigle,t͡ʃ i ɡ l ɛ,see headword CIGLE in original source (nested entry),wot,101,true,^csigle$,H,t͡ʃ i ɡ.l ɛ,CVCCV,true,1549
+EAH-87_trapsnareforcatchingbirdsbirdcage-1,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,101,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
+WOT-87_trapsnareforcatchingbirdsbirdcage-1,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,101,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
+H-87_trapsnareforcatchingbirdsbirdcage-2,,H,87_trapsnareforcatchingbirdsbirdcage,csekle,csekle,t͡ʃ ɛ k l ɛ,see headword CIGLE in original source (nested entry),wot,102,true,^csekle$,H,t͡ʃ ɛ k.l ɛ,CVCCV,true,1549
+EAH-87_trapsnareforcatchingbirdsbirdcage-2,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,102,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
+WOT-87_trapsnareforcatchingbirdsbirdcage-2,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,102,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
+H-87_trapsnareforcatchingbirdsbirdcage-3,,H,87_trapsnareforcatchingbirdsbirdcage,cseklye,cseklye,t͡ʃ ɛ k j ɛ,see headword CIGLE in original source (nested entry),wot,103,true,^cseklye$,H,t͡ʃ ɛ k.j ɛ,CVCCV,true,1549
+EAH-87_trapsnareforcatchingbirdsbirdcage-3,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,103,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
+WOT-87_trapsnareforcatchingbirdsbirdcage-3,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,103,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
+H-87_trapsnareforcatchingbirdsbirdcage-4,,H,87_trapsnareforcatchingbirdsbirdcage,csikle,csikle,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,104,true,^csikle$,H,t͡ʃ i k.l ɛ,CVCCV,true,1549
+EAH-87_trapsnareforcatchingbirdsbirdcage-4,,EAH,87_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,104,true,^ č i k l e $,EAH,t͡ʃ i k.l ɛ,CVCCV,true,1549
+WOT-87_trapsnareforcatchingbirdsbirdcage-4,,WOT,87_trapsnareforcatchingbirdsbirdcage,čiklä,čiklä,t͡ʃ i k l ɛ,see headword CIGLE in original source (nested entry),wot,104,true,^ č i k l ä $,WOT,t͡ʃ i k.l ɛ,CVCCV,true,1549
+H-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,H,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,csigolya,csigolya,t͡ʃ i ɡ o j ɒ,see headword CIGLE in original source (nested entry),wot,105,true,^csigolya$,H,t͡ʃ i ɡ o j ɒ,CVCVCV,true,1358
+OH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,OH,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čigolʹa,čigolʹa,t͡ʃ i ɡ o j a,see headword CIGLE in original source (nested entry),wot,105,true,^ č i g o lʹ a $,OH,t͡ʃ i ɡ o j a,CVCVCV,true,1358
+EAH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,EAH,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čigla,čigla,t͡ʃ i ɡ l a,see headword CIGLE in original source (nested entry),wot,105,true,^ č i g l a $,EAH,t͡ʃ i ɡ.l a,CVCCV,true,1358
+WOT-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1,,WOT,88_akindofwillowusedforbasketsandinviticulturesalixpurpurea,čïgla,čïgla,t͡ʃ ɯ ɡ l a,see headword CIGLE in original source (nested entry),wot,105,true,^ č ï g l a $,WOT,t͡ʃ ɯ ɡ.l a,CVCCV,true,1358
+H-89_akindofwillow-1,,H,89_akindofwillow,csigla,csigla,t͡ʃ i ɡ l ɒ,see headword CIGLE in original source (nested entry),wot,106,true,^csigla$,H,t͡ʃ i ɡ.l ɒ,CVCCV,true,1358
+EAH-89_akindofwillow-1,,EAH,89_akindofwillow,čigla,čigla,t͡ʃ i ɡ l a,see headword CIGLE in original source (nested entry),wot,106,true,^ č i g l a $,EAH,t͡ʃ i ɡ.l a,CVCCV,true,1358
+WOT-89_akindofwillow-1,,WOT,89_akindofwillow,čïgla,čïgla,t͡ʃ ɯ ɡ l a,see headword CIGLE in original source (nested entry),wot,106,true,^ č ï g l a $,WOT,t͡ʃ ɯ ɡ.l a,CVCCV,true,1358
 H-90_akindofwolfsmilkeasterflowereuphorbia-1,,H,90_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,t͡s ø t k eː ɲ,,wot,107,true,^cötkény$,H,t͡s ø t.k eː ɲ,CVCCVC,true,1825
 EAH-90_akindofwolfsmilkeasterflowereuphorbia-1,,EAH,90_akindofwolfsmilkeasterflowereuphorbia,sütken,sütken,s y t k ɛ n,,wot,107,true,^ s ü t k e n $,EAH,s y t.k ɛ n,CVCCVC,true,1825
 H-90_akindofwolfsmilkeasterflowereuphorbia-2,,H,90_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,t͡s ø t k eː ɲ,,wot,108,true,^cötkény$,H,t͡s ø t.k eː ɲ,CVCCVC,true,1825
@@ -437,10 +437,10 @@ WOT-105_awineoflowqualityafruitwine-1,,WOT,105_awineoflowqualityafruitwine,čïg
 H-105_awineoflowqualityafruitwine-2,,H,105_awineoflowqualityafruitwine,csiger,csiger,t͡ʃ i ɡ ɛ r,,wot,131,true,^csiger$,H,t͡ʃ i ɡ ɛ r,CVCVC,true,1215
 EAH-105_awineoflowqualityafruitwine-2,,EAH,105_awineoflowqualityafruitwine,čigir,čigir,t͡ʃ i ɡ i r,,wot,131,true,^ č i g i r $,EAH,t͡ʃ i ɡ i r,CVCVC,true,1215
 WOT-105_awineoflowqualityafruitwine-2,,WOT,105_awineoflowqualityafruitwine,čȧgïr,čȧgïr,t͡ʃ ɐ ɡ ɯ r,,wot,131,true,^ č ȧ g ï r $,WOT,t͡ʃ ɐ ɡ ɯ r,CVCVC,true,1215
-H-106_secretionmucusdischargedfromtheeyes-1,,H,106_secretionmucusdischargedfromtheeyes,csipa,csipa,t͡ʃ i p ɒ,,wot,132,true,^csipa$,H,t͡ʃ i p ɒ,CVCV,true,1211
-OH-106_secretionmucusdischargedfromtheeyes-1,,OH,106_secretionmucusdischargedfromtheeyes,čapa,čapa,t͡ʃ a p a,,wot,132,true,^ č a p a $,OH,t͡ʃ a p a,CVCV,true,1211
-EAH-106_secretionmucusdischargedfromtheeyes-1,,EAH,106_secretionmucusdischargedfromtheeyes,čapaγ,čapaγ,t͡ʃ a p a ɣ,,wot,132,true,^ č a p a γ $,EAH,t͡ʃ a p a ɣ,CVCVC,true,1211
-WOT-106_secretionmucusdischargedfromtheeyes-1,,WOT,106_secretionmucusdischargedfromtheeyes,čapaγ,čapaγ,t͡ʃ a p a ɣ,,wot,132,true,^ č a p a γ $,WOT,t͡ʃ a p a ɣ,CVCVC,true,1211
+H-106_secretionmucusdischargedfromtheeyes-1,,H,106_secretionmucusdischargedfromtheeyes,csipa,csipa,t͡ʃ i p ɒ,according to the corrigenda-section on p. 1494 I changed 'čapa ← WOT *čapaγ' to 'čapa < *čapaγ ← WOT *čapaγ',wot,132,true,^csipa$,H,t͡ʃ i p ɒ,CVCV,true,1211
+OH-106_secretionmucusdischargedfromtheeyes-1,,OH,106_secretionmucusdischargedfromtheeyes,čapa,čapa,t͡ʃ a p a,according to the corrigenda-section on p. 1494 I changed 'čapa ← WOT *čapaγ' to 'čapa < *čapaγ ← WOT *čapaγ',wot,132,true,^ č a p a $,OH,t͡ʃ a p a,CVCV,true,1211
+EAH-106_secretionmucusdischargedfromtheeyes-1,,EAH,106_secretionmucusdischargedfromtheeyes,čapaγ,čapaγ,t͡ʃ a p a ɣ,according to the corrigenda-section on p. 1494 I changed 'čapa ← WOT *čapaγ' to 'čapa < *čapaγ ← WOT *čapaγ',wot,132,true,^ č a p a γ $,EAH,t͡ʃ a p a ɣ,CVCVC,true,1211
+WOT-106_secretionmucusdischargedfromtheeyes-1,,WOT,106_secretionmucusdischargedfromtheeyes,čapaγ,čapaγ,t͡ʃ a p a ɣ,according to the corrigenda-section on p. 1494 I changed 'čapa ← WOT *čapaγ' to 'čapa < *čapaγ ← WOT *čapaγ',wot,132,true,^ č a p a γ $,WOT,t͡ʃ a p a ɣ,CVCVC,true,1211
 H-107_squinteyedblindinoneeyeonearmedonelegged-1,,H,107_squinteyedblindinoneeyeonearmedonelegged,csolák,csolák,t͡ʃ o l aː k,,wot,133,true,^csolák$,H,t͡ʃ o l aː k,CVCVC,true,1885
 EAH-107_squinteyedblindinoneeyeonearmedonelegged-1,,EAH,107_squinteyedblindinoneeyeonearmedonelegged,čolak,čolak,t͡ʃ o l a k,,wot,133,true,^ č o l a k $,EAH,t͡ʃ o l a k,CVCVC,true,1885
 WOT-107_squinteyedblindinoneeyeonearmedonelegged-1,,WOT,107_squinteyedblindinoneeyeonearmedonelegged,čolak,čolak,t͡ʃ o l a k,,wot,133,true,^ č o l a k $,WOT,t͡ʃ o l a k,CVCVC,true,1885
@@ -453,9 +453,9 @@ H-109_stallion-2,,H,109_stallion,csődör,csődör,t͡ʃ øː d ø r,,wot,136,tr
 EAH-109_stallion-2,,EAH,109_stallion,čeü̯dür,čeü̯dür,t͡ʃ ɛ w d y r,,wot,136,true,^ č e ü̯ d ü r $,EAH,t͡ʃ ɛ w.d y r,CVCCVC,true,1247
 H-109_stallion-3,,H,109_stallion,csődör,csődör,t͡ʃ øː d ø r,,wot,137,true,^csődör$,H,t͡ʃ øː d ø r,CVCVC,true,1247
 EAH-109_stallion-3,,EAH,109_stallion,čeü̯dür,čeü̯dür,t͡ʃ ɛ w d y r,,wot,137,true,^ č e ü̯ d ü r $,EAH,t͡ʃ ɛ w.d y r,CVCCVC,true,1247
-H-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,csök,csök,t͡ʃ ø k,,wot,138,true,^csök$,H,t͡ʃ ø k,CVC,true,1198
-EAH-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,t͡ʃ y k,,wot,138,true,^ č ü k $,EAH,t͡ʃ y k,CVC,true,1198
-WOT-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,WOT,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,čükV,čükV,t͡ʃ y k ə,,wot,138,false,^ č ü k V $,WOT,t͡ʃ y k ə,CVCV,true,1198
+H-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,csök,csök,t͡ʃ ø k,The full etymology is 'čök < *čük ← WOT *čükV' and I left the 'V' on purpose in the WOT word because loanpy was designed to treat 'V' as 'any vowel' and this data set serves as an input for loanpy. Might be that this causes a BIPA error.,wot,138,true,^csök$,H,t͡ʃ ø k,CVC,true,1198
+EAH-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,t͡ʃ y k,The full etymology is 'čök < *čük ← WOT *čükV' and I left the 'V' on purpose in the WOT word because loanpy was designed to treat 'V' as 'any vowel' and this data set serves as an input for loanpy. Might be that this causes a BIPA error.,wot,138,true,^ č ü k $,EAH,t͡ʃ y k,CVC,true,1198
+WOT-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,WOT,110_sexualorganoflargemaleanimalsofabullawhipmadefromit,čükV,čükV,t͡ʃ y k ə,The full etymology is 'čök < *čük ← WOT *čükV' and I left the 'V' on purpose in the WOT word because loanpy was designed to treat 'V' as 'any vowel' and this data set serves as an input for loanpy. Might be that this causes a BIPA error.,wot,138,false,^ č ü k V $,WOT,t͡ʃ y k ə,CVCV,true,1198
 H-111_feastchristeningfeastatbaptism-1,,H,111_feastchristeningfeastatbaptism,csök,csök,t͡ʃ ø k,,wot,139,true,^csök$,H,t͡ʃ ø k,CVC,true,1841
 EAH-111_feastchristeningfeastatbaptism-1,,EAH,111_feastchristeningfeastatbaptism,čük,čük,t͡ʃ y k,,wot,139,true,^ č ü k $,EAH,t͡ʃ y k,CVC,true,1841
 WOT-111_feastchristeningfeastatbaptism-1,,WOT,111_feastchristeningfeastatbaptism,čök,čök,t͡ʃ ø k,,wot,139,false,^ č ö k $,WOT,t͡ʃ ø k,CVC,true,1841
@@ -535,10 +535,10 @@ WOT-127_wedge-1,,WOT,127_wedge,ēk,ēk,eː k,,wot,161,true,^ ē k $,WOT,eː k,VC
 H-128_plough-1,,H,128_plough,eke,eke,ɛ k ɛ,,wot,162,true,^eke$,H,ɛ k ɛ,VCV,true,1331
 EAH-128_plough-1,,EAH,128_plough,ekeγ,ekeγ,ɛ k ɛ ɣ,,wot,162,true,^ e k e γ $,EAH,ɛ k ɛ ɣ,VCVC,true,1331
 WOT-128_plough-1,,WOT,128_plough,äkäγ,äkäγ,ɛ k ɛ ɣ,,wot,162,false,^ ä k ä γ $,WOT,ɛ k ɛ ɣ,VCVC,true,1331
-H-129_toallowpermitconcedeyieldgiveway-1,,H,129_toallowpermitconcedeyieldgiveway,enged,eng,ɛ n ɡ,,wot,163,true,^eng$,H,ɛ n.ɡ,VCC,true,1195
+H-129_toallowpermitconcedeyieldgiveway-1,,H,129_toallowpermitconcedeyieldgiveway,enged,eng,ɛ ŋ,,wot,163,true,^eng$,H,ɛ ŋ,VC,true,1195
 EAH-129_toallowpermitconcedeyieldgiveway-1,,EAH,129_toallowpermitconcedeyieldgiveway,eng,eng,ɛ n ɡ,,wot,163,true,^ e n g $,EAH,ɛ n.ɡ,VCC,true,1195
 WOT-129_toallowpermitconcedeyieldgiveway-1,,WOT,129_toallowpermitconcedeyieldgiveway,äŋ,äŋ,ɛ ŋ,,wot,163,true,^ ä ŋ $,WOT,ɛ ŋ,VC,true,1195
-H-130_topropitiate-1,,H,130_topropitiate,engesztel,eng,ɛ n ɡ,,wot,164,true,^eng$,H,ɛ n.ɡ,VCC,true,1416
+H-130_topropitiate-1,,H,130_topropitiate,engesztel,eng,ɛ ŋ,,wot,164,true,^eng$,H,ɛ ŋ,VC,true,1416
 EAH-130_topropitiate-1,,EAH,130_topropitiate,eng,eng,ɛ n ɡ,,wot,164,true,^ e n g $,EAH,ɛ n.ɡ,VCC,true,1416
 WOT-130_topropitiate-1,,WOT,130_topropitiate,äŋ,äŋ,ɛ ŋ,,wot,164,true,^ ä ŋ $,WOT,ɛ ŋ,VC,true,1416
 H-131_communityworkinagricultureakindofcorvee-1,,H,131_communityworkinagricultureakindofcorvee,enő,enő,ɛ n øː,,wot,165,true,^enő$,H,ɛ n øː,VCV,true,1226
@@ -570,9 +570,9 @@ H-137_oath-2,,H,137_oath,eskü,eskü,ɛ ʃ k y,,wot,172,true,^eskü$,H,ɛ ʃ.k y
 OH-137_oath-2,,OH,137_oath,iškü,iškü,i ʃ k y,,wot,172,true,^ i š k ü $,OH,i ʃ.k y,VCCV,true,1372
 EAH-137_oath-2,,EAH,137_oath,ičkü,ičkü,i t͡ʃ k y,,wot,172,true,^ i č k ü $,EAH,i t͡ʃ.k y,VCCV,true,1372
 WOT-137_oath-2,,WOT,137_oath,ičkü,ičkü,i t͡ʃ k y,,wot,172,false,^ i č k ü $,WOT,i t͡ʃ.k y,VCCV,true,1372
-H-138_reasonmind-1,,H,138_reasonmind,ész,ész,eː s,,wot,173,true,^ész$,H,eː s,VC,true,1372
-EAH-138_reasonmind-1,,EAH,138_reasonmind,es,es,ɛ s,,wot,173,true,^ e s $,EAH,ɛ s,VC,true,1372
-WOT-138_reasonmind-1,,WOT,138_reasonmind,es,es,ɛ s,,wot,173,false,^ e s $,WOT,ɛ s,VC,true,1372
+H-138_reasonmind-1,,H,138_reasonmind,ész,ész,eː s,The full etymology would be 'ēs < es ← WOT *es(V)' but I pretended the '(V)' wasn't there because this simplifies things.,wot,173,true,^ész$,H,eː s,VC,true,1372
+EAH-138_reasonmind-1,,EAH,138_reasonmind,es,es,ɛ s,The full etymology would be 'ēs < es ← WOT *es(V)' but I pretended the '(V)' wasn't there because this simplifies things.,wot,173,true,^ e s $,EAH,ɛ s,VC,true,1372
+WOT-138_reasonmind-1,,WOT,138_reasonmind,es,es,ɛ s,The full etymology would be 'ēs < es ← WOT *es(V)' but I pretended the '(V)' wasn't there because this simplifies things.,wot,173,false,^ e s $,WOT,ɛ s,VC,true,1372
 H-139_rivernameofariver-1,,H,139_rivernameofariver,etel,etel,ɛ t ɛ l,,wot,174,true,^etel$,H,ɛ t ɛ l,VCVC,true,950
 EAH-139_rivernameofariver-1,,EAH,139_rivernameofariver,etil,etil,ɛ t i l,,wot,174,true,^ e t i l $,EAH,ɛ t i l,VCVC,true,950
 WOT-139_rivernameofariver-1,,WOT,139_rivernameofariver,ätil,ätil,ɛ t i l,,wot,174,true,^ ä t i l $,WOT,ɛ t i l,VCVC,true,950
@@ -649,7 +649,7 @@ WOT-152_mourningbereavement-1,,WOT,152_mourningbereavement,ǰas,ǰas,d͡ʒʲ a s
 H-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1,,H,153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes,gyékény,gyékény,ɟ eː k eː ɲ,,wot,193,true,^gyékény$,H,ɟ eː k eː ɲ,CVCVC,true,1252
 EAH-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1,,EAH,153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes,ǰeken,ǰeken,d͡ʒʲ ɛ k ɛ n,,wot,193,true,^ ǰ e k e n $,EAH,d͡ʒʲ ɛ k ɛ n,CVCVC,true,1252
 WOT-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1,,WOT,153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes,ǰekän,ǰekän,d͡ʒʲ ɛ k ɛ n,,wot,193,true,^ ǰ e k ä n $,WOT,d͡ʒʲ ɛ k ɛ n,CVCVC,true,1252
-H-154_weakfeeble-1,,H,154_weakfeeble,gyënge,gyënge,ɟ e n ɡ ɛ,,wot,194,true,^gyënge$,H,ɟ e n.ɡ ɛ,CVCCV,true,1282
+H-154_weakfeeble-1,,H,154_weakfeeble,gyënge,gyënge,ɟ e ŋ ɡ ɛ,,wot,194,true,^gyënge$,H,ɟ e ŋ.ɡ ɛ,CVCCV,true,1282
 EAH-154_weakfeeble-1,,EAH,154_weakfeeble,ǰenge,ǰenge,d͡ʒʲ ɛ n ɡ ɛ,,wot,194,true,^ ǰ e n g e $,EAH,d͡ʒʲ ɛ n.ɡ ɛ,CVCCV,true,1282
 WOT-154_weakfeeble-1,,WOT,154_weakfeeble,ǰeŋi,ǰeŋi,d͡ʒʲ ɛ ŋ i,,wot,194,true,^ ǰ e ŋ i $,WOT,d͡ʒʲ ɛ ŋ i,CVCV,true,1282
 H-155_rein-1,,H,155_rein,gyeplő,gyeplő,ɟ ɛ p l øː,,wot,195,true,^gyeplő$,H,ɟ ɛ p.l øː,CVCCV,true,1395
@@ -669,13 +669,13 @@ WOT-158_child-1,,WOT,158_child,ǰärmäk,ǰärmäk,d͡ʒʲ ɛ r m ɛ k,,wot,198,
 H-158_child-2,,H,158_child,gyermek,gyermek,ɟ ɛ r m ɛ k,,wot,199,true,^gyermek$,H,ɟ ɛ r.m ɛ k,CVCCVC,true,1350
 EAH-158_child-2,,EAH,158_child,ǰärmäk,ǰärmäk,d͡ʒʲ ɛ r m ɛ k,,wot,199,true,^ ǰ ä r m ä k $,EAH,d͡ʒʲ ɛ r.m ɛ k,CVCCVC,true,1350
 WOT-158_child-2,,WOT,158_child,ǰärmük,ǰärmük,d͡ʒʲ ɛ r m y k,,wot,199,false,^ ǰ ä r m ü k $,WOT,d͡ʒʲ ɛ r.m y k,CVCCVC,true,1350
-H-159_candle-1,,H,159_candle,gyertya,gyertya,ɟ ɛ r c ɒ,,wot,200,true,^gyertya$,H,ɟ ɛ r.c ɒ,CVCCV,true,1372
-EAH-159_candle-1,,EAH,159_candle,ǰarta,ǰarta,d͡ʒʲ a r t a,,wot,200,true,^ ǰ a r t a $,EAH,d͡ʒʲ a r.t a,CVCCV,true,1372
-WOT-159_candle-1,,WOT,159_candle,yarta,yarta,j a r t a,,wot,200,false,^ y a r t a $,WOT,j a r.t a,CVCCV,true,1372
-H-160_hornbeamcarpinusbetulus-1,,H,160_hornbeamcarpinusbetulus,gyertyán,gyertyán,ɟ ɛ r c aː n,,wot,201,true,^gyertyán$,H,ɟ ɛ r.c aː n,CVCCVC,true,1225
-OH-160_hornbeamcarpinusbetulus-1,,OH,160_hornbeamcarpinusbetulus,ǰartān,ǰartān,d͡ʒʲ a r t aː n,,wot,201,true,^ ǰ a r t ā n $,OH,d͡ʒʲ a r.t aː n,CVCCVC,true,1225
-EAH-160_hornbeamcarpinusbetulus-1,,EAH,160_hornbeamcarpinusbetulus,ǰartaγan,ǰartaγan,d͡ʒʲ a r t a ɣ a n,,wot,201,true,^ ǰ a r t a γ a n $,EAH,d͡ʒʲ a r.t a ɣ a n,CVCCVCVC,true,1225
-WOT-160_hornbeamcarpinusbetulus-1,,WOT,160_hornbeamcarpinusbetulus,yartaγan,yartaγan,j a r t a ɣ a n,,wot,201,true,^ y a r t a γ a n $,WOT,j a r.t a ɣ a n,CVCCVCVC,true,1225
+H-159_candle-1,,H,159_candle,gyertya,gyertya,ɟ ɛ r c ɒ,according to the corrigenda-section on p. 1494 I changed 'dʹertʹå < *ǰarta ← WOT *ǰarta' to 'dʹertʹå < *ǰarta ← WOT *yarta',wot,200,true,^gyertya$,H,ɟ ɛ r.c ɒ,CVCCV,true,1372
+EAH-159_candle-1,,EAH,159_candle,ǰarta,ǰarta,d͡ʒʲ a r t a,according to the corrigenda-section on p. 1494 I changed 'dʹertʹå < *ǰarta ← WOT *ǰarta' to 'dʹertʹå < *ǰarta ← WOT *yarta',wot,200,true,^ ǰ a r t a $,EAH,d͡ʒʲ a r.t a,CVCCV,true,1372
+WOT-159_candle-1,,WOT,159_candle,yarta,yarta,j a r t a,according to the corrigenda-section on p. 1494 I changed 'dʹertʹå < *ǰarta ← WOT *ǰarta' to 'dʹertʹå < *ǰarta ← WOT *yarta',wot,200,false,^ y a r t a $,WOT,j a r.t a,CVCCV,true,1372
+H-160_hornbeamcarpinusbetulus-1,,H,160_hornbeamcarpinusbetulus,gyertyán,gyertyán,ɟ ɛ r c aː n,according to the corrigenda-section on p. 1494 I changed 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan' to 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan',wot,201,true,^gyertyán$,H,ɟ ɛ r.c aː n,CVCCVC,true,1225
+OH-160_hornbeamcarpinusbetulus-1,,OH,160_hornbeamcarpinusbetulus,ǰartān,ǰartān,d͡ʒʲ a r t aː n,according to the corrigenda-section on p. 1494 I changed 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan' to 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan',wot,201,true,^ ǰ a r t ā n $,OH,d͡ʒʲ a r.t aː n,CVCCVC,true,1225
+EAH-160_hornbeamcarpinusbetulus-1,,EAH,160_hornbeamcarpinusbetulus,ǰartaγan,ǰartaγan,d͡ʒʲ a r t a ɣ a n,according to the corrigenda-section on p. 1494 I changed 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan' to 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan',wot,201,true,^ ǰ a r t a γ a n $,EAH,d͡ʒʲ a r.t a ɣ a n,CVCCVCVC,true,1225
+WOT-160_hornbeamcarpinusbetulus-1,,WOT,160_hornbeamcarpinusbetulus,yartaγan,yartaγan,j a r t a ɣ a n,according to the corrigenda-section on p. 1494 I changed 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *ǰartaγan' to 'dʹertʹān < *ǰartān < *ǰartaγan ← WOT *yartaγan',wot,201,true,^ y a r t a γ a n $,WOT,j a r.t a ɣ a n,CVCCVCVC,true,1225
 H-161_murderkiller-1,,H,161_murderkiller,gyilkos,gyilkos,ɟ i l k o ʃ,,wot,202,true,^gyilkos$,H,ɟ i l.k o ʃ,CVCCVC,true,1356
 EAH-161_murderkiller-1,,EAH,161_murderkiller,ǰilkuš,ǰilkuš,d͡ʒʲ i l k u ʃ,,wot,202,true,^ ǰ i l k u š $,EAH,d͡ʒʲ i l.k u ʃ,CVCCVC,true,1356
 WOT-161_murderkiller-1,,WOT,161_murderkiller,ǰulkučï,ǰulkučï,d͡ʒʲ u l k u t͡ʃ ɯ,,wot,202,true,^ ǰ u l k u č ï $,WOT,d͡ʒʲ u l.k u t͡ʃ ɯ,CVCCVCV,true,1356
@@ -686,19 +686,19 @@ H-163_stomach-1,,H,163_stomach,gyomor,gyomor,ɟ o m o r,,wot,204,true,^gyomor$,H
 OH-163_stomach-1,,OH,163_stomach,dʹumur,dʹumur,ɟ u m u r,,wot,204,true,^ dʹ u m u r $,OH,ɟ u m u r,CVCVC,true,1252
 EAH-163_stomach-1,,EAH,163_stomach,ǰumur,ǰumur,d͡ʒʲ u m u r,,wot,204,true,^ ǰ u m u r $,EAH,d͡ʒʲ u m u r,CVCVC,true,1252
 WOT-163_stomach-1,,WOT,163_stomach,ǰumur,ǰumur,d͡ʒʲ u m u r,,wot,204,false,^ ǰ u m u r $,WOT,d͡ʒʲ u m u r,CVCVC,true,1252
-H-164_toconfesssins-1,,H,164_toconfesssins,gyón,gyón,ɟ oː n,,wot,205,true,^gyón$,H,ɟ oː n,CVC,true,1372
-OH-164_toconfesssins-1,,OH,164_toconfesssins,dʹun,dʹun,ɟ u n,,wot,205,true,^ dʹ u n $,OH,ɟ u n,CVC,true,1372
-EAH-164_toconfesssins-1,,EAH,164_toconfesssins,ǰūn,ǰūn,d͡ʒʲ uː n,,wot,205,true,^ ǰ ū n $,EAH,d͡ʒʲ uː n,CVC,true,1372
-WOT-164_toconfesssins-1,,WOT,164_toconfesssins,ǰūn,ǰūn,d͡ʒʲ uː n,,wot,205,false,^ ǰ ū n $,WOT,d͡ʒʲ uː n,CVC,true,1372
-H-164_toconfesssins-2,,H,164_toconfesssins,gyovon,gyovon,ɟ o v o n,,wot,206,true,^gyovon$,H,ɟ o v o n,CVCVC,true,1979
-OH-164_toconfesssins-2,,OH,164_toconfesssins,dʹuvun,dʹuvun,ɟ u v u n,,wot,206,true,^ dʹ u v u n $,OH,ɟ u v u n,CVCVC,true,1979
-EAH-164_toconfesssins-2,,EAH,164_toconfesssins,ǰuvun,ǰuvun,d͡ʒʲ u v u n,,wot,206,true,^ ǰ u v u n $,EAH,d͡ʒʲ u v u n,CVCVC,true,1979
-WOT-164_toconfesssins-2,,WOT,164_toconfesssins,ǰuvun,ǰuvun,d͡ʒʲ u v u n,,wot,206,false,^ ǰ u v u n $,WOT,d͡ʒʲ u v u n,CVCVC,true,1979
+H-164_toconfesssins-1,,H,164_toconfesssins,gyón,gyón,ɟ oː n,For 'gyovon' see headword GYÓN,wot,205,true,^gyón$,H,ɟ oː n,CVC,true,1372
+OH-164_toconfesssins-1,,OH,164_toconfesssins,dʹun,dʹun,ɟ u n,For 'gyovon' see headword GYÓN,wot,205,true,^ dʹ u n $,OH,ɟ u n,CVC,true,1372
+EAH-164_toconfesssins-1,,EAH,164_toconfesssins,ǰūn,ǰūn,d͡ʒʲ uː n,For 'gyovon' see headword GYÓN,wot,205,true,^ ǰ ū n $,EAH,d͡ʒʲ uː n,CVC,true,1372
+WOT-164_toconfesssins-1,,WOT,164_toconfesssins,ǰūn,ǰūn,d͡ʒʲ uː n,For 'gyovon' see headword GYÓN,wot,205,false,^ ǰ ū n $,WOT,d͡ʒʲ uː n,CVC,true,1372
+H-164_toconfesssins-2,,H,164_toconfesssins,gyovon,gyovon,ɟ o v o n,For 'gyovon' see headword GYÓN,wot,206,true,^gyovon$,H,ɟ o v o n,CVCVC,true,1979
+OH-164_toconfesssins-2,,OH,164_toconfesssins,dʹuvun,dʹuvun,ɟ u v u n,For 'gyovon' see headword GYÓN,wot,206,true,^ dʹ u v u n $,OH,ɟ u v u n,CVCVC,true,1979
+EAH-164_toconfesssins-2,,EAH,164_toconfesssins,ǰuvun,ǰuvun,d͡ʒʲ u v u n,For 'gyovon' see headword GYÓN,wot,206,true,^ ǰ u v u n $,EAH,d͡ʒʲ u v u n,CVCVC,true,1979
+WOT-164_toconfesssins-2,,WOT,164_toconfesssins,ǰuvun,ǰuvun,d͡ʒʲ u v u n,For 'gyovon' see headword GYÓN,wot,206,false,^ ǰ u v u n $,WOT,d͡ʒʲ u v u n,CVCVC,true,1979
 H-165_cudweedgnaphaliumedelweiss-1,,H,165_cudweedgnaphaliumedelweiss,gyopár,gyopár,ɟ o p aː r,,wot,207,true,^gyopár$,H,ɟ o p aː r,CVCVC,true,1222
 OH-165_cudweedgnaphaliumedelweiss-1,,OH,165_cudweedgnaphaliumedelweiss,ǰupar,ǰupar,d͡ʒʲ u p a r,,wot,207,true,^ ǰ u p a r $,OH,d͡ʒʲ u p a r,CVCVC,true,1222
 EAH-165_cudweedgnaphaliumedelweiss-1,,EAH,165_cudweedgnaphaliumedelweiss,ǰïpar,ǰïpar,d͡ʒʲ ɯ p a r,,wot,207,true,^ ǰ ï p a r $,EAH,d͡ʒʲ ɯ p a r,CVCVC,true,1222
 WOT-165_cudweedgnaphaliumedelweiss-1,,WOT,165_cudweedgnaphaliumedelweiss,ǰïpar,ǰïpar,d͡ʒʲ ɯ p a r,,wot,207,true,^ ǰ ï p a r $,WOT,d͡ʒʲ ɯ p a r,CVCVC,true,1222
-H-166_pearl-1,,H,166_pearl,gyöngy,gyöngy,ɟ ø n ɟ,,wot,208,true,^gyöngy$,H,ɟ ø n.ɟ,CVCC,true,1164
+H-166_pearl-1,,H,166_pearl,gyöngy,gyöngy,ɟ ø ɲ ɟ,,wot,208,true,^gyöngy$,H,ɟ ø ɲ.ɟ,CVCC,true,1164
 OH-166_pearl-1,,OH,166_pearl,ǰünǰ,ǰünǰ,d͡ʒʲ y n d͡ʒʲ,,wot,208,true,^ ǰ ü n ǰ $,OH,d͡ʒʲ y n.d͡ʒʲ,CVCC,true,1164
 LAH-166_pearl-1,,LAH,166_pearl,ǰünǰü,ǰünǰü,d͡ʒʲ y n d͡ʒʲ y,,wot,208,true,^ ǰ ü n ǰ ü $,LAH,d͡ʒʲ y n.d͡ʒʲ y,CVCCV,true,1164
 EAH-166_pearl-1,,EAH,166_pearl,ǰinǰü,ǰinǰü,d͡ʒʲ i n d͡ʒʲ y,,wot,208,true,^ ǰ i n ǰ ü $,EAH,d͡ʒʲ i n.d͡ʒʲ y,CVCCV,true,1164
@@ -752,7 +752,7 @@ WOT-178_thimble-1,,WOT,178_thimble,ǰüγsüγ,ǰüγsüγ,d͡ʒʲ y ɣ s y ɣ,,
 H-179_boatship-1,,H,179_boatship,hajó,hajó,h ɒ j oː,,wot,221,true,^hajó$,H,h ɒ j oː,CVCV,true,1181
 EAH-179_boatship-1,,EAH,179_boatship,hayiγ,hayiγ,h a j i ɣ,,wot,221,true,^ h a y i γ $,EAH,h a j i ɣ,CVCVC,true,1181
 WOT-179_boatship-1,,WOT,179_boatship,χayїγ,χayїγ,χ a j ɯ ɣ,,wot,221,true,^ χ a y ї γ $,WOT,χ a j ɯ ɣ,CVCVC,true,1181
-H-180_bell-1,,H,180_bell,harang,harang,h ɒ r ɒ n ɡ,,wot,222,true,^harang$,H,h ɒ r ɒ n.ɡ,CVCVCC,true,1211
+H-180_bell-1,,H,180_bell,harang,harang,h ɒ r ɒ ŋ,,wot,222,true,^harang$,H,h ɒ r ɒ ŋ,CVCVC,true,1211
 EAH-180_bell-1,,EAH,180_bell,hangar,hangar,h a n ɡ a r,,wot,222,true,^ h a n g a r $,EAH,h a n.ɡ a r,CVCCVC,true,1211
 WOT-180_bell-1,,WOT,180_bell,χoŋar,χoŋar,χ o ŋ a r,,wot,222,true,^ χ o ŋ a r $,WOT,χ o ŋ a r,CVCVC,true,1211
 H-181_hawk-1,,H,181_hawk,herjó,herjó,h ɛ r j oː,,wot,223,true,^herjó$,H,h ɛ r.j oː,CVCCV,true,1366
@@ -770,9 +770,9 @@ OH-184_timeweather-1,,OH,184_timeweather,üdȫ,üdȫ,y d øː,,wot,226,true,^ ü
 LAH-184_timeweather-1,,LAH,184_timeweather,üdeü̯,üdeü̯,y d ɛ w,,wot,226,true,^ ü d e ü̯ $,LAH,y d ɛ w,VCVC,true,1372
 EAH-184_timeweather-1,,EAH,184_timeweather,üdeγ,üdeγ,y d ɛ ɣ,,wot,226,true,^ ü d e γ $,EAH,y d ɛ ɣ,VCVC,true,1372
 WOT-184_timeweather-1,,WOT,184_timeweather,üdäγ,üdäγ,y d ɛ ɣ,,wot,226,false,^ ü d ä γ $,WOT,y d ɛ ɣ,VCVC,true,1372
-H-185_wordbiblicalwordverb-1,,H,185_wordbiblicalwordverb,ige,ige,i ɡ ɛ,,wot,227,true,^ige$,H,i ɡ ɛ,VCV,true,1310
-EAH-185_wordbiblicalwordverb-1,,EAH,185_wordbiblicalwordverb,üge,üge,y ɡ ɛ,,wot,227,true,^ ü g e $,EAH,y ɡ ɛ,VCV,true,1310
-WOT-185_wordbiblicalwordverb-1,,WOT,185_wordbiblicalwordverb,ügä,ügä,y ɡ ɛ,,wot,227,true,^ ü g ä $,WOT,y ɡ ɛ,VCV,true,1310
+H-185_wordbiblicalwordverb-1,,H,185_wordbiblicalwordverb,ige,ige,i ɡ ɛ,On p. 439 the etymology reads 'ige < *üge ← *ügä'. I assumed this must be in fact 'ige < *üge ← WOT *ügä',wot,227,true,^ige$,H,i ɡ ɛ,VCV,true,1310
+EAH-185_wordbiblicalwordverb-1,,EAH,185_wordbiblicalwordverb,üge,üge,y ɡ ɛ,On p. 439 the etymology reads 'ige < *üge ← *ügä'. I assumed this must be in fact 'ige < *üge ← WOT *ügä',wot,227,true,^ ü g e $,EAH,y ɡ ɛ,VCV,true,1310
+WOT-185_wordbiblicalwordverb-1,,WOT,185_wordbiblicalwordverb,ügä,ügä,y ɡ ɛ,On p. 439 the etymology reads 'ige < *üge ← *ügä'. I assumed this must be in fact 'ige < *üge ← WOT *ügä',wot,227,true,^ ü g ä $,WOT,y ɡ ɛ,VCV,true,1310
 H-186_yesaffirmativeparticlevery-1,,H,186_yesaffirmativeparticlevery,igen,igen,i ɡ ɛ n,,wot,228,true,^igen$,H,i ɡ ɛ n,VCVC,true,1266
 EAH-186_yesaffirmativeparticlevery-1,,EAH,186_yesaffirmativeparticlevery,egen,egen,ɛ ɡ ɛ n,,wot,228,true,^ e g e n $,EAH,ɛ ɡ ɛ n,VCVC,true,1266
 WOT-186_yesaffirmativeparticlevery-1,,WOT,186_yesaffirmativeparticlevery,egän,egän,ɛ ɡ ɛ n,,wot,228,false,^ e g ä n $,WOT,ɛ ɡ ɛ n,VCVC,true,1266
@@ -797,7 +797,7 @@ H-191_toadoreworship-1,,H,191_toadoreworship,imád,im,i m,,wot,234,true,^im$,H,i
 OH-191_toadoreworship-1,,OH,191_toadoreworship,vimad,vimad,v i m a d,,wot,234,true,^ v i m a d $,OH,v i m a d,CVCVC,true,1195
 EAH-191_toadoreworship-1,,EAH,191_toadoreworship,vim,vim,v i m,,wot,234,true,^ v i m $,EAH,v i m,CVC,true,1195
 WOT-191_toadoreworship-1,,WOT,191_toadoreworship,vïm,vïm,v ɯ m,,wot,234,false,^ v ï m $,WOT,v ɯ m,CVC,true,1195
-H-192_shirt-1,,H,192_shirt,ing,ing,i n ɡ,,wot,235,true,^ing$,H,i n.ɡ,VCC,true,1372
+H-192_shirt-1,,H,192_shirt,ing,ing,i ŋ,,wot,235,true,^ing$,H,i ŋ,VC,true,1372
 OH-192_shirt-1,,OH,192_shirt,ümeg,ümeg,y m ɛ ɡ,,wot,235,true,^ ü m e g $,OH,y m ɛ ɡ,VCVC,true,1372
 EAH-192_shirt-1,,EAH,192_shirt,ümmeg,ümmeg,y mː ɛ ɡ,,wot,235,true,^ ü mm e g $,EAH,y mː ɛ ɡ,VCVC,true,1372
 WOT-192_shirt-1,,WOT,192_shirt,öŋmäk,öŋmäk,ø ŋ m ɛ k,,wot,235,true,^ ö ŋ m ä k $,WOT,ø ŋ.m ɛ k,VCCVC,true,1372
@@ -837,9 +837,9 @@ WOT-201_awaterplantstratiotesaloides-3,,WOT,201_awaterplantstratiotesaloides,kar
 H-202_whiplash-1,,H,202_whiplash,kamcsi,kamcsi,k ɒ m t͡ʃ i,,wot,248,true,^kamcsi$,H,k ɒ m.t͡ʃ i,CVCCV,true,1979
 H-202_whiplash-2,,H,202_whiplash,kamsi,kamsi,k ɒ m ʃ i,,wot,249,true,^kamsi$,H,k ɒ m.ʃ i,CVCCV,true,1979
 H-202_whiplash-3,,H,202_whiplash,kamzsi,kamzsi,k ɒ m ʒ i,,wot,250,true,^kamzsi$,H,k ɒ m.ʒ i,CVCCV,true,1979
-H-203_saddlestrap-1,,H,203_saddlestrap,kangyík,kangyík,k ɒ n ɟ iː k,,wot,251,true,^kangyík$,H,k ɒ n.ɟ iː k,CVCCVC,true,1971
+H-203_saddlestrap-1,,H,203_saddlestrap,kangyík,kangyík,k ɒ ɲ ɟ iː k,,wot,251,true,^kangyík$,H,k ɒ ɲ.ɟ iː k,CVCCVC,true,1971
 EAH-203_saddlestrap-1,,EAH,203_saddlestrap,kåndʹikå,kåndʹikå,k ɒ n ɟ i k ɒ,,wot,251,true,^ k å n dʹ i k å $,EAH,k ɒ n.ɟ i k ɒ,CVCCVCV,true,1971
-H-203_saddlestrap-2,,H,203_saddlestrap,kangyíka,kangyíka,k ɒ n ɟ iː k ɒ,,wot,252,true,^kangyíka$,H,k ɒ n.ɟ iː k ɒ,CVCCVCV,true,1971
+H-203_saddlestrap-2,,H,203_saddlestrap,kangyíka,kangyíka,k ɒ ɲ ɟ iː k ɒ,,wot,252,true,^kangyíka$,H,k ɒ ɲ.ɟ iː k ɒ,CVCCVCV,true,1971
 EAH-203_saddlestrap-2,,EAH,203_saddlestrap,kåndʹikå,kåndʹikå,k ɒ n ɟ i k ɒ,,wot,252,true,^ k å n dʹ i k å $,EAH,k ɒ n.ɟ i k ɒ,CVCCVCV,true,1971
 H-204_bridlereins-1,,H,204_bridlereins,kantár,kantár,k ɒ n t aː r,,wot,253,true,^kantár$,H,k ɒ n.t aː r,CVCCVC,true,1571
 WOT-204_bridlereins-1,,WOT,204_bridlereins,kantar,kantar,k a n t a r,,wot,253,true,^ k a n t a r $,WOT,k a n.t a r,CVCCVC,true,1571
@@ -867,12 +867,12 @@ WOT-210_manofgritstoutfellow-1,,WOT,210_manofgritstoutfellow,karakan,karakan,k a
 H-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,H,211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,karám,karám,k ɒ r aː m,,wot,260,true,^karám$,H,k ɒ r aː m,CVCVC,true,1620
 EAH-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,EAH,211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,korām,korām,k o r aː m,,wot,260,true,^ k o r ā m $,EAH,k o r aː m,CVCVC,true,1620
 WOT-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,WOT,211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,koram,koram,k o r a m,,wot,260,true,^ k o r a m $,WOT,k o r a m,CVCVC,true,1620
-H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,H,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karambél,karambél,k ɒ r ɒ m b eː l,,wot,261,true,^karambél$,H,k ɒ r ɒ m.b eː l,CVCVCCVC,true,1972
-EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,EAH,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,,wot,261,true,^ k a r a m p i l $,EAH,k a r a m.p i l,CVCVCCVC,true,1972
-WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,WOT,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,,wot,261,false,^ k a r a m p i l $,WOT,k a r a m.p i l,CVCVCCVC,true,1972
-H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,H,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karambél,karambél,k ɒ r ɒ m b eː l,,wot,262,true,^karambél$,H,k ɒ r ɒ m.b eː l,CVCVCCVC,true,1972
-EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,EAH,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,,wot,262,true,^ k a r a m p i l $,EAH,k a r a m.p i l,CVCVCCVC,true,1972
-WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,WOT,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karamfil,karamfil,k a r a m f i l,,wot,262,false,^ k a r a m f i l $,WOT,k a r a m.f i l,CVCVCCVC,true,1972
+H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,H,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karambél,karambél,k ɒ r ɒ m b eː l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,261,true,^karambél$,H,k ɒ r ɒ m.b eː l,CVCVCCVC,true,1972
+EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,EAH,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,261,true,^ k a r a m p i l $,EAH,k a r a m.p i l,CVCVCCVC,true,1972
+WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,WOT,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,261,false,^ k a r a m p i l $,WOT,k a r a m.p i l,CVCVCCVC,true,1972
+H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,H,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karambél,karambél,k ɒ r ɒ m b eː l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,262,true,^karambél$,H,k ɒ r ɒ m.b eː l,CVCVCCVC,true,1972
+EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,EAH,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,262,true,^ k a r a m p i l $,EAH,k a r a m.p i l,CVCVCCVC,true,1972
+WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2,,WOT,212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karamfil,karamfil,k a r a m f i l,"on p. 501 the headword is 'KARAMBÉL [kåråmbēl]' but the etymology reads 'kårånbēl < *karampil ← Cum *karampil, karamfil'. I assumed the form with 'n' is a typo, since typically an /n/ would assimilate to /m/ before /b/ and the donor word itself contains an /m/ as well.",wot,262,false,^ k a r a m f i l $,WOT,k a r a m.f i l,CVCVCCVC,true,1972
 H-213_stakepalestick-1,,H,213_stakepalestick,karó,karó,k ɒ r oː,,wot,263,true,^karó$,H,k ɒ r oː,CVCV,true,1395
 OH-213_stakepalestick-1,,OH,213_stakepalestick,kårou̯,kårou̯,k ɒ r o w,,wot,263,true,^ k å r o u̯ $,OH,k ɒ r o w,CVCVC,true,1395
 EAH-213_stakepalestick-1,,EAH,213_stakepalestick,karoγ,karoγ,k a r o ɣ,,wot,263,true,^ k a r o γ $,EAH,k a r o ɣ,CVCVC,true,1395
@@ -884,7 +884,7 @@ WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,WOT,214
 H-215_sparrowhawkaccipiternnisus-1,,H,215_sparrowhawkaccipiternnisus,karvaly,karvaly,k ɒ r v ɒ j,,wot,265,true,^karvaly$,H,k ɒ r.v ɒ j,CVCCVC,true,1222
 EAH-215_sparrowhawkaccipiternnisus-1,,EAH,215_sparrowhawkaccipiternnisus,karγay,karγay,k a r ɣ a j,,wot,265,true,^ k a r γ a y $,EAH,k a r.ɣ a j,CVCCVC,true,1222
 WOT-215_sparrowhawkaccipiternnisus-1,,WOT,215_sparrowhawkaccipiternnisus,kargay,kargay,k a r ɡ a j,,wot,265,true,^ k a r g a y $,WOT,k a r.ɡ a j,CVCCVC,true,1222
-H-216_chicorycichoriumspcichoriumintybus-1,,H,216_chicorycichoriumspcichoriumintybus,katáng,katáng,k ɒ t aː n ɡ,,wot,266,true,^katáng$,H,k ɒ t aː n.ɡ,CVCVCC,true,1395
+H-216_chicorycichoriumspcichoriumintybus-1,,H,216_chicorycichoriumspcichoriumintybus,katáng,katáng,k ɒ t aː ŋ,,wot,266,true,^katáng$,H,k ɒ t aː ŋ,CVCVC,true,1395
 EAH-216_chicorycichoriumspcichoriumintybus-1,,EAH,216_chicorycichoriumspcichoriumintybus,katāng,katāng,k a t aː n ɡ,,wot,266,true,^ k a t ā n g $,EAH,k a t aː n.ɡ,CVCVCC,true,1395
 WOT-216_chicorycichoriumspcichoriumintybus-1,,WOT,216_chicorycichoriumspcichoriumintybus,kataŋ,kataŋ,k a t a ŋ,,wot,266,true,^ k a t a ŋ $,WOT,k a t a ŋ,CVCVC,true,1395
 H-217_anethnicnamekazar-1,,H,217_anethnicnamekazar,kazár,kazár,k ɒ z aː r,,wot,267,true,^kazár$,H,k ɒ z aː r,CVCVC,true,1200
@@ -898,7 +898,7 @@ WOT-219_goatcaprahircus-1,,WOT,219_goatcaprahircus,käčäkä,käčäkä,k ɛ t�
 H-220_blue-1,,H,220_blue,kék,kék,k eː k,,wot,270,true,^kék$,H,k eː k,CVC,true,1075
 EAH-220_blue-1,,EAH,220_blue,keyk,keyk,k ɛ j k,,wot,270,true,^ k e y k $,EAH,k ɛ j.k,CVCC,true,1075
 WOT-220_blue-1,,WOT,220_blue,kȫk,kȫk,k øː k,,wot,270,true,^ k ȫ k $,WOT,k øː k,CVC,true,1075
-H-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1,,H,221_trousseaudowrygiftgivenwiththebrideorbridegroom,kelengye,kelengye,k ɛ l ɛ n ɟ ɛ,,wot,271,true,^kelengye$,H,k ɛ l ɛ n.ɟ ɛ,CVCVCCV,true,1592
+H-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1,,H,221_trousseaudowrygiftgivenwiththebrideorbridegroom,kelengye,kelengye,k ɛ l ɛ ɲ ɟ ɛ,,wot,271,true,^kelengye$,H,k ɛ l ɛ ɲ.ɟ ɛ,CVCVCCV,true,1592
 OH-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1,,OH,221_trousseaudowrygiftgivenwiththebrideorbridegroom,kelinǰe,kelinǰe,k ɛ l i n d͡ʒʲ ɛ,,wot,271,true,^ k e l i n ǰ e $,OH,k ɛ l i n.d͡ʒʲ ɛ,CVCVCCV,true,1592
 EAH-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1,,EAH,221_trousseaudowrygiftgivenwiththebrideorbridegroom,kälinčäγ,kälinčäγ,k ɛ l i n t͡ʃ ɛ ɣ,,wot,271,true,^ k ä l i n č ä γ $,EAH,k ɛ l i n.t͡ʃ ɛ ɣ,CVCVCCVC,true,1592
 WOT-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1,,WOT,221_trousseaudowrygiftgivenwiththebrideorbridegroom,kälinčäγ,kälinčäγ,k ɛ l i n t͡ʃ ɛ ɣ,,wot,271,false,^ k ä l i n č ä γ $,WOT,k ɛ l i n.t͡ʃ ɛ ɣ,CVCVCCVC,true,1592
@@ -1058,9 +1058,9 @@ OH-262_akindofhungariansheepdogkomondor-1,,OH,262_akindofhungariansheepdogkomond
 LAH-262_akindofhungariansheepdogkomondor-1,,LAH,262_akindofhungariansheepdogkomondor,köpekče,köpekče,k ø p ɛ k t͡ʃ ɛ,,wot,318,true,^ k ö p e k č e $,LAH,k ø p ɛ k.t͡ʃ ɛ,CVCVCCV,true,1861
 EAH-262_akindofhungariansheepdogkomondor-1,,EAH,262_akindofhungariansheepdogkomondor,köpek,köpek,k ø p ɛ k,,wot,318,true,^ k ö p e k $,EAH,k ø p ɛ k,CVCVC,true,1861
 WOT-262_akindofhungariansheepdogkomondor-1,,WOT,262_akindofhungariansheepdogkomondor,köpäk,köpäk,k ø p ɛ k,,wot,318,false,^ k ö p ä k $,WOT,k ø p ɛ k,CVCVC,true,1861
-H-263_cloakgownovercoat-1,,H,263_cloakgownovercoat,köpönyek,köpönyek,k ø p ø ɲ ɛ k,,wot,319,true,^köpönyek$,H,k ø p ø ɲ ɛ k,CVCVCVC,true,1560
-EAH-263_cloakgownovercoat-1,,EAH,263_cloakgownovercoat,kepenek,kepenek,k ɛ p ɛ n ɛ k,,wot,319,true,^ k e p e n e k $,EAH,k ɛ p ɛ n ɛ k,CVCVCVC,true,1560
-WOT-263_cloakgownovercoat-1,,WOT,263_cloakgownovercoat,kepenek,kepenek,k ɛ p ɛ n ɛ k,,wot,319,true,^ k e p e n e k $,WOT,k ɛ p ɛ n ɛ k,CVCVCVC,true,1560
+H-263_cloakgownovercoat-1,,H,263_cloakgownovercoat,köpönyek,köpönyek,k ø p ø ɲ ɛ k,"See headword 'KÖPÖNYEG' (with a 'G') in the original monograph. The etymological part features a 'k' ('köpönyek'), therefore the entry in this data set also contains a 'k'. The subentry 'köpeny' was omitted.",wot,319,true,^köpönyek$,H,k ø p ø ɲ ɛ k,CVCVCVC,true,1560
+EAH-263_cloakgownovercoat-1,,EAH,263_cloakgownovercoat,kepenek,kepenek,k ɛ p ɛ n ɛ k,"See headword 'KÖPÖNYEG' (with a 'G') in the original monograph. The etymological part features a 'k' ('köpönyek'), therefore the entry in this data set also contains a 'k'. The subentry 'köpeny' was omitted.",wot,319,true,^ k e p e n e k $,EAH,k ɛ p ɛ n ɛ k,CVCVCVC,true,1560
+WOT-263_cloakgownovercoat-1,,WOT,263_cloakgownovercoat,kepenek,kepenek,k ɛ p ɛ n ɛ k,"See headword 'KÖPÖNYEG' (with a 'G') in the original monograph. The etymological part features a 'k' ('köpönyek'), therefore the entry in this data set also contains a 'k'. The subentry 'köpeny' was omitted.",wot,319,true,^ k e p e n e k $,WOT,k ɛ p ɛ n ɛ k,CVCVCVC,true,1560
 H-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1,,H,264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania,köpű,köpű,k ø p yː,,wot,320,true,^köpű$,H,k ø p yː,CVCV,true,1405
 OH-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1,,OH,264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania,küpǖ,küpǖ,k y p yː,,wot,320,true,^ k ü p ǖ $,OH,k y p yː,CVCV,true,1405
 EAH-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1,,EAH,264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania,küpüγ,küpüγ,k y p y ɣ,,wot,320,true,^ k ü p ü γ $,EAH,k y p y ɣ,CVCVC,true,1405
@@ -1114,13 +1114,13 @@ OH-275_chaffhuskswinnowingstailingsrefuseofgrain-1,,OH,275_chaffhuskswinnowingst
 LAH-275_chaffhuskswinnowingstailingsrefuseofgrain-1,,LAH,275_chaffhuskswinnowingstailingsrefuseofgrain,učou̯,učou̯,u t͡ʃ o w,,wot,333,true,^ u č o u̯ $,LAH,u t͡ʃ o w,VCVC,true,1211
 EAH-275_chaffhuskswinnowingstailingsrefuseofgrain-1,,EAH,275_chaffhuskswinnowingstailingsrefuseofgrain,učoγ,učoγ,u t͡ʃ o ɣ,,wot,333,true,^ u č o γ $,EAH,u t͡ʃ o ɣ,VCVC,true,1211
 WOT-275_chaffhuskswinnowingstailingsrefuseofgrain-1,,WOT,275_chaffhuskswinnowingstailingsrefuseofgrain,učoγ,učoγ,u t͡ʃ o ɣ,,wot,333,false,^ u č o γ $,WOT,u t͡ʃ o ɣ,VCVC,true,1211
-H-276_causereason-1,,H,276_causereason,ok,ok,o k,,wot,334,true,^ok$,H,o k,VC,true,1138
-EAH-276_causereason-1,,EAH,276_causereason,uk,uk,u k,,wot,334,true,^ u k $,EAH,u k,VC,true,1138
-WOT-276_causereason-1,,WOT,276_causereason,uk,uk,u k,,wot,334,true,^ u k $,WOT,u k,VC,true,1138
-H-277_toteach-1,,H,277_toteach,oktat,okt,o k t,,wot,335,true,^okt$,H,o k.t,VCC,true,
-OH-277_toteach-1,,OH,277_toteach,ok,ok,o k,,wot,335,true,^ o k $,OH,o k,VC,true,
-EAH-277_toteach-1,,EAH,277_toteach,uk,uk,u k,,wot,335,true,^ u k $,EAH,u k,VC,true,
-WOT-277_toteach-1,,WOT,277_toteach,uk,uk,u k,,wot,335,true,^ u k $,WOT,u k,VC,true,
+H-276_causereason-1,,H,276_causereason,ok,ok,o k,"Sub-entries 'okos' and 'oktalan' are omitted, because no WOT root is given. 'oktat' has a separate entry, since WOT root is given.",wot,334,true,^ok$,H,o k,VC,true,1138
+EAH-276_causereason-1,,EAH,276_causereason,uk,uk,u k,"Sub-entries 'okos' and 'oktalan' are omitted, because no WOT root is given. 'oktat' has a separate entry, since WOT root is given.",wot,334,true,^ u k $,EAH,u k,VC,true,1138
+WOT-276_causereason-1,,WOT,276_causereason,uk,uk,u k,"Sub-entries 'okos' and 'oktalan' are omitted, because no WOT root is given. 'oktat' has a separate entry, since WOT root is given.",wot,334,true,^ u k $,WOT,u k,VC,true,1138
+H-277_toteach-1,,H,277_toteach,oktat,okt,o k t,See headword OK in original (nested entry).,wot,335,true,^okt$,H,o k.t,VCC,true,
+OH-277_toteach-1,,OH,277_toteach,ok,ok,o k,See headword OK in original (nested entry).,wot,335,true,^ o k $,OH,o k,VC,true,
+EAH-277_toteach-1,,EAH,277_toteach,uk,uk,u k,See headword OK in original (nested entry).,wot,335,true,^ u k $,EAH,u k,VC,true,
+WOT-277_toteach-1,,WOT,277_toteach,uk,uk,u k,See headword OK in original (nested entry).,wot,335,true,^ u k $,WOT,u k,VC,true,
 H-278_stycattlepensheepfold-1,,H,278_stycattlepensheepfold,ól,ól,oː l,,wot,336,true,^ól$,H,oː l,VC,true,1192
 OH-278_stycattlepensheepfold-1,,OH,278_stycattlepensheepfold,oγul,oγul,o ɣ u l,,wot,336,true,^ o γ u l $,OH,o ɣ u l,VCVC,true,1192
 EAH-278_stycattlepensheepfold-1,,EAH,278_stycattlepensheepfold,aγul,aγul,a ɣ u l,,wot,336,true,^ a γ u l $,EAH,a ɣ u l,VCVC,true,1192
@@ -1184,12 +1184,12 @@ WOT-292_totakeroottogrowstrongerplantanimal-1,,WOT,292_totakeroottogrowstrongerp
 H-293_togrindmill-1,,H,293_togrindmill,őr,őr,øː r,,wot,352,true,^őr$,H,øː r,VC,true,1211
 EAH-293_togrindmill-1,,EAH,293_togrindmill,evir,evir,ɛ v i r,,wot,352,true,^ e v i r $,EAH,ɛ v i r,VCVC,true,1211
 WOT-293_togrindmill-1,,WOT,293_togrindmill,ävir,ävir,ɛ v i r,,wot,352,false,^ ä v i r $,WOT,ɛ v i r,VCVC,true,1211
-H-294_millingproduct-1,,H,294_millingproduct,örmény,örmény,ø r m eː ɲ,,wot,353,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
-EAH-294_millingproduct-1,,EAH,294_millingproduct,eü̯rmen,eü̯rmen,ɛ w r m ɛ n,,wot,353,true,^ e ü̯ r m e n $,EAH,ɛ w.r.m ɛ n,VCCCVC,true,1289
-WOT-294_millingproduct-1,,WOT,294_millingproduct,ävirmän,ävirmän,ɛ v i r m ɛ n,,wot,353,false,^ ä v i r m ä n $,WOT,ɛ v i r.m ɛ n,VCVCCVC,true,1289
-H-295_armenian-1,,H,295_armenian,örmény,örmény,ø r m eː ɲ,,wot,354,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
-EAH-295_armenian-1,,EAH,295_armenian,ermeni,ermeni,ɛ r m ɛ n i,,wot,354,true,^ e r m e n i $,EAH,ɛ r.m ɛ n i,VCCVCV,true,1289
-WOT-295_armenian-1,,WOT,295_armenian,ärmäni,ärmäni,ɛ r m ɛ n i,,wot,354,false,^ ä r m ä n i $,WOT,ɛ r.m ɛ n i,VCCVCV,true,1289
+H-294_millingproduct-1,,H,294_millingproduct,örmény,örmény,ø r m eː ɲ,See headword ÖRMÉNY² or ŐR¹ in original (nested entry),wot,353,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
+EAH-294_millingproduct-1,,EAH,294_millingproduct,eü̯rmen,eü̯rmen,ɛ w r m ɛ n,See headword ÖRMÉNY² or ŐR¹ in original (nested entry),wot,353,true,^ e ü̯ r m e n $,EAH,ɛ w.r.m ɛ n,VCCCVC,true,1289
+WOT-294_millingproduct-1,,WOT,294_millingproduct,ävirmän,ävirmän,ɛ v i r m ɛ n,See headword ÖRMÉNY² or ŐR¹ in original (nested entry),wot,353,false,^ ä v i r m ä n $,WOT,ɛ v i r.m ɛ n,VCVCCVC,true,1289
+H-295_armenian-1,,H,295_armenian,örmény,örmény,ø r m eː ɲ,See headword ÖRMÉNY¹ in original,wot,354,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
+EAH-295_armenian-1,,EAH,295_armenian,ermeni,ermeni,ɛ r m ɛ n i,See headword ÖRMÉNY¹ in original,wot,354,true,^ e r m e n i $,EAH,ɛ r.m ɛ n i,VCCVCV,true,1289
+WOT-295_armenian-1,,WOT,295_armenian,ärmäni,ärmäni,ɛ r m ɛ n i,See headword ÖRMÉNY¹ in original,wot,354,false,^ ä r m ä n i $,WOT,ɛ r.m ɛ n i,VCCVCV,true,1289
 H-296_eternal-1,,H,296_eternal,örök,örök,ø r ø k,,wot,355,true,^örök$,H,ø r ø k,VCVC,true,1086
 EAH-296_eternal-1,,EAH,296_eternal,ürük,ürük,y r y k,,wot,355,true,^ ü r ü k $,EAH,y r y k,VCVC,true,1086
 WOT-296_eternal-1,,WOT,296_eternal,ürük,ürük,y r y k,,wot,355,true,^ ü r ü k $,WOT,y r y k,VCVC,true,1086
@@ -1202,28 +1202,28 @@ H-298_tobecomemad-1,,H,298_tobecomemad,őrül,őrül,øː r y l,,wot,357,true,^�
 OH-298_tobecomemad-1,,OH,298_tobecomemad,eü̯ril,eü̯ril,ɛ w r i l,,wot,357,true,^ e ü̯ r i l $,OH,ɛ w.r i l,VCCVC,true,1598
 EAH-298_tobecomemad-1,,EAH,298_tobecomemad,evril,evril,ɛ v r i l,,wot,357,true,^ e v r i l $,EAH,ɛ v.r i l,VCCVC,true,1598
 WOT-298_tobecomemad-1,,WOT,298_tobecomemad,ävril,ävril,ɛ v r i l,,wot,357,false,^ ä v r i l $,WOT,ɛ v.r i l,VCCVC,true,1598
-H-299_whirlpooleddy-1,,H,299_whirlpooleddy,örvény,örvény,ø r v eː ɲ,,wot,358,true,^örvény$,H,ø r.v eː ɲ,VCCVC,true,1391
-OH-299_whirlpooleddy-1,,OH,299_whirlpooleddy,ȫr,ȫr,øː r,,wot,358,true,^ ȫ r $,OH,øː r,VC,true,1391
-LAH-299_whirlpooleddy-1,,LAH,299_whirlpooleddy,ewir,ewir,ɛ w i r,,wot,358,true,^ e w i r $,LAH,ɛ w i r,VCVC,true,1391
-EAH-299_whirlpooleddy-1,,EAH,299_whirlpooleddy,eγir,eγir,ɛ ɣ i r,,wot,358,true,^ e γ i r $,EAH,ɛ ɣ i r,VCVC,true,1391
-WOT-299_whirlpooleddy-1,,WOT,299_whirlpooleddy,äγir,äγir,ɛ ɣ i r,,wot,358,true,^ ä γ i r $,WOT,ɛ ɣ i r,VCVC,true,1391
-H-299_whirlpooleddy-2,,H,299_whirlpooleddy,őrém,őrém,øː r eː m,,wot,359,true,^őrém$,H,øː r eː m,VCVC,true,1095
-OH-299_whirlpooleddy-2,,OH,299_whirlpooleddy,eürem,eürem,ɛ y r ɛ m,,wot,359,true,^ e ü r e m $,OH,ɛ.y r ɛ m,VVCVC,true,1095
-EAH-299_whirlpooleddy-2,,EAH,299_whirlpooleddy,eγrim,eγrim,ɛ ɣ r i m,,wot,359,true,^ e γ r i m $,EAH,ɛ ɣ.r i m,VCCVC,true,1095
-WOT-299_whirlpooleddy-2,,WOT,299_whirlpooleddy,ägirim,ägirim,ɛ ɡ i r i m,,wot,359,true,^ ä g i r i m $,WOT,ɛ ɡ i r i m,VCVCVC,true,1095
-H-299_whirlpooleddy-3,,H,299_whirlpooleddy,őrém,őrém,øː r eː m,,wot,360,true,^őrém$,H,øː r eː m,VCVC,true,1095
-OH-299_whirlpooleddy-3,,OH,299_whirlpooleddy,eürem,eürem,ɛ y r ɛ m,,wot,360,true,^ e ü r e m $,OH,ɛ.y r ɛ m,VVCVC,true,1095
-EAH-299_whirlpooleddy-3,,EAH,299_whirlpooleddy,eγrim,eγrim,ɛ ɣ r i m,,wot,360,true,^ e γ r i m $,EAH,ɛ ɣ.r i m,VCCVC,true,1095
-WOT-299_whirlpooleddy-3,,WOT,299_whirlpooleddy,ägrim,ägrim,ɛ ɡ r i m,,wot,360,true,^ ä g r i m $,WOT,ɛ ɡ.r i m,VCCVC,true,1095
-H-299_whirlpooleddy-4,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,,wot,361,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
-EAH-299_whirlpooleddy-4,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,,wot,361,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
-WOT-299_whirlpooleddy-4,,WOT,299_whirlpooleddy,äγirmän,äγirmän,ɛ ɣ i r m ɛ n,,wot,361,true,^ ä γ i r m ä n $,WOT,ɛ ɣ i r.m ɛ n,VCVCCVC,true,1289
-H-299_whirlpooleddy-5,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,,wot,362,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
-EAH-299_whirlpooleddy-5,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,,wot,362,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
-WOT-299_whirlpooleddy-5,,WOT,299_whirlpooleddy,ägir,ägir,ɛ ɡ i r,,wot,362,true,^ ä g i r $,WOT,ɛ ɡ i r,VCVC,true,1289
-H-299_whirlpooleddy-6,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,,wot,363,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
-EAH-299_whirlpooleddy-6,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,,wot,363,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
-WOT-299_whirlpooleddy-6,,WOT,299_whirlpooleddy,ägir,ägir,ɛ ɡ i r,,wot,363,true,^ ä g i r $,WOT,ɛ ɡ i r,VCVC,true,1289
+H-299_whirlpooleddy-1,,H,299_whirlpooleddy,örvény,örvény,ø r v eː ɲ,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,358,true,^örvény$,H,ø r.v eː ɲ,VCCVC,true,1391
+OH-299_whirlpooleddy-1,,OH,299_whirlpooleddy,ȫr,ȫr,øː r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,358,true,^ ȫ r $,OH,øː r,VC,true,1391
+LAH-299_whirlpooleddy-1,,LAH,299_whirlpooleddy,ewir,ewir,ɛ w i r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,358,true,^ e w i r $,LAH,ɛ w i r,VCVC,true,1391
+EAH-299_whirlpooleddy-1,,EAH,299_whirlpooleddy,eγir,eγir,ɛ ɣ i r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,358,true,^ e γ i r $,EAH,ɛ ɣ i r,VCVC,true,1391
+WOT-299_whirlpooleddy-1,,WOT,299_whirlpooleddy,äγir,äγir,ɛ ɣ i r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,358,true,^ ä γ i r $,WOT,ɛ ɣ i r,VCVC,true,1391
+H-299_whirlpooleddy-2,,H,299_whirlpooleddy,őrém,őrém,øː r eː m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,359,true,^őrém$,H,øː r eː m,VCVC,true,1095
+OH-299_whirlpooleddy-2,,OH,299_whirlpooleddy,eürem,eürem,ɛ y r ɛ m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,359,true,^ e ü r e m $,OH,ɛ.y r ɛ m,VVCVC,true,1095
+EAH-299_whirlpooleddy-2,,EAH,299_whirlpooleddy,eγrim,eγrim,ɛ ɣ r i m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,359,true,^ e γ r i m $,EAH,ɛ ɣ.r i m,VCCVC,true,1095
+WOT-299_whirlpooleddy-2,,WOT,299_whirlpooleddy,ägirim,ägirim,ɛ ɡ i r i m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,359,true,^ ä g i r i m $,WOT,ɛ ɡ i r i m,VCVCVC,true,1095
+H-299_whirlpooleddy-3,,H,299_whirlpooleddy,őrém,őrém,øː r eː m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,360,true,^őrém$,H,øː r eː m,VCVC,true,1095
+OH-299_whirlpooleddy-3,,OH,299_whirlpooleddy,eürem,eürem,ɛ y r ɛ m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,360,true,^ e ü r e m $,OH,ɛ.y r ɛ m,VVCVC,true,1095
+EAH-299_whirlpooleddy-3,,EAH,299_whirlpooleddy,eγrim,eγrim,ɛ ɣ r i m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,360,true,^ e γ r i m $,EAH,ɛ ɣ.r i m,VCCVC,true,1095
+WOT-299_whirlpooleddy-3,,WOT,299_whirlpooleddy,ägrim,ägrim,ɛ ɡ r i m,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,360,true,^ ä g r i m $,WOT,ɛ ɡ.r i m,VCCVC,true,1095
+H-299_whirlpooleddy-4,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,361,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
+EAH-299_whirlpooleddy-4,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,361,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
+WOT-299_whirlpooleddy-4,,WOT,299_whirlpooleddy,äγirmän,äγirmän,ɛ ɣ i r m ɛ n,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,361,true,^ ä γ i r m ä n $,WOT,ɛ ɣ i r.m ɛ n,VCVCCVC,true,1289
+H-299_whirlpooleddy-5,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,362,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
+EAH-299_whirlpooleddy-5,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,362,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
+WOT-299_whirlpooleddy-5,,WOT,299_whirlpooleddy,ägir,ägir,ɛ ɡ i r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,362,true,^ ä g i r $,WOT,ɛ ɡ i r,VCVC,true,1289
+H-299_whirlpooleddy-6,,H,299_whirlpooleddy,örmény,örmény,ø r m eː ɲ,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,363,true,^örmény$,H,ø r.m eː ɲ,VCCVC,true,1289
+EAH-299_whirlpooleddy-6,,EAH,299_whirlpooleddy,örmen,örmen,ø r m ɛ n,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,363,true,^ ö r m e n $,EAH,ø r.m ɛ n,VCCVC,true,1289
+WOT-299_whirlpooleddy-6,,WOT,299_whirlpooleddy,ägir,ägir,ɛ ɡ i r,For the forms with an 'm' ('örmény') see headword ÖRMÉNY³,wot,363,true,^ ä g i r $,WOT,ɛ ɡ i r,VCVC,true,1289
 H-300_flooddelugestream-1,,H,300_flooddelugestream,özön,özön,ø z ø n,,wot,364,true,^özön$,H,ø z ø n,VCVC,true,1138
 EAH-300_flooddelugestream-1,,EAH,300_flooddelugestream,üzen,üzen,y z ɛ n,,wot,364,true,^ ü z e n $,EAH,y z ɛ n,VCVC,true,1138
 WOT-300_flooddelugestream-1,,WOT,300_flooddelugestream,özän,özän,ø z ɛ n,,wot,364,false,^ ö z ä n $,WOT,ø z ɛ n,VCVC,true,1138
@@ -1440,7 +1440,7 @@ WOT-353_rockcliffocciputcrestofmountain-1,,WOT,353_rockcliffocciputcrestofmounta
 H-354_word-1,,H,354_word,szó,szó,s oː,,wot,426,true,^szó$,H,s oː,CV,true,1213
 EAH-354_word-1,,EAH,354_word,saw,saw,s a w,,wot,426,true,^ s a w $,EAH,s a w,CVC,true,1213
 WOT-354_word-1,,WOT,354_word,sav,sav,s a v,,wot,426,false,^ s a v $,WOT,s a v,CVC,true,1213
-H-355_akindoffalconpielfalcusgyrfalco-1,,H,355_akindoffalconpielfalcusgyrfalco,szongor,szongor,s o n ɡ o r,,wot,427,true,^szongor$,H,s o n.ɡ o r,CVCCVC,true,1282
+H-355_akindoffalconpielfalcusgyrfalco-1,,H,355_akindoffalconpielfalcusgyrfalco,szongor,szongor,s o ŋ ɡ o r,,wot,427,true,^szongor$,H,s o ŋ.ɡ o r,CVCCVC,true,1282
 EAH-355_akindoffalconpielfalcusgyrfalco-1,,EAH,355_akindoffalconpielfalcusgyrfalco,sonkor,sonkor,s o n k o r,,wot,427,true,^ s o n k o r $,EAH,s o n.k o r,CVCCVC,true,1282
 WOT-355_akindoffalconpielfalcusgyrfalco-1,,WOT,355_akindoffalconpielfalcusgyrfalco,soŋkur,soŋkur,s o ŋ k u r,,wot,427,true,^ s o ŋ k u r $,WOT,s o ŋ.k u r,CVCCVC,true,1282
 H-356_tospreadtoscattertowinnow-1,,H,356_tospreadtoscattertowinnow,szór,szór,s oː r,,wot,428,true,^szór$,H,s oː r,CVC,true,1405
@@ -1538,14 +1538,14 @@ WOT-378_straponawhiporonakindofsandal-1,,WOT,378_straponawhiporonakindofsandal,t
 H-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,H,379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telek,telek,t ɛ l ɛ k,,wot,453,true,^telek$,H,t ɛ l ɛ k,CVCVC,true,1086
 EAH-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,EAH,379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telük,telük,t ɛ l y k,,wot,453,true,^ t e l ü k $,EAH,t ɛ l y k,CVCVC,true,1086
 WOT-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,WOT,379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,tilök,tilök,t i l ø k,,wot,453,false,^ t i l ö k $,WOT,t i l ø k,CVCVC,true,1086
-H-380_tovegetatetolingerinmisery-1,,H,380_tovegetatetolingerinmisery,tengődik,tengődik,t ɛ n ɡ øː d i k,,wot,454,true,^tengődik$,H,t ɛ n.ɡ øː d i k,CVCCVCVC,true,1531
+H-380_tovegetatetolingerinmisery-1,,H,380_tovegetatetolingerinmisery,tengődik,tengődik,t ɛ ŋ ɡ øː d i k,,wot,454,true,^tengődik$,H,t ɛ ŋ.ɡ øː d i k,CVCCVCVC,true,1531
 OH-380_tovegetatetolingerinmisery-1,,OH,380_tovegetatetolingerinmisery,teng,teng,t ɛ n ɡ,,wot,454,true,^ t e n g $,OH,t ɛ n.ɡ,CVCC,true,1531
 EAH-380_tovegetatetolingerinmisery-1,,EAH,380_tovegetatetolingerinmisery,teng,teng,t ɛ n ɡ,,wot,454,true,^ t e n g $,EAH,t ɛ n.ɡ,CVCC,true,1531
 WOT-380_tovegetatetolingerinmisery-1,,WOT,380_tovegetatetolingerinmisery,täŋ,täŋ,t ɛ ŋ,,wot,454,false,^ t ä ŋ $,WOT,t ɛ ŋ,CVC,true,1531
-H-381_axle-1,,H,381_axle,tengely,tengely,t ɛ n ɡ ɛ j,,wot,455,true,^tengely$,H,t ɛ n.ɡ ɛ j,CVCCVC,true,1138
+H-381_axle-1,,H,381_axle,tengely,tengely,t ɛ ŋ ɡ ɛ j,,wot,455,true,^tengely$,H,t ɛ ŋ.ɡ ɛ j,CVCCVC,true,1138
 EAH-381_axle-1,,EAH,381_axle,tengel,tengel,t ɛ n ɡ ɛ l,,wot,455,true,^ t e n g e l $,EAH,t ɛ n.ɡ ɛ l,CVCCVC,true,1138
 WOT-381_axle-1,,WOT,381_axle,teŋäl,teŋäl,t ɛ ŋ ɛ l,,wot,455,true,^ t e ŋ ä l $,WOT,t ɛ ŋ ɛ l,CVCVC,true,1138
-H-382_sea-1,,H,382_sea,tenger,tenger,t ɛ n ɡ ɛ r,,wot,456,true,^tenger$,H,t ɛ n.ɡ ɛ r,CVCCVC,true,1152
+H-382_sea-1,,H,382_sea,tenger,tenger,t ɛ ŋ ɡ ɛ r,,wot,456,true,^tenger$,H,t ɛ ŋ.ɡ ɛ r,CVCCVC,true,1152
 EAH-382_sea-1,,EAH,382_sea,teŋir,teŋir,t ɛ ŋ i r,,wot,456,true,^ t e ŋ i r $,EAH,t ɛ ŋ i r,CVCVC,true,1152
 WOT-382_sea-1,,WOT,382_sea,täŋir,täŋir,t ɛ ŋ i r,,wot,456,true,^ t ä ŋ i r $,WOT,t ɛ ŋ i r,CVCVC,true,1152
 H-383_toturntochangetheoriginaldirection-1,,H,383_toturntochangetheoriginaldirection,térül,tér,t eː r,,wot,457,true,^tér$,H,t eː r,CVC,true,1372

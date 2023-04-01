@@ -4,7 +4,7 @@ Check if they have same length
 Print ID if there's a problem
 Print OK if all is fine
 """
-from loanpy.helpers import evalsrctgt, evalsamelen
+from loanpy.utils import is_valid_language_sequence, is_same_length_alignments
 
 def register(parser):
     parser.add_argument("srclg")
@@ -18,7 +18,7 @@ def run(args):
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
         data = [row.split("\t") for row in f.read().split("\n")[1:][:-1]]
-        assert evalsrctgt(data, args.srclg, args.tgtlg)
-        assert evalsamelen(data, args.srclg, args.tgtlg)
+        assert is_valid_language_sequence(data, args.srclg, args.tgtlg)
+        assert is_same_length_alignments(data, args.srclg, args.tgtlg)
 
     print("OK")

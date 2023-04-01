@@ -41,9 +41,9 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,201
+- **Tokens:** 8,196
 - **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
-- **Inventory size (avg):** 42.60
+- **Inventory size (avg):** 42.80
 
 # Contributors
 

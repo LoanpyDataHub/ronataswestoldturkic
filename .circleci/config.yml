@@ -24,9 +24,6 @@ jobs:
           name: install commands
           command: pip install -e ronataswestoldturkic
       - run:
-          name: Create comments.tsv
-          command: cldfbench ronataswestoldturkic.makecomments
-      - run:
           name: Create Hungarian IPA transcriptions
           command: cldfbench ronataswestoldturkic.makeortho
       - run:

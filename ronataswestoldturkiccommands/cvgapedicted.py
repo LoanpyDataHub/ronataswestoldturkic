@@ -3,7 +3,7 @@ Read edicted.tsv
 Replace "-" by "C" if C disappeared, else "V"
 Write file
 """
-from loanpy.helpers import cvgaps
+from loanpy.utils import cvgaps
 
 def register(parser):
     parser.add_argument("srclg")

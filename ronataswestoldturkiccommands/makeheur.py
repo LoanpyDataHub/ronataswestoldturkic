@@ -3,7 +3,7 @@ Read aligned data in edictor/edicted.tsv
 Input it to loanpy.recovery.qfy
 Write sound correspondence file .json
 """
-from loanpy.recovery import get_heur
+from loanpy.scminer import get_heur
 import json
 
 def register(parser):

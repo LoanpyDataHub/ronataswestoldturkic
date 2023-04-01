@@ -5,8 +5,8 @@ Write to edictor/wot.tsv
 """
 from collections import Counter
 
-from loanpy.recovery import uralign
-from loanpy.helpers import prefilter
+from loanpy.scminer import uralign
+from loanpy.utils import prefilter
 
 def register(parser):
     parser.add_argument("srclg")
@@ -20,7 +20,8 @@ def run(args):
     """
 
     with open("cldf/forms.csv", "r") as f:
-        dfwot = prefilter(f.read(), args.srclg, args.tgtlg)
+        data = [row.split(",") for row in f.read().strip().split("\n")][1:]
+        dfwot = prefilter(data, args.srclg, args.tgtlg)
     iterwot = iter(dfwot)
     dfalign = "ALIGNMENT"
     while True:
@@ -31,7 +32,7 @@ def run(args):
 
     # add other cols
     final = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
-    assert len(dfalign.split("\n")[1:]) == len(dfwot)  # subtract header on left
+    assert len(dfalign.split("\n")[1:]) == len(dfwot)  # subtract headr on left
 
     # create output file (= input for edictor)
     for i, (ra, rb) in enumerate(zip(dfalign.split("\n")[1:], dfwot)):

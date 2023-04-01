@@ -10,7 +10,7 @@
 from json import dump
 
 from lingpy.align.pairwise import Pairwise
-from loanpy.helpers import prefilter
+from loanpy.utils import prefilter
 
 def register(parser):
     parser.add_argument("srclg")
