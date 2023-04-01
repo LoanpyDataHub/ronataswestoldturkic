@@ -5,7 +5,6 @@ from ipatok import tokenise
 import epitran
 from re import sub
 
-# TODO: add ng to transcription
 epi = epitran.Epitran("hun-Latn").transliterate
 
 def segipa(w):
@@ -19,12 +18,15 @@ def run(args):
     with open("cldf/forms.csv", "r") as f:
         data = [row.split(",") for row in f.read().strip().split("\n")]
 
+    formidx = data[0].index("Form")
+    lgididx = data[0].index("Language_ID")
     lines = "Grapheme\tIPA"
     wrdlst = []
     for row in data[1:]:
-        if row[2] == "H" and row[5] not in wrdlst:
-            lines += f"\n^{row[5]}$\t{segipa(row[5])}"
-            wrdlst.append(row[5])  # to avoid duplicates
+        form = row[formidx]  # to avoid duplicates
+        if row[lgididx] == "H" and form not in wrdlst:
+            lines += f"\n^{form}$\t{segipa(form)}"
+            wrdlst.append(form)
 
     # write csv
     with open("etc/orthography/H.tsv", "w+") as file:

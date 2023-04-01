@@ -12,7 +12,7 @@ jobs:
           command: >
             git clone https://github.com/martino-vic/ronataswestoldturkic.git
       - run:
-          name: Clone reference catalogues (takes 1min15s)
+          name: Clone reference catalogues & loanpy (takes 1min15s)
           command: |
             mkdir concepticon
             cd concepticon
@@ -20,14 +20,13 @@ jobs:
             cd ..
             git clone https://github.com/glottolog/glottolog.git
             git clone https://github.com/cldf-clts/clts.git
+            git clone https://github.com/martino-vic/loanpy.git
       - run:
-          name: install commands
-          command: pip install -e ronataswestoldturkic
-      - run:
-          name: Create Hungarian IPA transcriptions
+          name: install commands and loanpy
           command: |
-            cd ronataswestoldturkic
-            cldfbench ronataswestoldturkic.makeHortho
+            pip install -e ronataswestoldturkic
+            pip install -e loanpy
+
       - run:
           name: run lexibank script
           command: >
@@ -35,11 +34,26 @@ jobs:
             --concepticon-version=v3.0.0
             --glottolog-version=v4.7
             --clts-version=v2.2.0
+
+      - run:
+          name: Create Hungarian IPA transcriptions from cldf/forms.csv
+          command: |
+            cd ronataswestoldturkic
+            cldfbench ronataswestoldturkic.makeHortho
+
+      - run:
+          name: re-run lexibank script with Hungarian orthography
+          command: >
+            cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py
+            --concepticon-version=v3.0.0
+            --glottolog-version=v4.7
+            --clts-version=v2.2.0
+
       - run:
           name: Install pytest-cldf
           command: pip install pytest-cldf
       - run:
-          name: Test with pytest
+          name: Test with pytest-cldf whether the dataset is cldf-conform
           command: |
             cd ronataswestoldturkic
             pytest --cldf-metadata=cldf/cldf-metadata.json test.py
