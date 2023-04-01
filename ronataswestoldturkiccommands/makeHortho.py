@@ -1,5 +1,5 @@
 """
-IPA-transcribe Hungarian words
+IPA-transcribe Hungarian words.
 """
 import csv
 
