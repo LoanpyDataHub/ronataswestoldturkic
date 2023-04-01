@@ -63,7 +63,7 @@ jobs:
           command: |
             cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.maketoedict_rc H EAH
-            diff -sq H2EAHtoedict0.tsv H2EAHtoedict.tsv
+            diff -sq edictor/H2EAHtoedict0.tsv edictor/H2EAHtoedict.tsv
 
 
 workflows:
