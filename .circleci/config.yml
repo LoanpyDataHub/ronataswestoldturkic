@@ -25,7 +25,7 @@ jobs:
           command: pip install -e ronataswestoldturkic
       - run:
           name: Create Hungarian IPA transcriptions
-          command: cldfbench ronataswestoldturkic.makeortho
+          command: cldfbench ronataswestoldturkic.makeHortho
       - run:
           name: run lexibank script
           command: >
