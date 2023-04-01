@@ -25,7 +25,9 @@ jobs:
           command: pip install -e ronataswestoldturkic
       - run:
           name: Create Hungarian IPA transcriptions
-          command: cldfbench ronataswestoldturkic.makeHortho
+          command: |
+            cd ronataswestoldturkic
+            cldfbench ronataswestoldturkic.makeHortho
       - run:
           name: run lexibank script
           command: >
@@ -34,7 +36,7 @@ jobs:
             --glottolog-version=v4.7
             --clts-version=v2.2.0
       - run:
-          name: Install pytest
+          name: Install pytest-cldf
           command: pip install pytest-cldf
       - run:
           name: Test with pytest
