@@ -4,6 +4,7 @@ Apply custom alignment
 Write to edictor/wot.tsv
 """
 from collections import Counter
+import csv
 
 from loanpy.scminer import uralign
 from loanpy.utils import prefilter
@@ -20,23 +21,26 @@ def run(args):
     """
 
     with open("cldf/forms.csv", "r") as f:
-        data = [row.split(",") for row in f.read().strip().split("\n")][1:]
-        dfwot = prefilter(data, args.srclg, args.tgtlg)
-    iterwot = iter(dfwot)
+        data = list(csv.reader(f))
+
+    dfwot = prefilter(data, args.srclg, args.tgtlg)
+    headers = dfwot.pop(0)
+    h = {i: headers.index(i) for i in headers}
     dfalign = "ALIGNMENT"
-    while True:
-        try:
-            dfalign += "\n" + uralign(next(iterwot)[13], next(iterwot)[13])
-        except StopIteration:
-            break
+    for i in range(0, len(dfwot), 2):
+        dfalign += "\n" + uralign(
+            dfwot[i][h["CV_Segments"]], dfwot[i+1][h["CV_Segments"]]
+            )
 
     # add other cols
     final = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
     assert len(dfalign.split("\n")[1:]) == len(dfwot)  # subtract headr on left
 
     # create output file (= input for edictor)
-    for i, (ra, rb) in enumerate(zip(dfalign.split("\n")[1:], dfwot)):
-        final += "\n" + "\t".join([str(i), rb[9], rb[12], ra, rb[14]])
+    for i, (rowa, rowb) in enumerate(zip(dfalign.split("\n")[1:], dfwot)):
+        final += "\n" + "\t".join(
+            [str(i), rowb[h["Cognacy"]], rowb[h["Language_ID"]], rowa, rowb[h["ProsodicStructure"]]]
+            )
 
     # check manually if file is ok, if yes, manually remove the 0 from the name
     with open(f"edictor/{args.srclg}2{args.tgtlg}toedict0.tsv", "w+") as f:
