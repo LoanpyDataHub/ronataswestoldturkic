@@ -61,8 +61,9 @@ jobs:
       - run:
           name: Create input for Edictor and check the output
           command: |
+            cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.maketoedict_rc H EAH
-            diff -sq H2EAHtoedict0 H2EAHtoedict
+            diff -sq H2EAHtoedict0.tsv H2EAHtoedict.tsv
 
 
 workflows:
