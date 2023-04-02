@@ -64,6 +64,7 @@ jobs:
             cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.maketoedict_rc H EAH
             cldfbench ronataswestoldturkic.maketoedict_rc WOT EAH
+            cldfbench ronataswestoldturkic.cvgapedicted WOT EAH
 
       - run:
           name: Evaluate outputs from Edictor

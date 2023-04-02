@@ -14,10 +14,12 @@ def run(args):
     """
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
-        data = list(csv.reader(f))
+        data = list(csv.reader(f, delimiter="\t"))
+    headers = data.pop(0)
+    h = {i: headers.index(i) for i in headers}
 
     newal = []
-    for i in range(1, len(data)-1):
+    for i in range(0, len(data), 2):
         newal += cvgaps(data[i][3], data[i+1][3])
 
     final = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
