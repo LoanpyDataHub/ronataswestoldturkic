@@ -7,6 +7,7 @@
 6. Write file with headers: ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY
 """
 
+import csv
 from json import dump
 
 from lingpy.align.pairwise import Pairwise
@@ -22,12 +23,23 @@ def run(args):
     # read forms.csv
     lines = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
     with open("cldf/forms.csv", "r") as f:
-        dff = prefilter(f.read(), args.srclg, args.tgtlg)
+        dff = prefilter(list(csv.reader(f)), args.srclg, args.tgtlg)
+        headers = dff.pop(0)
+        h = {i: headers.index(i) for i in headers}
         for i in range(0, len(dff), 2):
-            pw = Pairwise(seqs=dff[i][6], seqB=dff[i+1][6], merge_vowels=False)
+            pw = Pairwise(seqs=dff[i][h["Segments"]],
+                          seqB=dff[i+1][h["Segments"]],
+                          merge_vowels=False
+                          )
             pw.align()
-            lines += "\n" + "\t".join([str(i), dff[i][9], dff[i][2], " ".join(pw.alignments[0][0]),  dff[i][14]])
-            lines += "\n" + "\t".join([str(i+1), dff[i+1][9], dff[i+1][2], " ".join(pw.alignments[0][1]),  dff[i+1][14]])
+            lines += "\n" + "\t".join([str(i), dff[i][h["Cognacy"]],
+                                       dff[i][h["Language_ID"]],
+                                       " ".join(pw.alignments[0][0]),
+                                       dff[i][h["ProsodicStructure"]]])
+            lines += "\n" + "\t".join([str(i+1), dff[i+1][h["Cognacy"]],
+                                       dff[i+1][h["Language_ID"]],
+                                       " ".join(pw.alignments[0][1]),
+                                       dff[i+1][h["ProsodicStructure"]]])
         # keep only rows that occurred in cognates.csv
 
     # write file
