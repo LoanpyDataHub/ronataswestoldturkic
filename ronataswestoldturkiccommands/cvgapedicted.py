@@ -4,6 +4,7 @@ Replace "-" by "C" if C disappeared, else "V"
 Write file
 """
 from loanpy.utils import cvgaps
+import csv
 
 def register(parser):
     parser.add_argument("srclg")
@@ -13,15 +14,11 @@ def run(args):
     """
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
-        data = [row.split("\t") for row in f.read().split("\n")[1:][:-1]]
-        iterrows = iter(data)
+        data = list(csv.reader(f))
 
     newal = []
-    while True:
-        try:
-            newal += cvgaps(next(iterrows)[3], next(iterrows)[3])
-        except StopIteration:
-            break
+    for i in range(1, len(data)-1):
+        newal += cvgaps(data[i][3], data[i+1][3])
 
     final = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
     for row, new in zip(data, newal):

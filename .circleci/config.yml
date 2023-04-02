@@ -59,12 +59,16 @@ jobs:
             pytest --cldf-metadata=cldf/cldf-metadata.json test.py
 
       - run:
-          name: Create input for Edictor and check the output
+          name: Create input for Edictor
           command: |
             cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.maketoedict_rc H EAH
-            diff -sq edictor/H2EAHtoedict0.tsv edictor/H2EAHtoedict.tsv
 
+      - run:
+          name: Evaluate output from Edictor
+          command: |
+            cd ronataswestoldturkic
+            cldfbench ronataswestoldturkic.evaledicted H EAH
 
 workflows:
   main:
