@@ -20,11 +20,14 @@ def run(args):
 
     newal = []
     for i in range(0, len(data), 2):
-        newal += cvgaps(data[i][3], data[i+1][3])
+        newal += cvgaps(data[i][h["ALIGNMENT"]], data[i+1][h["ALIGNMENT"]])
 
     final = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
     for row, new in zip(data, newal):
-        final += "\n" + "\t".join([row[0], row[1], row[2], new, row[4]])
+        final += "\n" + "\t".join(
+                [row[h["ID"]], row[h["COGID"]],
+                row[h["DOCULECT"]], new, row[h["PROSODY"]]]
+                                  )
 
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted0.tsv", "w+") as f:
         f.write(final)
