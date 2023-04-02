@@ -76,6 +76,7 @@ jobs:
       - run:
           name: Create phonotactic inventory, check if output is good
           command: |
+            cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.makeEAHinvs testinvs.json
             cd loanpy
             sudo apt-get install jq
