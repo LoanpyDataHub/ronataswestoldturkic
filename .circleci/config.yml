@@ -72,7 +72,23 @@ jobs:
             cd ronataswestoldturkic
             cldfbench ronataswestoldturkic.evaledicted H EAH
             cldfbench ronataswestoldturkic.evaledicted WOT EAH
-            
+
+      - run:
+          name: Create phonotactic inventory, check if output is good
+          command: |
+            cldfbench ronataswestoldturkic.makeEAHinvs testinvs.json
+            cd loanpy
+            sudo apt-get install jq
+            if jq --argfile a testinvs.json --argfile b invsEAH.json -n \
+            '($a | (.. | arrays) |= sort) as $a | ($b | (.. | arrays) \
+            |= sort) as $b | $a == $b'
+            then
+               echo "OK"
+            else
+               echo "inventoriess differ!"
+               exit 1
+            fi
+
 workflows:
   main:
     jobs:
