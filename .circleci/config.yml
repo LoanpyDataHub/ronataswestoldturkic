@@ -85,6 +85,15 @@ jobs:
             ($b | (.. | arrays) |= sort) as $b | $a == $b'; then   echo "OK";
             else   echo "inventoriess differ!"; exit 1; fi
 
+      - run:
+          name: Create heuristic sound subsitution, check if output is good
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.makeheur testheur.json
+
+            cd loanpy && if diff testheur.json heur.json; then   echo OK;
+            else   echo "heuristics differ"; exit 1; fi
+
 workflows:
   main:
     jobs:
