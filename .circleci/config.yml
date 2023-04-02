@@ -73,6 +73,18 @@ jobs:
             cldfbench ronataswestoldturkic.evaledicted H EAH
             cldfbench ronataswestoldturkic.evaledicted WOT EAH
 
+      - run:
+          name: Create phonotactic inventory, heuristic sound substitutions
+          command: true
+
+      - run:
+          name: Mine sound correspondences
+          command: true
+
+
+
+
+
 
 workflows:
   main:
