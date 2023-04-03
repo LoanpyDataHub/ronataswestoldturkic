@@ -107,6 +107,18 @@ jobs:
             if [ "$out" = true ]; then   echo OK;
             else   echo sound correspondence files differ; exit 1; fi
 
+      - run:
+          name: Mine horizontal sound correspondences, check if output OK
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.minesc WOT EAH heur.json
+
+            cd loanpy && out=$(jq --argfile a WOT2EAHsc.json --argfile b
+            WOT2EAHsc0.json -n '($a | (.. | arrays) |= sort) as
+            $a | ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
+            if [ "$out" = true ]; then   echo OK;
+            else   echo sound correspondence files differ; exit 1; fi
+
 workflows:
   main:
     jobs:

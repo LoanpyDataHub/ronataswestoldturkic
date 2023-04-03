@@ -16,7 +16,7 @@ def register(parser):
 
 def run(args):
     if args.heur:
-        with open(f"loanpy/{args.heurname}", "r") as f:
+        with open(f"loanpy/{args.heur}", "r") as f:
             args.heur = json.load(f)
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv", "r") as f:
         tsv = list(csv.reader(f, delimiter="\t"))
