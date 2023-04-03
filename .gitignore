@@ -103,3 +103,5 @@ ENV/
 # lock files from libre office
 .~lock.*
 
+# trash
+/trash
