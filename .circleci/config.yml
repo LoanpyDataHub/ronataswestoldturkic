@@ -116,9 +116,21 @@ jobs:
       - run:
           name: Evaluate vertical predictions, check if output OK
           command: >
-            cldfbench ronataswestoldturkic.evalsc H EAH "[1, 10, 50, 100, 300]"
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.evalsc H EAH "[1, 10, 50, 100, 300]"
 
             cd loanpy && if diff tpfpH2EAH.json tpfpH2EAH0.json; then echo OK;
+            else echo tpfp differ; exit 1; fi
+
+      - run:
+          name: Evaluate horizontal predictions, check if output OK
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.evalsc WOT EAH
+            "[1, 10, 50, 100, 300]" True True heur.json
+
+            cd loanpy &&
+            if diff tpfpWOT2EAH.json tpfpWOT2EAH0.json; then echo OK;
             else echo tpfp differ; exit 1; fi
 
 workflows:
