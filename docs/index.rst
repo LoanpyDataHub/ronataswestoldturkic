@@ -11,8 +11,6 @@ Welcome to ronataswestoldturkic's documentation!
    :caption: Contents:
 
    makecldf.rst
-   makeedictor.rst
-   makeloanpy.rst
 
 Indices and tables
 ==================
