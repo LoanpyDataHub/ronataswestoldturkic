@@ -92,8 +92,7 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.makeheur EAH testheur.json
 
-            cd loanpy && out=$(diff testheur.json heur.json) &&
-            if [ "$out" = true ]; then   echo OK;
+            cd loanpy && if diff testheur.json heur.json; then   echo OK;
             else   echo heuristics differ; exit 1; fi
 
       - run:
