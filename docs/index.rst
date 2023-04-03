@@ -10,7 +10,7 @@ Welcome to ronataswestoldturkic's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   makecldf.rst
+   mkcldf.rst
 
 Indices and tables
 ==================
