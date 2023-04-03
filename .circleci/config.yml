@@ -80,10 +80,11 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.makeEAHinvs testinvs.json
 
-            cd loanpy && if jq --argfile a testinvs.json --argfile b
+            cd loanpy && out=$(jq --argfile a testinvs.json --argfile b
             invsEAH.json -n '($a | (.. | arrays) |= sort) as $a |
-            ($b | (.. | arrays) |= sort) as $b | $a == $b'; then   echo "OK";
-            else   echo "inventoriess differ!"; exit 1; fi
+            ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
+            if [ "$out" = true ]; then   echo "OK";
+            else   echo inventoriess differ; exit 1; fi
 
       - run:
           name: Create heuristic sound subsitution, check if output is good
@@ -91,8 +92,21 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.makeheur EAH testheur.json
 
-            cd loanpy && if diff testheur.json heur.json; then   echo OK;
-            else   echo "heuristics differ"; exit 1; fi
+            cd loanpy && out=$(diff testheur.json heur.json) &&
+            if [ "$out" = true ]; then   echo OK;
+            else   echo heuristics differ; exit 1; fi
+
+      - run:
+          name: Mine vertical sound correspondences, check if output OK
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.minesc H EAH
+
+            cd loanpy && out=$(jq --argfile a H2EAHsc.json --argfile b
+            H2EAHsc0.json -n '($a | (.. | arrays) |= sort) as
+            $a | ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
+            if [ "$out" = true ]; then   echo OK;
+            else   echo sound correspondence files differ; exit 1; fi
 
 workflows:
   main:
