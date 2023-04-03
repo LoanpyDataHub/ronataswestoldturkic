@@ -18,8 +18,7 @@ Conceptlists in Concepticon:
 ## Notes
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/martino-vic/ronataswestoldturkic/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martino-vic/ronataswestoldturkic/tree/main)
-
-The data used here was extracted from a privately owned PDF-file that can not be shared for copyright reasons. It was converted by copy-and-pasting its content to a .txt-file (after the OCR and pypdf2 had failed). There were several scripts run over over this text-file, which are provided in raw/misc/create_raw. Sometimes, tedious manual editing steps were carried out in between two scripts, so the result can not be produced by simply running the scripts.
+[![Documentation Status](https://readthedocs.org/projects/ronataswestoldturkic/badge/?version=latest)](https://ronataswestoldturkic.readthedocs.io/en/latest/?badge=latest)
 
 
 
@@ -41,9 +40,9 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,196
+- **Tokens:** 8,201
 - **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
-- **Inventory size (avg):** 42.80
+- **Inventory size (avg):** 42.60
 
 # Contributors
 
