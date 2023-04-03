@@ -92,8 +92,8 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.makeheur EAH testheur.json
 
-            cd loanpy && if diff testheur.json heur.json; then   echo OK;
-            else   echo heuristics differ; exit 1; fi
+            cd loanpy && if diff testheur.json heur.json; then echo OK;
+            else echo heuristics differ; exit 1; fi
 
       - run:
           name: Mine vertical sound correspondences, check if output OK
@@ -101,11 +101,8 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.minesc H EAH
 
-            cd loanpy && out=$(jq --argfile a H2EAHsc.json --argfile b
-            H2EAHsc0.json -n '($a | (.. | arrays) |= sort) as
-            $a | ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
-            if [ "$out" = true ]; then   echo OK;
-            else   echo sound correspondence files differ; exit 1; fi
+            cd loanpy && if diff H2EAHsc.json H2EAHsc0.json; then echo OK;
+            else echo heuristics differ; exit 1; fi
 
       - run:
           name: Mine horizontal sound correspondences, check if output OK
@@ -113,11 +110,8 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.minesc WOT EAH heur.json
 
-            cd loanpy && out=$(jq --argfile a WOT2EAHsc.json --argfile b
-            WOT2EAHsc0.json -n '($a | (.. | arrays) |= sort) as
-            $a | ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
-            if [ "$out" = true ]; then   echo OK;
-            else   echo sound correspondence files differ; exit 1; fi
+            cd loanpy && if diff WOT2EAHsc.json WOT2EAHsc0.json; then echo OK;
+            else echo heuristics differ; exit 1; fi
 
 workflows:
   main:
