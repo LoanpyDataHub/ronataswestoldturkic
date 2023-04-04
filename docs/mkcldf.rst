@@ -53,6 +53,7 @@ Step 4: Run lexibank command
    --clts-version=v2.2.0
 
 
+
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
 
