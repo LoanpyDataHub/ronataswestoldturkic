@@ -12,9 +12,9 @@ Step 2: Clone reference catalogues and loanpy
 ---------------------------------------------
 
 - `Glottolog <https://glottolog.org/>`_ (Hammarström et al. 2022)
-to reference the languages in the repo.
+  to reference the languages in the repo.
 - `Concepticon <https://concepticon.clld.org/>`_ (List et al. 2023) for
-referencing concepts.
+  referencing concepts.
 - `loanpy <https://loanpy.readthedocs.io/en/latest/?badge=latest>`_
   (Martinović 2022). This step will not be necessary once version 3 is out.
 
