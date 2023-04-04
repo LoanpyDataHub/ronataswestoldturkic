@@ -33,8 +33,8 @@ Step 3: Install commands
 ------------------------
 
 The -e flag will install all necessary dependencies in development mode.
-I.e. if you modify any code in those repositories, changes will immediately
-apply.
+I.e. if you modify any code in those repositories, changes will apply
+immediately.
 
 .. code-block:: sh
 
@@ -46,7 +46,7 @@ Step 4: Run lexibank command
 
 .. code-block:: sh
 
-   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py
-   --concepticon-version=v3.0.0
-   --glottolog-version=v4.7
+   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py \
+   --concepticon-version=v3.0.0 \
+   --glottolog-version=v4.7 \
    --clts-version=v2.2.0
