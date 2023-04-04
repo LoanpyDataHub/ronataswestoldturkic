@@ -44,10 +44,7 @@ immediately.
 Step 4: Run lexibank command
 ----------------------------
 
-.. code-block:: sh
-   .. literalinclude:: /wot.sh
-
-
+.. literalinclude:: /wot.sh
 
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
