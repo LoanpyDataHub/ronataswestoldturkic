@@ -17,13 +17,11 @@ class CustomLexeme(Lexeme):
     FB_VowelHarmony = attr.ib(default=None)
     Year = attr.ib(default=None)
 
-# todo: import the next 3 functions from loanpy
-
 def get_clusters(segments):
     """
     Takes a list of phonemes and segments them into consonant and vowel
     clusters, like so: "abcdeaofgh" -> ["a", "b.c.d", "e.a.o", "f.g.h"]
-    (c) List 2022"""
+    """
     out = [segments[0]]
     for i in range(1, len(segments)):
         # can be optimized
