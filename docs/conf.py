@@ -9,4 +9,3 @@ version = '2.0'
 release = '2.0'
 extensions = ['sphinx.ext.autodoc']
 html_theme = 'sphinx_rtd_theme'
-keep_warnings = True

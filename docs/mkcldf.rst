@@ -44,10 +44,25 @@ immediately.
 Step 4: Run lexibank command
 ----------------------------
 
-.. literalinclude:: ../../wot.sh
-   :language: bash
+.. code-block:: sh
+
+   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
+
 
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
 
 .. code-block:: sh
+
+   cd ronataswestoldturkic
+   cldfbench ronataswestoldturkic.makeHortho
+
+Step 6: Re-run lexibank script with Hungarian orthography
+---------------------------------------------------------
+
+.. code-block:: sh
+
+   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
+
+Step 7: Test with pytest-cldf whether the dataset is CLDF-conform
+-----------------------------------------------------------------
