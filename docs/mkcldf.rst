@@ -52,7 +52,7 @@ populates the folder cldf
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
 
 
-Below is a detailed description of what the script does. See also the tutorial at https://calc.hypotheses.org/3318, which has many similarities.
+Below is a detailed description of what the script does. See also the tutorial at https://calc.hypotheses.org/3318, which has many similarities. This is the first lexibank script that uses the ``args.writer.align_cognates()`` prompt for automatic cognate alignment (see discussion on GitHub `here <https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_).
 
 .. code-block:: python
 
@@ -211,7 +211,6 @@ that the sources were added successfully. This can be helpful for debugging.
                     )
 
         args.log.info("added concepts")
-        #print(concepts)
 
 This section of the script creates the file ``cldf/parameters.csv``, which links the translations of words to concepts in `Concepticon <https://concepticon.clld.org/>`_. It is based on ``etc/concepts.tsv``, which was created through multiple steps. At first, the translations were mapped automatically with the `pysem <https://pypi.org/project/pysem/>`_ library. Then, these mappings were manually refined and requested to be submitted to Concepticon through a `Pull Request on GitHub <https://github.com/concepticon/concepticon-data/pull/1240>`_. After some discussion and further refinement, the conceptlist was submitted and is available `here <https://concepticon.clld.org/contributions/RonaTas-2011-431>`_. The file ``etc/concepts.tsv`` was then accordingly copied again from `GitHub <https://github.com/concepticon/concepticon-data/blob/master/concepticondata/conceptlists/RonaTas-2011-431.tsv>`_
 
@@ -251,7 +250,76 @@ of Glottolog.
 Here we read the file ``raw/wot.tsv`` and define some variables that we are going to use
 in a bit.
 
+.. code-block:: python
 
+        for i in range(1, len(data)):
+            cognates = dict(zip(header, data[i]))
+            concept = data[i][7]
+            eah = ""
+
+Here we will loop through the raw data ``raw/wot.tsv`` row by row from top to bottom and define some variables that we will need later. The column "ENGLISH" is hard-coded as column seven. If it was to be moved to a different index for which ever reason, the index in this part of the code would need to be updated accordingly.
+
+.. code-block:: python
+
+            for language in languages:
+
+Here we loop from left to right through the columns of each row, which contain data relating to words in different languages. The languages themselves were defined earlier in ``etc/languages.tsv``.
+
+.. code-block:: python
+
+                cog = cognates.get(language, "").strip()
+
+Here we are reading the specific word in the specific language from the raw data.
+
+.. code-block:: python
+
+                if concept not in cognates:
+                    cognates[concept] = cogidx
+                    cogidx += 1
+                cogid = cognates[concept]
+
+The goal of this section is simply to assign a unique cognate ID to each English translation in column seven. Identical translations will get identical IDs. This value will appear in the column ``Cognacy`` in the output file ``cldf/forms.csv`` later.
+
+.. code-block:: python
+
+                for lex in args.writer.add_forms_from_value(
+                        Language_ID=language,
+                        Parameter_ID=concepts[concept],
+                        Value=cog,
+                        Comment=comments.get(concept, ""),
+                        Source="wot",
+                        Loan=get_loan(cognates["WOT_loan"], language),
+                        Cognacy=cogid,
+                        Year=cognates["Year"]
+                        ):
+
+This is arguably the most important part of the script. It creates the file ``cldf/forms.csv`` which will serve as the main input file for further analyses. ``args.writer.add_forms_from_value`` creates the file, through which we then loop. The arguments in the brackets are the column names. ``Language_ID`` is the name of the language according to ``etc/languages.tsv``. ``Parameter_ID`` references the relevant row in ``parameters.csv``, which was created in an earlier code-block. ``Value`` is the original raw data. The column "Form" is automatically being created from this by applying the cleaning procedure specified in the ``formspec.json`` file which was read into the ``REP`` variable in the beginning. The column ``Comment`` uses the English translations as dictionary keys to look up the according comment as specified in ``etc/comments.tsv``. The entire data set is based on one source. In the column ``Source`` we are specifying the BibTex key of it, as described in ``raw/sources.bib``. The column ``Loan`` specifies whether a word is a loanword or not. This information is stored in column ``WOT_loan`` in ``raw/wot.tsv`` and is converted to a boolean through the function ``get_loan`` which was described in an earlier code-block. ``Cognacy`` assigns a unique identifier to each cognate set in the form of an integer that starts at 1 and is incremented by 1 with each new cognate set. The column ``Year`` is another custom column that was specified in the CustomLexeme class earlier. This information is provided in column ``Year`` in ``raw/wot.tsv``.
+
+.. code-block:: python
+
+                    lex["CV_Segments"] = get_clusters(lex["Segments"])
+                    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
+                    lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
+
+Here we populate three more columns which take information in the columns of the newly generated ``cldf/forms.csv`` as input. That's why they have to be populated through a loop rather than in the brackets of the earlier function. The column ``CV_Segments`` takes the column ``Segments`` of ``cldf/forms.csv`` as input, which in turn is automatically generated from the information stored in ``etc/orthography``. But these can only be generated after the CLDF-conversion. Therefore this step does not do anything at the moment. The same applies for columns ``ProsodicStructure`` and ``FB_VowelHarmony``. These will be explained in more detail in Step 6.
+
+.. code-block:: python
+
+                    if language == "EAH":
+                        eah = lex["ID"]
+
+This line is storing the ID of the relevant word in ``cldf/forms.csv``, so it can later be referenced in ``cldf/borrowings.csv``.
+
+.. code-block:: python
+
+                    args.writer.add_cognate(
+                            lexeme=lex,
+                            Cognateset_ID=cogid,
+                            Source="wot"
+                            )
+
+Here we create the table ``cldf/cognates.csv``.
+```` ```` ```` ```` ````
 
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
