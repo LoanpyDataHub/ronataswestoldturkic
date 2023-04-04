@@ -105,3 +105,6 @@ ENV/
 
 # trash
 /trash
+
+#development version of docs
+/devdocs
