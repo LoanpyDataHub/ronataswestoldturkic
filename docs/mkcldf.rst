@@ -318,8 +318,30 @@ This line is storing the ID of the relevant word in ``cldf/forms.csv``, so it ca
                             Source="wot"
                             )
 
-Here we create the table ``cldf/cognates.csv``.
-```` ```` ```` ```` ````
+Here we create the table ``cldf/cognates.csv``. This is the table where automated alignments will be carried out, which can be used for further analyses. The term ``cognate`` here is used in its broader sense and includes all words that go back to same etymon.
+
+.. code-block:: python
+
+                    if language == "WOT" and eah:
+                        args.writer.objects["BorrowingTable"].append({
+                            "ID": f'{borrid}-{lex["Parameter_ID"]}',
+                            "Target_Form_ID": eah,
+                            "Source_Form_ID": lex["ID"],
+                            "Source": lex["Source"]
+                            })
+                        borrid += 1
+                        eah = None  # reset memory
+
+Here the file ``cldf/borrowings.csv`` is created. It contains reference keys to
+``cldf/forms.csv`` to identify each donor and recipient word. It makes sure
+that only those concepts are included where a form in both West Old Turkic
+(the donor language) and Early Ancient Hungarian (the recipient language) exist.
+
+.. code-block:: python
+
+        args.writer.align_cognates()
+
+This is the final line, which creates automated alignments with the `lingpy <https://lingpy.org/>`_ library. They are added to a newly created column called ``ALIGNMENTS`` in ``etc/cognates.csv``. This repository is the first use-case for this functionality (see `discussion on GitHub <https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_).
 
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
