@@ -1,13 +1,11 @@
+import json
 import pathlib
 
 import attr
 from clldutils.misc import slug
 from lingpy import prosodic_string
 from lingpy.sequence.sound_classes import token2class
-from pylexibank import (
-Dataset as BaseDataset, FormSpec, Language, Lexeme, progressbar as pb)
-from re import sub
-import json
+from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 
 with open("etc/formspec.json") as f:
     REP = [(k, v) for k, v in json.load(f).items()]
@@ -122,7 +120,7 @@ class Dataset(BaseDataset):
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]
-                
+
                 for lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
