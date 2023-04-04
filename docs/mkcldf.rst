@@ -89,6 +89,22 @@ library are all related to specifying the output format. Dataset, for example
 loads the default data format, Lexeme will be used to customise it, and
 FormSpec will be used to document the cleaning of the raw data.
 
+.. code-block:: python
+   with open("etc/formspec.json") as f:
+       REP = [(k, v) for k, v in json.load(f).items()]
+
+The variable REP stands for 'replacements' and will later be used to create
+the column "forms" from the column "values", where replacements are hard-coded.
+Since the number of transformations is too large to include them in this
+script, they were written to a json-file, which is loaded here.
+
+.. code-block:: python
+   @attr.s
+   class CustomLexeme(Lexeme):
+       CV_Segments = attr.ib(default=None)
+       ProsodicStructure = attr.ib(default=None)
+       FB_VowelHarmony = attr.ib(default=None)
+       Year = attr.ib(default=None)
 
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------

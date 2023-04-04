@@ -10,8 +10,6 @@ from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 with open("etc/formspec.json") as f:
     REP = [(k, v) for k, v in json.load(f).items()]
 
-eah = None
-
 @attr.s
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
