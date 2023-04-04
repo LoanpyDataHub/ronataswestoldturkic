@@ -54,6 +54,7 @@ populates the folder cldf
 Here's a detailed description of what the script does:
 
 .. code-block:: python
+
    import json
    import pathlib
 
@@ -66,30 +67,31 @@ Here's a detailed description of what the script does:
 First, we import two inbuilt Python-libraries.
 
 - The The `json <https://docs.python.org/3/library/json.html>`_ library
-will be used to read the data-cleaning instructions for FormSpec
+  will be used to read the data-cleaning instructions for FormSpec
 - The `pathlib <https://docs.python.org/3/library/pathlib.html>`_ library
-will be used to define file paths
+  will be used to define file paths
 
 Then, we are importing functionalities from various third-party libraries.
 These dependencies were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
 - The `attr <https://pypi.org/project/attrs/>`_ library will be used to assign
-custom columns to the output file ``cldf/forms.csv``.
+  custom columns to the output file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
-function from the clldutils library will be used to format some IDs
-- The `prosodic_string <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
-function from the lingpy library will be used to create the phonotactic
-structures of words.
+  function from the clldutils library will be used to format some IDs
+- The `prosodic_string <https://lingpyxrotwang.readthedocs.io/en/latest/reference    /lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
+  function from the lingpy library will be used to create the phonotactic
+  structures of words.
 - The `token2class <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.token2class>`_
-function from the lingpy library will be used to identify whether an IPA
-character is a vowel or a consonant
+  function from the lingpy library will be used to identify whether an IPA
+  character is a vowel or a consonant
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
-library are all related to specifying the output format. Dataset, for example
-loads the default data format, Lexeme will be used to customise it, and
-FormSpec will be used to document the cleaning of the raw data.
+  library are all related to specifying the output format. Dataset, for example
+  loads the default data format, Lexeme will be used to customise it, and
+  FormSpec will be used to document the cleaning of the raw data.
 
 .. code-block:: python
+
    with open("etc/formspec.json") as f:
        REP = [(k, v) for k, v in json.load(f).items()]
 
@@ -99,6 +101,7 @@ Since the number of transformations is too large to include them in this
 script, they were written to a json-file, which is loaded here.
 
 .. code-block:: python
+
    @attr.s
    class CustomLexeme(Lexeme):
        CV_Segments = attr.ib(default=None)
