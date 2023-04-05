@@ -367,14 +367,15 @@ After the Hungarian transcription rules were generated, we have to generate the 
 
 This will add columns ``Segments``, ``CV_Segments``, ``ProsodicStructure``, ``FB_VowelHarmony`` to ``cldf/forms.csv``, which were skipped in Step 4. These columns are based on tokenised IPA-strings, that were read from the files in ``etc/orthography``. After running the lexibank script, this is how your console should approximately look like:
 
-.. image:: consoleoutput.png
-
 Step 7: Test with pytest-cldf whether the dataset is CLDF-conform
 -----------------------------------------------------------------
 
-Now that
+Now that the conversion has run successfully, the only thing left to do is to verify
+that the data conforms to the CLDF standard:
 
 .. code-block: sh
 
    pip install pytest-cldf
    pytest --cldf-metadata=cldf/cldf-metadata.json test.py
+
+This will run one single test with the `pytest <https://docs.pytest.org/en/7.2.x/>`_ library, which should pass. And with this we have converted our raw data to CLDF and thus finished part one.
