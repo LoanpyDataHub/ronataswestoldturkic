@@ -11,6 +11,7 @@ Welcome to ronataswestoldturkic's documentation!
    :caption: Contents:
 
    mkcldf.rst
+   mkedictor.rst
 
 Indices and tables
 ==================

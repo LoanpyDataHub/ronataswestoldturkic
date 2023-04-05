@@ -1,6 +1,18 @@
 Part 1: Create CLDF
 ===================
 
+The following seven steps will guide you through the process of
+converting raw language data to CLDF. The data we are converting comes from
+the etymological dictionary "West Old Turkic" (Róna-Tas and Berta 2011),
+which contains modern Hungarian words as headwords, together with their
+documented and reconstructed ancestor forms, including their
+West Old Turkic donor word. West Old Turkic, also called Proto-Bolgar,
+or Oghur-Turkic, or r-Turkic, is the parent language of the western branch
+of Turkic languages. The raw data contains only a small fraction of the
+contents of the dictionary. If you are passionate about pdf-wrangling,
+Mongolic, Turkic, or Finno-Ugric languages and want to expand this data set,
+definitely check out the `contribution guidelines`_ and let's get in touch!
+
 Step 1: Clone the repository
 ----------------------------
 
