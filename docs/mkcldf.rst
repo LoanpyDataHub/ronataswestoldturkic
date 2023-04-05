@@ -168,7 +168,7 @@ booleans. This has to be a separate function and can't be implemented through a 
         form_spec = FormSpec(separators=",", first_form_only=True,
                              replacements= REP)
 
-Here we define a class and inherit the default format ``BaseDataset`` that we have imported in the beginning. ``dir`` is the working directory and is defined with the help of ``pathlib`` that we have imported in the beginning. ``id`` is the name of the repository. In ``lexeme_class`` we are plugging in the custom columns that we have created earlier. In ``form_spec`` we are plugging in the data-cleaning rules that were hard coded in ``etc/formspec.json`` and read into the ``REP`` variable earlier, using the ``FormSpec```class we have imported in the beginning.
+Here we define a class and inherit the default format ``BaseDataset`` that we have imported in the beginning. ``dir`` is the working directory and is defined with the help of ``pathlib`` that we have imported in the beginning. ``id`` is the name of the repository. In ``lexeme_class`` we are plugging in the custom columns that we have created earlier. In ``form_spec`` we are plugging in the data-cleaning rules that were hard coded in ``etc/formspec.json`` and read into the ``REP`` variable earlier, using the ``FormSpec`` class we have imported in the beginning.
 
 .. code-block:: python
 
@@ -212,7 +212,7 @@ that the sources were added successfully. This can be helpful for debugging.
 
         args.log.info("added concepts")
 
-This section of the script creates the file ``cldf/parameters.csv``, which links the translations of words to concepts in `Concepticon <https://concepticon.clld.org/>`_. It is based on ``etc/concepts.tsv``, which was created through multiple steps. At first, the translations were mapped automatically with the `pysem <https://pypi.org/project/pysem/>`_ library. Then, these mappings were manually refined and requested to be submitted to Concepticon through a `Pull Request on GitHub <https://github.com/concepticon/concepticon-data/pull/1240>`_. After some discussion and further refinement, the conceptlist was submitted and is available `here <https://concepticon.clld.org/contributions/RonaTas-2011-431>`_. The file ``etc/concepts.tsv`` was then accordingly copied again from `GitHub <https://github.com/concepticon/concepticon-data/blob/master/concepticondata/conceptlists/RonaTas-2011-431.tsv>`_
+This section of the script creates the file ``cldf/parameters.csv``, which links the translations of words to concepts in `Concepticon <https://concepticon.clld.org/>`_. It is based on ``etc/concepts.tsv``, which was created through multiple steps. At first, the translations were mapped automatically with the `pysem <https://pypi.org/project/pysem/>`_ library. Then, these mappings were manually refined and requested to be submitted to Concepticon through a `Pull Request on GitHub <https://github.com/concepticon/concepticon-data/pull/1240>`_. After some discussion and further refinement, the conceptlist was submitted and is available `here <https://concepticon.clld.org/contributions/RonaTas-2011-431>`__. The file ``etc/concepts.tsv`` was then accordingly copied again from `GitHub <https://github.com/concepticon/concepticon-data/blob/master/concepticondata/conceptlists/RonaTas-2011-431.tsv>`_
 
 .. code-block:: python
 
@@ -232,7 +232,7 @@ Here we are reading the file ``etc/comments.tsv``, which was originally created 
         args.log.info("added languages")
 
 Here we read the file ``etc/languages.tsv`` which contains the references to `Glottolog <https://glottolog.org/>`_. Out of the five languages in this repository, only Hungarian
-is clearly present in Glottolog. Old Hungarian is missing, but a `request<https://github.com/glottolog/glottolog/issues/899>`_ was opened to
+is clearly present in Glottolog. Old Hungarian is missing, but a `request <https://github.com/glottolog/glottolog/issues/899>`_ was opened to
 add it and after some discussion there seems to be a plan to include it in a future version
 of Glottolog.
 
@@ -353,19 +353,26 @@ The rules for turning words written in Hungarian orthography are generated based
    cd ronataswestoldturkic
    cldfbench ronataswestoldturkic.makeHortho
 
-.. automodule:: ronataswestoldturkic.makeHorth
+.. automodule:: ronataswestoldturkiccommands.makeHortho
    :members:
 
 Step 6: Re-run lexibank script with Hungarian orthography
 ---------------------------------------------------------
 
+After the Hungarian transcription rules were generated, we have to generate the rules for the other languages. Since they are already transcribed to a phonetic script which is unique to the source, we can create a transcription profile based on the explication of the script in the preface of the source. These transcription profiles are written to the files ``EAH.tsv`` ``LAH.tsv`` ``OH.tsv`` and ``WOT.tsv`` in the folder ``etc/orthography``. The file names have to be the language IDs, as defined in ``etc/languages.tsv``.
+
 .. code-block:: sh
 
+Now that we have created some rules for IPA transcription and segmentation of words, we can rerun the lexibank script and create some more columns, which will be relevant for later analyses.
+
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
+
+This is how the output should look like in your console:
 
 Step 7: Test with pytest-cldf whether the dataset is CLDF-conform
 -----------------------------------------------------------------
 
+Now that
 
 .. code-block: sh
 
