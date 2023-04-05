@@ -356,18 +356,18 @@ The rules for turning words written in Hungarian orthography are generated based
 .. automodule:: ronataswestoldturkiccommands.makeHortho
    :members:
 
-Step 6: Re-run lexibank script with Hungarian orthography
----------------------------------------------------------
+Step 6: Re-run lexibank script with orthography profiles
+--------------------------------------------------------
 
-After the Hungarian transcription rules were generated, we have to generate the rules for the other languages. Since they are already transcribed to a phonetic script which is unique to the source, we can create a transcription profile based on the explication of the script in the preface of the source. These transcription profiles are written to the files ``EAH.tsv`` ``LAH.tsv`` ``OH.tsv`` and ``WOT.tsv`` in the folder ``etc/orthography``. The file names have to be the language IDs, as defined in ``etc/languages.tsv``.
+After the Hungarian transcription rules were generated, we have to generate the rules for the other languages. Since they are already transcribed to a phonetic script which is unique to the source, we can create a transcription profile based on the explication of the script in the preface of the source. These transcription profiles are written to the files ``EAH.tsv`` ``LAH.tsv`` ``OH.tsv`` and ``WOT.tsv`` in the folder ``etc/orthography``. The file names have to be the language IDs, as defined in ``etc/languages.tsv``. Now that we have created some rules for IPA transcription and segmentation of words, we can rerun the lexibank script and create some more columns, which will be relevant for later analyses:
 
 .. code-block:: sh
 
-Now that we have created some rules for IPA transcription and segmentation of words, we can rerun the lexibank script and create some more columns, which will be relevant for later analyses.
-
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
 
-This is how the output should look like in your console:
+This will add columns ``Segments``, ``CV_Segments``, ``ProsodicStructure``, ``FB_VowelHarmony`` to ``cldf/forms.csv``, which were skipped in Step 4. These columns are based on tokenised IPA-strings, that were read from the files in ``etc/orthography``. After running the lexibank script, this is how your console should approximately look like:
+
+.. image:: consoleoutput.png
 
 Step 7: Test with pytest-cldf whether the dataset is CLDF-conform
 -----------------------------------------------------------------
