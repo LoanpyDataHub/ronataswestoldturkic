@@ -346,10 +346,15 @@ This is the final line, which creates automated alignments with the `lingpy <htt
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
 
+The rules for turning words written in Hungarian orthography are generated based on ``cldf/borrowings.csv``. Therefore, they can only be generated after the lexibank script has run. The below command will create a list of transformation rules and write them to ``etc/orthography/H.tsv``.
+
 .. code-block:: sh
 
    cd ronataswestoldturkic
    cldfbench ronataswestoldturkic.makeHortho
+
+.. automodule:: ronataswestoldturkic.makeHorth
+   :members:
 
 Step 6: Re-run lexibank script with Hungarian orthography
 ---------------------------------------------------------
