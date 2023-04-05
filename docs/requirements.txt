@@ -1,0 +1,2 @@
+ipatok==0.4.1
+epitran==1.24
