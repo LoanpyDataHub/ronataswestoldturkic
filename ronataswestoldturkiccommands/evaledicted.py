@@ -1,8 +1,10 @@
 """
-Read the manually fine-tuned alignments
-Check if they have same length
-Print ID if there's a problem
-Print OK if all is fine
+Check if the file edited by edictor is OK.
+#. Do we have an even number of rows (excluding the header)
+   that alternate between source and target language data
+   (src-tgt-src-tgt-...)?
+#. Do both sides of each alignment have the same number of phoneme (clusters)?
+If any of these conditions is not met, an assertion error will be raised.
 """
 import csv
 
@@ -14,9 +16,12 @@ def register(parser):
 
 def run(args):
     """
-    Check if the file edited by edictor is OK.
-    1. Does it go src-tgt-src-tgt-...?
-    2. Do all alignments have the same length?
+    #. Read the manually fine-tuned alignments
+    #. Check if sequence is src-tgt-src-tgt-...
+    #. Check if each word in an alignment has the same number of
+       phoneme (clusters)
+    #. Print the number of the iteration cycle if there's a problem
+    #. Print OK if all is fine
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
         data = list(csv.reader(f, delimiter="\t"))[1:]
