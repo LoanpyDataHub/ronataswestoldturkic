@@ -90,6 +90,16 @@ Now that we have improved the alignments by complementing the algorithmic approa
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.evaledicted H EAH
+
+and
+
+.. code-block:: sh
+
    cldfbench ronataswestoldturkic.evaledicted WOT EAH
 
-Both commands print "OK" to the console means that we have successfully edited the alignments of our etymological data set and are ready to move on to part 3 by clicking on the ``Next`` button.
+This is what happens under the hood:
+
+.. automodule:: ronataswestoldturkiccommands.evaledicted
+   :members:
+
+Both commands printing "OK" to the console means that we have successfully edited the alignments of our etymological data set and are ready to move on to part 3 by clicking on the ``Next`` button.
