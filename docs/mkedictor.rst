@@ -60,17 +60,22 @@ Step 2: Editing historical sound correspondences with Edictor
    - Dot (``.``): separator of IPA tokens within clusters of IPA-sounds
    - Minus (``-``): gap symbol for sounds that disappeared or didn't exist
    - Plus (``+``): trimming border for prefixes and suffixes that will be ignored in analyses. The 		 file ``etc/formspec.json`` was created based on these.
+   - Hash (``#``): Word boundary
 #. Cache: Click on the floppy-disk symbol in the top-right corner or use ``Ctrl + S``
 #. Download: Click on the downwards pointing arrow symbol in the top-right corner or use ``Ctrl + E``. Click on ``Save file``. Move it to the ``edictor/`` directory and name it ``H2EAHedicted.tsv``.
 
-In the custom-alignment of this use-case, we first clustered vowels and consonants together with the dot-symbol and used spaces to separate those clusters from each other. Wherever it seemed appropriate, we allowed sound correspondences of multiple sounds to one, e.g. in *aː < a.ɣ.a*, which is a well studied pattern in our data but difficult for an algorithm to catch.
+In the custom-alignment of this use-case, we first clustered vowels and consonants together with the dot-symbol and used spaces to separate those clusters from each other. Wherever it seemed appropriate, we allowed sound correspondences of one to many, e.g. in *aː < a.ɣ.a*, which is a well studied pattern in our data but difficult for an algorithm to catch.
 
-Step 3:
+Step 3: Editing sound adaptations with Edictor
+----------------------------------------------
 
-Step 3: Post-editing
---------------------
+Follow the same steps as discribed in Step 2, but this time upload ``edictor/WOT2EAHtoedict.tsv``. Here, we are allowing only one to one correspondences and ingore word boundaries. After downloading the aligned data, a post-editing step is necessary. This is carried out with following command:
 
-Replace "-" symbol with "C" or "V" in some cases.
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.cvgapedicted WOT EAH
+
+Here, we replace the gap symbol ``-`` with ``C`` or ``V`` in the source language, depending on whether a consonant or a vowel appeared in the target language.
 
 Step 4: Validating whether this is suitable as input for loanpy
 ---------------------------------------------------------------
