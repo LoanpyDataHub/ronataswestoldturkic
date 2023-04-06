@@ -1,9 +1,9 @@
 """
 Check if the file edited by edictor is OK.
-#. Do we have an even number of rows (excluding the header)
-   that alternate between source and target language data
-   (src-tgt-src-tgt-...)?
-#. Do both sides of each alignment have the same number of phoneme (clusters)?
+
+#. Do we have an even number of rows (excluding the header) that alternate between source and target language data (src-tgt-src-tgt-...)?
+#. Do both sides of each alignment have the same number of phonemes or phoneme clusters?
+
 If any of these conditions is not met, an assertion error will be raised.
 """
 import csv
