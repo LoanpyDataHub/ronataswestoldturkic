@@ -27,7 +27,8 @@ def run(args):
       specified in the command arguments, are accepted to the output data
       frame. Cognate sets that are lacking forms in either the source or the
       target language are ignored.
-    - Apply custom alignment, see `loanpy's documentation
+    - Apply custom alignment for historical sound changes in Uralic data.
+      See `loanpy's documentation
       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.uralign>`_
       for more details.
     - Write results to ``edictor/{srclg}2{tgtlg}toedict0.tsv``

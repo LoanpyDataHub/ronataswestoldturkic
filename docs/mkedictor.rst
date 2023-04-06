@@ -8,5 +8,18 @@ The following steps will guide you through the process of converting the data to
 Step 1: Creating input files for the Edictor
 --------------------------------------------
 
+During the CLDF-conversion we have added automated alignments to the column
+`ALIGNMENTS` in `cldf/cognates.csv`. However, since these
+First we create the input data for Edictor for sound corrrespondences between
+Hungarian and Early Ancient Hungarian words with following command:
+
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.maketoedict_rc H EAH
+
+This is what happens under the hood when you run the script:
+
 .. automodule:: ronataswestoldturkiccommands.maketoedict_rc
    :members:
+
+Now that we have created automatic alignments
