@@ -1,5 +1,5 @@
 """
-IPA-transcribe and tokenise Hungarian words.
+IPA-transcribe and tokenise Hungarian words:
 """
 import csv
 
@@ -12,15 +12,20 @@ epi = epitran.Epitran("hun-Latn").transliterate
 def segipa(w):
     """
     Use the epitran library to transcribe Hungarian to IPA based on rules.
-    Then, use the ipatok library to tokenise the IPA-string
+    Then, use the ipatok library to tokenise the IPA-string.
+    .. seealso::
+        `epitran
+        <https://pypi.org/project/epitran/>`_,
+        `ipatok
+        <https://pypi.org/project/ipatok/>`_
     """
     return ' '.join(tokenise(epi(w)))
 
 def run(args):
     """
-    Read values from forms.csv, IPA-transcribe and tokenise them.
+    Read values from ``cldf/forms.csv``, IPA-transcribe and tokenise them.
     Then, write the results to ``etc/orthography/H.tsv``,
-    which has two columns: "Grapheme" and "IPA".
+    which has two columns: ``Grapheme`` and ``IPA``.
     """
     with open("cldf/forms.csv", "r") as f:
         data = csv.reader(f)

@@ -330,7 +330,7 @@ This line is storing the ID of the relevant word in ``cldf/forms.csv``, so it ca
                             Source="wot"
                             )
 
-Here we create the table ``cldf/cognates.csv``. This is the table where automated alignments will be carried out, which can be used for further analyses. The term ``cognate`` here is used in its broader sense and includes all words that go back to same etymon.
+Here we create the table ``cldf/cognates.csv``. This is the table where automated alignments will be carried out, which can be used for further analyses. The term ``cognate`` here is used in its broader sense and includes all words that go back to the same etymon.
 
 .. code-block:: python
 
@@ -358,7 +358,7 @@ This is the final line, which creates automated alignments with the `lingpy <htt
 Step 5: Create Hungarian IPA transcriptions from cldf/forms.csv
 ---------------------------------------------------------------
 
-The rules for turning words written in Hungarian orthography are generated based on ``cldf/borrowings.csv``. Therefore, they can only be generated after the lexibank script has run. The below command will create a list of transformation rules and write them to ``etc/orthography/H.tsv``.
+The rules for turning words written in Hungarian orthography are generated based on ``cldf/forms.csv``. Therefore, they can only be generated after the lexibank script has run. The below command will create a list of transformation rules and write them to ``etc/orthography/H.tsv``.
 
 .. code-block:: sh
 
@@ -379,15 +379,17 @@ After the Hungarian transcription rules were generated, we have to generate the 
 
 This will add columns ``Segments``, ``CV_Segments``, ``ProsodicStructure``, ``FB_VowelHarmony`` to ``cldf/forms.csv``, which were skipped in Step 4. These columns are based on tokenised IPA-strings, that were read from the files in ``etc/orthography``. After running the lexibank script, this is how your console should approximately look like:
 
+.. image:: consoleoutput.png
+
 Step 7: Test with pytest-cldf whether the dataset is CLDF-conform
 -----------------------------------------------------------------
 
 Now that the conversion has run successfully, the only thing left to do is to verify
 that the data conforms to the CLDF standard:
 
-.. code-block: sh
+.. code-block:: sh
 
    pip install pytest-cldf
    pytest --cldf-metadata=cldf/cldf-metadata.json test.py
 
-This will run one single test with the `pytest <https://docs.pytest.org/en/7.2.x/>`_ library, which should pass. And with this we have converted our raw data to CLDF and thus finished part one.
+This will run one single test with the `pytest <https://docs.pytest.org/en/7.2.x/>`_ library, which should pass. And with this we have converted our raw data to CLDF and thus finished part one. Click on the ``Next``-button to get to part two.
