@@ -1,7 +1,7 @@
 """
-Read edicted.tsv
-Replace "-" by "C" if C disappeared, else "V"
-Write file
+Import inbuilt (csv) and third-party (loanpy) programs to read and process
+data.
+Register arguments for the command line interface. Run the main function.
 """
 from loanpy.utils import cvgaps
 import csv
@@ -12,6 +12,10 @@ def register(parser):
 
 def run(args):
     """
+    #. Read edictor/{srclg}2{tgtlg}edicted.tsv
+    #. Replace "-" in source language data by "C" if a consonant has disappeared,
+    else by "V".
+    #. Write file
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
         data = list(csv.reader(f, delimiter="\t"))

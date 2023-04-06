@@ -75,7 +75,21 @@ Follow the same steps as discribed in Step 2, but this time upload ``edictor/WOT
 
    cldfbench ronataswestoldturkic.cvgapedicted WOT EAH
 
-Here, we replace the gap symbol ``-`` with ``C`` or ``V`` in the source language, depending on whether a consonant or a vowel appeared in the target language.
+This is what happens under the hood:
+
+.. automodule:: ronataswestoldturkiccommands.maketoedict_ad
+   :members:
+
+This step has been outsourced to post-processing in order to avoid any confusion by missing gap symbols during the manual editing process of alignments.
 
 Step 4: Validating whether this is suitable as input for loanpy
 ---------------------------------------------------------------
+
+Now that we have improved the alignments by complementing the algorithmic approach with expert knowledge, the only thing left to do is to validate whether the format of our data is suitable as input for loanpy. This can be done by running following two commands:
+
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.evaledicted H EAH
+   cldfbench ronataswestoldturkic.evaledicted WOT EAH
+
+Both commands print "OK" to the console means that we have successfully edited the alignments of our etymological data set and are ready to move on to part 3 by clicking on the ``Next`` button.
