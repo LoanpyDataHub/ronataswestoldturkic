@@ -12,6 +12,7 @@ Welcome to ronataswestoldturkic's documentation!
 
    mkcldf.rst
    mkedictor.rst
+   mkloanpy.rst
 
 Indices and tables
 ==================
