@@ -1,2 +1,4 @@
 ipatok==0.4.1
 epitran==1.24
+loanpy==loanpy==3.0
+

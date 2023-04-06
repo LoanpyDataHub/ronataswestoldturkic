@@ -9,15 +9,20 @@ Step 1: Creating input files for the Edictor
 --------------------------------------------
 
 During the CLDF-conversion we have added automated alignments to the column
-`ALIGNMENTS` in `cldf/cognates.csv`. However, since these
-First we create the input data for Edictor for sound corrrespondences between
+`ALIGNMENTS` in `cldf/cognates.csv`. But these are the results of aligning
+cognates from *all* available languages to each other, while for our own
+analyses we need alignments for only two languages. Therefore, we
+first create the input data for Edictor for sound corrrespondences between
 Hungarian and Early Ancient Hungarian words with following command:
 
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.maketoedict_rc H EAH
 
-This is what happens under the hood when you run the script:
+The `rc` in the script name is an internal abbreviation for "reconstruction",
+since we are aiming to align words from languages that are in a historical
+relationship to each other. This is what happens under the hood when running
+the script:
 
 .. automodule:: ronataswestoldturkiccommands.maketoedict_rc
    :members:
