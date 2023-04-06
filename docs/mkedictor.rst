@@ -8,6 +8,7 @@ The following steps will guide you through the process of converting the data to
 .. seealso::
 
    `Edictor <https://digling.org/edictor/>`_
+   
    `loanpy <https://pypi.org/project/loanpy/>`_
 
 
