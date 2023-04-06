@@ -47,12 +47,25 @@ The ``ad`` is an internal abbreviation for "adaptation", since we are aiming to 
 
 Now that we have created suitable input files for the Edictor, it is time to upload them and edit them with our expert knowledge.
 
-Step 2: Editing the files with Edictor
---------------------------------------
+Step 2: Editing historical sound correspondences with Edictor
+-------------------------------------------------------------
 
-- Upload
-- Edit
-- Download
+`Edictor <https://digling.org/edictor/>`_ is an interactive tool for managing etymological data. We will use it to improve the automated alignments that we have created in the previous step. To familiarise yourself with Edictor, you can read its `release paper <https://aclanthology.org/E17-3003.pdf>`_, `this use-case <https://hcommons.org/deposits/item/hc:43687/>`_ or watch its `Youtube tutorial <https://www.youtube.com/watch?v=IyZuf6SmQM4>`_.
+
+#. Upload: Click on ``Browse``, select ``edictor/H2EAHtoedict.tsv``, click on ``Open the file``
+#. Load columns: Click on ``elect Columns`` on top, tick ``select all``, click ``OK``
+#. Edit alignments: Left-click once in the row of the ``ALIGNMENT`` column that you want to edit, edit, left-click again to keep the changes.
+#. Syntax of alignments:
+   - Single-space (`` ``): separator between IPA tokens
+   - Dot (``.``): separator of IPA tokens within clusters of IPA-sounds
+   - Minus (``-``): gap symbol for sounds that disappeared or didn't exist
+   - Plus (``+``): trimming border for prefixes and suffixes that will be ignored in analyses. The 		 file ``etc/formspec.json`` was created based on these.
+#. Cache: Click on the floppy-disk symbol in the top-right corner or use ``Ctrl + S``
+#. Download: Click on the downwards pointing arrow symbol in the top-right corner or use ``Ctrl + E``. Click on ``Save file``. Move it to the ``edictor/`` directory and name it ``H2EAHedicted.tsv``.
+
+In the custom-alignment of this use-case, we first clustered vowels and consonants together with the dot-symbol and used spaces to separate those clusters from each other. Wherever it seemed appropriate, we allowed sound correspondences of multiple sounds to one, e.g. in *aː < a.ɣ.a*, which is a well studied pattern in our data but difficult for an algorithm to catch.
+
+Step 3:
 
 Step 3: Post-editing
 --------------------
