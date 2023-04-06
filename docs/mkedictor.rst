@@ -8,12 +8,12 @@ The following steps will guide you through the process of converting the data to
 .. seealso::
 
    `Edictor <https://digling.org/edictor/>`_
-   
+
    `loanpy <https://pypi.org/project/loanpy/>`_
 
 
-Step 1: Creating input files for the Edictor
---------------------------------------------
+Step 1: Create input files for the Edictor
+------------------------------------------
 
 During the CLDF-conversion we have added automated alignments to the column
 `ALIGNMENTS` in `cldf/cognates.csv`. But these are the results of aligning
@@ -48,8 +48,8 @@ The ``ad`` is an internal abbreviation for "adaptation", since we are aiming to 
 
 Now that we have created suitable input files for the Edictor, it is time to upload them and edit them with our expert knowledge.
 
-Step 2: Editing historical sound correspondences with Edictor
--------------------------------------------------------------
+Step 2: Edit historical sound correspondences with Edictor
+----------------------------------------------------------
 
 `Edictor <https://digling.org/edictor/>`_ is an interactive tool for managing etymological data. We will use it to improve the automated alignments that we have created in the previous step. To familiarise yourself with Edictor, you can read its `release paper <https://aclanthology.org/E17-3003.pdf>`_, `this use-case <https://hcommons.org/deposits/item/hc:43687/>`_ or watch its `Youtube tutorial <https://www.youtube.com/watch?v=IyZuf6SmQM4>`_.
 
@@ -67,8 +67,8 @@ Step 2: Editing historical sound correspondences with Edictor
 
 In the custom-alignment of this use-case, we first clustered vowels and consonants together with the dot-symbol and used spaces to separate those clusters from each other. Wherever it seemed appropriate, we allowed sound correspondences of one to many, e.g. in *aː < a.ɣ.a*, which is a well studied pattern in our data but difficult for an algorithm to catch.
 
-Step 3: Editing sound adaptations with Edictor
-----------------------------------------------
+Step 3: Edit sound adaptations with Edictor
+-------------------------------------------
 
 Follow the same steps as discribed in Step 2, but this time upload ``edictor/WOT2EAHtoedict.tsv``. Here, we are allowing only one to one correspondences and ingore word boundaries. After downloading the aligned data, a post-editing step is necessary. This is carried out with following command:
 
@@ -83,8 +83,8 @@ This is what happens under the hood:
 
 This step has been outsourced to post-processing in order to avoid any confusion by missing gap symbols during the manual editing process of alignments.
 
-Step 4: Validating whether this is suitable as input for loanpy
----------------------------------------------------------------
+Step 4: Validate whether this is suitable as input for loanpy
+-------------------------------------------------------------
 
 Now that we have improved the alignments by complementing the algorithmic approach with expert knowledge, the only thing left to do is to validate whether the format of our data is suitable as input for loanpy. This can be done by running following two commands:
 
