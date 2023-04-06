@@ -16,13 +16,13 @@ def register(parser):
 
 def run(args):
     """
-    #- Read ``cldf/cognates.csv`` and ``cldf/forms.csv``.
-    #- Loop through ``cldf/cognates.csv``.
-    #- Align data in column ``Segments`` with lingpy (`see documentation
+    #. Read ``cldf/cognates.csv`` and ``cldf/forms.csv``.
+    #. Loop through ``cldf/cognates.csv``.
+    #. Align data in column ``Segments`` with lingpy (`see documentation
        <https://lingpy.github.io/reference/lingpy.align.html#lingpy.align.pairwise.Pairwise.align>`_)
-    #- Write output file with following headers:
+    #. Write output file with following headers:
        ID, COGID, DOCULECT, ALIGNMENT, PROSODY
-    #- Manually inspect whether the output is satisfying. If so, remove the
+    #. Manually inspect whether the output is satisfying. If so, remove the
        trailing zero from the file name, which is there to avoid accidentally
        overwriting any manually edited files with this function.
     """

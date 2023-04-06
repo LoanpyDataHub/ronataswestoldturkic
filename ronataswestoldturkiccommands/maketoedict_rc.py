@@ -22,17 +22,17 @@ def register(parser):
 
 def run(args):
     """
-    #- Read col ``CV_Segments`` in ``cldf/forms.csv``
-    #- Prefilter data: Only words from the source and target language, as
+    #. Read col ``CV_Segments`` in ``cldf/forms.csv``
+    #. Prefilter data: Only words from the source and target language, as
       specified in the command arguments, are accepted to the output data
       frame. Cognate sets that are lacking forms in either the source or the
       target language are ignored.
-    #- Apply custom alignment for historical sound changes in Uralic data.
+    #. Apply custom alignment for historical sound changes in Uralic data.
       See `loanpy's documentation
       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.uralign>`_
       for more details.
-    #- Write results to ``edictor/{srclg}2{tgtlg}toedict0.tsv``
-    #- Manually inspect whether the output is satisfying. If so, remove the
+    #. Write results to ``edictor/{srclg}2{tgtlg}toedict0.tsv``
+    #. Manually inspect whether the output is satisfying. If so, remove the
       trailing zero from the file name, which is there to avoid accidentally
       overwriting any manually edited files with this function.
     """

@@ -39,6 +39,8 @@ The ``ad`` is an internal abbreviation for "adaptation", since we are aiming to 
 .. automodule:: ronataswestoldturkiccommands.maketoedict_ad
    :members:
 
+Now that we have created suitable input files for the Edictor, it is time to upload them and edit them with our expert knowledge.
+
 Step 2: Editing the files with Edictor
 --------------------------------------
 

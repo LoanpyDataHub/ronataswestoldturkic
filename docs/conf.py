@@ -12,4 +12,4 @@ version = '2.0'
 release = '2.0'
 extensions = ['sphinx.ext.autodoc']
 html_theme = 'sphinx_rtd_theme'
-autodoc_mock_imports = ["loanpy", "epitran", "ipatok"]
+autodoc_mock_imports = ["epitran", "ipatok", "loanpy", "lingpy"]
