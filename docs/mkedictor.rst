@@ -27,4 +27,29 @@ the script:
 .. automodule:: ronataswestoldturkiccommands.maketoedict_rc
    :members:
 
-Now that we have created automatic alignments
+Now that we have created automatic alignments for historical reconstructions, let's do the same
+for sound adaptations. This is done by running following command from your terminal:
+
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.maketoedict_ad WOT EAH
+
+The ``ad`` is an internal abbreviation for "adaptation", since we are aiming to align words from languages that are in a donor-recipient relationship to each other. This is what happens under the hood when running the script:
+
+.. automodule:: ronataswestoldturkiccommands.maketoedict_ad
+   :members:
+
+Step 2: Editing the files with Edictor
+--------------------------------------
+
+- Upload
+- Edit
+- Download
+
+Step 3: Post-editing
+--------------------
+
+Replace "-" symbol with "C" or "V" in some cases.
+
+Step 4: Validating whether this is suitable as input for loanpy
+---------------------------------------------------------------

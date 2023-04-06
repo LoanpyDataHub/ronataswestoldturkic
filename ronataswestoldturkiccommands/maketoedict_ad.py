@@ -1,10 +1,7 @@
 """
-1. Read cognates.csv and forms.csv
-2. Loop through cognates.csv
-3. Add col Cognateset_ID [3] and Alignment [7] and Form_ID [1] to dict
-4. Merge Form_ID [1] with ID [0] in forms.csv
-5. Grab Language_ID [2], ProsodicStructure [14] from forms.csv
-6. Write file with headers: ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY
+Import inbuilt (csv, json) and third-party (lingpy, loanpy) programs to read,
+filter, align, and write data.
+Register arguments for the command line interface. Run the main function.
 """
 
 import csv
@@ -19,6 +16,15 @@ def register(parser):
 
 def run(args):
     """
+    #- Read ``cldf/cognates.csv`` and ``cldf/forms.csv``.
+    #- Loop through ``cldf/cognates.csv``.
+    #- Align data in column ``Segments`` with lingpy (`see documentation
+       <https://lingpy.github.io/reference/lingpy.align.html#lingpy.align.pairwise.Pairwise.align>`_)
+    #- Write output file with following headers:
+       ID, COGID, DOCULECT, ALIGNMENT, PROSODY
+    #- Manually inspect whether the output is satisfying. If so, remove the
+       trailing zero from the file name, which is there to avoid accidentally
+       overwriting any manually edited files with this function.
     """
     # read forms.csv
     lines = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
