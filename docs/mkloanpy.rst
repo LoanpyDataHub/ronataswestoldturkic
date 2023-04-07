@@ -49,6 +49,9 @@ historical reconstructions later on.
 Step 4: Evaluate vertical and horizontal sound correspondences
 --------------------------------------------------------------
 
+In this section, we are checking the predictive power of the mined
+sound correspondences.
+
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.evalsc H EAH "[1, 10, 50, 100, 300]"

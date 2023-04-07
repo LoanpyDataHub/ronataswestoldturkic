@@ -9,8 +9,8 @@ def register(parser):
     """
     Register arguments. Two argument necessary: The ID of the target language,
     i.e. the one in which loanwords are adapted. Valid IDs can be found in
-    column ``ID`` in ``etc/language.csv``. And the name of output-
-    file. Should end in .json.
+    column ``ID`` in ``etc/language.csv``. The second argument is the name of
+    the output-file. Should end in ".json".
     """
     parser.add_argument("tgtlg")
     parser.add_argument("outname")

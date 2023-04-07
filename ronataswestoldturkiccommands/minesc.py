@@ -1,5 +1,5 @@
 """
-Read in aligned data and write a json-file with information about sound-
+Read in aligned data and write a json-file with information about sound
 correspondences.
 """
 
@@ -10,7 +10,7 @@ from loanpy.scminer import get_correspondences
 
 def register(parser):
     """
-    Register arguments. Two argument necessary: The ID of the target and
+    Register arguments. Two arguments necessary: The ID of the target and
     source language: In horizontal transfers, the donor language is the source
     and the recipient language is the target. In vertical transfers, the
     target language is the ancestor and the source the descendant for backwards
