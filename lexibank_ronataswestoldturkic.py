@@ -4,8 +4,10 @@ import pathlib
 import attr
 from clldutils.misc import slug
 from lingpy import prosodic_string
-from lingpy.sequence.sound_classes import token2class
+from loanpy.utils import IPA
 from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
+
+ipa = IPA()
 
 with open("etc/formspec.json") as f:
     REP = [(k, v) for k, v in json.load(f).items()]
@@ -17,21 +19,6 @@ class CustomLexeme(Lexeme):
     FB_VowelHarmony = attr.ib(default=None)
     Year = attr.ib(default=None)
 
-def get_clusters(segments):
-    """
-    Takes a list of phonemes and segments them into consonant and vowel
-    clusters, like so: "abcdeaofgh" -> ["a", "b.c.d", "e.a.o", "f.g.h"]
-    """
-    out = [segments[0]]
-    for i in range(1, len(segments)):
-        # can be optimized
-        prev, this = token2class(segments[i-1], "cv"), token2class(
-                segments[i], "cv")
-        if prev == this:
-            out[-1] += "."+segments[i]
-        else:
-            out += [segments[i]]
-    return " ".join(out)
 
 def has_harmony(segments):
     """
@@ -127,8 +114,11 @@ class Dataset(BaseDataset):
                         Cognacy=cogid,
                         Year=cognates["Year"]
                         ):
-                    lex["CV_Segments"] = get_clusters(lex["Segments"])
-                    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
+
+                    lex["CV_Segments"] = ipa.get_clusters(lex["Segments"])
+                    lex["ProsodicStructure"] = ipa.get_prosody(
+                                                    "".join(lex["Segments"])
+                                                    )
                     lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
