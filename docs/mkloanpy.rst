@@ -1,10 +1,12 @@
 Part 3: Analyse data with loanpy
 ================================
 
-In this section we are inputting aligned CLDF data into to loanpy to mine sound correspondence patterns and verify their predictive power.
+In this section we are inputting aligned CLDF data to loanpy to mine sound correspondence patterns and evaluate their predictive power.
 
 Step 1: Mine phonotactic inventory
 ----------------------------------
+
+These are necessary to predict phonotactic repairs during loanword adaptation.
 
 .. code-block:: sh
 
@@ -15,6 +17,10 @@ Step 1: Mine phonotactic inventory
 
 Step 2: Create heuristic sound substitutions
 --------------------------------------------
+
+Since any existing phoneme can be adapted when entering a language through
+a loanword, we have to create a heuristic adaptation prediction for as many
+IPA characters as possible, in this case 6491.
 
 .. code-block:: sh
 
