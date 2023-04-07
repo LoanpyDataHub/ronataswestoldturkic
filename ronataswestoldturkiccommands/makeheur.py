@@ -18,14 +18,17 @@ def register(parser):
 def run(args):
     """
     #. Pass on the target language ID as defined in `etc/languages.csv`
-       to loanpy's `get_heur`_ function,
+       to loanpy's `get_heur
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_heur>`_
+       function,
        which will read the `cldf/.transcription-report.json` file and
        extract the phoneme inventory of the target language from there.
        It will also read the file ipa_all.csv, which is shipped with loanpy.
        From these two files it creates a heuristic prediction of loanword
        phoneme substitution/adaptation patterns.
-    #. Write the results to a file, named according to the value passed to the
-       second argument. Expected file size: ca. 2.5MB.
+    #. Write the results to a file named according to the value passed to the
+       second argument. It will be written to the folder ``loanpy``.
+       Expected file size: ca. 2.5MB.
 
     """
     with open(f"loanpy/{args.outname}", "w+") as f:

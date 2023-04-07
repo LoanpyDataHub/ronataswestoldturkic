@@ -23,7 +23,8 @@ def run(args):
        function, which will extract all prosodic structures (e.g. "CVCV")
        from the target language.
     #. Write the inventory of prosodic structures to a json-file with the
-       inbuilt json package.
+       inbuilt json package. It will have the name that was passed on as an
+       argument to the command and will be written to the folder ``loanpy``.
     """
     with open(f"edictor/WOT2EAHedicted.tsv", "r") as f:
         out = get_inventory(list(csv.reader(f, delimiter="\t")))

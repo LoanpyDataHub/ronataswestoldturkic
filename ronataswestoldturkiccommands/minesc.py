@@ -1,7 +1,5 @@
 """
-Read aligned data in edictor/edicted.tsv
-Input it to loanpy.recovery.qfy
-Write sound correspondence file .json
+
 """
 
 import csv
@@ -15,6 +13,17 @@ def register(parser):
     parser.add_argument("heur", nargs="?")
 
 def run(args):
+    """
+    #. If argument three was provided, read the json-file containing heuristic
+       phoneme adaptation predictions with the inbuilt json package.
+    #. Read aligned forms from ``edictor/{srclg}2{tgtlg}edicted.tsv``
+    #. Extract sound and phonotactic correspondences from the data with
+       loanpy's `get_corrspondences
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_correspondences>`_
+       function
+    #. Write the sound correspondences to a file named ``{srclg}2{tgtlg}.json``
+       in the folder ``loanpy``.
+    """
     if args.heur:
         with open(f"loanpy/{args.heur}", "r") as f:
             args.heur = json.load(f)
