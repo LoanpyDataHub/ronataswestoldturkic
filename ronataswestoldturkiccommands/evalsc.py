@@ -1,9 +1,8 @@
 """
-read edicted.tsv
-read heuristics file
-indicate adapt= True or False
-specify guesslist
-indicate prosody= True or False
+Specify the aligned wordlist data together with a few arguemnts
+and pass them on to loanpy's evaluator module. Write the output
+to a json-file. It is a list of tuples with pairs of
+false and true positives.
 """
 
 import ast
@@ -42,7 +41,7 @@ def run(args):
        function
     #. Write the results to a file called ``tpfp{srclg}2{tgtlg}0.json``.
        Manually remove the trailing zero after inspecting it.
-       
+
     """
     # load sound correspondence file
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
