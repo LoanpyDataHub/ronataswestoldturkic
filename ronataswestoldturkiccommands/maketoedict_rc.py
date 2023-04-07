@@ -35,6 +35,7 @@ def run(args):
     #. Manually inspect whether the output is satisfying. If so, remove the
       trailing zero from the file name, which is there to avoid accidentally
       overwriting any manually edited files with this function.
+
     """
 
     with open("cldf/forms.csv", "r") as f:
