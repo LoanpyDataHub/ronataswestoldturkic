@@ -14,9 +14,9 @@ def run(args):
     """
     #. Read edictor/{srclg}2{tgtlg}edicted.tsv
     #. Replace "-" in source language data by "C" if a consonant has disappeared,
-    else by "V".
+       else by "V".
     #. Write file
-    
+
     """
     with open(f"edictor/{args.srclg}2{args.tgtlg}edicted.tsv") as f:
         data = list(csv.reader(f, delimiter="\t"))
