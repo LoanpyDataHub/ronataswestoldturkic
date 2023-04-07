@@ -78,7 +78,7 @@ jobs:
           name: Create phonotactic inventory, check if output is good
           command: >
             cd ronataswestoldturkic && cldfbench
-            ronataswestoldturkic.makeEAHinvs testinvs.json
+            ronataswestoldturkic.mineEAHinvs testinvs.json
 
             cd loanpy && out=$(jq --argfile a testinvs.json --argfile b
             invsEAH.json -n '($a | (.. | arrays) |= sort) as $a |
