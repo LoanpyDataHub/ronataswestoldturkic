@@ -48,5 +48,5 @@ Step 4: Evaluate vertical and horizontal sound correspondences
 
    cldfbench ronataswestoldturkic.evalsc WOT EAH "[1, 10, 50, 100, 300]" True True heur.json
 
-.. automodule:: ronataswestoldturkiccommands.
+.. automodule:: ronataswestoldturkiccommands.evalsc
    :members:
