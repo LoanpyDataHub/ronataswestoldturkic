@@ -32,6 +32,9 @@ IPA characters as possible, in this case 6491.
 Step 3: Mine vertical and horizontal sound correspondences
 ----------------------------------------------------------
 
+The output will serve as fuel for predicting loanword adaptations and
+historical reconstructions later on.
+
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.minesc H EAH

@@ -16,7 +16,7 @@ def register(parser):
 
 def run(args):
     """
-    #. Read aligned data in ``edictor/WOT2EAHedicted.tsv`` with the inbuilt
+    #. Read the aligned data in ``edictor/WOT2EAHedicted.tsv`` with the inbuilt
        csv package
     #. Pass it on to loanpy's `get_inventory
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_inventory>`_

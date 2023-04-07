@@ -1,5 +1,6 @@
 """
-
+Read in aligned data and write a json-file with information about sound-
+correspondences.
 """
 
 import csv
@@ -8,6 +9,15 @@ import json
 from loanpy.scminer import get_correspondences
 
 def register(parser):
+    """
+    Register arguments. Two argument necessary: The ID of the target and
+    source language: In horizontal transfers, the donor language is the source
+    and the recipient language is the target. In vertical transfers, the
+    target language is the ancestor and the source the descendant for backwards
+    reconstructions. Valid IDs can be found in
+    column ``ID`` in ``etc/language.csv``. A third argument is optional,
+    namely the json-file containing the heuristic phoneme adaptations.
+    """
     parser.add_argument("srclg")
     parser.add_argument("tgtlg")
     parser.add_argument("heur", nargs="?")
@@ -21,8 +31,9 @@ def run(args):
        loanpy's `get_corrspondences
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_correspondences>`_
        function
-    #. Write the sound correspondences to a file named ``{srclg}2{tgtlg}.json``
-       in the folder ``loanpy``.
+    #. Write the sound correspondences to a file named
+       ``{srclg}2{tgtlg}sc0.json`` in the folder ``loanpy``. Manually remove
+       the trailing zero in the file name if the file seems fine.
     """
     if args.heur:
         with open(f"loanpy/{args.heur}", "r") as f:
