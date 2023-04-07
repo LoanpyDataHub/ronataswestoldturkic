@@ -8,9 +8,9 @@ Step 1: Mine phonotactic inventory
 
 .. code-block:: sh
 
-   cldfbench ronataswestoldturkic.makeEAHinvs invs.json
+   cldfbench ronataswestoldturkic.mineEAHinvs invs.json
 
-.. automodule:: ronataswestoldturkiccommands.makeEAHinvs
+.. automodule:: ronataswestoldturkiccommands.mineEAHinvs
    :members:
 
 Step 2: Create heuristic sound substitutions
