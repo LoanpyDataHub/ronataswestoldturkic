@@ -14,10 +14,10 @@ def segipa(w):
     Use the epitran library to transcribe Hungarian to IPA based on rules.
     Then, use the ipatok library to tokenise the IPA-string.
     .. seealso::
-       `epitran
-       <https://pypi.org/project/epitran/>`_,
-       `ipatok
-       <https://pypi.org/project/ipatok/>`_
+
+       `epitran <https://pypi.org/project/epitran/>`_,
+       
+       `ipatok <https://pypi.org/project/ipatok/>`_
     """
     return ' '.join(tokenise(epi(w)))
 
