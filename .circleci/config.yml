@@ -35,9 +35,9 @@ jobs:
             --concepticon-version=v3.0.0
             --glottolog-version=v4.7
             --clts-version=v2.2.0
-            --concepticon=../concepticon/concepticon-data
-            --glottolog=../glottolog
-            --clts=../clts
+            --concepticon=concepticon/concepticon-data
+            --glottolog=glottolog
+            --clts=clts
 
       - run:
           name: Install pytest-cldf
