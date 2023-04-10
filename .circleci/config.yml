@@ -31,7 +31,7 @@ jobs:
       - run:
           name: run lexibank script
           command: >
-            cd ronataswestoldturkic
+            cd ronataswestoldturkic &&
             cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py
             --concepticon-version=v3.0.0
             --glottolog-version=v4.7
