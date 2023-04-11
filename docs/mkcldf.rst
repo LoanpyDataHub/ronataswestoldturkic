@@ -59,8 +59,8 @@ immediately.
    pip install -e loanpy
 
 
- Step 4: Create IPA transcriptions
- -------------------------------------------
+Step 4: Create IPA transcriptions
+-------------------------------------------
 
 If the folder `etc` contains a folder `orthography` with files having the same
 name as the language IDs in `etc/languages.tsv`, CLDF automatically creates
