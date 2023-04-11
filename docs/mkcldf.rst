@@ -66,7 +66,7 @@ populates the folder cldf
 
 .. code-block:: sh
 
-   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0
+   cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0 --concepticon=../concepticon/concepticon-data --glottolog=../glottolog --clts=../clts
 
 
 Below is a detailed description of what the script does. See also the tutorial at https://calc.hypotheses.org/3318, which has many similarities. This is the first lexibank script that uses the ``args.writer.align_cognates()`` prompt for automatic cognate alignment (see discussion on GitHub `here <https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_).
