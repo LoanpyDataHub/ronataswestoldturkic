@@ -62,9 +62,10 @@ immediately.
 Step 4: Create IPA transcriptions
 -------------------------------------------
 
-If the folder `etc` contains a folder `orthography` with files having the same
-name as the language IDs in `etc/languages.tsv`, CLDF automatically creates
-new columns in `cldf/forms.csv` that contain
+If the folder ``etc`` contains a folder ``orthography`` with files having the
+same
+name as the language IDs in ``etc/languages.tsv``, CLDF automatically creates
+new columns in ``cldf/forms.csv`` that contain
 IPA transcriptions and segmentations. In this step, we are creating the
 IPA transcription rules for our raw data. The data in the original source
 already comes phonetically transcribed. However, this is an idiosyncratic
