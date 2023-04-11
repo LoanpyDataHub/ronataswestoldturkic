@@ -21,6 +21,10 @@ Conceptlists in Concepticon:
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/martino-vic/ronataswestoldturkic/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martino-vic/ronataswestoldturkic/tree/main)
 [![Documentation Status](https://readthedocs.org/projects/ronataswestoldturkic/badge/?version=latest)](https://ronataswestoldturkic.readthedocs.io/en/latest/?badge=latest)
 
+Manually improved alignments with: https://digling.org/edictor/
+Created parts of the orthographic profile for Hungarian with: https://digling.org/calc/profiler/
+Skeleton for the Hungarian orthographic profile comes from: https://github.com/dmort27/epitran/blob/master/epitran/data/map/hun-Latn.csv
+
 
 
 
@@ -42,9 +46,9 @@ Conceptlists in Concepticon:
 - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,201
-- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
-- **Inventory size (avg):** 42.60
+- **Tokens:** 8,192
+- **Segments:** 61 (0 BIPA errors, 0 CLTS sound class errors, 61 CLTS modified)
+- **Inventory size (avg):** 43.00
 
 # Contributors
 

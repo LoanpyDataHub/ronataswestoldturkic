@@ -9,26 +9,23 @@ clldutils==3.19.0
 colorama==0.4.6
 colorlog==6.7.0
 csvw==3.1.3
-epitran==1.24
 exceptiongroup==1.1.1
 gitdb==4.0.10
 greenlet==2.0.2
 html5lib==1.1
 idna==3.4
 iniconfig==2.0.0
-ipatok==0.4.1
 isodate==0.6.1
 jsonschema==4.17.3
 lingpy==2.6.9
--e git+https://github.com/martino-vic/loanpy.git@22c1ca6893ad8183b3e887f7863892475e78876f#egg=loanpy
+-e git+https://github.com/martino-vic/loanpy.git@3aad8c2618f5b5a0191833a55e4ed7a892d223e2#egg=loanpy
 lxml==4.9.2
 Markdown==3.4.3
 nameparser==1.1.2
-networkx==3.0
+networkx==3.1
 newick==1.9.0
 numpy==1.24.2
 packaging==23.0
-panphon==0.20.0
 pluggy==1.0.0
 purl==1.6
 pybtex==0.24.0
@@ -51,11 +48,10 @@ segments==2.2.1
 six==1.16.0
 smmap==5.0.0
 soupsieve==2.4
-SQLAlchemy==2.0.8
+SQLAlchemy==2.0.9
 tabulate==0.9.0
 termcolor==2.2.0
 tqdm==4.65.0
-unicodecsv==0.14.1
 uritemplate==4.1.1
 urllib3==1.26.15
 webencodings==0.5.1
