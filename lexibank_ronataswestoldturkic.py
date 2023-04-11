@@ -1,3 +1,7 @@
+"""
+lexibank script to convert data to CLDF standard
+"""
+
 import json
 import pathlib
 
