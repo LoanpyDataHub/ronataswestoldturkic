@@ -18,7 +18,7 @@ iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.17.3
 lingpy==2.6.9
--e git+https://github.com/martino-vic/loanpy.git@3aad8c2618f5b5a0191833a55e4ed7a892d223e2#egg=loanpy
+-e git+https://github.com/martino-vic/loanpy.git@cbba022beb97c91ba80addce63b506f6fbda800d#egg=loanpy
 lxml==4.9.2
 Markdown==3.4.3
 nameparser==1.1.2

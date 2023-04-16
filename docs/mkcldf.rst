@@ -21,9 +21,41 @@ and let's get in touch!
 Step 1: Clone the repository
 ----------------------------
 
+It is strongly recommended to create and activate a virtual environment first.
+This can be for example done by running
+
+.. code-block:: sh
+
+   python3 -m venv venv
+   source venv/bin/activate
+
+To deactivate it, run:
+
+.. code-block:: sh
+
+   deactivate
+
+in an activated virtual environment. And to delete it, deactivate it and run:
+
+.. code-block:: sh
+
+   rm -r venv
+
+Once You have set it up and activated it, you can start the process
+of CLDF conversion by installing this repository:
+
 .. code-block:: sh
 
    git clone https://github.com/martino-vic/ronataswestoldturkic.git
+
+Originally, the skeleton of the repository was created using this command:
+
+.. code-block:: sh
+
+   cldfbench new
+
+and answering the follow-up questions. More on this can be read in the
+`cldfbench tutorial <https://github.com/cldf/cldfbench/blob/master/doc/tutorial.md>`_.
 
 Step 2: Clone reference catalogues and loanpy
 ---------------------------------------------
@@ -51,7 +83,8 @@ Step 3: Install commands
 
 The ``-e`` flag will install all necessary dependencies in development mode.
 I.e. if you modify any code in those repositories, changes will apply
-immediately.
+immediately. Remember to run this command from the directory where
+all your GitHub repositories are stored.
 
 .. code-block:: sh
 
@@ -138,10 +171,10 @@ These dependencies were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
 - The attr library from the PyLexibank ecosystem will create the custom
-language class with
+  language class with
   custom columns in the output file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
-  function from the clldutils library will be used to format some IDs
+  function from the clldutils library will be used to format some IDs.
 - The `prosodic_string
   <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
   function from the lingpy library will be used to create the phonotactic
@@ -149,7 +182,7 @@ language class with
 - The `token2class
   <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.token2class>`_
   function from the lingpy library will be used to identify whether an IPA
-  character is a vowel or a consonant
+  character is a vowel or a consonant.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
   library are all related to specifying the output format. Dataset, for
   example loads the default data format, Lexeme will be used to customise it,
@@ -323,12 +356,20 @@ created with a custom script from an additional column in ``raw/wot.tsv``.
         args.log.info("added languages")
 
 Here we read the file ``etc/languages.tsv`` which contains the references to
-`Glottolog <https://glottolog.org/>`_. Out of the five languages in this
-repository, only Hungarian
-is clearly present in Glottolog. Old Hungarian is missing, but a
+`Glottolog <https://glottolog.org/>`_ and write the information to
+``cldf/languages.csv``. Out of the five languages in this repository, only
+Hungarian is clearly present in Glottolog. Old Hungarian is missing, but a
 `request <https://github.com/glottolog/glottolog/issues/899>`_ was opened to
 add it and after some discussion there seems to be a plan to include it in a
-future version of Glottolog.
+future version of Glottolog. Early and Late Ancient Hungarian are categories
+that are only used in our source and can therefore not be added to Glottolog,
+according to their `principles
+<https://glottolog.org/glottolog/glottologinformation>`_. Even though
+Glottolog does not contain Proto-languages, the nodes in their language
+family trees have their own glotto-codes, which serve as a reasonable proxy.
+In the case of West Old Turkic, the ancestor language of Bolgarian and Chuvash,
+we can thus insert the glotto-code of Bolgar into our table.
+
 
 .. code-block:: python
 
