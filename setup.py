@@ -14,7 +14,8 @@ setup(
             ['ronataswestoldturkic=ronataswestoldturkiccommands']
     },
     install_requires=[
-        "cldfbench>=1.13.0", "lingpy>=2.6.9", "pylexibank>=3.4.0"
+        "cldfbench>=1.13.0", "lingpy>=2.6.9", "pylexibank>=3.4.0",
+        "matplotlib>=3.7.1"
     ],
     extras_require={
         'test': [

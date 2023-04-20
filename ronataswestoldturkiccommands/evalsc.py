@@ -63,7 +63,11 @@ def run(args):
     if args.prosody:
         args.prosody = ast.literal_eval(args.prosody)
 
-    out = eval_all(dfedicted, args.heur, args.adapt, args.guesslist, args.prosody)
+    out = {}
+    out["tp_fp"] = eval_all(dfedicted, args.heur, args.adapt, args.guesslist,
+                            args.prosody)
+    out["fp"] = args.guesslist[-1]
+    out["tp"] = len(dfedicted)
 
     with open(f"loanpy/tpfp{args.srclg}2{args.tgtlg}0.json", "w+") as f:
         json.dump(out, f)  # list of tuples, can be plotted and AUC etc.
