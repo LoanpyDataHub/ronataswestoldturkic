@@ -34,7 +34,8 @@ def run(args):
     """
 
     scjson2tsv(f"loanpy/{args.srclg}2{args.tgtlg}sc.json",
-               f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv")
+               f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv",
+               f"loanpy/{args.srclg}2{args.tgtlg}sc0_phonotactics.tsv")
 
     # create dictionary of CogID2form
     with open("cldf/forms.csv", "r") as f:

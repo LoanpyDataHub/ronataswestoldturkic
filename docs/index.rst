@@ -10,6 +10,7 @@ Welcome to ronataswestoldturkic's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   TL;DR
    mkcldf.rst
    mkedictor.rst
    mkloanpy.rst
