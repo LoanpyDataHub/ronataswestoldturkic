@@ -1,7 +1,8 @@
 Part 3: Analyse data with loanpy
 ================================
 
-In this section we are inputting aligned CLDF data to loanpy to mine sound correspondence patterns and evaluate their predictive power.
+In this section we are inputting aligned CLDF data to loanpy to mine sound
+correspondence patterns and evaluate their predictive power.
 
 Step 1: Mine phonotactic inventory
 ----------------------------------
@@ -46,7 +47,24 @@ historical reconstructions later on.
 .. automodule:: ronataswestoldturkiccommands.minesc
    :members:
 
-Step 4: Evaluate vertical and horizontal sound correspondences
+Step 4: Make sound correspondences human-readable
+-------------------------------------------------
+
+The sound-correspondence file is stored as a computer-readable json.
+To create a human-readable tsv-file, run:
+
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.vizsc H EAH
+   cldfbench ronataswestoldturkic.vizsc WOT EAH
+
+.. automodule:: ronataswestoldturkic.vizsc
+   :members:
+
+This will output two tsv files. Delete the trailing zeroes in the file names
+after manual inspection.
+
+Step 5: Evaluate vertical and horizontal sound correspondences
 --------------------------------------------------------------
 
 In this section, we are checking the predictive power of the mined
@@ -54,11 +72,26 @@ sound correspondences.
 
 .. code-block:: sh
 
-   cldfbench ronataswestoldturkic.evalsc H EAH "[1, 10, 50, 100, 300]"
+   cldfbench ronataswestoldturkic.evalsc H EAH "[10, 100, 500, 700, 1000, 5000, 7000]"
 
 .. code-block:: sh
 
-   cldfbench ronataswestoldturkic.evalsc WOT EAH "[1, 10, 50, 100, 300]" True True heur.json
+   cldfbench ronataswestoldturkic.evalsc WOT EAH "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
 
 .. automodule:: ronataswestoldturkiccommands.evalsc
    :members:
+
+Step 6: Plot the evaluation
+---------------------------
+
+To gauge the performance of the model, we can plot an ROC curve, calculate its
+optimum cut-off value and the Area under the curve (AUC), a common metric
+to evaluate predictive models, especially in Machine Learning:
+
+.. code-block:: sh
+
+   cldfbench ronataswestoldturkic.plot_eval H EAH
+   cldfbench ronataswestoldturkic.plot_eval WOT EAH
+
+ .. automodule:: ronataswestoldturkiccommands.plot_eval
+    :members:
