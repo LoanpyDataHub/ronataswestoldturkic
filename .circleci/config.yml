@@ -110,11 +110,23 @@ jobs:
             cldfbench ronataswestoldturkic.vizsc H EAH &&
             cldfbench ronataswestoldturkic.vizsc WOT EAH
 
-            cd loanpy && if diff H2EAHsc.tsv H2EAHsc0.tsv
+            cd loanpy
+
+            if diff H2EAHsc.tsv H2EAHsc0.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for H and EAH; exit 1; fi
 
             if diff WOT2EAHsc.tsv WOT2EAHsc0.tsv
+            --strip-trailing-cr -B -Z; then echo OK;
+            else echo sc-tables differ for WOT and EAH; exit 1; fi
+
+            if diff H2EAHsc_phonotactics.tsv
+            H2EAHsc0_phonotactics.tsv
+            --strip-trailing-cr -B -Z; then echo OK;
+            else echo sc-tables differ for WOT and EAH; exit 1; fi
+
+            if diff WOT2EAHsc_phonotactics.tsv
+            WOT2EAHsc0_phonotactics.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for WOT and EAH; exit 1; fi
 

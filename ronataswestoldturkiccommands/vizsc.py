@@ -55,3 +55,17 @@ def run(args):
             forms = [f"{cogid2srcform[cogid]} {cogid2tgtform[cogid]}" for cogid in row[-1].split(", ")]
             row.append(", ".join(forms))
             writer.writerow(row)
+
+    #the same but for phonotactics
+    # read H2EAHsc.tsv
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0_phonotactics.tsv", "r") as f:
+        dfsc = list(csv.reader(f, delimiter="\t"))
+    # merge CogIDs with forms
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0_phonotactics.tsv", "w") as f:
+        writer = csv.writer(f, delimiter="\t")
+        dfsc[0].append("forms")
+        writer.writerow(dfsc[0])
+        for row in dfsc[1:]:
+            forms = [f"{cogid2srcform[cogid]} {cogid2tgtform[cogid]}" for cogid in row[-1].split(", ")]
+            row.append(", ".join(forms))
+            writer.writerow(row)

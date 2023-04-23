@@ -1,0 +1,56 @@
+sc	src	tgt	freq	CogID	forms
+VCVCV VCVCV	VCVCV	VCVCV	2	1, 15	aγaččï aγači, opura oporo
+VCCVC VCCVC	VCCVC	VCCVC	9	2, 20, 167, 232, 338, 339, 344, 347, 357	aldaγ aldaγ, artat ārtat, ärdäm erdem, ïldam ildam, oγlaγ oγlaγ, undaγ undaγ, určuγ určuγ, alčuk alčuk, ävril evril
+VCVC VCVC	VCVC	VCVC	29	3, 17, 22, 162, 165, 169, 170, 174, 225, 226, 228, 231, 237, 333, 336, 337, 342, 348, 350, 352, 355, 356, 358, 364, 495, 498, 500, 501, 503	ayan ayan, orat orat, aruk āruk, äkäγ ekeγ, inäγ ineγ, ärin erin, äriγ eriγ, ätil etil, urok urok, üdäγ üdeγ, egän egen, ikir ikir, ïraγ iraγ, učoγ učoγ, aγul aγul, učaγ učaγ, urus urus, ökür ükür, eliγ eliγ, ävir evir, ürük ürük, öγir öγir, äγir eγir, özän üzen, inäγ ineγ, erim erim, iriγ iriγ, isig isüg, öväč öveč
+VC VC	VC	VC	9	6, 14, 19, 166, 173, 233, 236, 334, 351	al āl, op op, ar ār, er er, es es, il il, ïr ir, uk uk, ǖn ün
+VCVCV VCVC	VCVCV	VCVC	1	7	alačï alač
+VCCV VCCV	VCCV	VCCV	7	11, 23, 25, 172, 345, 496, 497	alma alma, arpa arpa, askï aski, ičkü ičkü, ogru uγru, örgä ürge, örgä ürge
+VCCVCVC VCCVCVC	VCCVCVC	VCCVCVC	1	12	altïlïg altalag
+VCVCVC VCVCVC	VCVCVC	VCVCVC	2	16, 24	opuruγ opuruγ, arïtan aritan
+CVC CVC	CVC	CVC	52	26, 36, 58, 66, 68, 81, 89, 93, 96, 97, 110, 120, 124, 139, 140, 156, 157, 192, 203, 205, 211, 234, 257, 281, 289, 300, 304, 367, 375, 380, 385, 399, 404, 405, 410, 414, 416, 417, 419, 421, 422, 426, 429, 435, 436, 443, 459, 464, 473, 477, 488, 504	bay bay, bas bas, bog bog, bor bor, bur bur, bäγ beγ, buγ buγ, būs būs, bik bik, bǖn bǖn, čak čak, čat čat, čik čik, čök čük, čök čük, dül dül, dïg dïg, ǰas ǰas, ǰom ǰom, ǰūn ǰūn, ǰul ǰul, vïm vim, kar kar, kēč kēč, kīn kīn, kur kur, koč koč, šar šar, šip šeb, šir šir, šïk šik, siγ siγ, sāl sal, sām sam, sar sar, śēl sēl, sön sön, sip sip, čer śer, sis sis, sin sin, sav saw, sek sek, sön sön, sür sür, tar tar, tīr tīr, tuγ tuγ, tāt tāt, tȫr tȫr, tör tür, vay vay
+CVCCVC CVCCVC	CVCCVC	CVCCVC	44	27, 29, 35, 44, 45, 55, 56, 71, 85, 87, 90, 154, 190, 195, 198, 220, 223, 255, 265, 272, 295, 301, 305, 306, 309, 310, 317, 321, 371, 372, 378, 383, 393, 418, 423, 427, 441, 442, 462, 468, 484, 485, 506, 509	balkan balkan, balvan balvan, barčun barčun, Bärsil bersil, bürtiγ bürtiγ, bolčan bolčan, bolčat bulčat, burčaγ burčaγ, belčiγ belčeγ, bärtän berten, bolčuγ bulčuγ, ǰȧsnaγ ǰisnaγ, ǰarlïγ ǰarlïγ, ǰipliγ ǰipliγ, ǰärmäk ǰärmäk, ǰüγsüγ ǰüγsüγ, χїrγuy xirγuy, kapkan kapkan, kargay karγay, kändir kendir, kumlaγ kumlaγ, korγan korγan, kasmaγ kasmaγ, kädmän kedmen, kölčen külčen, kindik kindik, köpčäγ köpčeγ, kevrič kewrič, čarlaγ čarlaγ, šarmaγ šarmaγ, čöpräγ čöpreγ, širlig šerleg, čumluγ šumluγ, säpliγ sepleγ, sïyrum siyrum, soŋkur sonkor, taplaγ taplaγ, topluγ topluγ, talkïγ talkiγ, tolmač tolmač, toγrïl tuγrïl, togδak toγzak, väyśäγ veyseγ, vändäg vendeg
+CVCCV CVCCV	CVCCV	CVCCV	17	28, 72, 83, 100, 105, 176, 188, 200, 208, 279, 292, 382, 390, 434, 467, 469, 478	balta balta, borsï borsi, büγtä büγte, čiglä čigle, čïgla čigla, kaγδu kaγzu, ǰarpa ǰarpa, yarta ǰarta, ǰinǰü ǰinǰü, kärtä kerte, koldu koldu, širkä širke, čavlï čavli, čiγči śiγči, toklu toklu, turma turma, türkü türkü
+CVCVC CVCVC	CVCVC	CVCVC	98	31, 34, 38, 42, 48, 49, 54, 59, 60, 65, 74, 75, 76, 86, 92, 98, 111, 117, 123, 125, 130, 132, 133, 134, 141, 143, 144, 153, 177, 179, 184, 185, 187, 191, 193, 196, 204, 207, 209, 210, 212, 213, 218, 219, 221, 256, 260, 263, 267, 275, 282, 285, 298, 303, 308, 311, 312, 315, 318, 320, 325, 326, 330, 331, 332, 369, 373, 374, 376, 381, 396, 397, 398, 401, 402, 403, 406, 409, 420, 428, 431, 433, 437, 444, 447, 450, 452, 456, 457, 460, 475, 476, 481, 482, 483, 486, 490, 505	bagïn baγin, barum barum, bičil bečel, bäläg beleg, bitig bitiγ, bïčak bičak, bïrug biruγ, bogul bogul, bogut buγut, boγul boγol, busan busan, bosuγ bosuγ, butїγ butiγ, bülän belen, bular bular, bütüγ bütüγ, čakkan čakan, čanak čanak, čečäk čëček, čöpüγ čöpüγ, čïgïr čigir, čapaγ čapaγ, čolak čolak, čomak čomak, čikin čükün, čunaγ čunaγ, čäwür čevür, ǰȧγaγ ǰiγaγ, güdän güden, gürän güren, ǰalïm ǰalum, ǰonaγ ǰonaγ, ǰaput ǰaput, ǰarat ǰarat, ǰekän ǰeken, ǰäpiγ ǰepiγ, ǰumur ǰumur, ǰïpar ǰïpar, ǰitür ǰitür, ǰäγüz ǰeγüz, ǰuγur ǰuγur, ǰigil ǰiγil, ǰereγ ǰereγ, ǰürüγ ǰürüγ, χayїγ hayiγ, kapuγ kapuγ, koram korām, karoγ karoγ, kazar kazar, käpäγ kepeγ, kičin kičin, kičiγ kičiγ, komur komur, kurum kurum, kökän köken, köläk külek, keliγ keliγ, küńüγ küńüγ, köpäk köpek, küpüγ küpüγ, küsän küsen, kuwan kuwan, küväy küvey, munar munar, nögär nöger, šarug šarug, čaruγ čaruγ, čatur čatur, šipir šipir, čärig čärig, šilliγ šilleγ, šiγül šiγül, čiräγ čireγ, sagïm sagum, sakaγ sakaγ, sakal sakal, saγïn saγin, sapaγ sapaγ, čürüγ sürüγ, sawur sawur, čeleγ śeleγ, siŋuk sinuk, süzök süzök, tavar tavar, tatar tatar, täkir teker, tilök telük, täŋir teŋir, tävir tevir, terem terem, tümän tümen, töγür tüγür, tezäk tözek, tokol tukol, toraγ toraγ, tikär tiker, tiγuk tiγuk, valaγ valaγ
+CVCVCVC CVCVCVC	CVCVCVC	CVCVCVC	13	37, 47, 53, 82, 254, 259, 278, 280, 296, 319, 377, 451, 480	baγatur baγatur, bäčänäg bešeneγ, biläčäk bileček, bögöläk bögölök, karamuγ karamuγ, karakan karakan, käwiräg kevereγ, küčäläγ küčeleγ, kamїčïn kåmičin, kepenek kepenek, šipiriγ šipiriγ, täkänäγ tekeneγ, törüγän türüγen
+CVCV CVCV	CVCV	CVCV	26	39, 43, 46, 52, 62, 63, 64, 99, 118, 121, 129, 149, 150, 151, 183, 197, 368, 386, 394, 413, 461, 463, 466, 471, 474, 507	baka baka, berü bērü, bäšä beše, bïka bika, baka baka, baka bokå, baka båkå, büγü büγü, čata čata, čatï čati, čïga čïga, darï dara, tüli töli, düli döli, ǰala ǰala, ǰäpi ǰepi, šarï šari, šïma šima, šire šere, säkü sekü, teve teve, tana tana, toku toku, turo toro, tükä tüke, väkü vekü
+CVCVCV CVCVCV	CVCVCV	CVCVCV	9	40, 69, 84, 145, 182, 215, 224, 269, 273	bïkaγu bikaγu, buraγu buraγu, büγüči büγüči, čäviri čeviri, küsäγü küseγü, ǰägilä ǰeγile, χumakï humoki, käčäkä kečeke, kenäšū kenešǖ
+CVCCVCCVC CVCCVCCVC	CVCCVCCVC	CVCCVCCVC	1	61	balturgan balturγan
+CVCC CVCC	CVCC	CVCC	4	70, 365, 384, 446	burč burč, čïγt čaγt, širt širt, tart tart
+CVCVCCVC CVCVCCVC	CVCVCCVC	CVCVCCVC	8	73, 217, 261, 271, 288, 299, 448, 472	basarkan basarkan, ǰemilčen ǰemilčen, karampil karampil, kälinčäγ kälinčäγ, kökärčän kükerčen, kapurčaγ kopurčaγ, taturgan taturγan, turuntay turuntay
+CVCCVC CVCCVV	CVCCVC	CVCCVV	1	94	buγδay buγzai
+CVCVCVC CVCVC	CVCVCVC	CVCVC	2	112, 328	čalïγan čalān, külüläγ külleγ
+CVCCV CVCVC	CVCCV	CVCVC	1	115	čaltï čalit
+CVCV CVC	CVCV	CVC	1	138	čükV čük
+CVCVC CVVC	CVCVC	CVVC	1	142	čäwiš čäüš
+VCV VC	VCV	VC	1	159	edü ëdʹ
+VC VCC	VC	VCC	1	163	äŋ eng
+VCCVCC VCCVCC	VCCVCC	VCCVCC	1	168	ärkilč erkelč
+CVCVCV CVCCV	CVCVCV	CVCCV	1	186	ǰapaγu ǰapγu
+CVCV CVCCV	CVCV	CVCCV	1	194	ǰeŋi ǰenge
+CVCCVCVC CVCCVCVC	CVCCVCVC	CVCCVCVC	3	201, 245, 511	yartaγan ǰartaγan, karlukan karlukan, vertülük vertelük
+CVCCVCV CVCCVC	CVCCVCV	CVCCVC	1	202	ǰulkučï ǰilkuš
+CVCVCC CVCVCC	CVCVCC	CVCVCC	2	216, 439	ǰemilč ǰemilč, tanïlč tanilč
+CVCVC CVCCVC	CVCVC	CVCCVC	2	222, 455	χoŋar hangar, teŋäl tengel
+VCV VCV	VCV	VCV	6	227, 229, 238, 491, 492, 493	ügä üge, äyi äyi, ïsï isi, uγu ugu, urï uri, edü edü
+VCCVC VCVC	VCCVC	VCVC	1	235	öŋmäk ümmeg
+CVCVCVC CVCVVC	CVCVCVC	CVCVVC	1	243	kolavuz kalauz
+CCVCVC CVCVC	CCVCVC	CVCVC	1	244	kvaliz kaliz
+CVCVCVCVC CVCVCVCVC	CVCVCVCVC	CVCVCVCVC	2	264, 329	karakotan karakotan, köligäliγ köligeliγ
+CVCVC CVCVCC	CVCVC	CVCVCC	1	266	kataŋ katāng
+CVC CVCC	CVC	CVCC	2	270, 454	kȫk keyk, täŋ teng
+CVCVC CVC	CVCVC	CVC	1	277	käwir kēr
+CVCVCVCC CVCVCVCC	CVCVCVCC	CVCVCVCC	1	287	kökärilč kükerilč
+CVCCVC CVCVC	CVCCVC	CVCVC	1	302	kowrog kuroγ
+CVCCCVCVC CVCCCVCV	CVCCCVCVC	CVCCCVCV	1	323	kertweliγ kertβeli
+VCVCCVC VCVCCVC	VCVCCVC	VCVCCVC	1	343	aruslan uruslān
+VCCVCV VCCVCV	VCCVCV	VCCVCV	2	346, 354	orwučï urvoči, ärmäni ermeni
+VCC VCC	VCC	VCC	1	349	ilt ilt
+VCVCCVC VCCCVC	VCVCCVC	VCCCVC	1	353	ävirmän eü̯rmen
+CVCVCVC CVCCVC	CVCVCVC	CVCCVC	3	370, 445, 479	šarakan šārkān, tarïlaγ tarlaγ, törütün törtün
+CVV CVV	CVV	CVV	1	387	šiu šiu
+CVC CVV	CVC	CVV	1	388	šiw šiu
+CVCCVCVC CVCCVCV	CVCCVCVC	CVCCVCV	1	395	šivrigey ševrege
+CVCCVC CVCC	CVCCVC	CVCC	1	411	čaγrïn śārn
+CVCVCCV CVCVCCV	CVCVCCV	CVCVCCV	1	412	satïγčï satiγči
+CVCCVCV CVCCVCV	CVCCVCV	CVCCVCV	1	438	taltučï taltuči
+CVCVC CVCV	CVCVC	CVCV	1	440	tanuγ tanu
