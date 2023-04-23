@@ -44,10 +44,10 @@ def run(args):
     cogid2tgtform = {row[9]: row[5] for row in dfforms[1:] if row[2] == args.tgtlg}
 
     # read H2EAHsc.tsv
-    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc.tsv", "r") as f:
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv", "r") as f:
         dfsc = list(csv.reader(f))
     # merge CogIDs with forms
-    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc.tsv", "w") as f:
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv", "w") as f:
         writer = csv.writer(f)
         dfsc[0].append("forms")
         writer.writerow(dfsc[0])

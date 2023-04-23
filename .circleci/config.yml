@@ -104,6 +104,21 @@ jobs:
             else echo heuristics differ; exit 1; fi
 
       - run:
+          name: Visualise sound correspondences as tsv, check if output OK
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.vizsc H EAH
+
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.vizsc WOT EAH
+
+            cd loanpy && if diff H2EAHsc.tsv H2EAHsc0.tsv; then echo OK;
+            else echo sc-tables differ for H and EAH; exit 1; fi
+
+            if diff WOT2EAHsc.tsv WOT2EAHsc0.tsv; then echo OK;
+            else echo sc-tables differ for WOT and EAH; exit 1; fi
+
+      - run:
           name: Evaluate vertical predictions, check if output OK
           command: >
             cd ronataswestoldturkic && cldfbench
@@ -122,6 +137,20 @@ jobs:
             cd loanpy &&
             if diff tpfpWOT2EAH.json tpfpWOT2EAH0.json; then echo OK;
             else echo tpfp differ; exit 1; fi
+
+      - run:
+          name: Plot evaluations, check if jpegs were written
+          command: >
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.plot_eval H EAH
+
+            cd ronataswestoldturkic && cldfbench
+            ronataswestoldturkic.plot_eval WOT EAH
+
+            test -e WOT2EAH.jpeg && echo "OK" || exit 1
+
+
+
 
 workflows:
   main:
