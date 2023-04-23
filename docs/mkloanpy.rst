@@ -93,5 +93,5 @@ to evaluate predictive models, especially in Machine Learning:
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
 
- .. automodule:: ronataswestoldturkiccommands.plot_eval
-    :members:
+.. automodule:: ronataswestoldturkiccommands.plot_eval
+   :members:
