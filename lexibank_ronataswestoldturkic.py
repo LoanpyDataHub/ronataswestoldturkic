@@ -121,7 +121,7 @@ class Dataset(BaseDataset):
 
                     lex["CV_Segments"] = ipa.get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = ipa.get_prosody(
-                                                    "".join(lex["Segments"])
+                                                    " ".join(lex["Segments"])
                                                     )
                     lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
                     if language == "EAH":

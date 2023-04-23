@@ -22,20 +22,21 @@ def find_optimum(points):
 
     return tuple(optimal_point)
 
-def plot_curve(points, maxfp, maxtp, file_name):
+def plot_curve(points, absfp, maxtp, file_name):
     x_values = [point[0] for point in points]
     y_values = [point[1] for point in points]
 
     plt.plot(x_values, y_values, label='ROC Curve')
-    plt.xlabel(f'Relative number of guesses per word (100%={maxfp})')
+    plt.xlabel(f'Relative number of guesses per word (100%={absfp[-1]})')
     plt.ylabel(f'Relative number of true positives in data (100%={maxtp})')
 
     area = auc(points)
-    plt.title(f'ROC curve (AUC: {area:.4f})')
+    plt.title(f'Predicting Early Ancient Hungarian forms\nfrom Hungarian (AUC: {area:.4f})')
 
     # Find and plot the optimum point
     optimum = find_optimum(points)
-    plt.plot(optimum[0], optimum[1], marker='x', color='C1', label='Optimum',
+    plt.plot(optimum[0], optimum[1], marker='x', color='C1',
+             label=f'Optimum:\nhowmany={absfp[points.index(list(optimum))]}\n(tp: {optimum[1]:.0%})',
              markersize=10, mew=1)
 
     plt.legend()
@@ -56,10 +57,11 @@ def auc(points):
 def register(parser):
     """
     """
-    parser.add_argument("tpfpjson")
-    parser.add_argument("outputjpg")
+    parser.add_argument("srclg")
+    parser.add_argument("tgtlg")
 
 def run(args):
-    with open(args.tpfpjson, "r") as f:
+    with open(f"loanpy/tpfp{args.srclg}2{args.tgtlg}.json", "r") as f:
         data = json.load(f)
-    plot_curve(data["tp_fp"], data["fp"], data["tp"], args.outputjpg)
+    plot_curve(data["tp_fp"], data["fp"], data["tp"],
+               f"loanpy/{args.srclg}2{args.tgtlg}.jpeg")

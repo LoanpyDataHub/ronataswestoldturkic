@@ -9,6 +9,7 @@ clldutils==3.19.0
 colorama==0.4.6
 colorlog==6.7.0
 csvw==3.1.3
+cycler==0.11.0
 exceptiongroup==1.1.1
 gitdb==4.0.10
 greenlet==2.0.2
@@ -17,10 +18,12 @@ idna==3.4
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.17.3
+kiwisolver==1.4.4
 lingpy==2.6.9
--e git+https://github.com/martino-vic/loanpy.git@cbba022beb97c91ba80addce63b506f6fbda800d#egg=loanpy
+-e git+https://github.com/LoanpyDataHub/loanpy.git@3fc85fb987f8f2df7e4702eabd1a0bd54f6d2597#egg=loanpy
 lxml==4.9.2
 Markdown==3.4.3
+matplotlib==3.7.1
 nameparser==1.1.2
 networkx==3.1
 newick==1.9.0
@@ -36,6 +39,7 @@ pycountry==22.3.5
 pyglottolog==3.11.0
 pylatexenc==2.10
 pylexibank==3.4.0
+pyparsing==3.0.9
 pyrsistent==0.19.3
 pytest==7.2.2
 python-dateutil==2.8.2

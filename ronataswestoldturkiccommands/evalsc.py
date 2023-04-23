@@ -66,7 +66,7 @@ def run(args):
     out = {}
     out["tp_fp"] = eval_all(dfedicted, args.heur, args.adapt, args.guesslist,
                             args.prosody)
-    out["fp"] = args.guesslist[-1]
+    out["fp"] = args.guesslist
     out["tp"] = len(dfedicted)
 
     with open(f"loanpy/tpfp{args.srclg}2{args.tgtlg}0.json", "w+") as f:
