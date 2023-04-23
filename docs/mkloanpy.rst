@@ -58,7 +58,7 @@ To create a human-readable tsv-file, run:
    cldfbench ronataswestoldturkic.vizsc H EAH
    cldfbench ronataswestoldturkic.vizsc WOT EAH
 
-.. automodule:: ronataswestoldturkic.vizsc
+.. automodule:: ronataswestoldturkiccommands.vizsc
    :members:
 
 This will output two tsv files. Delete the trailing zeroes in the file names
