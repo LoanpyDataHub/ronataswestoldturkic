@@ -133,7 +133,7 @@ jobs:
           command: >
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.evalsc WOT EAH
-            "[10, 100, 500, 700, 1000, 5000, 7000" True True heur.json
+            "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
 
             cd loanpy &&
             if diff tpfpWOT2EAH.json tpfpWOT2EAH0.json; then echo OK;
