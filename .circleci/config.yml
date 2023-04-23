@@ -83,7 +83,7 @@ jobs:
             ronataswestoldturkic.makeheur EAH testheur.json
 
             cd loanpy && diff -y -W 70 testheur.json heur.json
-            
+
             if diff testheur.json heur.json; then echo OK;
             else echo heuristics differ; exit 1; fi
 
@@ -108,11 +108,9 @@ jobs:
       - run:
           name: Visualise sound correspondences as tsv, check if output OK
           command: >
-            cd ronataswestoldturkic && cldfbench
-            ronataswestoldturkic.vizsc H EAH
-
-            cd ronataswestoldturkic && cldfbench
-            ronataswestoldturkic.vizsc WOT EAH
+            cd ronataswestoldturkic &&
+            cldfbench ronataswestoldturkic.vizsc H EAH &&
+            cldfbench ronataswestoldturkic.vizsc WOT EAH
 
             cd loanpy && if diff H2EAHsc.tsv H2EAHsc0.tsv; then echo OK;
             else echo sc-tables differ for H and EAH; exit 1; fi
