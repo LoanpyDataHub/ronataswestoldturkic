@@ -34,7 +34,7 @@ def run(args):
     """
 
     scjson2tsv(f"loanpy/{args.srclg}2{args.tgtlg}sc.json",
-               f"loanpy/{args.srclg}2{args.tgtlg}sc.tsv")
+               f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv")
 
     # create dictionary of CogID2form
     with open("cldf/forms.csv", "r") as f:
@@ -44,11 +44,11 @@ def run(args):
     cogid2tgtform = {row[9]: row[5] for row in dfforms[1:] if row[2] == args.tgtlg}
 
     # read H2EAHsc.tsv
-    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv", "r") as f:
-        dfsc = list(csv.reader(f))
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc.tsv", "r") as f:
+        dfsc = list(csv.reader(f, delimiter="\t"))
     # merge CogIDs with forms
     with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0.tsv", "w") as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, delimiter="\t")
         dfsc[0].append("forms")
         writer.writerow(dfsc[0])
         for row in dfsc[1:]:

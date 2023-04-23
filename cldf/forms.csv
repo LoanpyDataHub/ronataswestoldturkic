@@ -554,7 +554,7 @@ WOT-133_merit-1,,WOT,133_merit,ärdäm,ärdäm,ɛ r d ɛ m,,wot,167,true,^ ä r 
 H-134_moralsmorality-1,,H,134_moralsmorality,erkölcs,erkölcs,ɛ r k ø l t͡ʃ,,wot,168,true,^ e r k ö l cs $,H,ɛ r.k ø l.t͡ʃ,VCCVCC,true,1372
 EAH-134_moralsmorality-1,,EAH,134_moralsmorality,erkelč,erkelč,ɛ r k ɛ l t͡ʃ,,wot,168,true,^ e r k e l č $,EAH,ɛ r.k ɛ l.t͡ʃ,VCCVCC,true,1372
 WOT-134_moralsmorality-1,,WOT,134_moralsmorality,ärkilč,ärkilč,ɛ r k i l t͡ʃ,,wot,168,true,^ ä r k i l č $,WOT,ɛ r.k i l.t͡ʃ,VCCVCC,true,1372
-H-135_totirelosevitalityslackenrelax-1,,H,135_totirelosevitalityslackenrelax,ernyed,ernyed,ɛ r ɲ ɛ d,,wot,169,true,^ e r ny e d $,H,ɛ r.ɲ ɛ d,VCCVC,true,1803
+H-135_totirelosevitalityslackenrelax-1,,H,135_totirelosevitalityslackenrelax,ernyed,erny,ɛ r ɲ,,wot,169,true,^ e r ny $,H,ɛ r.ɲ,VCC,true,1803
 EAH-135_totirelosevitalityslackenrelax-1,,EAH,135_totirelosevitalityslackenrelax,erin,erin,ɛ r i n,,wot,169,true,^ e r i n $,EAH,ɛ r i n,VCVC,true,1803
 WOT-135_totirelosevitalityslackenrelax-1,,WOT,135_totirelosevitalityslackenrelax,ärin,ärin,ɛ r i n,,wot,169,false,^ ä r i n $,WOT,ɛ r i n,VCVC,true,1803
 H-136_strengthpower-1,,H,136_strengthpower,erő,erő,ɛ r øː,,wot,170,true,^ e r ő $,H,ɛ r øː,VCV,true,1086
@@ -1074,7 +1074,7 @@ EAH-266_mellowpowderycrumblyrottenmouldy-1,,EAH,266_mellowpowderycrumblyrottenmo
 WOT-266_mellowpowderycrumblyrottenmouldy-1,,WOT,266_mellowpowderycrumblyrottenmouldy,kävräγ,kävräγ,k ɛ v r ɛ ɣ,,wot,322,true,^ k ä v r ä γ $,WOT,k ɛ v.r ɛ ɣ,CVCCVC,true,1828
 H-267_pearpyruscommunis-1,,H,267_pearpyruscommunis,körtvély,körtvély,k ø r t v eː j,,wot,323,true,^ k ö r t v é ly $,H,k ø r.t.v eː j,CVCCCVC,true,1055
 OH-267_pearpyruscommunis-1,,OH,267_pearpyruscommunis,kërtveli,kërtveli,k e r t v ɛ l i,,wot,323,true,^ k ë r t v e l i $,OH,k e r.t.v ɛ l i,CVCCCVCV,true,1055
-EAH-267_pearpyruscommunis-1,,EAH,267_pearpyruscommunis,kertβeli,kertβeli,k ɛ r t β ɛ l i,,wot,323,true,^ k e r t β e l i $,EAH,k ɛ r.t.β ɛ l i,CVCCCVCV,true,1055
+EAH-267_pearpyruscommunis-1,,EAH,267_pearpyruscommunis,kertβeli,kertβeli,k ɛ r t w ɛ l i,,wot,323,true,^ k e r t β e l i $,EAH,k ɛ r.t.w ɛ l i,CVCCCVCV,true,1055
 WOT-267_pearpyruscommunis-1,,WOT,267_pearpyruscommunis,kertweliγ,kertweliγ,k ɛ r t w ɛ l i ɣ,,wot,323,true,^ k e r t w e l i γ $,WOT,k ɛ r.t.w ɛ l i ɣ,CVCCCVCVC,true,1055
 H-267_pearpyruscommunis-2,,H,267_pearpyruscommunis,körtvély,körtvély,k ø r t v eː j,,wot,324,true,^ k ö r t v é ly $,H,k ø r.t.v eː j,CVCCCVC,true,1055
 OH-267_pearpyruscommunis-2,,OH,267_pearpyruscommunis,kertmeli,kertmeli,k ɛ r t m ɛ l i,,wot,324,true,^ k e r t m e l i $,OH,k ɛ r.t.m ɛ l i,CVCCCVCV,true,1055

@@ -46,9 +46,9 @@ Skeleton for the Hungarian orthographic profile comes from: https://github.com/d
 - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
 - **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,192
-- **Segments:** 61 (0 BIPA errors, 0 CLTS sound class errors, 61 CLTS modified)
-- **Inventory size (avg):** 43.00
+- **Tokens:** 8,190
+- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
+- **Inventory size (avg):** 42.80
 
 # Contributors
 
