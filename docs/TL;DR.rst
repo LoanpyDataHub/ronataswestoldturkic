@@ -35,6 +35,8 @@ make edictor:
 
 make loanpy:
 
+.. code-block:: sh
+
    cldfbench ronataswestoldturkic.mineEAHinvs invs.json
    cldfbench ronataswestoldturkic.makeheur EAH heur.json
    cldfbench ronataswestoldturkic.minesc H EAH
