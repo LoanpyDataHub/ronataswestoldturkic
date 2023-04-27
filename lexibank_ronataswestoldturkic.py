@@ -2,10 +2,10 @@
 lexibank script to convert data to CLDF standard
 """
 
+import ast
 import json
 import pathlib
 
-import ast
 import attr
 from clldutils.misc import slug
 from loanpy.utils import IPA

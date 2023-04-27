@@ -147,6 +147,7 @@ transfers.
 
 .. code-block:: python
 
+   import ast
    import json
    import pathlib
 
@@ -155,8 +156,10 @@ transfers.
    from loanpy.utils import IPA
    from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 
-First, we import two inbuilt Python-libraries.
+First, we import three inbuilt Python-libraries.
 
+- The `ast <https://docs.python.org/3/library/ast.html>`_ library will turn
+  the strings "True" and "False" into booleans.
 - The `json <https://docs.python.org/3/library/json.html>`_ library
   will be used to read the data-cleaning instructions for the
   `pylexibank.FormSpec` class.
