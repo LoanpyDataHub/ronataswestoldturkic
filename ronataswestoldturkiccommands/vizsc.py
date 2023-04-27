@@ -1,5 +1,7 @@
 """
-Read in sc-json and turn it into a tsv-file
+Read json file containing six dictionaries about sound and phonotactic
+correspondences and turn it into a human-readable tsv-file with additional
+info for easier manual inspection.
 """
 
 import csv
@@ -21,16 +23,14 @@ def register(parser):
 
 def run(args):
     """
-    #. If argument three was provided, read the json-file containing heuristic
-       phoneme adaptation predictions with the inbuilt json package.
-    #. Read aligned forms from ``edictor/{srclg}2{tgtlg}edicted.tsv``
-    #. Extract sound and phonotactic correspondences from the data with
-       loanpy's `get_corrspondences
-       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_correspondences>`_
-       function
-    #. Write the sound correspondences to a file named
-       ``{srclg}2{tgtlg}sc0.json`` in the folder ``loanpy``. Manually remove
-       the trailing zero in the file name if the file seems fine.
+    #. Read sound-correspondence json at ``loanpy/{srclg}2{tgtlg}sc.json``.
+    #. Transform computer-readable data structure to human-readable tables
+       with `loanpy.utils.scjson2tsv
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.scjson2tsv>`_
+    #. Merge IDs with info from related tables for easier manual inspection.
+    #. Write the correspondence tables to two files named
+       ``{srclg}2{tgtlg}sc.tsv`` and ``{srclg}2{tgtlg}sc_phonotactics.tsv``
+       in the folder ``loanpy``.
     """
 
     scjson2tsv(f"loanpy/{args.srclg}2{args.tgtlg}sc.json",
