@@ -138,6 +138,8 @@ result:
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
+   :alt: Shows a blue ROC curve with a legend on the bottom right hand corner
+         and a dark yellow X marking the optimum.
 
    The ROC curve shows how the relative number of true positives (y-axis)
    increases, as the relative number of false positives (x-axis) increases.
