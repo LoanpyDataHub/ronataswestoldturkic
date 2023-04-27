@@ -78,6 +78,16 @@ function
 
    cldfbench ronataswestoldturkic.evalsc WOT EAH "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
 
+The result:
+
+.. image:: ../loanpy/H2EAH.jpeg
+
+.. image:: ../loanpy/H2EAH.jpeg
+
+TODO add image description and alt text
+
+What happened under the hood:
+
 .. automodule:: ronataswestoldturkiccommands.evalsc
    :members:
 
@@ -96,11 +106,4 @@ to evaluate predictive models:
 .. automodule:: ronataswestoldturkiccommands.plot_eval
    :members:
 
-This is how the two plots look:
-
-.. image:: ../loanpy/H2EAHsc.jpeg
-
-.. image:: ../loanpy/H2EAHsc.jpeg
-
-TODO INSERT AND EXPLAIN
 TODO show performance after leaving out unique sound correspondences
