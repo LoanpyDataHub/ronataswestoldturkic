@@ -1,4 +1,4 @@
-Part 3: Analyse data with loanpy
+Part 3: Analyse data with LoanPy
 ================================
 
 The following six steps describe how to input aligned CLDF data to `loanpy
@@ -128,8 +128,10 @@ training and test data we get following result:
 
 .. figure:: ../loanpy/filter_uniques/H2EAH.jpeg
 
-   This model performs significantly better than the previous one, with an
-   AUC over 0.9, which `is considered outstanding
+   This model performs significantly better than the previous one. At its
+   optimum of 100 guesses per word it reconstructs 279 out of 300 forms (93%)
+   correctly. The
+   AUC is above 0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
 Predicting loanword adaptations from West Old Turkic words:
