@@ -161,7 +161,10 @@ result:
    AUC is above 0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
+.. figure:: ../loanpy/WOT2EAH.jpeg
 
+   Test caption
+   
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
