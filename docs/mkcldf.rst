@@ -212,7 +212,8 @@ in this script, they were written to a json-file, which is loaded here.
        Year = attr.ib(default=None)
 
 Here we define custom columns that are not included by default, using the
-attr library and the Lexeme class that we have imported earlier.
+`attr.ib <https://www.attrs.org/en/stable/api-attr.html#attr.ib>`_ and the
+Lexeme class that we have imported earlier.
 
 .. code-block:: python
 
@@ -233,8 +234,8 @@ Here we define a function that checks whether a word has vowel harmony or not.
 
 .. code-block:: python
 
-    def get_loan(loan, language):
-        return loan == "TRUE" if language == "WOT" else True
+   def get_loan(loan, language):
+       return ast.literal_eval(loan) if language == "WOT" else True
 
 Here we convert the information from the column ``WOT_loan`` in
 ``raw/wot.tsv`` to booleans. This has to be a separate function and can't be
