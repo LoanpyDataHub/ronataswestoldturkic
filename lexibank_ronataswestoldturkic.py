@@ -5,6 +5,7 @@ lexibank script to convert data to CLDF standard
 import json
 import pathlib
 
+import ast
 import attr
 from clldutils.misc import slug
 from loanpy.utils import IPA
@@ -37,7 +38,7 @@ def has_harmony(segments):
     return "true"
 
 def get_loan(loan, language):
-    return loan == "TRUE" if language == "WOT" else True
+    return ast.literal_eval(loan) if language == "WOT" else True
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
