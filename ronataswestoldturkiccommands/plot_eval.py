@@ -5,6 +5,7 @@ Plot the results of the sound correrspondence file evaluation.
 import json
 import matplotlib.pyplot as plt
 import math
+from pathlib import Path
 from typing import List, Tuple, Union
 
 def euclidean_distance(point1, point2):
@@ -23,14 +24,51 @@ def find_optimum(points):
 
     return tuple(optimal_point)
 
-def plot_curve(points, absfp, maxtp, file_name):
+def plot_curve(
+        points: List[Tuple[Union[int, float], Union[int, float]],
+        absfp: List[int],
+        maxtp: int,
+        file_name: Union[str, Path]
+        ) -> None:
+    """
+
+    #. Get a list of x- and y-axis values out of the points argument
+    #. Plot them to a graph with matplotlib, add lables to axes.
+    #. Calculate the area under the curve and add it to the plot title
+    #. Calculate the optimal cut-off point and mark it with an "x" on the
+       graph.
+    #. Add a legend to the plot and write the image as a jpeg to the specified
+       path
+
+    :param points: List of coordinate points as tuples
+    :type points: list of tuples of floats or integers
+
+    :param absfp: The absolute numbers of guesses made. Needed to add
+                  information to legend on how many guesses are the optimum.
+    :type absfp: a list of integers
+
+    :param maxtp: The absolute number of possible true positives. Needed to
+                  contextualise the relative information on the plot as a
+                  human reader.
+    :type maxtp: an integer
+
+    :param file_name: The desired name and location of the output file.
+    :type file_name: a string or pathlike object
+
+    :return: Writes the images to the specified path, returns None
+    :rtype: None
+
+    """
+    # get two lists of x-axis and y-axis values
     x_values = [point[0] for point in points]
     y_values = [point[1] for point in points]
 
+    # plot graphs and add axis labels
     plt.plot(x_values, y_values, label='ROC Curve')
     plt.xlabel(f'Relative number of guesses per word (100%={absfp[-1]})')
     plt.ylabel(f'Relative number of true positives in data (100%={maxtp})')
 
+    # get area under the curve and add to plot title
     area = auc(points)
     plt.title(f'Predicting Early Ancient Hungarian forms\nfrom Hungarian (AUC: {area:.4f})')
 
@@ -40,7 +78,7 @@ def plot_curve(points, absfp, maxtp, file_name):
              label=f'Optimum:\nhowmany={absfp[points.index(list(optimum))]}\n(tp: {optimum[1]:.0%})',
              markersize=10, mew=1)
 
-    plt.legend()
+    plt.legend()  # add little info box to bottom right corner
     plt.savefig(file_name, format='jpeg')
     plt.close()
 
@@ -50,7 +88,7 @@ def auc(points: List[Tuple[Union[int, float], Union[int, float]]) -> float:
     <https://en.wikipedia.org/wiki/Trapezoidal_rule>`_
 
     :param points: A list of x-y-coordinates
-    :rtype points: list of tuples of integers or floats
+    :type points: list of tuples of integers or floats
 
     :returns: The area under the curve
     :rtype: float
