@@ -123,8 +123,9 @@ shows that 106 out of 406 or 26% of all etymologies contain at least one sound
 correspondence that is irregular, i.e. occurs only in one single etymology.
 (Note that the pre-filtering did not skew this ratio because it picked all
 cognate sets with an Early Ancient Hungarian and a Hungarian counterpart.)
-If we remove all cognate sets with irregular sound correspondences from our
-training and test data we get following result:
+If we remove those 106 cognate sets with irregular sound correspondences
+from our training and test data, 300 cognate sets remain and we get following
+result:
 
 .. figure:: ../loanpy/filter_uniques/H2EAH.jpeg
 

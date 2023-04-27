@@ -28,8 +28,8 @@ def find_optimum(
         points: List[Tuple[Union[int, float], Union[int, float]]]
         ) -> Tuple[Union[int, float], Union[int, float]]:
     """
-    Calculates the euclidean distance of each point to the upper left hand
-    corner and returns the point with the lowest distance
+    Calculate the euclidean distance of each point to the upper left hand
+    corner and return the point with the lowest distance
 
     :param points: A list of coordinates representing points in the graph.
     :type points: a list of tuples of floats or integers
@@ -110,7 +110,7 @@ def plot_curve(
 
 def auc(points: List[Tuple[Union[int, float], Union[int, float]]]) -> float:
     """
-    Calculate the area under the curve with a `trapezoidal rule
+    Calculate the area under the curve with the `trapezoidal rule
     <https://en.wikipedia.org/wiki/Trapezoidal_rule>`_
 
     :param points: A list of x-y-coordinates
