@@ -211,7 +211,7 @@ in this script, they were written to a json-file, which is loaded here.
        FB_VowelHarmony = attr.ib(default=None)
        Year = attr.ib(default=None)
 
-Here we define custom columns that are not included by default, using the
+Here we define custom columns that are not included by default, using
 `attr.ib <https://www.attrs.org/en/stable/api-attr.html#attr.ib>`_ and the
 Lexeme class that we have imported earlier.
 
@@ -265,7 +265,8 @@ plugging in the data-cleaning rules that were hard coded in
 	def cmd_makecldf(self, args):
 
 This function is being run when summoning the lexibank script from the
-command line. It converts the data from raw and etc to standardised CLDF data.
+command line. It converts the data from the folders ``raw`` and ``etc`` to
+standardised CLDF data.
 
 .. code-block:: python
 
@@ -275,8 +276,10 @@ command line. It converts the data from raw and etc to standardised CLDF data.
             "BorrowingTable"
         )
 
-Here we are creating a file ``borrowings.csv`` which will contain the IDs of
-donor and recipient words.
+Here we are creating a `BorrowingTable
+<https://cldf.clld.org/v1.0/terms.rdf#BorrowingTable>`_
+``cldf/borrowings.csv`` which will contain the IDs of donor and recipient
+words.
 
 .. code-block:: python
 
