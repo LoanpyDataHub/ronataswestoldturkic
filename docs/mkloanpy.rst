@@ -97,7 +97,7 @@ to evaluate predictive models:
 
  .. image:: ../loanpy/H2EAH.jpeg
 
- .. image:: ../loanpy/H2EAH.jpeg
+ .. image:: ../loanpy/WOT2EAH.jpeg
 
  TODO add image description and alt text
 
