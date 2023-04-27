@@ -158,7 +158,8 @@ transfers.
 First, we import two inbuilt Python-libraries.
 
 - The `json <https://docs.python.org/3/library/json.html>`_ library
-  will be used to read the data-cleaning instructions for FormSpec
+  will be used to read the data-cleaning instructions for the
+  `pylexibank.FormSpec` class.
 - The `pathlib <https://docs.python.org/3/library/pathlib.html>`_ library
   will be used to define file paths
 
@@ -170,7 +171,8 @@ These were installed when running
   we will create the custom language class with custom columns in the output
   file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
-  function from the clldutils library will be used to format some IDs.
+  function from the `clldutils <https://github.com/clld/clldutils>`_ library
+  will be used to format some IDs.
 - The `prosodic_string
   <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
   function from the lingpy library will be used to create the phonotactic
