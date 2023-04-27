@@ -20,7 +20,7 @@ isodate==0.6.1
 jsonschema==4.17.3
 kiwisolver==1.4.4
 lingpy==2.6.9
--e git+https://github.com/LoanpyDataHub/loanpy.git@0c33239736590ecc8c300847e41d7942d1b4e781#egg=loanpy
+-e git+https://github.com/LoanpyDataHub/loanpy.git@31f481d135e3b89f3ec4a3e94641da2d50769dc4#egg=loanpy
 lxml==4.9.2
 Markdown==3.4.3
 matplotlib==3.7.1

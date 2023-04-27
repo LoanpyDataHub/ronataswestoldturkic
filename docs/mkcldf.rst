@@ -522,6 +522,32 @@ first use-case for this functionality (see `discussion on GitHub
 This is how your console should approximately look after the conversion:
 
 .. image:: consoleoutput.png
+   :alt: The image shows a typical linux console with black background and
+         text displayed in it in white and green. The text reads:
+          (venv) viktor@viktor-Latitude-5430:~/Documents/GitHub/ronataswestoldturkic$ bash wot.sh
+          INFO    running _cmd_makecldf on ronataswestoldturkic ...
+          INFO    added sources
+          INFO    added concepts
+          INFO    added comments
+          INFO    added languages
+          2023-04-27 23:55:27,155 [INFO] Successfully renumbered cog.
+          INFO    file written: /home/viktor/Documents/GitHub/ronataswestoldturkic/cldf/.transcription-report.json
+          INFO    Summary for dataset /home/viktor/Documents/GitHub/ronataswestoldturkic/cldf/cldf-metadata.json
+          - **Varieties:** 5
+          - **Concepts:** 430
+          - **Lexemes:** 1,755
+          - **Sources:** 1
+          - **Synonymy:** 1.19
+          - **Cognacy:** 1,755 cognates in 512 cognate sets (6 singletons)
+          - **Cognate Diversity:** 0.06
+          - **Invalid lexemes:** 0
+          - **Tokens:** 8,190
+          - **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
+          - **Inventory size (avg):** 42.80
+          INFO    file written: /home/viktor/Documents/GitHub/ronataswestoldturkic/TRANSCRIPTION.md
+          INFO    file written: /home/viktor/Documents/GitHub/ronataswestoldturkic/cldf/lingpy-rcParams.json
+          INFO    ... done ronataswestoldturkic [9.2 secs]
+
 
 Step 6: Test with pytest-cldf whether the dataset is CLDF-conform
 -----------------------------------------------------------------
