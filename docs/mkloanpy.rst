@@ -100,6 +100,19 @@ The results:
 Predicting reconstructions from modern Hungarian words:
 
 .. figure:: ../loanpy/H2EAH.jpeg
+   :alt: A coordinate system with an x and a y-axis and a blue graph groing
+         in an arch from the lower left hand corner towards the upper left
+         hand corner and then the upper right hand corner. Title of the
+         plot reads "Predicting Early Ancient Hungarian forms (AUC:
+         0.7177)". The y-axis reads "Relative number of true positives
+         in data (100%=406)". Its values go from 0.45 until 0.75 in steps of
+         0.5. The x-axis reads "Relative number of guesses per word
+         (100%=7000)". Its values go from 0.0 to 1.0 in steps of 0.2.
+         In the bottom right hand corner there's an info box with a blue line
+         saying "ROC Curve" and a dark yellow or ochre line with a dark yellow
+         X on it that reads "Optimum: howmany=700 (tp: 70%)". There's a dark
+         yellow/ochre X on the graph at 0.1 on the x-axis and 0.7 on
+         the y-axis.
 
    The ROC curve shows how the relative number of true positives (y-axis)
    increases, as the relative number of false positives (x-axis) increases.
