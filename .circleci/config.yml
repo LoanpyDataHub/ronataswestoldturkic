@@ -68,11 +68,11 @@ jobs:
           name: Create phonotactic inventory, check if output is good
           command: >
             cd ronataswestoldturkic && cldfbench
-            ronataswestoldturkic.mineEAHinvs testinvs.json
+            ronataswestoldturkic.mineEAHinvs invsEAH.json
 
-            cd loanpy && out=$(jq --argfile a testinvs.json --argfile b
-            invsEAH.json -n '($a | (.. | arrays) |= sort) as $a |
-            ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
+            cd loanpy && out=$(jq --argfile a invsEAH.json --argfile b
+            .circleci_backup/invsEAH.json -n '($a | (.. | arrays) |= sort) as
+            $a | ($b | (.. | arrays) |= sort) as $b | $a == $b') &&
             if [ "$out" = true ]; then   echo "OK";
             else   echo inventoriess differ; exit 1; fi
 
@@ -80,10 +80,10 @@ jobs:
           name: Create heuristic sound subsitution, check if output is good
           command: >
             cd ronataswestoldturkic && cldfbench
-            ronataswestoldturkic.makeheur EAH testheur.json
+            ronataswestoldturkic.makeheur EAH heur.json
 
-            cd loanpy && if diff testheur.json heur.json; then echo OK;
-            else echo heuristics differ; exit 1; fi
+            cd loanpy && if diff heur.json .circleci_backup/heur.json;
+            then echo OK; else echo heuristics differ; exit 1; fi
 
       - run:
           name: Mine vertical sound correspondences, check if output OK
@@ -91,8 +91,8 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.minesc H EAH
 
-            cd loanpy && if diff H2EAHsc.json H2EAHsc0.json; then echo OK;
-            else echo heuristics differ; exit 1; fi
+            cd loanpy && if diff H2EAHsc.json .circleci_backup/H2EAHsc.json;
+            then echo OK; else echo heuristics differ; exit 1; fi
 
       - run:
           name: Mine horizontal sound correspondences, check if output OK
@@ -100,7 +100,8 @@ jobs:
             cd ronataswestoldturkic && cldfbench
             ronataswestoldturkic.minesc WOT EAH heur.json
 
-            cd loanpy && if diff WOT2EAHsc.json WOT2EAHsc0.json; then echo OK;
+            cd loanpy && if diff WOT2EAHsc.json
+            .circleci_backup/WOT2EAHsc.json; then echo OK;
             else echo heuristics differ; exit 1; fi
 
       - run:
@@ -112,21 +113,21 @@ jobs:
 
             cd loanpy
 
-            if diff H2EAHsc.tsv H2EAHsc0.tsv
+            if diff H2EAHsc.tsv .circleci_backup/H2EAHsc.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for H and EAH; exit 1; fi
 
-            if diff WOT2EAHsc.tsv WOT2EAHsc0.tsv
+            if diff WOT2EAHsc.tsv .circleci_backup/WOT2EAHsc.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for WOT and EAH; exit 1; fi
 
             if diff H2EAHsc_phonotactics.tsv
-            H2EAHsc0_phonotactics.tsv
+            .circleci_backup/H2EAHsc_phonotactics.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for WOT and EAH; exit 1; fi
 
             if diff WOT2EAHsc_phonotactics.tsv
-            WOT2EAHsc0_phonotactics.tsv
+            .circleci_backup/WOT2EAHsc_phonotactics.tsv
             --strip-trailing-cr -B -Z; then echo OK;
             else echo sc-tables differ for WOT and EAH; exit 1; fi
 
@@ -137,7 +138,8 @@ jobs:
             ronataswestoldturkic.evalsc H EAH
             "[10, 100, 500, 700, 1000, 5000, 7000]"
 
-            cd loanpy && if diff tpfpH2EAH.json tpfpH2EAH0.json; then echo OK;
+            cd loanpy && if diff tpfpH2EAH.json
+            .circleci_backup/tpfpH2EAH.json; then echo OK;
             else echo tpfp differ; exit 1; fi
 
       - run:
@@ -148,8 +150,8 @@ jobs:
             "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
 
             cd loanpy &&
-            if diff tpfpWOT2EAH.json tpfpWOT2EAH0.json; then echo OK;
-            else echo tpfp differ; exit 1; fi
+            if diff tpfpWOT2EAH.json .circleci_backup/tpfpWOT2EAH.json;
+            then echo OK; else echo tpfp differ; exit 1; fi
 
       - run:
           name: Plot evaluations, check if jpegs were written

@@ -7,7 +7,6 @@ import pathlib
 
 import attr
 from clldutils.misc import slug
-from lingpy import prosodic_string
 from loanpy.utils import IPA
 from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 

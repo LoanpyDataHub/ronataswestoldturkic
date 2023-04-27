@@ -1,0 +1,97 @@
+sc	src	tgt	freq	CogID	forms
+VC VCVCV	VC	VCVCV	1	1	ács aγači
+VCV VCCVC	VCV	VCCVC	2	2, 338	ágyú aldaγ, olló oγlaγ
+VCC VCVC	VCC	VCVC	3	3, 235, 350	ajn ayan, ing ümmeg, ölyv eliγ
+VC VC	VC	VC	9	6, 14, 19, 166, 173, 233, 236, 334, 351	ál āl, áp op, ár ār, ér er, ész es, ill il, ír ir, ok uk, ön ün
+VCVC VCVC	VCVC	VCVC	14	7, 17, 22, 174, 228, 231, 342, 348, 355, 364, 498, 501, 502, 503	alacs alač, arat orat, árok āruk, etel etil, igen egen, iker ikir, orosz urus, ökör ükür, örök ürük, özön üzen, üröm erim, üszök isüg, üszög isüg, üvecs öveč
+VCCV VCCV	VCCV	VCCV	4	11, 23, 172, 497	alma alma, árpa arpa, eskü ičkü, ürge ürge
+VCVCVC VCCVCVC	VCVCVC	VCCVCVC	1	13	átalag altalag
+VCVCV VCVCV	VCVCV	VCVCV	1	15	áporo oporo
+VCCV VCVCVC	VCCV	VCVCVC	1	16	apró opuruγ
+VCC VCCVC	VCC	VCCVC	1	20	árt ārtat
+VCCVC VCCVC	VCCVC	VCCVC	4	21, 167, 232, 361	árkány arkan, érdem erdem, ildom ildam, örmény örmen
+VCCVC VCVCVC	VCCVC	VCVCVC	1	24	ártány aritan
+VCVC VCCV	VCVC	VCCV	1	25	ászok aski
+CVC CVC	CVC	CVC	47	26, 36, 58, 66, 68, 89, 93, 96, 97, 110, 122, 138, 155, 157, 192, 203, 205, 211, 257, 277, 281, 289, 300, 304, 367, 375, 380, 385, 392, 400, 404, 405, 410, 414, 417, 419, 421, 422, 430, 435, 436, 443, 464, 473, 477, 488, 504	báj bay, basz bas, bog bog, bor bor, bur bur, bús buγ, búsz būs, bükk bik, bűn bǖn, csak čak, csécs čëč, csök čük, dől dül, dug dïg, gyász ǰas, gyom ǰom, gyón ǰūn, gyúl ǰul, kar kar, kér kēr, kés kēč, kín kīn, kor kur, kos koč, sár šar, seb šeb, sér šir, sík šik, som čum, süv siγ, szál sal, szám sam, szár sar, szél sēl, szép sip, szer śer, szesz sis, szín sin, szök sek, szűn sön, szűr sür, tar tar, toj tuγ, tót tāt, tőr tȫr, tűr tür, váj vay
+CVCCVC CVCCVC	CVCCVC	CVCCVC	24	27, 29, 35, 44, 87, 107, 198, 202, 255, 265, 272, 301, 306, 307, 309, 310, 317, 370, 383, 427, 455, 468, 479, 509	balkány balkan, bálvány balvan, bársony barčun, bercel bersil, börtön berten, cötkény sütken, gyermek ǰärmäk, gyilkos ǰilkuš, kaptány kapkan, karvaly karγay, kender kendir, korhány korγan, ködmön kedmen, ködmen kedmen, kölcsön külčen, köldök kindik, köpcös köpčeγ, sárkány šārkān, serleg šerleg, szongor sonkor, tengely tengel, tolmács tolmač, történ törtün, vendég vendeg
+CVCCV CVCCV	CVCCV	CVCCV	11	28, 100, 146, 186, 194, 200, 292, 382, 467, 469, 512	balta balta, cigle čigle, daksi ǰakši, gyapjú ǰapγu, gyënge ǰenge, gyertya ǰarta, koldu koldu, serke širke, toklyó toklu, torma turma, zerge serge
+CVC CVCVC	CVC	CVCVC	18	31, 65, 76, 78, 144, 210, 212, 213, 285, 326, 397, 406, 428, 437, 444, 457, 476, 490	bán baγin, boly boγol, bot butiγ, but butiγ, csűr čevür, győz ǰeγüz, gyúr ǰuγur, gyűl ǰiγil, kis kičiγ, kun kuwan, süly šiγül, szán saγin, szór sawur, szűz süzök, tár tavar, tér tevir, tör tüγür, tyúk tiγuk
+CVCVC CVCVC	CVCVC	CVCVC	53	32, 34, 38, 42, 49, 74, 86, 92, 109, 111, 115, 117, 130, 133, 134, 141, 177, 179, 184, 187, 193, 204, 207, 209, 244, 260, 267, 282, 290, 291, 298, 303, 308, 311, 318, 325, 327, 331, 332, 374, 376, 381, 401, 403, 433, 447, 450, 452, 460, 475, 481, 482, 487	barág barag, barom barum, bëcsül bečel, bélyeg beleg, bicsak bičak, bosszan busan, bölény belen, bular bular, csabak čabak, csákány čakan, csalit čalit, csanak čanak, csiger čigir, csolák čolak, csomak čomak, csököny čükün, gödény güden, görény güren, gyalom ǰalum, gyapot ǰaput, gyékény ǰeken, gyomor ǰumur, gyopár ǰïpar, gyötör ǰitür, káliz kaliz, karám korām, kazár kazar, kicsiny kičin, kobak kåbåk, koboz koboz, komor komur, korom kurum, kökény köken, kölyök külek, köpec köpek, köszön küsen, kuvasz kuwaz, mónár munar, nyögér nöger, sátor čatur, seper šipir, sereg čärig, szágom sagum, szakáll sakal, szúnyog sinuk, tatár tatar, teker teker, telek telük, terem terem, tömén tümen, tőzeg tözek, tulok tukol, tükör tüker
+CVCCV CVCV	CVCCV	CVCV	2	33, 471	bárca bāsa, torli toro
+CVCVC CVCVCVC	CVCVC	CVCVCVC	3	37, 82, 114	bátor baγatur, bögöly bögölök, csalán čalaγan
+CVCV CVCV	CVCV	CVCV	17	39, 46, 52, 62, 80, 91, 118, 129, 147, 148, 149, 183, 386, 440, 461, 463, 474	béka baka, bese beše, bika bika, boka baka, boza boza, buga buga, csata čata, csiga čïga, daku daku, dara dara, dara dara, gyalá ǰala, sima šima, tanú tanu, teve teve, tinó tana, töké tüke
+CVCV CVCVCV	CVCV	CVCVCV	3	40, 181, 182	békó bikaγu, gügyű küdeγü, güzü küseγü
+CVCCV CVCVCV	CVCCV	CVCVCV	3	41, 69, 269	béklyó bikaγu, borjú buraγu, kecske kečeke
+CVC CVCV	CVC	CVCV	9	43, 121, 150, 151, 197, 394, 413, 466, 508	bér bērü, csat čati, dél töli, dél döli, gyep ǰepi, sör šere, szék sekü, tok toku, vék vekü
+CVCCV CVCCVC	CVCCV	CVCCVC	17	45, 71, 85, 154, 190, 195, 223, 295, 305, 371, 372, 393, 418, 441, 442, 445, 506	bertű bürtiγ, borsó burčaγ, bölcső belčeγ, disznó ǰisnaγ, gyarló ǰarlïγ, gyeplő ǰipliγ, herjó xirγuy, komló kumlaγ, kozma kasmaγ, sarló čarlaγ, sárma šarmaγ, somlyó šumluγ, szeplő sepleγ, táplá taplaγ, tapló topluγ, tarló tarlaγ, vejsze veyseγ
+CVCVCV CVCVCVC	CVCVCV	CVCVCVC	3	47, 254, 280	besenyő bešeneγ, kanyaró karamuγ, keselyű küčeleγ
+CVCV CVCVC	CVCV	CVCVC	27	48, 54, 75, 98, 125, 132, 143, 185, 196, 219, 221, 256, 263, 275, 302, 312, 320, 328, 373, 396, 398, 402, 409, 420, 431, 483, 505	betű bitiγ, bíró biruγ, bosszú bosuγ, bütü bütüγ, csepű čöpüγ, csipa čapaγ, csúnya čunaγ, gyanú ǰonaγ, gyepű ǰepiγ, gyűrű ǰürüγ, hajó hayiγ, kapu kapuγ, karó karoγ, kepe kepeγ, kóró kuroγ, kölyű keliγ, köpű küpüγ, küllő külleγ, saru čaruγ, süllő šilleγ, sűrű čireγ, szaka sakaγ, szapu sapaγ, szérű sürüγ, szőlő śeleγ, túró toraγ, vályú valaγ
+CVCVCC CVCVCVC	CVCVCC	CVCVCVC	1	53	bilincs bileček
+CVCVC CVCCVC	CVCVC	CVCCVC	7	55, 56, 135, 321, 423, 484, 485	bocsán bolčan, bocsát bulčat, csődör čeü̯dür, kőris kewrič, szirony siyrum, turul tuγrïl, túzok toγzak
+CVCV CVCCVC	CVCV	CVCCVC	5	57, 90, 220, 322, 462	bóda baldaw, búcsú bulčuγ, gyűszű ǰüγsüγ, kőrő kevreγ, tiló talkiγ
+CVCCV CVCVC	CVCCV	CVCVC	2	59, 369	boglya bogul, sárga šarug
+CVCC CVCVC	CVCC	CVCVC	4	60, 191, 286, 315	bojt buγut, gyárt ǰarat, kíjc kiyiz, könyv küńüγ
+CVCCVCCVC CVCCVCCVC	CVCCVCCVC	CVCCVCCVC	1	61	bojtorján balturγan
+CVCVC CVCV	CVCVC	CVCV	1	64	bakan båkå
+CVCC CVCC	CVCC	CVCC	5	70, 365, 384, 411, 446	bors burč, sajt čaγt, sert širt, szárny śārn, tart tart
+CVCC CVCCV	CVCC	CVCCV	4	72, 83, 208, 279	borz borsi, böjt büγte, gyöngy ǰinǰü, kert kerte
+CVCVCCVC CVCVCCVC	CVCVCCVC	CVCVCCVC	6	73, 217, 261, 297, 448, 472	boszorkány basarkan, gyümölcsény ǰemilčen, karambél karampil, komondor kumandur, tátorján taturγan, torontál turuntay
+CV CVC	CV	CVC	3	81, 399, 426	bő beγ, sű siγ, szó saw
+CVCC CVCVCV	CVCC	CVCVCV	1	84	bölcs büγüči
+CVCV CVCCVV	CVCV	CVCCVV	1	94	búza buγzai
+CVCVCVC CVCCVC	CVCVCVC	CVCCVC	1	95	buzogány buzgan
+CV CVCV	CV	CVCV	1	99	bű büγü
+CVCVCV CVCCV	CVCVCV	CVCCV	1	105	csigolya čigla
+CVCVC CVC	CVCVC	CVC	1	124	csekél čik
+CVC CVVC	CVC	CVVC	1	142	csősz čäüš
+CVV CVCVC	CVV	CVCVC	1	152	dió ǰiγaγ
+VCV VCVC	VCV	VCVC	8	162, 165, 170, 226, 237, 333, 495, 500	eke ekeγ, enő ineγ, erő eriγ, idő üdeγ, író iraγ, ocsú učoγ, ünő ineγ, ürü iriγ
+VCC VCC	VCC	VCC	2	163, 349	eng eng, ölt ilt
+VCCVCC VCCVCC	VCCVCC	VCCVCC	1	168	erkölcs erkelč
+VCCVC VCVC	VCCVC	VCVC	2	169, 358	erny erin, örvény eγir
+VC VCV	VC	VCV	3	171, 491, 492	es ičü, ug ugu, úr uri
+CVC CVCCV	CVC	CVCCV	2	176, 434	gaz kaγzu, szűcs śiγči
+CVCVC CVCCV	CVCVC	CVCCV	2	188, 478	gyarap ǰarpa, török türkü
+CVCCVC CVCCVCVC	CVCCVC	CVCCVCVC	1	201	gyertyán ǰartaγan
+CVCVC CVCVCV	CVCVC	CVCVCV	2	215, 224	gyűlöl ǰeγile, homok humoki
+CVCVCC CVCVCC	CVCVCC	CVCVCC	2	216, 266	gyümölcs ǰemilč, katáng katāng
+CVCVCC CVCCVC	CVCVCC	CVCCVC	1	222	harang hangar
+CVCVC VCVC	CVCVC	VCVC	1	225	hurok urok
+VCV VCV	VCV	VCV	4	227, 229, 238, 493	ige üge, ije äyi, izzi isi, üdü edü
+VC CVC	VC	CVC	1	234	im vim
+CVCVVC CVCVVC	CVCVVC	CVCVVC	1	242	kalauz kalauz
+CVCVC CVCVVC	CVCVC	CVCVVC	1	243	kalóz kalauz
+CVCVCVC CVCCVCVC	CVCVCVC	CVCCVCVC	1	245	kalokány karlukan
+CVCCVCV CVCCVCV	CVCCVCV	CVCCVCV	1	252	kangyíka kåndʹikå
+CVCVCVC CVCVCVC	CVCVCVC	CVCVCVC	3	259, 296, 319	karakán karakan, komócsin kåmičin, köpönyek kepenek
+CVCVCVCVC CVCVCVCVC	CVCVCVCVC	CVCVCVCVC	1	264	kárókaton karakotan
+CVC CVCC	CVC	CVCC	1	270	kék keyk
+CVCVCCV CVCVCCVC	CVCVCCV	CVCVCCVC	2	271, 299	kelengye kälinčäγ, koporsó kopurčaγ
+CVCVCV CVCVCV	CVCVCV	CVCVCV	1	273	kéneső kenešǖ
+CVCV CVCVCVC	CVCV	CVCVCVC	1	278	kérő kevereγ
+CVCVCVC CVCVCVCC	CVCVCVC	CVCVCVCC	1	287	kikerics kükerilč
+CVCVCVC CVCVCCVC	CVCVCVC	CVCVCCVC	1	288	kiköcsény kükerčen
+CVCVCVCVC CVCVCCVCVC	CVCVCVCVC	CVCVCCVCVC	1	313	kömődörög kömöndörök
+CVCCCVC CVCVCCVCVC	CVCCCVC	CVCVCCVCVC	1	314	kentreg kömöndörök
+CVCCCVC CVCCCVCV	CVCCCVC	CVCCCVCV	1	323	körtvély kertβeli
+VC VCVC	VC	VCVC	3	336, 352, 356	ól aγul, őr evir, ör öγir
+VCCV VCVC	VCCV	VCVC	1	337	olcsó učaγ
+VCCV VCCVC	VCCV	VCCVC	2	339, 344	ondó undaγ, orsó určuγ
+VCVCCVC VCVCCVC	VCVCCVC	VCVCCVC	1	343	oroszlán uruslān
+VCC VCCV	VCC	VCCV	1	345	orv uγru
+VCCVC VCCVCV	VCCVC	VCCVCV	2	346, 354	orvos urvoči, örmény ermeni
+VC VCCVC	VC	VCCVC	1	347	os alčuk
+VCVC VCCVC	VCVC	VCCVC	2	357, 359	őrül evril, őrém eγrim
+CVCCV CVCVCVC	CVCCV	CVCVCVC	2	377, 451	seprű šipiriγ, teknő tekeneγ
+CVV CVV	CVV	CVV	1	387	sió šiu
+CV CVV	CV	CVV	1	388	sé šiu
+CVCV CVCCV	CVCV	CVCCV	1	390	sólyo čavli
+CVCVC CVCCVCV	CVCVC	CVCCVCV	1	395	sőreg ševrege
+CVCVC CVCVCCV	CVCVC	CVCVCCV	1	412	szatócs satiγči
+CVCC CVC	CVCC	CVC	3	415, 429, 459	szend sen, szöcsk sek, térd tīr
+CVCCVC CVCCVCV	CVCCVC	CVCCVCV	1	438	táltos taltuči
+CVCVC CVCVCC	CVCVC	CVCVCC	1	439	tanács tanilč
+CVCCVCVC CVCC	CVCCVCVC	CVCC	1	454	tengődik teng
+CVCCVC CVCVC	CVCCVC	CVCVC	1	456	tenger teŋir
+CVCCVC CVCVCVC	CVCCVC	CVCVCVC	1	480	törvény türüγen
+CVCCVCVC CVCCVCVC	CVCCVCVC	CVCCVCVC	1	511	vértelek vertelük

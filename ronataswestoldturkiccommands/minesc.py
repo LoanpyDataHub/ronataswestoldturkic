@@ -42,5 +42,5 @@ def run(args):
         tsv = list(csv.reader(f, delimiter="\t"))
         out = get_correspondences(tsv, args.heur)
     # store as json-file
-    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc0.json", "w+") as f:
+    with open(f"loanpy/{args.srclg}2{args.tgtlg}sc.json", "w+") as f:
         json.dump(out, f)

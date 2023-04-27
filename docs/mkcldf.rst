@@ -152,7 +152,6 @@ transfers.
 
    import attr
    from clldutils.misc import slug
-   from lingpy import prosodic_string
    from loanpy.utils import IPA
    from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 
@@ -167,9 +166,9 @@ Then, we import functionalities from various third-party libraries.
 These were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
-- The ``attr`` library from the PyLexibank ecosystem will create the custom
-  language class with
-  custom columns in the output file ``cldf/forms.csv``.
+- With the `attrs library <https://www.attrs.org/en/stable/index.html>`_
+  we will create the custom language class with custom columns in the output
+  file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
   function from the clldutils library will be used to format some IDs.
 - The `prosodic_string

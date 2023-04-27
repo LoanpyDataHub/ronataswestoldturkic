@@ -69,5 +69,5 @@ def run(args):
     out["fp"] = args.guesslist
     out["tp"] = len(dfedicted)
 
-    with open(f"loanpy/tpfp{args.srclg}2{args.tgtlg}0.json", "w+") as f:
+    with open(f"loanpy/tpfp{args.srclg}2{args.tgtlg}.json", "w+") as f:
         json.dump(out, f)  # list of tuples, can be plotted and AUC etc.
