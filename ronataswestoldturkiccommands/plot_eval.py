@@ -107,7 +107,7 @@ def plot_curve(
     plt.savefig(file_name, format='jpeg')
     plt.close()
 
-def auc(points: List[Tuple[Union[int, float], Union[int, float]]) -> float:
+def auc(points: List[Tuple[Union[int, float], Union[int, float]]]) -> float:
     """
     Calculate the area under the curve with a `trapezoidal rule
     <https://en.wikipedia.org/wiki/Trapezoidal_rule>`_
