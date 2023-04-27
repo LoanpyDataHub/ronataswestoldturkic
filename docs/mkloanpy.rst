@@ -145,7 +145,7 @@ result:
          in a steep arch from the lower left hand corner towards the upper
          left hand corner and then the upper right hand corner. Title of the
          plot reads "Predicting Early Ancient Hungarian forms (AUC:
-         0.9318)". The y-axis reads "Relative number of true positives
+         0.9538)". The y-axis reads "Relative number of true positives
          in data (100%=300)". Its values go from 0.70 until 0.95 in steps of
          0.5. The x-axis reads "Relative number of guesses per word
          (100%=7000)". Its values go from 0.0 to 1.0 in steps of 0.2.
@@ -165,15 +165,30 @@ result:
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
-   :alt: Shows a blue ROC curve with a legend on the bottom right hand corner
-         and a dark yellow X marking the optimum.
+   :alt: A coordinate system with an x and a y-axis and a blue graph going
+         in a diagonal line from the lower left hand corner towards the upper
+         left hand corner and then straight towards the upper right hand
+         corner. The Title of the
+         plot reads "Predicting Early Ancient Hungarian forms (AUC:
+         0.9318)". The y-axis reads "Relative number of true positives
+         in data (100%=384)". Its values go from 0.84 until 0.94 in steps of
+         0.2. The x-axis reads "Relative number of guesses per word
+         (100%=7000)". Its values go from 0.0 to 1.0 in steps of 0.2.
+         This time, the info box is in the upper left-hand corner with a blue
+         line saying "ROC Curve" and a dark yellow or ochre line with a
+         dark yellow
+         X on it that reads "Optimum: howmany=100 (tp: 93%)". There's a dark
+         yellow/ochre X on the graph at almost 0.0 on the x-axis and 0.9 on
+         the y-axis.
 
-   The ROC curve shows how the relative number of true positives (y-axis)
-   increases, as the relative number of false positives (x-axis) increases.
-   The optimal cut-off point is at 7000 false positives per word, which yields
-   569 correct reconstructions out of 813 (i.e. 70%). The AUC is above
-   0.9, which `is considered outstanding
-   <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
+    Out of 512 etymologies, 384 contained loanword adaptations from West
+    Old Turkic into Early ancient Hungarian. This pre-filtering was carried
+    out in `Part 2 step 1
+    <https://ronataswestoldturkic.readthedocs.io/en/latest/mkedictor.html#ronataswestoldturkiccommands.maketoedict_rc.run>`__.
+    At its optimum of 100 guesses per word, the model predicted 346 words
+    correctly out of 384 (90%). The
+    AUC is above 0.9, which `is considered outstanding
+    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`__.
 
 
 What happened under the hood:
