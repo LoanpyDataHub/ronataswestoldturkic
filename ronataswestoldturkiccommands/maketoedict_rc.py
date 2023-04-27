@@ -1,6 +1,6 @@
 """
 Import inbuilt (collections, csv) and third party (loanpy)
-programs for reading, filtering, and aligning
+functions for reading, filtering, and aligning
 data. Register arguments for the command line interface.
 Run the main function.
 """
@@ -12,6 +12,7 @@ from loanpy.utils import prefilter
 
 def register(parser):
     """
+    Register command line arguments and pass them on to the main function.
     Two non-optional argments will be registered:
     ``srclg`` (source language) and ``tgtlg`` (target langauge).
     Only strings contained in column ``ID`` in ``etc/languages.csv`` are valid
@@ -23,18 +24,12 @@ def register(parser):
 def run(args):
     """
     #. Read col ``CV_Segments`` in ``cldf/forms.csv``
-    #. Prefilter data: Only words from the source and target language, as
-       specified in the command arguments, are accepted to the output data
-       frame. Cognate sets that are lacking forms in either the source or the
-       target language are ignored.
-    #. Apply custom alignment for historical sound changes in Uralic data.
-       See `loanpy's documentation
-       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.uralign>`_
-       for more details.
-    #. Write results to ``edictor/{srclg}2{tgtlg}toedict0.tsv``
-    #. Manually inspect whether the output is satisfying. If so, remove the
-       trailing zero from the file name, which is there to avoid accidentally
-       overwriting any manually edited files with this function.
+    #. Prefilter data with `loanpy.utils.prefilter
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.prefilter>`_
+    #. Apply custom alignment for historical sound changes in Uralic data
+       with `loanpy.scminer.uralign
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.uralign>`_.
+    #. Write results to ``edictor/{srclg}2{tgtlg}toedict.tsv``
 
     """
 
@@ -62,5 +57,5 @@ def run(args):
             )
 
     # check manually if file is ok, if yes, manually remove the 0 from the name
-    with open(f"edictor/{args.srclg}2{args.tgtlg}toedict0.tsv", "w+") as f:
+    with open(f"edictor/{args.srclg}2{args.tgtlg}toedict.tsv", "w+") as f:
         f.write(final)
