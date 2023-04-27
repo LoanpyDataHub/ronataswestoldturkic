@@ -167,7 +167,7 @@ Then, we import functionalities from various third-party libraries.
 These were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
-- With the `attrs library <https://www.attrs.org/en/stable/index.html>`_
+- With the `attrs <https://www.attrs.org/en/stable/index.html>`_ library
   we will create the custom language class with custom columns in the output
   file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
@@ -177,14 +177,10 @@ These were installed when running
   <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`_
   class from the `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
   library will be used to create the phonotactic structures of words.
-- The `IPA
-  <hhttps://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`_
-  class from the lingpy library will be used to identify whether an IPA
-  character is a vowel or a consonant.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
-  library are all related to specifying the output format. Dataset, for
-  example loads the default data format, Lexeme will be used to customise it,
-  and FormSpec will be used to document the cleaning of the raw data.
+  library are all related to specifying the output format. ``Dataset``, for
+  example loads the default data format, ``Lexeme`` will be used to customise
+  it, and ``FormSpec`` will be used to document the cleaning of the raw data.
 
 .. code-block:: python
 
