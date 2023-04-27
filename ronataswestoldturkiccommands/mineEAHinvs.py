@@ -5,7 +5,7 @@ target language and store it in a json-file.
 import csv
 import json
 
-from loanpy.scminer import get_inventory
+from loanpy.scminer import get_prosodic_inventory
 
 def register(parser):
     """

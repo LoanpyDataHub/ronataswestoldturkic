@@ -131,6 +131,7 @@ populates the folder cldf
 
 .. code-block:: sh
 
+   cd ronataswestoldturkic
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0 --concepticon=../concepticon/concepticon-data --glottolog=../glottolog --clts=../clts
 
 
@@ -166,7 +167,7 @@ Then, we import functionalities from various third-party libraries.
 These were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
-- The attr library from the PyLexibank ecosystem will create the custom
+- The ``attr`` library from the PyLexibank ecosystem will create the custom
   language class with
   custom columns in the output file ``cldf/forms.csv``.
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
