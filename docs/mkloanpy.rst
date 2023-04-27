@@ -106,6 +106,20 @@ Predicting reconstructions from modern Hungarian words:
    0.7, which `is considered acceptable
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
+The performance of this model can be improved by removing irregular sound
+correspondences. By inspecting the file `loanpy/H2EAHsc.tsv` we can see that
+many words contain sound correspondences that occur only once throughout
+the entire dictionary. Counting the number of those cognate sets shows that
+106 out of 512 or 20% of all etymologies contain at least one sound
+correspondence that is irregular, i.e. occurs only in one single etymology.
+If we remove those cognate sets from our training and test data we get
+following result:
+
+.. figure:: ../loanpy/filter_uniques/H2EAH.jpeg
+
+   This model performs significantly better than the previous one, with an
+   AUC over 0.9, which can be considered outstanding.
+
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
