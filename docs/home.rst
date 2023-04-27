@@ -19,9 +19,12 @@ Description
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Conceptlists in Concepticon: -
-`RonaTas-2011-431 <https://concepticon.clld.org/contributions/RonaTas-2011-431>`__
-## Notes
+Conceptlists in Concepticon:
+
+- `RonaTas-2011-431 <https://concepticon.clld.org/contributions/RonaTas-2011-431>`__
+
+Notes
+-----
 
 |License: CC BY 4.0| |CircleCI| |Documentation Status|
 
@@ -85,7 +88,8 @@ The following CLDF datasets are available in `cldf <cldf>`__:
 
 -  CLDF
    `Wordlist <https://github.com/cldf/cldf/tree/master/modules/Wordlist>`__
-   at `cldf/cldf-metadata.json <cldf/cldf-metadata.json>`__
+   at `cldf/cldf-metadata.json
+   <https://github.com/LoanpyDataHub/ronataswestoldturkic/blob/main/cldf/cldf-metadata.json>`__
 
 .. |License: CC BY 4.0| image:: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
    :target: https://creativecommons.org/licenses/by/4.0/
