@@ -98,5 +98,9 @@ to evaluate predictive models:
 
 This is how the two plots look:
 
+.. image:: ../loanpy/H2EAHsc.jpeg
+
+.. image:: ../loanpy/H2EAHsc.jpeg
+
 TODO INSERT AND EXPLAIN
 TODO show performance after leaving out unique sound correspondences
