@@ -4,7 +4,7 @@ Part 1: Create CLDF
 The following six steps will guide you through the process of
 converting raw language data to CLDF. Each step can be found in the
 `continuous integration workflow
-<https://app.circleci.com/pipelines/github/martino-vic/ronataswestoldturkic?branch=main>`_
+<https://app.circleci.com/pipelines/github/LoanpyDataHub/ronataswestoldturkic>`_
 as well. The data we are converting comes from the etymological dictionary
 `"West Old Turkic"
 <https://www.goodreads.com/book/show/13577601-west-old-turkic>`_
