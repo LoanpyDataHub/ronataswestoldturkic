@@ -95,19 +95,30 @@ a common metric to evaluate predictive models:
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
 
-The result:
+Predicting reconstructions from modern Hungarian words:
 
 .. figure:: ../loanpy/H2EAH.jpeg
 
-   The ROC curve shows how the number of true positives increases, as the
-   number of false positives increases. The optimal cut-off point is at
-   100 false positives per word, which yields
+   The ROC curve shows how the relative number of true positives (x-axis)
+   increases, as the relative number of false positives (y-axis) increases.
+   The optimal cut-off point is at 700 false positives per word, which yields
+   569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
+   0.7, which `is considered acceptable
+   <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
+
+Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
 
- What happened under the hood:
+   The ROC curve shows how the relative number of true positives (x-axis)
+   increases, as the relative number of false positives (y-axis) increases.
+   The optimal cut-off point is at 700 false positives per word, which yields
+   569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
+   0.7, which `is considered acceptable
+   <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
+
+
+What happened under the hood:
 
 .. automodule:: ronataswestoldturkiccommands.plot_eval
    :members:
-
-TODO show performance after leaving out unique sound correspondences

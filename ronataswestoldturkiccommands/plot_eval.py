@@ -95,7 +95,7 @@ def plot_curve(
 
     # get area under the curve and add to plot title
     area = auc(points)
-    plt.title(f'Predicting Early Ancient Hungarian forms\nfrom Hungarian (AUC: {area:.4f})')
+    plt.title(f'Predicting Early Ancient Hungarian forms (AUC: {area:.4f})')
 
     # Find and plot the optimum point
     optimum = find_optimum(points)
