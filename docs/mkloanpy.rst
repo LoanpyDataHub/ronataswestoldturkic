@@ -136,7 +136,6 @@ Predicting loanword adaptations from West Old Turkic words:
    0.7, which `is considered acceptable
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
-
 What happened under the hood:
 
 .. automodule:: ronataswestoldturkiccommands.plot_eval
