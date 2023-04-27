@@ -16,7 +16,8 @@ def register(parser):
     target language is the ancestor and the source the descendant for backwards
     reconstructions. Valid IDs can be found in
     column ``ID`` in ``etc/language.csv``. A third argument is optional,
-    namely the json-file containing the heuristic phoneme adaptations.
+    namely the path to the json-file containing the heuristic phoneme
+    adaptations.
     """
     parser.add_argument("srclg")
     parser.add_argument("tgtlg")
@@ -32,8 +33,7 @@ def run(args):
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_correspondences>`_
        function
     #. Write the sound correspondences to a file named
-       ``{srclg}2{tgtlg}sc0.json`` in the folder ``loanpy``. Manually remove
-       the trailing zero in the file name if the file seems fine.
+       ``{srclg}2{tgtlg}sc.json`` in the folder ``loanpy``.
     """
     if args.heur:
         with open(f"loanpy/{args.heur}", "r") as f:

@@ -29,7 +29,7 @@ by expert knkowledge, the data can be downloaded. Finally, the format of
 the manually edited data can be checked for suitability as input for
 loanpy, a Python software package for finding loanwords.
 
-The following steps will guide you through the process of converting the
+The following three steps will guide you through the process of converting the
 data to Edictor-suitable input, uploading it to Edictor, editing it there,
 downloading it, post-editing it locally, and evaluating whether its format is
 suitable as input for loanpy.
