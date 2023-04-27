@@ -16,11 +16,11 @@ def register(parser):
 
 def run(args):
     """
-    #. Read the aligned data in ``edictor/WOT2EAHedicted.tsv`` with the inbuilt
-       csv package
+    #. Read the aligned data in ``edictor/WOT2EAHedicted.tsv`` with the
+       inbuilt csv package
     #. Pass it on to loanpy's `get_prosodic_inventory
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_prosodic_inventory>`_
-       function, which will extract all prosodic structures (e.g. "CVCV")
+       function, which will extract all phonotactic structures (like "CVCV")
        from the target language.
     #. Write the inventory of prosodic structures to a json-file with the
        inbuilt json package. It will have the name that was passed on as an
