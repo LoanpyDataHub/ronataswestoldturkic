@@ -100,7 +100,7 @@ The results:
 Predicting reconstructions from modern Hungarian words:
 
 .. figure:: ../loanpy/H2EAH.jpeg
-   :alt: A coordinate system with an x and a y-axis and a blue graph groing
+   :alt: A coordinate system with an x and a y-axis and a blue graph going
          in an arch from the lower left hand corner towards the upper left
          hand corner and then the upper right hand corner. Title of the
          plot reads "Predicting Early Ancient Hungarian forms (AUC:
@@ -141,20 +141,20 @@ from our training and test data, 300 cognate sets remain and we get following
 result:
 
 .. figure:: ../loanpy/filter_uniques/H2EAH.jpeg
-   :alt: A coordinate system with an x and a y-axis and a blue graph groing
-         in an arch from the lower left hand corner towards the upper left
-         hand corner and then the upper right hand corner. Title of the
+   :alt: A coordinate system with an x and a y-axis and a blue graph going
+         in a steep arch from the lower left hand corner towards the upper
+         left hand corner and then the upper right hand corner. Title of the
          plot reads "Predicting Early Ancient Hungarian forms (AUC:
-         0.7177)". The y-axis reads "Relative number of true positives
-         in data (100%=406)". Its values go from 0.45 until 0.75 in steps of
+         0.9318)". The y-axis reads "Relative number of true positives
+         in data (100%=300)". Its values go from 0.70 until 0.95 in steps of
          0.5. The x-axis reads "Relative number of guesses per word
          (100%=7000)". Its values go from 0.0 to 1.0 in steps of 0.2.
          In the bottom right hand corner there's an info box with a blue line
          saying "ROC Curve" and a dark yellow or ochre line with a dark yellow
-         X on it that reads "Optimum: howmany=700 (tp: 70%)". There's a dark
-         yellow/ochre X on the graph at 0.1 on the x-axis and 0.7 on
+         X on it that reads "Optimum: howmany=100 (tp: 93%)". There's a dark
+         yellow/ochre X on the graph at almost 0.0 on the x-axis and 0.93 on
          the y-axis.
-         
+
    This model performs significantly better than the previous one. At its
    optimum of 100 guesses per word it reconstructs 279 out of 300 forms (93%)
    correctly. The
