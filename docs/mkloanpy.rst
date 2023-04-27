@@ -135,6 +135,7 @@ result:
    AUC is above 0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
+
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
@@ -147,6 +148,7 @@ Predicting loanword adaptations from West Old Turkic words:
    569 correct reconstructions out of 813 (i.e. 70%). The AUC is above
    0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
+
 
 What happened under the hood:
 
