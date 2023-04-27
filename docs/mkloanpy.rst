@@ -81,12 +81,12 @@ function
 .. automodule:: ronataswestoldturkiccommands.evalsc
    :members:
 
-Step 6: Plot the evaluation
----------------------------
+Step 6: Plot the evaluations
+----------------------------
 
 To gauge the performance of the model, we can plot an ROC curve, calculate its
-optimum cut-off value and the Area under the curve (AUC), a common metric
-to evaluate predictive models, especially in Machine Learning:
+optimum cut-off value and its Area under the curve (AUC), a common metric
+to evaluate predictive models:
 
 .. code-block:: sh
 
@@ -99,3 +99,4 @@ to evaluate predictive models, especially in Machine Learning:
 This is how the two plots look:
 
 TODO INSERT AND EXPLAIN
+TODO show performance after leaving out unique sound correspondences
