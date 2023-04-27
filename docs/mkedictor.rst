@@ -101,6 +101,7 @@ For editing vertical sound correspondences (i.e. historical sound changes):
 #. Edit alignments: Left-click once in the row of the ``ALIGNMENT``
    column that you want to edit, edit, left-click again to keep the changes.
 #. Syntax of alignments:
+
    - Single-space: separator between IPA tokens
    - Dot symbol: separator of IPA tokens within clusters of IPA-sounds
    - Minus symbol: gap symbol for sounds that disappeared or didn't exist
@@ -108,6 +109,7 @@ For editing vertical sound correspondences (i.e. historical sound changes):
      ignored in analyses. The file ``etc/formspec.json`` was created
      based on these.
    - Hash symbol: Word boundary
+   
 #. Cache: Click on the floppy-disk symbol in the top-right corner or use
    ``Ctrl + S``
 #. Download: Click on the downwards pointing arrow symbol in the top-right
