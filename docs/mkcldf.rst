@@ -357,7 +357,8 @@ though Glottolog does not contain Proto-languages, the nodes in their
 language
 family trees have their own glotto-codes, which serve as a reasonable proxy.
 In the case of West Old Turkic, the ancestor language of Bolgarian and Chuvash,
-we can thus insert the glotto-code of Bolgar into our table.
+we can thus insert the glotto-code of `Bolgar
+<https://glottolog.org/resource/languoid/id/bolg1249>`_ into our table.
 
 
 .. code-block:: python
@@ -434,9 +435,10 @@ we then loop. The arguments in the brackets are the column names.
 ``Language_ID`` is the name of the language according to
 ``etc/languages.tsv``. ``Parameter_ID`` references the relevant row in
 ``parameters.csv``, which was created in an earlier code-block. ``Value`` is
-the original raw data. The column "Form" is automatically being created from
-this by applying the cleaning procedure specified in the ``formspec.json``
-file which was read into the ``REP`` variable in the beginning. The column
+the original raw data. The column ``Form`` is automatically being created from
+column ``Value`` by applying the cleaning procedure specified in
+``etc/formspec.json`` which was read into the
+``REP`` variable in the beginning. The column
 ``Comment`` uses the English translations as dictionary keys to look up the
 according comment as specified in ``etc/comments.tsv``. The entire data set is
 based on one source. In the column ``Source`` we are specifying the BibTex key
@@ -447,8 +449,9 @@ function ``get_loan`` which was described in an earlier code-block.
 ``Cognacy`` assigns a unique identifier to each cognate set in the form of an
 integer that starts at 1 and is incremented by 1 with each new cognate set.
 The column ``Year`` is another custom column that was specified in the
-CustomLexeme class earlier. This information is provided in column ``Year``
-in ``raw/wot.tsv``.
+``CustomLexeme`` class earlier. This information is provided in column
+``Year`` in ``raw/wot.tsv`` and represents each word's year of first
+appearance in a written source.
 
 .. code-block:: python
 
