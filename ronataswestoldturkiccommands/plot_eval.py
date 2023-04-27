@@ -9,6 +9,19 @@ from pathlib import Path
 from typing import List, Tuple, Union
 
 def euclidean_distance(point1, point2):
+    """
+    Calculate the `Euclidean distance
+    <https://en.wikipedia.org/wiki/Euclidean_distance>`_ between two points.
+
+    :param point1: The first point
+    :type point1: a tuple of two integers or floats
+
+    :param point2: The second point
+    :type point2: a tuple of two integers or floats
+
+    :return: The euclidean distance
+    :rtype: float
+    """
     return math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
 
 def find_optimum(
@@ -37,7 +50,7 @@ def find_optimum(
     return tuple(optimal_point)
 
 def plot_curve(
-        points: List[Tuple[Union[int, float], Union[int, float]],
+        points: List[Tuple[Union[int, float], Union[int, float]]],
         absfp: List[int],
         maxtp: int,
         file_name: Union[str, Path]
