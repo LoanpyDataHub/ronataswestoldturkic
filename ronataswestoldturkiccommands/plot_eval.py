@@ -13,7 +13,7 @@ def euclidean_distance(point1, point2):
 
 def find_optimum(
         points: List[Tuple[Union[int, float], Union[int, float]]
-        ) -> Tuple[Union[int, float], Union[int, float]:
+        ) -> Tuple[Union[int, float], Union[int, float]]:
     """
     Calculates the euclidean distance of each point to the upper left hand
     corner and returns the point with the lowest distance
