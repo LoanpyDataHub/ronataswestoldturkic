@@ -80,7 +80,7 @@ each other. This is what happens under the hood:
    :members:
 
 Now that we have created suitable input files for the Edictor, it is time to
-upload them and edit them with our expert knowledge.
+upload and edit them with our expert knowledge.
 
 Step 2: Edit horizontal and vertical sound correspondences with Edictor
 -----------------------------------------------------------------------
@@ -96,22 +96,22 @@ For editing vertical sound correspondences (i.e. historical sound changes):
 
 #. Upload: Click on ``Browse``, select ``edictor/H2EAHtoedict.tsv``, click on
    ``Open the file``
-#. Load columns: Click on ``elect Columns`` on top, tick ``select all``, click
-   ``OK``
+#. Load columns: Click on ``select Columns`` on top, tick ``select all``,
+   click ``OK``.
 #. Edit alignments: Left-click once in the row of the ``ALIGNMENT``
    column that you want to edit, edit, left-click again to keep the changes.
 #. Syntax of alignments:
-   - Single-space (`` ``): separator between IPA tokens
-   - Dot (``.``): separator of IPA tokens within clusters of IPA-sounds
-   - Minus (``-``): gap symbol for sounds that disappeared or didn't exist
-   - Plus (``+``): trimming border for prefixes and suffixes that will be
-     ignored in analyses. The 		 file ``etc/formspec.json`` was created
+   - Single-space: separator between IPA tokens
+   - Dot symbol: separator of IPA tokens within clusters of IPA-sounds
+   - Minus symbol: gap symbol for sounds that disappeared or didn't exist
+   - Plus symbol: trimming border for prefixes and suffixes that will be
+     ignored in analyses. The file ``etc/formspec.json`` was created
      based on these.
-   - Hash (``#``): Word boundary
+   - Hash symbol: Word boundary
 #. Cache: Click on the floppy-disk symbol in the top-right corner or use
    ``Ctrl + S``
 #. Download: Click on the downwards pointing arrow symbol in the top-right
-   corner or use ``Ctrl + E``. Click on ``Save file``. Move it to the
+   corner or use ``Ctrl + E``. Click on ``Save file``. Move it to your local
    ``edictor/`` directory and name it ``H2EAHedicted.tsv``.
 
 In the custom-alignment of this use-case, we first clustered vowels and
