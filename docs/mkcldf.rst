@@ -178,9 +178,16 @@ These were installed when running
   class from the `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
   library will be used to create the phonotactic structures of words.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
-  library are all related to specifying the output format. ``Dataset``, for
+  library are all related to specifying the output format. ``Dataset`` for
   example loads the default data format, ``Lexeme`` will be used to customise
   it, and ``FormSpec`` will be used to document the cleaning of the raw data.
+
+.. code-block:: python
+
+   ipa = IPA()
+
+Here, we are creating an instance of loanpy's IPA class which loads
+a list of 1464 IPA sounds that are vowels into its ``.vowels`` attribute.
 
 .. code-block:: python
 
@@ -203,27 +210,6 @@ in this script, they were written to a json-file, which is loaded here.
 
 Here we define custom columns that are not included by default, using the
 attr library and the Lexeme class that we have imported earlier.
-
-.. code-block:: python
-
-    def get_clusters(segments):
-        """
-        Takes a list of phonemes and segments them into consonant and vowel
-        clusters, like so: "abcdeaofgh" -> ["a", "b.c.d", "e.a.o", "f.g.h"]
-        """
-        out = [segments[0]]
-        for i in range(1, len(segments)):
-            # can be optimized
-            prev, this = token2class(segments[i-1], "cv"), token2class(
-                    segments[i], "cv")
-            if prev == this:
-                out[-1] += "."+segments[i]
-            else:
-                out += [segments[i]]
-        return " ".join(out)
-
-Here we define a function that will segment the phonemes in a word according
-to consonant and vowel clusters.
 
 .. code-block:: python
 
