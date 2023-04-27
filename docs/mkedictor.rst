@@ -55,7 +55,7 @@ Hungarian and Early Ancient Hungarian words with following command:
 
    cldfbench ronataswestoldturkic.maketoedict_rc H EAH
 
-The `rc` in the script name is an internal abbreviation for "reconstruction",
+The *_rc* in the script name is an internal abbreviation for "reconstruction",
 since we are aiming to align words from languages that are in a historical
 relationship to each other. This is what happens under the hood when running
 the script:
@@ -63,44 +63,69 @@ the script:
 .. automodule:: ronataswestoldturkiccommands.maketoedict_rc
    :members:
 
-Now that we have created automatic alignments for historical reconstructions, let's do the same
-for sound adaptations. This is done by running following command from your terminal:
+Now that we have created automatic alignments for historical reconstructions,
+let's do the same for sound adaptations. This is done by running the following
+command from your terminal:
 
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.maketoedict_ad WOT EAH
 
-The ``ad`` is an internal abbreviation for "adaptation", since we are aiming to align words from languages that are in a donor-recipient relationship to each other. This is what happens under the hood when running the script:
+The *_ad* in the script name is an internal abbreviation for "adaptation",
+since we are aiming
+to align words from languages that are in a donor-recipient relationship to
+each other. This is what happens under the hood:
 
 .. automodule:: ronataswestoldturkiccommands.maketoedict_ad
    :members:
 
-Now that we have created suitable input files for the Edictor, it is time to upload them and edit them with our expert knowledge.
+Now that we have created suitable input files for the Edictor, it is time to
+upload them and edit them with our expert knowledge.
 
 Step 2: Edit horizontal and vertical sound correspondences with Edictor
 -----------------------------------------------------------------------
 
-`Edictor <https://digling.org/edictor/>`_ is an interactive tool for managing etymological data. We will use it to improve the automated alignments that we have created in the previous step. To familiarise yourself with Edictor, you can read its `release paper <https://aclanthology.org/E17-3003.pdf>`_, `this use-case <https://hcommons.org/deposits/item/hc:43687/>`_ or watch its `Youtube tutorial <https://www.youtube.com/watch?v=IyZuf6SmQM4>`_.
+`Edictor <https://digling.org/edictor/>`_ is an interactive tool for managing
+etymological data. We will use it to improve the automated alignments that we
+have created in the previous step. To familiarise yourself with Edictor, you
+can read its `release paper <https://aclanthology.org/E17-3003.pdf>`_,
+`this use-case <https://hcommons.org/deposits/item/hc:43687/>`_ or watch its
+`Youtube tutorial <https://www.youtube.com/watch?v=IyZuf6SmQM4>`_.
 
 For editing vertical sound correspondences (i.e. historical sound changes):
 
-#. Upload: Click on ``Browse``, select ``edictor/H2EAHtoedict.tsv``, click on ``Open the file``
-#. Load columns: Click on ``elect Columns`` on top, tick ``select all``, click ``OK``
-#. Edit alignments: Left-click once in the row of the ``ALIGNMENT`` column that you want to edit, edit, left-click again to keep the changes.
+#. Upload: Click on ``Browse``, select ``edictor/H2EAHtoedict.tsv``, click on
+   ``Open the file``
+#. Load columns: Click on ``elect Columns`` on top, tick ``select all``, click
+   ``OK``
+#. Edit alignments: Left-click once in the row of the ``ALIGNMENT``
+   column that you want to edit, edit, left-click again to keep the changes.
 #. Syntax of alignments:
    - Single-space (`` ``): separator between IPA tokens
    - Dot (``.``): separator of IPA tokens within clusters of IPA-sounds
    - Minus (``-``): gap symbol for sounds that disappeared or didn't exist
-   - Plus (``+``): trimming border for prefixes and suffixes that will be ignored in analyses. The 		 file ``etc/formspec.json`` was created based on these.
+   - Plus (``+``): trimming border for prefixes and suffixes that will be
+     ignored in analyses. The 		 file ``etc/formspec.json`` was created
+     based on these.
    - Hash (``#``): Word boundary
-#. Cache: Click on the floppy-disk symbol in the top-right corner or use ``Ctrl + S``
-#. Download: Click on the downwards pointing arrow symbol in the top-right corner or use ``Ctrl + E``. Click on ``Save file``. Move it to the ``edictor/`` directory and name it ``H2EAHedicted.tsv``.
+#. Cache: Click on the floppy-disk symbol in the top-right corner or use
+   ``Ctrl + S``
+#. Download: Click on the downwards pointing arrow symbol in the top-right
+   corner or use ``Ctrl + E``. Click on ``Save file``. Move it to the
+   ``edictor/`` directory and name it ``H2EAHedicted.tsv``.
 
-In the custom-alignment of this use-case, we first clustered vowels and consonants together with the dot-symbol and used spaces to separate those clusters from each other. Wherever it seemed appropriate, we allowed sound correspondences of one to many, e.g. in *aː < a.ɣ.a*, which is a well studied pattern in our data but difficult for an algorithm to catch.
+In the custom-alignment of this use-case, we first clustered vowels and
+consonants together with the dot-symbol and used spaces to separate those
+clusters from each other. Wherever it seemed appropriate, we allowed sound
+correspondences of one to many, e.g. in *aː < a.ɣ.a*, which is a well studied
+pattern in our data but difficult for an algorithm to catch.
 
 For editing horizontal sound correspondences (i.e. sound adaptations):
 
-Follow the same steps, but this time upload ``edictor/WOT2EAHtoedict.tsv``. Here, we are allowing only one to one correspondences and ingore word boundaries. After downloading the aligned data, a post-editing step is necessary. This is carried out with following command:
+Follow the same steps, but this time upload ``edictor/WOT2EAHtoedict.tsv``.
+Here, we are allowing only one to one correspondences and ingore word
+boundaries. After downloading the aligned data, a post-editing step is
+necessary. This is carried out with following command:
 
 .. code-block:: sh
 
@@ -109,12 +134,17 @@ Follow the same steps, but this time upload ``edictor/WOT2EAHtoedict.tsv``. Here
 .. automodule:: ronataswestoldturkiccommands.cvgapedicted
    :members:
 
-This step has been outsourced to post-processing in order to avoid any confusion by missing gap symbols during the manual editing process of alignments.
+This step has been outsourced to post-processing in order to avoid any
+confusion by missing gap symbols during the manual editing process of
+alignments.
 
 Step 3: Validate whether this is suitable as input for loanpy
 -------------------------------------------------------------
 
-Now that we have improved the alignments by complementing the algorithmic approach with expert knowledge, the only thing left to do is to validate whether the format of our data is suitable as input for loanpy. This can be done by running following two commands:
+Now that we have improved the alignments by complementing the algorithmic
+approach with expert knowledge, the only thing left to do is to validate
+whether the format of our data is suitable as input for loanpy. This can be
+done by running following two commands:
 
 .. code-block:: sh
 
@@ -131,4 +161,6 @@ This is what happens under the hood:
 .. automodule:: ronataswestoldturkiccommands.evaledicted
    :members:
 
-Both commands printing "OK" to the console means that we have successfully edited the alignments of our etymological data set and are ready to move on to part 3 by clicking on the ``Next`` button.
+Both commands printing "OK" to the console means that we have successfully
+edited the alignments of our etymological data set and are ready to move on
+to part 3 by clicking on the ``Next`` button.

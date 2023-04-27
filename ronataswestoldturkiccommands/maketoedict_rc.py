@@ -27,7 +27,7 @@ def run(args):
     #. Prefilter data with `loanpy.utils.prefilter
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.prefilter>`_
     #. Apply custom alignment for historical sound changes in Uralic data
-       with `loanpy.scminer.uralign
+       with `uralign
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.uralign>`_.
     #. Write results to ``edictor/{srclg}2{tgtlg}toedict.tsv``
 

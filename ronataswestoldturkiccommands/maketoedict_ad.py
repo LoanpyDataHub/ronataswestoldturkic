@@ -1,6 +1,6 @@
 """
-Import inbuilt (csv, json) and third-party (lingpy, loanpy) programs to read,
-filter, align, and write data.
+Import inbuilt (csv, json) and third-party (lingpy, loanpy) functinoalities to
+read, filter, align, and write data.
 Register arguments for the command line interface. Run the main function.
 """
 
@@ -11,6 +11,13 @@ from lingpy.align.pairwise import Pairwise
 from loanpy.utils import prefilter
 
 def register(parser):
+    """
+    Register command line arguments and pass them on to the main function.
+    Two non-optional argments will be registered:
+    ``srclg`` (source language) and ``tgtlg`` (target langauge).
+    Only strings contained in column ``ID`` in ``etc/languages.csv`` are valid
+    arguments.
+    """
     parser.add_argument("srclg")
     parser.add_argument("tgtlg")
 
