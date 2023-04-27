@@ -290,7 +290,7 @@ words.
 In the first line we are adding the bibliography from ``raw/sources.bib``.
 This is a `BibTex <https://en.wikipedia.org/wiki/BibTeX>`_ file containing
 references to all sources from which the data in the folders ``raw`` and
-``etc`` was acquired. In the second line we print to the console
+``etc`` was acquired. In the second line we log to the console
 that the sources were added successfully. This can be helpful for debugging.
 
 .. code-block:: python

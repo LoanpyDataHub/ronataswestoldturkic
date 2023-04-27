@@ -1,8 +1,9 @@
 Part 3: Analyse data with loanpy
 ================================
 
-In this section we are inputting aligned CLDF data to loanpy to mine sound
-correspondence patterns and evaluate their predictive power.
+In this section we are inputting aligned CLDF data to `loanpy
+<https://loanpy.readthedocs.io/en/latest/home.html>`_ to mine sound
+correspondences and evaluate their predictive power.
 
 Step 1: Mine phonotactic inventory
 ----------------------------------

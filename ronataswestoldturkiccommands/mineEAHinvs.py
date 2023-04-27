@@ -1,6 +1,6 @@
 """
-Create a list of all possible prosodic structures (e.g. "CVCV") in the
-target language and store it in a json-file.
+Create a list of all possible prosodic structures (like "CVCV") in the
+target language and store them in a json-file.
 """
 import csv
 import json
@@ -9,8 +9,8 @@ from loanpy.scminer import get_prosodic_inventory
 
 def register(parser):
     """
-    Register arguments. Only one argument necessary: The name of the output-
-    file. Should end in .json.
+    Register arguments. Only one argument necessary: The name of the
+    output-file. Should end in *.json*.
     """
     parser.add_argument("outname")
 
