@@ -1,5 +1,5 @@
 """
-Import inbuilt (csv) and third-party (loanpy) programs to read and process
+Import inbuilt (csv) and third-party (loanpy) functions to read and process
 data.
 Register arguments for the command line interface. Run the main function.
 """
@@ -7,14 +7,22 @@ from loanpy.utils import cvgaps
 import csv
 
 def register(parser):
+    """
+    Register command line arguments and pass them on to the main function.
+    Two non-optional argments will be registered:
+    ``srclg`` (source language) and ``tgtlg`` (target langauge).
+    Only strings contained in column ``ID`` in ``etc/languages.csv`` are valid
+    arguments.
+    """
     parser.add_argument("srclg")
     parser.add_argument("tgtlg")
 
 def run(args):
     """
     #. Read edictor/{srclg}2{tgtlg}edicted.tsv
-    #. Replace "-" in source language data by "C" if a consonant has disappeared,
-       else by "V".
+    #. Replace "-" in source language data by "C" or "V" with
+       `loanpy.utils.cvgaps
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.cvgaps>`_.
     #. Write file
 
     """

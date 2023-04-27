@@ -109,7 +109,7 @@ For editing vertical sound correspondences (i.e. historical sound changes):
      ignored in analyses. The file ``etc/formspec.json`` was created
      based on these.
    - Hash symbol: Word boundary
-   
+
 #. Cache: Click on the floppy-disk symbol in the top-right corner or use
    ``Ctrl + S``
 #. Download: Click on the downwards pointing arrow symbol in the top-right
@@ -132,6 +132,8 @@ necessary. This is carried out with following command:
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.cvgapedicted WOT EAH
+
+This is what happened under the hood:
 
 .. automodule:: ronataswestoldturkiccommands.cvgapedicted
    :members:
