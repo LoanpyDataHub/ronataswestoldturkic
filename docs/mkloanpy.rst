@@ -161,10 +161,6 @@ result:
    AUC is above 0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
-.. figure:: ../loanpy/WOT2EAH.jpeg
-
-   Test caption
-   
 Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
@@ -184,14 +180,14 @@ Predicting loanword adaptations from West Old Turkic words:
          yellow/ochre X on the graph at almost 0.0 on the x-axis and 0.9 on
          the y-axis.
 
-    Out of 512 etymologies, 384 contained loanword adaptations from West
-    Old Turkic into Early ancient Hungarian. This pre-filtering was carried
-    out in `Part 2 step 1
-    <https://ronataswestoldturkic.readthedocs.io/en/latest/mkedictor.html#ronataswestoldturkiccommands.maketoedict_rc.run>`__.
-    At its optimum of 100 guesses per word, the model predicted 346 words
-    correctly out of 384 (90%). The
-    AUC is above 0.9, which `is considered outstanding
-    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`__.
+   Out of 512 etymologies, 384 contained loanword adaptations from West
+   Old Turkic into Early ancient Hungarian. This pre-filtering was carried
+   out in `Part 2 step 1
+   <https://ronataswestoldturkic.readthedocs.io/en/latest/mkedictor.html#ronataswestoldturkiccommands.maketoedict_rc.run>`__.
+   At its optimum of 100 guesses per word, the model predicted 346 words
+   correctly out of 384 (90%). The
+   AUC is above 0.9, which `is considered outstanding
+   <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`__.
 
 
 What happened under the hood:
