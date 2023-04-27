@@ -12,7 +12,8 @@ If you use these data please cite
   - the original source: Róna-Tas, András, & Berta, Árpád. (2011)
     West Old Turkic. Harrassowitz Verlag, Wiesbaden
   - the derived dataset using the DOI of the `particular released version
-    <../../releases/>`__ you were using
+    <https://github.com/LoanpyDataHub/ronataswestoldturkic/releases>`__
+    you were using
 
 Description
 -----------
