@@ -455,11 +455,13 @@ appearance in a written source.
 
 .. code-block:: python
 
-    lex["CV_Segments"] = get_clusters(lex["Segments"])
-    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-    lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
+   lex["CV_Segments"] = ipa.get_clusters(lex["Segments"])
+   lex["ProsodicStructure"] = ipa.get_prosody(
+                                          " ".join(lex["Segments"])
+                                          )
+   lex["FB_VowelHarmony"] = has_harmony(lex["Segments"])
 
-Here we populate three more columns which take information in the columns of
+Here we populate three more columns which take information from the columns of
 the newly generated ``cldf/forms.csv`` as input. That's why they have to be
 populated through a loop rather than in the brackets of the earlier function.
 The column ``CV_Segments`` takes the column ``Segments`` of ``cldf/forms.csv``
@@ -517,7 +519,7 @@ first use-case for this functionality (see `discussion on GitHub
 <https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_
 ).
 
-This is how your console should approximately look like after the conversion:
+This is how your console should approximately look after the conversion:
 
 .. image:: consoleoutput.png
 
