@@ -78,16 +78,6 @@ function
 
    cldfbench ronataswestoldturkic.evalsc WOT EAH "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
 
-The result:
-
-.. image:: ../loanpy/H2EAH.jpeg
-
-.. image:: ../loanpy/H2EAH.jpeg
-
-TODO add image description and alt text
-
-What happened under the hood:
-
 .. automodule:: ronataswestoldturkiccommands.evalsc
    :members:
 
@@ -102,6 +92,16 @@ to evaluate predictive models:
 
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
+
+ The result:
+
+ .. image:: ../loanpy/H2EAH.jpeg
+
+ .. image:: ../loanpy/H2EAH.jpeg
+
+ TODO add image description and alt text
+
+ What happened under the hood:
 
 .. automodule:: ronataswestoldturkiccommands.plot_eval
    :members:
