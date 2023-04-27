@@ -11,7 +11,19 @@ from typing import List, Tuple, Union
 def euclidean_distance(point1, point2):
     return math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
 
-def find_optimum(points):
+def find_optimum(
+        points: List[Tuple[Union[int, float], Union[int, float]]
+        ) -> Tuple[Union[int, float], Union[int, float]:
+    """
+    Calculates the euclidean distance of each point to the upper left hand
+    corner and returns the point with the lowest distance
+
+    :param points: A list of coordinates representing points in the graph.
+    :type points: a list of tuples of floats or integers
+
+    :return: The optimal cut-off point of the ROC curve
+    :rtype: a tuple of two floats or integers
+    """
     upper_left_corner = (0, 1)
     min_distance = float('inf')
     optimal_point = None
