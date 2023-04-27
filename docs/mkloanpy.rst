@@ -97,11 +97,13 @@ a common metric to evaluate predictive models:
 
 The result:
 
-.. image:: ../loanpy/H2EAH.jpeg
+.. figure:: ../loanpy/H2EAH.jpeg
 
-.. image:: ../loanpy/WOT2EAH.jpeg
+   The ROC curve shows how the number of true positives increases, as the
+   number of false positives increases. The optimal cut-off point is at
+   100 false positives per word, which yields
 
- TODO add image description and alt text
+.. figure:: ../loanpy/WOT2EAH.jpeg
 
  What happened under the hood:
 
