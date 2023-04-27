@@ -25,13 +25,10 @@ def run(args):
     """
     #. Read ``cldf/cognates.csv`` and ``cldf/forms.csv``.
     #. Loop through ``cldf/cognates.csv``.
-    #. Align data in column ``Segments`` with lingpy (`see documentation
+    #. Align data in column ``Segments`` with `lingpy
        <https://lingpy.github.io/reference/lingpy.align.html#lingpy.align.pairwise.Pairwise.align>`_)
-    #. Write output file with following headers:
-       ID, COGID, DOCULECT, ALIGNMENT, PROSODY
-    #. Manually inspect whether the output is satisfying. If so, remove the
-       trailing zero from the file name, which is there to avoid accidentally
-       overwriting any manually edited files with this function.
+    #. Write output file with headers
+       ``ID``, ``COGID``, ``DOCULECT``, ``ALIGNMENT``, ``PROSODY``.
     """
     # read forms.csv
     lines = "ID\tCOGID\tDOCULECT\tALIGNMENT\tPROSODY"
@@ -56,5 +53,5 @@ def run(args):
         # keep only rows that occurred in cognates.csv
 
     # write file
-    with open(f"edictor/{args.srclg}2{args.tgtlg}toedict0.tsv", "w+") as f:
+    with open(f"edictor/{args.srclg}2{args.tgtlg}toedict.tsv", "w+") as f:
         f.write(lines)
