@@ -1,16 +1,19 @@
 Part 1: Create CLDF
 ===================
 
-The following seven steps will guide you through the process of
+The following six steps will guide you through the process of
 converting raw language data to CLDF. Each step can be found in the
 `continuous integration workflow
 <https://app.circleci.com/pipelines/github/martino-vic/ronataswestoldturkic?branch=main>`_
-as well. The data we are converting comes from
-the etymological dictionary "West Old Turkic" (Róna-Tas and Berta 2011),
+as well. The data we are converting comes from the etymological dictionary
+`"West Old Turkic"
+<https://www.goodreads.com/book/show/13577601-west-old-turkic>`_
+(Róna-Tas and Berta 2011),
 which contains modern Hungarian words as headwords, together with their
 documented and reconstructed ancestor forms, including their
-West Old Turkic donor words. West Old Turkic, also called Proto-Bolgar,
-or Oghur-Turkic, or r-Turkic, is the parent language of the western branch
+West Old Turkic donor words. West Old Turkic, also called `Proto-Bolgar
+<https://glottolog.org/resource/languoid/id/bolg1249>`_, is the parent
+language of the western branch
 of Turkic languages. The raw data contains only a small fraction of the
 contents of the dictionary. If you are passionate about pdf-wrangling,
 Mongolic, Turkic, or Finno-Ugric languages and want to expand this data set,
@@ -119,13 +122,6 @@ with an online tool called `Orthographic Profiler
 written to the files ``H.tsv`` ``EAH.tsv`` ``LAH.tsv`` ``OH.tsv`` and
 ``WOT.tsv`` in the folder ``etc/orthography``.
 
- This will add columns ``Segments``, ``CV_Segments``, ``ProsodicStructure``,
- ``FB_VowelHarmony`` to ``cldf/forms.csv``, which were skipped in Step 4. These
- columns are based on tokenised IPA-strings, that were read from the files in
- ``etc/orthography``. After running the lexibank script, this is how your
- console should approximately look like:
-
-
 
 Step 5: Run lexibank script
 ---------------------------
@@ -142,11 +138,11 @@ Below is a detailed description of what the script does. See also the
 tutorial at https://calc.hypotheses.org/3318, which has many similarities.
 This is the first lexibank script that uses the
 ``args.writer.align_cognates()`` prompt for automatic cognate alignment
-(see discussion on GitHub
-`here <https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_).
+(see `discussion on GitHub
+<https://github.com/lexibank/pylexibank/issues/267#issuecomment-1418959540>`_).
 It is also one of the first CLDF repositories to link various historical
 stages of the same language to each other, covering horizontal and vertical
-transfers of words.
+transfers.
 
 .. code-block:: python
 
@@ -156,7 +152,7 @@ transfers of words.
    import attr
    from clldutils.misc import slug
    from lingpy import prosodic_string
-   from lingpy.sequence.sound_classes import token2class
+   from loanpy.utils import IPA
    from pylexibank import Dataset as BaseDataset, FormSpec, Lexeme
 
 First, we import two inbuilt Python-libraries.
@@ -167,7 +163,7 @@ First, we import two inbuilt Python-libraries.
   will be used to define file paths
 
 Then, we import functionalities from various third-party libraries.
-These dependencies were installed when running
+These were installed when running
 ``pip install -e ronataswestoldturkic`` eariler.
 
 - The attr library from the PyLexibank ecosystem will create the custom
@@ -179,9 +175,9 @@ These dependencies were installed when running
   <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
   function from the lingpy library will be used to create the phonotactic
   structures of words.
-- The `token2class
+- The `IPA
   <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.token2class>`_
-  function from the lingpy library will be used to identify whether an IPA
+  class from the lingpy library will be used to identify whether an IPA
   character is a vowel or a consonant.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
   library are all related to specifying the output format. Dataset, for
