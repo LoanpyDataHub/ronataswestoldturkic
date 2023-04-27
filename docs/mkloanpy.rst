@@ -95,6 +95,8 @@ a common metric to evaluate predictive models:
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
 
+The results:
+
 Predicting reconstructions from modern Hungarian words:
 
 .. figure:: ../loanpy/H2EAH.jpeg
@@ -105,6 +107,9 @@ Predicting reconstructions from modern Hungarian words:
    569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
    0.7, which `is considered acceptable
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
+   Note that the relative number of false positives and the AUC stay the same
+   no matter whether we count false positives per word (7000) or in total
+   (7000 * 813= 5,691,000).
 
 The performance of this model can be improved by removing irregular sound
 correspondences. By inspecting the file `loanpy/H2EAHsc.tsv` we can see that
