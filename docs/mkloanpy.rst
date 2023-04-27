@@ -123,7 +123,8 @@ following result:
 .. figure:: ../loanpy/filter_uniques/H2EAH.jpeg
 
    This model performs significantly better than the previous one, with an
-   AUC over 0.9, which can be considered outstanding.
+   AUC over 0.9, which `is considered outstanding
+   <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
 Predicting loanword adaptations from West Old Turkic words:
 
@@ -131,9 +132,9 @@ Predicting loanword adaptations from West Old Turkic words:
 
    The ROC curve shows how the relative number of true positives (y-axis)
    increases, as the relative number of false positives (x-axis) increases.
-   The optimal cut-off point is at 700 false positives per word, which yields
-   569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
-   0.7, which `is considered acceptable
+   The optimal cut-off point is at 7000 false positives per word, which yields
+   569 correct reconstructions out of 813 (i.e. 70%). The AUC is above
+   0.9, which `is considered outstanding
    <https://www.sciencedirect.com/science/article/pii/S1556086415306043>`_.
 
 What happened under the hood:

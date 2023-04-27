@@ -89,6 +89,7 @@ def plot_curve(
     y_values = [point[1] for point in points]
 
     # plot graphs and add axis labels
+    maxtp = int((maxtp-1) / 2)  # len df - header / nr of cognates per cogset
     plt.plot(x_values, y_values, label='ROC Curve')
     plt.xlabel(f'Relative number of guesses per word (100%={absfp[-1]})')
     plt.ylabel(f'Relative number of true positives in data (100%={maxtp})')
