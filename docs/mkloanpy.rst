@@ -99,8 +99,8 @@ Predicting reconstructions from modern Hungarian words:
 
 .. figure:: ../loanpy/H2EAH.jpeg
 
-   The ROC curve shows how the relative number of true positives (x-axis)
-   increases, as the relative number of false positives (y-axis) increases.
+   The ROC curve shows how the relative number of true positives (y-axis)
+   increases, as the relative number of false positives (x-axis) increases.
    The optimal cut-off point is at 700 false positives per word, which yields
    569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
    0.7, which `is considered acceptable
@@ -124,8 +124,8 @@ Predicting loanword adaptations from West Old Turkic words:
 
 .. figure:: ../loanpy/WOT2EAH.jpeg
 
-   The ROC curve shows how the relative number of true positives (x-axis)
-   increases, as the relative number of false positives (y-axis) increases.
+   The ROC curve shows how the relative number of true positives (y-axis)
+   increases, as the relative number of false positives (x-axis) increases.
    The optimal cut-off point is at 700 false positives per word, which yields
    569 correct reconstructions out of 813 (i.e. 70%). The AUC is just above
    0.7, which `is considered acceptable
