@@ -343,7 +343,7 @@ created with a custom script from an additional column in ``raw/wot.tsv``.
         languages = args.writer.add_languages()
         args.log.info("added languages")
 
-Here we read the file ``etc/languages.tsv`` which contains the references to
+Here, we read the file ``etc/languages.tsv`` which contains the references to
 `Glottolog <https://glottolog.org/>`_ and write the information to
 ``cldf/languages.csv``. Out of the five languages in this repository, only
 Hungarian is clearly present in Glottolog. Old Hungarian is missing, but a
@@ -351,9 +351,10 @@ Hungarian is clearly present in Glottolog. Old Hungarian is missing, but a
 add it and after some discussion there seems to be a plan to include it in a
 future version of Glottolog. Early and Late Ancient Hungarian are categories
 that are only used in our source and can therefore not be added to Glottolog,
-according to their `principles
-<https://glottolog.org/glottolog/glottologinformation>`_. Even though
-Glottolog does not contain Proto-languages, the nodes in their language
+according to its `principles
+<https://glottolog.org/glottolog/glottologinformation#principles>`_. Even
+though Glottolog does not contain Proto-languages, the nodes in their
+language
 family trees have their own glotto-codes, which serve as a reasonable proxy.
 In the case of West Old Turkic, the ancestor language of Bolgarian and Chuvash,
 we can thus insert the glotto-code of Bolgar into our table.
