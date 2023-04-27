@@ -109,7 +109,7 @@ transcription system, unique to the source and therefore not suitable for
 data intended for cross-linguistic comparisons. The transcription
 system is well described in the appendix of the work and this can be used to
 to map each element to its counterparts in `IPA
-<https://www.internationalphoneticassociation.org/>`_. Hungarian
+<https://www.internationalphoneticassociation.org/>`__. Hungarian
 headwords in the original source were provided in both, their official
 orthographic form and their transcription to the internal
 phonetic alphabet. We included only the modern orthographic forms.
@@ -177,7 +177,7 @@ These were installed when running
   function from the `clldutils <https://github.com/clld/clldutils>`_ library
   will be used to format some IDs.
 - The `IPA
-  <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`_
+  <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`__
   class from the `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
   library will be used to create the phonotactic structures of words.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
