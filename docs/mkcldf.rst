@@ -173,12 +173,12 @@ These were installed when running
 - The `slug <https://clldutils.readthedocs.io/en/latest/misc.html#clldutils.misc.slug>`_
   function from the `clldutils <https://github.com/clld/clldutils>`_ library
   will be used to format some IDs.
-- The `prosodic_string
-  <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.prosodic_string>`_
-  function from the lingpy library will be used to create the phonotactic
-  structures of words.
 - The `IPA
-  <https://lingpyxrotwang.readthedocs.io/en/latest/reference/lingpy.sequence.html#lingpy.sequence.sound_classes.token2class>`_
+  <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`_
+  class from the `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
+  library will be used to create the phonotactic structures of words.
+- The `IPA
+  <hhttps://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA>`_
   class from the lingpy library will be used to identify whether an IPA
   character is a vowel or a consonant.
 - The classes from the `pylexibank <https://pypi.org/project/pylexibank/>`_
