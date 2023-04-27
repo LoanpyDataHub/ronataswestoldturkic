@@ -84,20 +84,22 @@ function
 Step 6: Plot the evaluations
 ----------------------------
 
-To gauge the performance of the model, we can plot an ROC curve, calculate its
-optimum cut-off value and its Area under the curve (AUC), a common metric
-to evaluate predictive models:
+To gauge the performance of the model, we can plot an `ROC
+<https://en.wikipedia.org/wiki/Receiver_operating_characteristic>`_ curve,
+calculate its optimum cut-off value and its area under the curve `(AUC)
+<https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve>`_,
+a common metric to evaluate predictive models:
 
 .. code-block:: sh
 
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
 
- The result:
+The result:
 
- .. image:: ../loanpy/H2EAH.jpeg
+.. image:: ../loanpy/H2EAH.jpeg
 
- .. image:: ../loanpy/WOT2EAH.jpeg
+.. image:: ../loanpy/WOT2EAH.jpeg
 
  TODO add image description and alt text
 
