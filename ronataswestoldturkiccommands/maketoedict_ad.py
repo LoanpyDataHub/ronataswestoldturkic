@@ -26,7 +26,7 @@ def run(args):
     #. Read ``cldf/cognates.csv`` and ``cldf/forms.csv``.
     #. Loop through ``cldf/cognates.csv``.
     #. Align data in column ``Segments`` with `lingpy
-       <https://lingpy.github.io/reference/lingpy.align.html#lingpy.align.pairwise.Pairwise.align>`_)
+       <https://lingpy.github.io/reference/lingpy.align.html#lingpy.align.pairwise.Pairwise.align>`__)
     #. Write output file with headers
        ``ID``, ``COGID``, ``DOCULECT``, ``ALIGNMENT``, ``PROSODY``.
     """
