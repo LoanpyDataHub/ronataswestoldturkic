@@ -62,14 +62,13 @@ To create a human-readable tsv-file, run:
 .. automodule:: ronataswestoldturkiccommands.vizsc
    :members:
 
-This will output two tsv files. Delete the trailing zeroes in the file names
-after manual inspection.
-
 Step 5: Evaluate vertical and horizontal sound correspondences
 --------------------------------------------------------------
 
 In this section, we are checking the predictive power of the mined
-sound correspondences.
+sound correspondences with loanpy's `eval_all
+<https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.eval_sca.eval_all>`_
+function
 
 .. code-block:: sh
 
@@ -96,3 +95,7 @@ to evaluate predictive models, especially in Machine Learning:
 
 .. automodule:: ronataswestoldturkiccommands.plot_eval
    :members:
+
+This is how the two plots look:
+
+TODO INSERT AND EXPLAIN

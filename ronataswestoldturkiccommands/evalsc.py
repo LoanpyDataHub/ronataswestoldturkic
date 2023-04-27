@@ -39,8 +39,7 @@ def run(args):
     #. Pass the parameters and the data to loanpy's `eval_all
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.eval_sca.eval_all>`_
        function
-    #. Write the results to a file called ``tpfp{srclg}2{tgtlg}0.json``.
-       Manually remove the trailing zero after inspecting it.
+    #. Write the results to a file called ``tpfp{srclg}2{tgtlg}.json``.
 
     """
     # load sound correspondence file
