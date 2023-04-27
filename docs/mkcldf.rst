@@ -237,9 +237,10 @@ Here we define a function that checks whether a word has vowel harmony or not.
    def get_loan(loan, language):
        return ast.literal_eval(loan) if language == "WOT" else True
 
-Here we convert the information from the column ``WOT_loan`` in
-``raw/wot.tsv`` to booleans. This has to be a separate function and can't be
-implemented through a lambda.
+Here we convert the textual information from the column ``WOT_loan`` in
+``raw/wot.tsv`` to booleans with `literal_eval
+<https://docs.python.org/3/library/ast.html#ast.literal_eval>`_.
+This has to be a separate function and can't be implemented through a lambda.
 
 .. code-block:: python
 
