@@ -18,8 +18,8 @@ def run(args):
     """
     #. Read the aligned data in ``edictor/WOT2EAHedicted.tsv`` with the inbuilt
        csv package
-    #. Pass it on to loanpy's `get_inventory
-       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_inventory>`_
+    #. Pass it on to loanpy's `get_prosodic_inventory
+       <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_prosodic_inventory>`_
        function, which will extract all prosodic structures (e.g. "CVCV")
        from the target language.
     #. Write the inventory of prosodic structures to a json-file with the
@@ -27,7 +27,7 @@ def run(args):
        argument to the command and will be written to the folder ``loanpy``.
     """
     with open(f"edictor/WOT2EAHedicted.tsv", "r") as f:
-        out = get_inventory(list(csv.reader(f, delimiter="\t")))
+        out = get_prosodic_inventory(list(csv.reader(f, delimiter="\t")))
 
     with open(f"loanpy/{args.outname}", "w+") as f:
         json.dump(out, f)
