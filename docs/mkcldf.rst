@@ -75,7 +75,7 @@ Step 2: Clone reference catalogues and loanpy
 
    The following repositories will take over 1GB in disk-space. If you skip
    cloning them,
-   add a --dev flag to the command running the lexibank script in step 5.
+   add a ``--dev`` flag to the command running the lexibank script in step 5.
 
 .. code-block:: sh
 
