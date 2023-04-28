@@ -70,6 +70,13 @@ Step 2: Clone reference catalogues and loanpy
 - `LoanPy <https://loanpy.readthedocs.io/en/latest/home.html>`_
   (Martinović 2023). This step will not be necessary once version 3 is out.
 
+
+.. warning::
+
+   The following repositories will take over 1GB in disk-space. If you skip
+   cloning them,
+   add a --dev flag to the command running the lexibank script in step 5.
+
 .. code-block:: sh
 
    mkdir concepticon
