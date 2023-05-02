@@ -494,16 +494,20 @@ all words that go back to the same etymon.
                             })
                         borrid += 1
                         eah = None
-                        
+
+                args.log.info("FormTable, CognateTable, BorrowingTable: done")
+
 Here the file ``cldf/borrowings.csv`` is created. It contains reference keys
 to ``cldf/forms.csv`` to identify each donor and recipient word. It makes sure
 that only those concepts are included where a form in both West Old Turkic
 (the donor language) and Early Ancient Hungarian (the recipient language)
-exist.
+exist. In the end, we print the information to the logger, that the three
+tables were created successfully from the current loop.
 
 .. code-block:: python
 
         args.writer.align_cognates()
+        args.log.info("Cognate alignment: done")
 
 This is the final line, which creates automated alignments with the
 `lingpy <https://lingpy.org/>`_ library. They are added to a newly created
