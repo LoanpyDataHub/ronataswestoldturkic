@@ -465,7 +465,7 @@ that were read from the files in ``etc/orthography``. The column
 ``ProsodicStructure`` is created with `loanpy.utils.IPA.get_prosody
 <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA.get_prosody>`_.
 The column ``FB_VowelHarmony`` checks if a word has front-back vowel harmony
-based on a function defined earlier in the script.
+based on a function defined earlier in this script.
 
 .. code-block:: python
 
