@@ -143,4 +143,8 @@ class Dataset(BaseDataset):
                             })
                         borrid += 1
                         eah = None  # reset memory
+
+                args.log.info("FormTable, BorrowingTable: done")
+
         args.writer.align_cognates()
+        args.log.info("Cognate alignment: done")
