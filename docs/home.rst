@@ -85,7 +85,9 @@ Contributors
 CLDF Datasets
 -------------
 
-The following CLDF datasets are available in `cldf <cldf>`__:
+The following CLDF datasets are available in
+`cldf <https://github.com/LoanpyDataHub/ronataswestoldturkic/tree/main/cldf>`__
+:
 
 -  CLDF
    `Wordlist <https://github.com/cldf/cldf/tree/master/modules/Wordlist>`__
