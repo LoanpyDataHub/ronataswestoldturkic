@@ -35,7 +35,7 @@ def has_harmony(segments):
         # check if it contains a back-vowel
         if any(i in segments for i in ['a', 'aː', 'ɒ', 'ɯ', 'u', 'uː', 'o']):
             return False  # if yes: no vowel harmony
-    return True
+    return 
 
 def get_loan(loan, language):
     return ast.literal_eval(loan) if language == "WOT" else True
