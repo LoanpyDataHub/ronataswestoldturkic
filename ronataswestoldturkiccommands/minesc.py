@@ -32,7 +32,7 @@ def run(args):
        loanpy's `get_corrspondences
        <https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.scminer.get_correspondences>`_
        function
-    #. Write the sound correspondences to a file named
+    #. Write the sound and phonotactic correspondences to a file named
        ``{srclg}2{tgtlg}sc.json`` in the folder ``loanpy``.
     """
     if args.heur:
