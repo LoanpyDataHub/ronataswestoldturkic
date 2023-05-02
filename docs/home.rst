@@ -29,11 +29,11 @@ Notes
 
 |License: CC BY 4.0| |CircleCI| |Documentation Status|
 
-Manually improved alignments with: https://digling.org/edictor/ Created
-parts of the orthographic profile for Hungarian with:
-https://digling.org/calc/profiler/ Skeleton for the Hungarian
-orthographic profile comes from:
-https://github.com/dmort27/epitran/blob/master/epitran/data/map/hun-Latn.csv
+- Manually improved alignments with: https://digling.org/edictor/
+- Created parts of the orthographic profile for Hungarian with:
+  https://digling.org/calc/profiler/
+- Skeleton for the Hungarian orthographic profile comes from:
+  https://github.com/dmort27/epitran/blob/master/epitran/data/map/hun-Latn.csv
 
 Statistics
 ----------
