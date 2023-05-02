@@ -116,7 +116,8 @@ transcription system, unique to the source and therefore not suitable for
 data intended for cross-linguistic comparisons. The transcription
 system is well described in the appendix of the work and this can be used to
 to map each element to its counterparts in `IPA
-<https://www.internationalphoneticassociation.org/>`__. Hungarian
+<https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf>`__.
+Hungarian
 headwords in the original source were provided in both, their official
 orthographic form and their transcription to the internal
 phonetic alphabet. We included only the modern orthographic forms.
