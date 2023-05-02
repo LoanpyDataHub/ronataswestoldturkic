@@ -133,7 +133,7 @@ def auc(points: List[Tuple[Union[int, float], Union[int, float]]]) -> float:
 def register(parser):
     """
     Register command line arguments and pass them on to the main function.
-    Two non-optional argments will be registered:
+    Two non-optional arguments will be registered:
     ``srclg`` (source language) and ``tgtlg`` (target langauge).
     Only strings contained in column ``ID`` in ``etc/languages.csv`` are valid
     arguments.
