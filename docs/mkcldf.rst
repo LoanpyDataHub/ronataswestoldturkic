@@ -225,17 +225,10 @@ Lexeme class that we have imported earlier.
 .. code-block:: python
 
     def has_harmony(segments):
-    """
-    See issue #22!
-    if no front vowels in word: has harmony.
-    if front vowels and no back vowels: also.
-    """
-    # if word contains at least one front vowel
     if any(i in segments for i in ['y', 'yː', 'ø', 'øː']):
-        # check if it contains a back-vowel
         if any(i in segments for i in ['a', 'aː', 'ɒ', 'ɯ', 'u', 'uː', 'o']):
-            return "false"  # if yes: no vowel harmony
-    return "true"
+            return False
+    return True
 
 Here we define a function that checks whether a word has vowel harmony or not.
 
@@ -277,8 +270,6 @@ standardised CLDF data.
 
 .. code-block:: python
 
-
-        #add borrowing table
         args.writer.cldf.add_component(
             "BorrowingTable"
         )
@@ -290,7 +281,6 @@ words.
 
 .. code-block:: python
 
-        # add bib
         args.writer.add_sources()
         args.log.info("added sources")
 
@@ -302,7 +292,6 @@ that the sources were added successfully. This can be helpful for debugging.
 
 .. code-block:: python
 
-        # add concept
         concepts = {}
         for i, concept in enumerate(self.concepts):
             idx = str(i)+"_"+slug(concept["ENGLISH"])
@@ -334,10 +323,9 @@ The file ``etc/concepts.tsv`` was then accordingly copied again from
 
 .. code-block:: python
 
-        #add comments
         comments = self.etc_dir.read_csv(
             "comments.tsv", delimiter="\t",
-        )  # [['ENGLISH', 'Comment'], ['a', 'b'], ['c', 'd']]
+        )
         comments = {line[0]: line[1] for line in comments}
         args.log.info("added comments")
 
@@ -346,7 +334,6 @@ created with a custom script from an additional column in ``raw/wot.tsv``.
 
 .. code-block:: python
 
-        # add language
         languages = args.writer.add_languages()
         args.log.info("added languages")
 
@@ -370,7 +357,6 @@ we can thus insert the glotto-code of `Bolgar
 
 .. code-block:: python
 
-        # add forms and borrowings
         data = self.raw_dir.read_csv(
             "wot.tsv", delimiter="\t",
         )
@@ -507,8 +493,8 @@ all words that go back to the same etymon.
                             "Source": lex["Source"]
                             })
                         borrid += 1
-                        eah = None  # reset memory
-
+                        eah = None
+                        
 Here the file ``cldf/borrowings.csv`` is created. It contains reference keys
 to ``cldf/forms.csv`` to identify each donor and recipient word. It makes sure
 that only those concepts are included where a form in both West Old Turkic
