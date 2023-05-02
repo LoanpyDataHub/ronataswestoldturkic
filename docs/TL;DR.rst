@@ -18,9 +18,12 @@ make cldf (download size: 1GB+):
 
    pip install -e ronataswestoldturkic
    pip install -e loanpy
+   pip install pytest-cldf
 
    cd ronataswestoldturkic
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0 --concepticon=../concepticon/concepticon-data --glottolog=../glottolog --clts=../clts
+
+   pytest --cldf-metadata=cldf/cldf-metadata.json test.py
 
 make edictor:
 
