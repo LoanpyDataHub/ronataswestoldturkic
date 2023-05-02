@@ -461,7 +461,11 @@ populated through a loop rather than in the brackets of the earlier function.
 The column ``CV_Segments`` takes the column ``Segments`` of ``cldf/forms.csv``
 as input, which in turn is automatically generated from the information stored
 in ``etc/orthography``. These columns are based on tokenised IPA-strings,
-that were read from the files in ``etc/orthography``.
+that were read from the files in ``etc/orthography``. The column
+``ProsodicStructure`` is created with `loanpy.utils.IPA.get_prosody
+<https://loanpy.readthedocs.io/en/latest/documentation.html#loanpy.utils.IPA.get_prosody>`_.
+The column ``FB_VowelHarmony`` checks if a word has front-back vowel harmony
+based on a function defined earlier in the script.
 
 .. code-block:: python
 
