@@ -16,7 +16,7 @@ conceptualised and researched, as well as in their outcomes. Having good
 alignments for each individual etymology is the basis for identifying
 larger correspondence patterns over a data set. There is a multitude of
 automatic alignment-algorithms out there, most of which are inspired by
-bioinformatics. However, non of them is good enough yet to replace
+bioinformatics. However, none of them is good enough yet to replace
 expert-knowledge. Therefore, a hybrid approach is currently the best:
 At first, related words are automatically aligned. This is done with the
 `lingpy <https://lingpy.org/>`_ package, which contains various different
@@ -27,12 +27,12 @@ for the type of data of our use case. Then, they are uploaded to the
 align words. Once the results of the algorithmic approach are complemented
 by expert knkowledge, the data can be downloaded. Finally, the format of
 the manually edited data can be checked for suitability as input for
-loanpy, a Python software package for finding loanwords.
+loanpy.
 
-The following three steps will guide you through the process of converting the
-data to Edictor-suitable input, uploading it to Edictor, editing it there,
-downloading it, post-editing it locally, and evaluating whether its format is
-suitable as input for loanpy.
+The following three steps will guide you through the process of converting
+data to Edictor-suitable input, uploading them to Edictor, editing them there,
+downloading them, post-editing them locally, and evaluating whether their
+format is suitable as input for loanpy.
 
 .. seealso::
 
