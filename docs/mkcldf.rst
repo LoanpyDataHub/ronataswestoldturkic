@@ -6,7 +6,7 @@ converting raw language data to CLDF. Each step can be found in the
 `continuous integration workflow
 <https://app.circleci.com/pipelines/github/LoanpyDataHub/ronataswestoldturkic>`_
 as well. The data we are converting comes from the etymological dictionary
-`"West Old Turkic"
+`West Old Turkic
 <https://www.goodreads.com/book/show/13577601-west-old-turkic>`_
 (Róna-Tas and Berta 2011),
 which contains modern Hungarian words as headwords, together with their
@@ -24,8 +24,8 @@ and let's get in touch!
 Step 1: Clone the repository
 ----------------------------
 
-It is strongly recommended to create and activate a virtual environment first.
-This can be for example done by running
+It is recommended to create and activate a virtual environment first.
+This can be for example done by running:
 
 .. code-block:: sh
 
@@ -38,7 +38,7 @@ To deactivate it, run:
 
    deactivate
 
-in an activated virtual environment. And to delete it, deactivate it and run:
+And to delete it:
 
 .. code-block:: sh
 
@@ -57,7 +57,7 @@ Originally, the skeleton of the repository was created using this command:
 
    cldfbench new
 
-and answering the follow-up questions. More on this can be read in the
+More on this can be read in the
 `cldfbench tutorial <https://github.com/cldf/cldfbench/blob/master/doc/tutorial.md>`_.
 
 Step 2: Clone reference catalogues and loanpy
@@ -93,7 +93,7 @@ Step 3: Install commands
 
 The ``-e`` flag will install all necessary dependencies in development mode.
 I.e. if you modify any code in those repositories, changes will apply
-immediately. Remember to run this command from the directory where
+immediately. Remember to run these commands from the directory where
 all your GitHub repositories are stored.
 
 .. code-block:: sh
@@ -133,7 +133,7 @@ written to the files ``H.tsv`` ``EAH.tsv`` ``LAH.tsv`` ``OH.tsv`` and
 Step 5: Run lexibank script
 ---------------------------
 
-This script combines files from the raw and etc folders and creates and
+This script combines files from the raw and etc folders and
 populates the folder cldf
 
 .. code-block:: sh
