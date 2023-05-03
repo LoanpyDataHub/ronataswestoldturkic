@@ -6,7 +6,7 @@ Thank you for considering to contribute to our Hungarian etymological data proje
 
 We have only converted a fraction of the data from the PDF dictionary to the CLDF format. If you are passionate about PDF-wrangling, Mongolic, Turkic, or Finno-Ugric languages, and want to help expand this dataset, follow the steps below:
 
-1. Familiarise yourself with the project by reading the [README.md](https://github.com/martino-vic/ronataswestoldturkic/blob/main/README.md).
+1. Familiarise yourself with the project by reading the [docs](https://ronataswestoldturkic.readthedocs.io/en/latest/home.html).
 2. Make sure to know the basics of [Cross Linguistic Data Formats](https://cldf.clld.org/).
 3. Explore the original etymological dictionary [West Old Turkic](https://www.goodreads.com/book/show/13577601-west-old-turkic) by checking your library.
 4. Review the contribution guidelines detailed in this document.
