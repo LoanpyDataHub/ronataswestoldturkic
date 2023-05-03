@@ -1,6 +1,6 @@
 # Contributing to the Hungarian Etymological CLDF Dataset
 
-Thank you for considering to contribute to our Hungarian etymological data project! This project aims to convert the data from the etymological dictionary [West Old Turkic](https://www.goodreads.com/book/show/13577601-west-old-turkic) (Róna-Tas and Berta 2011) into the CLDF format. It contains modern Hungarian words as headwords, together with their documented and reconstructed ancestor forms, including their West Old Turkic donor words. West Old Turkic, also called [Proto-Bolgar](https://glottolog.org/resource/languoid/id/bolg1249), is the parent language of the western branch of Turkic languages. The raw data contains only a small fraction of the contents of the dictionary yet, so there is plenty of work left to do!
+Thank you for considering to contribute to our Hungarian etymological data project! This project aims to convert the data from the etymological dictionary "West Old Turkic" (Róna-Tas and Berta 2011) into the CLDF format. It contains modern Hungarian words as headwords, together with their documented and reconstructed ancestor forms, including their West Old Turkic donor words. West Old Turkic, also called Proto-Bolgar, is the parent language of the western branch of Turkic languages. The raw data contains only a small fraction of the contents of the dictionary yet, so there is plenty of work left to do!
 
 ## How to Contribute
 
@@ -29,7 +29,11 @@ By following these guidelines, you help maintain a high-quality dataset and make
 
 If you have any questions or need assistance, please don't hesitate to contact me via [e-mail](mailto:viktor_martinovic@$removethis$eva.mpg.de) or [Twitter](https://twitter.com/martino_vik). I appreciate your interest and look forward to collaborating with you!
 
-## To submit a content report, please follow these steps:
+## Submitting Content Reports
+
+If you encounter content in our repository that violates our community guidelines, is inappropriate, or needs attention from the repository maintainers, we encourage you to submit a content report. Your collaboration helps us maintain a positive and inclusive community, ensuring our repository remains a safe and welcoming space for everyone.
+
+To submit a content report, please follow these steps:
 
 1. Go to the "Issues" tab in our repository.
 2. Click on "New Issue" to create a new issue.
