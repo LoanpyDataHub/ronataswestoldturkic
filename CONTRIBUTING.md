@@ -1,6 +1,6 @@
 # Contributing to the Hungarian Etymological CLDF Dataset
 
-Thank you for considering to contribute to our Hungarian etymological data project! This project aims to convert the data from the etymological dictionary "West Old Turkic" (Róna-Tas and Berta 2011) into the CLDF format. The dictionary contains modern Hungarian words as headwords, along with their documented and reconstructed ancestor forms, including their West Old Turkic donor words. West Old Turkic, also called Proto-Bolgar, Oghur-Turkic, or r-Turkic, is the parent language of the western branch of Turkic languages.
+Thank you for considering to contribute to our Hungarian etymological data project! This project aims to convert the data from the etymological dictionary [West Old Turkic](https://www.goodreads.com/book/show/13577601-west-old-turkic) (Róna-Tas and Berta 2011) into the CLDF format. It contains modern Hungarian words as headwords, together with their documented and reconstructed ancestor forms, including their West Old Turkic donor words. West Old Turkic, also called [Proto-Bolgar](https://glottolog.org/resource/languoid/id/bolg1249), is the parent language of the western branch of Turkic languages. The raw data contains only a small fraction of the contents of the dictionary yet, so there is plenty of work left to do!
 
 ## How to Contribute
 
