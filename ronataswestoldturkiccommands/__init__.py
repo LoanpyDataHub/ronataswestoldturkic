@@ -12,10 +12,9 @@ make cldf (download size: 1GB+):
    cd ..
    git clone https://github.com/glottolog/glottolog.git
    git clone https://github.com/cldf-clts/clts.git
-   git clone https://github.com/martino-vic/loanpy.git
 
    pip install -e ronataswestoldturkic
-   pip install -e loanpy
+   pip install loanpy
    pip install pytest-cldf
 
    cd ronataswestoldturkic
