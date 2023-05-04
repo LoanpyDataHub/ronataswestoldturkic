@@ -60,15 +60,15 @@ Originally, the skeleton of the repository was created using this command:
 and answering the follow-up questions. More on this can be read in the
 `cldfbench tutorial <https://github.com/cldf/cldfbench/blob/master/doc/tutorial.md>`_.
 
-Step 2: Clone reference catalogues and loanpy
----------------------------------------------
+Step 2: Clone reference catalogues
+----------------------------------
 
 - `Glottolog <https://glottolog.org/>`_ (Hammarström et al. 2022)
   to reference the languages in the repo.
-- `Concepticon <https://concepticon.clld.org/>`_ (List et al. 2023) for
-  referencing concepts.
-- `LoanPy <https://loanpy.readthedocs.io/en/latest/home.html>`_
-  (Martinović 2023). This step will not be necessary once version 3 is out.
+- `Concepticon <https://concepticon.clld.org/>`_ (List et al. 2023) to
+  reference concepts.
+- `CLTS <https://clts.clld.org/> (List et al. 2021)`_ to reference IPA
+  characters
 
 
 .. warning::
@@ -85,11 +85,10 @@ Step 2: Clone reference catalogues and loanpy
    cd ..
    git clone https://github.com/glottolog/glottolog.git
    git clone https://github.com/cldf-clts/clts.git
-   git clone https://github.com/martino-vic/loanpy.git
 
 
-Step 3: Install commands
-------------------------
+Step 3: Install commands and loanpy
+-----------------------------------
 
 The ``-e`` flag will install all necessary dependencies in development mode.
 I.e. if you modify any code in those repositories, changes will apply
@@ -99,7 +98,13 @@ all your GitHub repositories are stored.
 .. code-block:: sh
 
    pip install -e ronataswestoldturkic
-   pip install -e loanpy
+
+Install `LoanPy <https://loanpy.readthedocs.io/en/latest/home.html>`_
+(Martinović 2023). This step will not be necessary once version 3 is out.
+
+.. code-block:: sh
+
+   pip install loanpy
 
 
 Step 4: Create IPA transcriptions
