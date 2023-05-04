@@ -100,7 +100,7 @@ all your GitHub repositories are stored.
    pip install -e ronataswestoldturkic
 
 Install `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
-(Martinović 2023).
+(Martinović 2023):
 
 .. code-block:: sh
 
