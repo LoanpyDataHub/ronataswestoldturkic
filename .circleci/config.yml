@@ -20,13 +20,12 @@ jobs:
             cd ..
             git clone https://github.com/glottolog/glottolog.git
             git clone https://github.com/cldf-clts/clts.git
-            git clone https://github.com/martino-vic/loanpy.git
             sudo apt-get install jq
       - run:
           name: install commands and loanpy
           command: |
             pip install -e ronataswestoldturkic
-            pip install -e loanpy
+            pip install loanpy
 
       - run:
           name: run lexibank script
