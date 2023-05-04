@@ -67,7 +67,7 @@ Step 2: Clone reference catalogues
   to reference the languages in the repo.
 - `Concepticon <https://concepticon.clld.org/>`_ (List et al. 2023) to
   reference concepts.
-- `CLTS <https://clts.clld.org/> (List et al. 2021)`_ to reference IPA
+- `CLTS <https://clts.clld.org/>`_ (List et al. 2021) to reference IPA
   characters
 
 
@@ -99,8 +99,8 @@ all your GitHub repositories are stored.
 
    pip install -e ronataswestoldturkic
 
-Install `LoanPy <https://loanpy.readthedocs.io/en/latest/home.html>`_
-(Martinović 2023). This step will not be necessary once version 3 is out.
+Install `loanpy <https://loanpy.readthedocs.io/en/latest/home.html>`_
+(Martinović 2023).
 
 .. code-block:: sh
 
