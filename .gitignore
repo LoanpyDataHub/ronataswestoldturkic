@@ -108,3 +108,9 @@ ENV/
 
 #development version of docs
 /devdocs
+
+# Ignore local Sphinx folder for LaTeX
+source/
+Makefile
+make.bat
+latex/

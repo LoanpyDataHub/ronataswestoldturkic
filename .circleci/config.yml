@@ -12,7 +12,7 @@ jobs:
           command: >
             git clone https://github.com/martino-vic/ronataswestoldturkic.git
       - run:
-          name: Clone reference catalogues (takes 1min15s) & loanpy & get jq
+          name: Clone reference catalogues (takes 1min15s) & get jq
           command: |
             mkdir concepticon
             cd concepticon
