@@ -2,5 +2,5 @@ epitran>=1.24
 ipatok>=0.4.1
 lingpy>=2.6.9
 loanpy>=3.0.0
-matplotlib>=3.7.1
+matplotlib<=3.5.3
 sphinx-copybutton>=0.5.2
