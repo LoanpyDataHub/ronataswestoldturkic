@@ -22,6 +22,7 @@ make cldf (download size: 1GB+):
 
    pytest --cldf-metadata=cldf/cldf-metadata.json test.py
 
+
 make edictor:
 
 .. code-block:: sh
@@ -33,6 +34,7 @@ make edictor:
 
    cldfbench ronataswestoldturkic.evaledicted H EAH
    cldfbench ronataswestoldturkic.evaledicted WOT EAH
+
 
 make loanpy:
 
@@ -48,5 +50,6 @@ make loanpy:
    cldfbench ronataswestoldturkic.evalsc WOT EAH "[10, 100, 500, 700, 1000, 5000, 7000]" True True heur.json
    cldfbench ronataswestoldturkic.plot_eval H EAH
    cldfbench ronataswestoldturkic.plot_eval WOT EAH
+   
 
 """
