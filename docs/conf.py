@@ -13,3 +13,12 @@ version = '2.0'
 release = '2.0'
 extensions = ['sphinx.ext.autodoc', 'sphinx_copybutton']
 html_theme = 'sphinx_rtd_theme'
+
+# uncomment row below if  installation problems with dependencies
+autodoc_mock_imports = [
+    "epitran>=1.24",
+    "ipatok>=0.4.1",
+    "lingpy>=2.6.9",
+    "loanpy>=3.0.0",
+    "matplotlib<=3.5.3"
+]
