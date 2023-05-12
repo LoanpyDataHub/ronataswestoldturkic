@@ -1,0 +1,2773 @@
+['# KSL']	['ID', 'DOCULECT', 'CONCEPT', 'GlossID', 'Orthography', 'IPA', 'Tokens', 'CogID']
+0	H	0_carpenter	1	ács	aːt͡ʃ	aː t͡ʃ	H-0_carpenter-1
+#
+1	EAH	0_carpenter	1	aγači	aɣat͡ʃi	a ɣ a t͡ʃ i	EAH-0_carpenter-1
+2	WOT	0_carpenter	1	aγaččï	aɣat͡ʃːɯ	a ɣ a t͡ʃː ɯ	WOT-0_carpenter-1
+#
+3	H	1_cannoncatapult	2	ágyú	aːɟuː	aː ɟ uː	H-1_cannoncatapult-1
+#
+4	OH	1_cannoncatapult	2	āldʹū	aːlɟuː	aː l ɟ uː	OH-1_cannoncatapult-1
+5	LAH	1_cannoncatapult	2	aldau̯	aldaw	a l d a w	LAH-1_cannoncatapult-1
+6	EAH	1_cannoncatapult	2	aldaγ	aldaɣ	a l d a ɣ	EAH-1_cannoncatapult-1
+7	WOT	1_cannoncatapult	2	aldaγ	aldaɣ	a l d a ɣ	WOT-1_cannoncatapult-1
+#
+8	H	2_tofondlepetcaress	3	ajn	ɒjn	ɒ j n	H-2_tofondlepetcaress-1
+#
+9	EAH	2_tofondlepetcaress	3	ayan	ajan	a j a n	EAH-2_tofondlepetcaress-1
+10	WOT	2_tofondlepetcaress	3	ayan	ajan	a j a n	WOT-2_tofondlepetcaress-1
+#
+11	H	3_streamcurrent	4	ákos	aːkoʃ	aː k o ʃ	H-3_streamcurrent-1
+#
+12	H	3_streamcurrent	5	ágos	aːɡoʃ	aː ɡ o ʃ	H-3_streamcurrent-2
+#
+13	H	4_falseimitation	6	ál	aːl	aː l	H-4_falseimitation-1
+#
+14	EAH	4_falseimitation	6	āl	aːl	aː l	EAH-4_falseimitation-1
+15	WOT	4_falseimitation	6	al	al	a l	WOT-4_falseimitation-1
+#
+16	H	5_piedofananimalscoat	7	alacs	ɒlɒt͡ʃ	ɒ l ɒ t͡ʃ	H-5_piedofananimalscoat-1
+#
+17	EAH	5_piedofananimalscoat	7	alač	alat͡ʃ	a l a t͡ʃ	EAH-5_piedofananimalscoat-1
+18	WOT	5_piedofananimalscoat	7	alačï	alat͡ʃɯ	a l a t͡ʃ ɯ	WOT-5_piedofananimalscoat-1
+#
+19	H	5_piedofananimalscoat	8	alacs	ɒlɒt͡ʃ	ɒ l ɒ t͡ʃ	H-5_piedofananimalscoat-2
+#
+20	EAH	5_piedofananimalscoat	8	alač	alat͡ʃ	a l a t͡ʃ	EAH-5_piedofananimalscoat-2
+21	WOT	5_piedofananimalscoat	8	alaču	alat͡ʃu	a l a t͡ʃ u	WOT-5_piedofananimalscoat-2
+#
+22	H	5_piedofananimalscoat	9	alacs	ɒlɒt͡ʃ	ɒ l ɒ t͡ʃ	H-5_piedofananimalscoat-3
+#
+23	EAH	5_piedofananimalscoat	9	alač	alat͡ʃ	a l a t͡ʃ	EAH-5_piedofananimalscoat-3
+24	WOT	5_piedofananimalscoat	9	alačo	alat͡ʃo	a l a t͡ʃ o	WOT-5_piedofananimalscoat-3
+#
+25	H	5_piedofananimalscoat	10	alacs	ɒlɒt͡ʃ	ɒ l ɒ t͡ʃ	H-5_piedofananimalscoat-4
+#
+26	EAH	5_piedofananimalscoat	10	alač	alat͡ʃ	a l a t͡ʃ	EAH-5_piedofananimalscoat-4
+27	WOT	5_piedofananimalscoat	10	ålåč	ɒlɒt͡ʃ	ɒ l ɒ t͡ʃ	WOT-5_piedofananimalscoat-4
+#
+28	H	6_apple	11	alma	ɒlmɒ	ɒ l m ɒ	H-6_apple-1
+#
+29	EAH	6_apple	11	alma	alma	a l m a	EAH-6_apple-1
+30	WOT	6_apple	11	alma	alma	a l m a	WOT-6_apple-1
+#
+31	H	7_barrelwoodencontainerandstandardquantity	12	általag	aːltɒlɒɡ	aː l t ɒ l ɒ ɡ	H-7_barrelwoodencontainerandstandardquantity-1
+#
+32	EAH	7_barrelwoodencontainerandstandardquantity	12	altalag	altalaɡ	a l t a l a ɡ	EAH-7_barrelwoodencontainerandstandardquantity-1
+33	WOT	7_barrelwoodencontainerandstandardquantity	12	altïlïg	altɯlɯɡ	a l t ɯ l ɯ ɡ	WOT-7_barrelwoodencontainerandstandardquantity-1
+#
+34	H	7_barrelwoodencontainerandstandardquantity	13	átalag	aːtɒlɒɡ	aː t ɒ l ɒ ɡ	H-7_barrelwoodencontainerandstandardquantity-2
+#
+35	EAH	7_barrelwoodencontainerandstandardquantity	13	altalag	altalaɡ	a l t a l a ɡ	EAH-7_barrelwoodencontainerandstandardquantity-2
+36	WOT	7_barrelwoodencontainerandstandardquantity	13	altïlïg	altɯlɯɡ	a l t ɯ l ɯ ɡ	WOT-7_barrelwoodencontainerandstandardquantity-2
+#
+37	H	8_tonursetakecareof	14	áp	aːp	aː p	H-8_tonursetakecareof-1
+#
+38	OH	8_tonursetakecareof	14	apol	apol	a p o l	OH-8_tonursetakecareof-1
+39	EAH	8_tonursetakecareof	14	op	op	o p	EAH-8_tonursetakecareof-1
+40	WOT	8_tonursetakecareof	14	op	op	o p	WOT-8_tonursetakecareof-1
+#
+41	H	9_todecayputrifyturnstale	15	áporo	aːporo	aː p o r o	H-9_todecayputrifyturnstale-1
+#
+42	EAH	9_todecayputrifyturnstale	15	oporo	oporo	o p o r o	EAH-9_todecayputrifyturnstale-1
+43	WOT	9_todecayputrifyturnstale	15	opura	opura	o p u r a	WOT-9_todecayputrifyturnstale-1
+#
+44	H	10_smalltiny	16	apró	ɒproː	ɒ p r oː	H-10_smalltiny-1
+#
+45	OH	10_smalltiny	16	oprau̯	opraw	o p r a w	OH-10_smalltiny-1
+46	EAH	10_smalltiny	16	opuruγ	opuruɣ	o p u r u ɣ	EAH-10_smalltiny-1
+47	WOT	10_smalltiny	16	opuruγ	opuruɣ	o p u r u ɣ	WOT-10_smalltiny-1
+#
+48	H	11_tomow	17	arat	ɒrɒt	ɒ r ɒ t	H-11_tomow-1
+#
+49	EAH	11_tomow	17	orat	orat	o r a t	EAH-11_tomow-1
+50	WOT	11_tomow	17	orat	orat	o r a t	WOT-11_tomow-1
+#
+51	H	11_tomow	18	arat	ɒrɒt	ɒ r ɒ t	H-11_tomow-2
+#
+52	EAH	11_tomow	18	orat	orat	o r a t	EAH-11_tomow-2
+53	WOT	11_tomow	18	or	or	o r	WOT-11_tomow-2
+#
+54	H	12_todecayputrefygobadoffoodwater	19	ár	aːr	aː r	H-12_todecayputrefygobadoffoodwater-1
+#
+55	EAH	12_todecayputrefygobadoffoodwater	19	ār	aːr	aː r	EAH-12_todecayputrefygobadoffoodwater-1
+56	WOT	12_todecayputrefygobadoffoodwater	19	ar	ar	a r	WOT-12_todecayputrefygobadoffoodwater-1
+#
+57	H	13_toharm	20	árt	aːrt	aː r t	H-13_toharm-1
+#
+58	EAH	13_toharm	20	ārtat	aːrtat	aː r t a t	EAH-13_toharm-1
+59	WOT	13_toharm	20	artat	artat	a r t a t	WOT-13_toharm-1
+#
+60	H	14_atypeoflasso	21	árkány	aːrkaːɲ	aː r k aː ɲ	H-14_atypeoflasso-1
+#
+61	EAH	14_atypeoflasso	21	arkan	arkan	a r k a n	EAH-14_atypeoflasso-1
+#
+62	H	15_ditchcanal	22	árok	aːrok	aː r o k	H-15_ditchcanal-1
+#
+63	EAH	15_ditchcanal	22	āruk	aːruk	aː r u k	EAH-15_ditchcanal-1
+64	WOT	15_ditchcanal	22	aruk	aruk	a r u k	WOT-15_ditchcanal-1
+#
+65	H	16_barleyhordeum	23	árpa	aːrpɒ	aː r p ɒ	H-16_barleyhordeum-1
+#
+66	EAH	16_barleyhordeum	23	arpa	arpa	a r p a	EAH-16_barleyhordeum-1
+67	WOT	16_barleyhordeum	23	arpa	arpa	a r p a	WOT-16_barleyhordeum-1
+#
+68	H	17_barrow	24	ártány	aːrtaːɲ	aː r t aː ɲ	H-17_barrow-1
+#
+69	EAH	17_barrow	24	aritan	aritan	a r i t a n	EAH-17_barrow-1
+70	WOT	17_barrow	24	arïtan	arɯtan	a r ɯ t a n	WOT-17_barrow-1
+#
+71	H	18_gauntrygantryforsupportingbarrels	25	ászok	aːsok	aː s o k	H-18_gauntrygantryforsupportingbarrels-1
+#
+72	OH	18_gauntrygantryforsupportingbarrels	25	ask	ask	a s k	OH-18_gauntrygantryforsupportingbarrels-1
+73	EAH	18_gauntrygantryforsupportingbarrels	25	aski	aski	a s k i	EAH-18_gauntrygantryforsupportingbarrels-1
+74	WOT	18_gauntrygantryforsupportingbarrels	25	askï	askɯ	a s k ɯ	WOT-18_gauntrygantryforsupportingbarrels-1
+#
+75	H	19_charm	26	báj	baːj	b aː j	H-19_charm-1
+#
+76	EAH	19_charm	26	bay	baj	b a j	EAH-19_charm-1
+77	WOT	19_charm	26	bay	baj	b a j	WOT-19_charm-1
+#
+78	H	20_soggyplacemoorswampmarsh	27	balkány	bɒlkaːɲ	b ɒ l k aː ɲ	H-20_soggyplacemoorswampmarsh-1
+#
+79	EAH	20_soggyplacemoorswampmarsh	27	balkan	balkan	b a l k a n	EAH-20_soggyplacemoorswampmarsh-1
+80	WOT	20_soggyplacemoorswampmarsh	27	balkan	balkan	b a l k a n	WOT-20_soggyplacemoorswampmarsh-1
+#
+81	H	21_hatchetaxe	28	balta	bɒltɒ	b ɒ l t ɒ	H-21_hatchetaxe-1
+#
+82	EAH	21_hatchetaxe	28	balta	balta	b a l t a	EAH-21_hatchetaxe-1
+83	WOT	21_hatchetaxe	28	balta	balta	b a l t a	WOT-21_hatchetaxe-1
+#
+84	H	22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson	29	bálvány	baːlvaːɲ	b aː l v aː ɲ	H-22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson-1
+#
+85	EAH	22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson	29	balvan	balvan	b a l v a n	EAH-22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson-1
+86	WOT	22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson	29	balvan	balvan	b a l v a n	WOT-22_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson-1
+#
+87	H	23_governorofcroatiagovernorofthesouthernmarches	30	bán	baːn	b aː n	H-23_governorofcroatiagovernorofthesouthernmarches-1
+#
+88	WOT	23_governorofcroatiagovernorofthesouthernmarches	30	bayan	bajan	b a j a n	WOT-23_governorofcroatiagovernorofthesouthernmarches-1
+#
+89	H	24_toregrettobesorry	31	bán	baːn	b aː n	H-24_toregrettobesorry-1
+#
+90	EAH	24_toregrettobesorry	31	baγin	baɣin	b a ɣ i n	EAH-24_toregrettobesorry-1
+91	WOT	24_toregrettobesorry	31	bagïn	baɡɯn	b a ɡ ɯ n	WOT-24_toregrettobesorry-1
+#
+92	H	25_hairybushyofdogsabighairydogasnoun	32	barág	bɒraːɡ	b ɒ r aː ɡ	H-25_hairybushyofdogsabighairydogasnoun-1
+#
+93	EAH	25_hairybushyofdogsabighairydogasnoun	32	barag	baraɡ	b a r a ɡ	EAH-25_hairybushyofdogsabighairydogasnoun-1
+#
+94	H	26_labeltag	33	bárca	baːrt͡sɒ	b aː r t͡s ɒ	H-26_labeltag-1
+#
+95	EAH	26_labeltag	33	bāsa	baːsa	b aː s a	EAH-26_labeltag-1
+#
+96	H	27_cattlelivestock	34	barom	bɒrom	b ɒ r o m	H-27_cattlelivestock-1
+#
+97	EAH	27_cattlelivestock	34	barum	barum	b a r u m	EAH-27_cattlelivestock-1
+98	WOT	27_cattlelivestock	34	barum	barum	b a r u m	WOT-27_cattlelivestock-1
+#
+99	H	28_velvet	35	bársony	baːrʃoɲ	b aː r ʃ o ɲ	H-28_velvet-1
+#
+100	OH	28_velvet	35	baršun	barʃun	b a r ʃ u n	OH-28_velvet-1
+101	EAH	28_velvet	35	barčun	bart͡ʃun	b a r t͡ʃ u n	EAH-28_velvet-1
+102	WOT	28_velvet	35	barčun	bart͡ʃun	b a r t͡ʃ u n	WOT-28_velvet-1
+#
+103	H	29_tofuck	36	basz	bɒs	b ɒ s	H-29_tofuck-1
+#
+104	EAH	29_tofuck	36	bas	bas	b a s	EAH-29_tofuck-1
+105	WOT	29_tofuck	36	bas	bas	b a s	WOT-29_tofuck-1
+#
+106	H	30_courageousbravevaliant	37	bátor	baːtor	b aː t o r	H-30_courageousbravevaliant-1
+#
+107	EAH	30_courageousbravevaliant	37	baγatur	baɣatur	b a ɣ a t u r	EAH-30_courageousbravevaliant-1
+108	WOT	30_courageousbravevaliant	37	baγatur	baɣatur	b a ɣ a t u r	WOT-30_courageousbravevaliant-1
+#
+109	H	31_toestimatetoesteemtoappreciate	38	bëcsül	bet͡ʃyl	b e t͡ʃ y l	H-31_toestimatetoesteemtoappreciate-1
+#
+110	EAH	31_toestimatetoesteemtoappreciate	38	bečel	bɛt͡ʃɛl	b ɛ t͡ʃ ɛ l	EAH-31_toestimatetoesteemtoappreciate-1
+111	WOT	31_toestimatetoesteemtoappreciate	38	bičil	bit͡ʃil	b i t͡ʃ i l	WOT-31_toestimatetoesteemtoappreciate-1
+#
+112	H	32_frog	39	béka	beːkɒ	b eː k ɒ	H-32_frog-1
+#
+113	EAH	32_frog	39	baka	baka	b a k a	EAH-32_frog-1
+114	WOT	32_frog	39	baka	baka	b a k a	WOT-32_frog-1
+#
+115	H	33_hobbleshacklelegiron	40	békó	beːkoː	b eː k oː	H-33_hobbleshacklelegiron-1
+#
+116	EAH	33_hobbleshacklelegiron	40	bikaγu	bikaɣu	b i k a ɣ u	EAH-33_hobbleshacklelegiron-1
+117	WOT	33_hobbleshacklelegiron	40	bïkaγu	bɯkaɣu	b ɯ k a ɣ u	WOT-33_hobbleshacklelegiron-1
+#
+118	H	33_hobbleshacklelegiron	41	béklyó	beːkjoː	b eː k j oː	H-33_hobbleshacklelegiron-2
+#
+119	EAH	33_hobbleshacklelegiron	41	bikaγu	bikaɣu	b i k a ɣ u	EAH-33_hobbleshacklelegiron-2
+120	WOT	33_hobbleshacklelegiron	41	bïkaγu	bɯkaɣu	b ɯ k a ɣ u	WOT-33_hobbleshacklelegiron-2
+#
+121	H	34_stampbondmark	42	bélyeg	beːjɛɡ	b eː j ɛ ɡ	H-34_stampbondmark-1
+#
+122	OH	34_stampbondmark	42	bēlʹeg	beːjɛɡ	b eː j ɛ ɡ	OH-34_stampbondmark-1
+123	EAH	34_stampbondmark	42	beleg	bɛlɛɡ	b ɛ l ɛ ɡ	EAH-34_stampbondmark-1
+124	WOT	34_stampbondmark	42	bäläg	bɛlɛɡ	b ɛ l ɛ ɡ	WOT-34_stampbondmark-1
+#
+125	H	35_wagerent	43	bér	beːr	b eː r	H-35_wagerent-1
+#
+126	EAH	35_wagerent	43	bērü	beːry	b eː r y	EAH-35_wagerent-1
+127	WOT	35_wagerent	43	berü	bɛry	b ɛ r y	WOT-35_wagerent-1
+#
+128	H	36_nameofapeople	44	bercel	bɛrt͡sɛl	b ɛ r t͡s ɛ l	H-36_nameofapeople-1
+#
+129	OH	36_nameofapeople	44	bercel	bɛrt͡sɛl	b ɛ r t͡s ɛ l	OH-36_nameofapeople-1
+130	EAH	36_nameofapeople	44	bersil	bɛrsil	b ɛ r s i l	EAH-36_nameofapeople-1
+131	WOT	36_nameofapeople	44	Bärsil	bɛrsil	b ɛ r s i l	WOT-36_nameofapeople-1
+#
+132	H	37_grainorsmallglobuleofpreciousmetal	45	bertű	bɛrtyː	b ɛ r t yː	H-37_grainorsmallglobuleofpreciousmetal-1
+#
+133	OH	37_grainorsmallglobuleofpreciousmetal	45	börtǖ	børtyː	b ø r t yː	OH-37_grainorsmallglobuleofpreciousmetal-1
+134	LAH	37_grainorsmallglobuleofpreciousmetal	45	börteü̯	børtɛw	b ø r t ɛ w	LAH-37_grainorsmallglobuleofpreciousmetal-1
+135	EAH	37_grainorsmallglobuleofpreciousmetal	45	bürtiγ	byrtiɣ	b y r t i ɣ	EAH-37_grainorsmallglobuleofpreciousmetal-1
+136	WOT	37_grainorsmallglobuleofpreciousmetal	45	bürtiγ	byrtiɣ	b y r t i ɣ	WOT-37_grainorsmallglobuleofpreciousmetal-1
+#
+137	H	38_abirdofprey	46	bese	bɛʃɛ	b ɛ ʃ ɛ	H-38_abirdofprey-1
+#
+138	EAH	38_abirdofprey	46	beše	bɛʃɛ	b ɛ ʃ ɛ	EAH-38_abirdofprey-1
+139	WOT	38_abirdofprey	46	bäšä	bɛʃɛ	b ɛ ʃ ɛ	WOT-38_abirdofprey-1
+#
+140	H	39_pechenegnameofatribe	47	besenyő	bɛʃɛɲøː	b ɛ ʃ ɛ ɲ øː	H-39_pechenegnameofatribe-1
+#
+141	OH	39_pechenegnameofatribe	47	bešeneü̯	bɛʃɛnɛw	b ɛ ʃ ɛ n ɛ w	OH-39_pechenegnameofatribe-1
+142	EAH	39_pechenegnameofatribe	47	bešeneγ	bɛʃɛnɛɣ	b ɛ ʃ ɛ n ɛ ɣ	EAH-39_pechenegnameofatribe-1
+143	WOT	39_pechenegnameofatribe	47	bäčänäg	bɛt͡ʃɛnɛɡ	b ɛ t͡ʃ ɛ n ɛ ɡ	WOT-39_pechenegnameofatribe-1
+#
+144	H	40_letterofthealphabet	48	betű	bɛtyː	b ɛ t yː	H-40_letterofthealphabet-1
+#
+145	OH	40_letterofthealphabet	48	beteü̯	bɛtɛw	b ɛ t ɛ w	OH-40_letterofthealphabet-1
+146	EAH	40_letterofthealphabet	48	bitiγ	bitiɣ	b i t i ɣ	EAH-40_letterofthealphabet-1
+147	WOT	40_letterofthealphabet	48	bitig	bitiɡ	b i t i ɡ	WOT-40_letterofthealphabet-1
+#
+148	H	41_pocketknife	49	bicsak	bit͡ʃɒk	b i t͡ʃ ɒ k	H-41_pocketknife-1
+#
+149	EAH	41_pocketknife	49	bičak	bit͡ʃak	b i t͡ʃ a k	EAH-41_pocketknife-1
+150	WOT	41_pocketknife	49	bïčak	bɯt͡ʃak	b ɯ t͡ʃ a k	WOT-41_pocketknife-1
+#
+151	H	41_pocketknife	50	bicsak	bit͡ʃɒk	b i t͡ʃ ɒ k	H-41_pocketknife-2
+#
+152	EAH	41_pocketknife	50	bičak	bit͡ʃak	b i t͡ʃ a k	EAH-41_pocketknife-2
+153	WOT	41_pocketknife	50	bïčkï	bɯt͡ʃkɯ	b ɯ t͡ʃ k ɯ	WOT-41_pocketknife-2
+#
+154	H	41_pocketknife	51	bicsak	bit͡ʃɒk	b i t͡ʃ ɒ k	H-41_pocketknife-3
+#
+155	EAH	41_pocketknife	51	bičak	bit͡ʃak	b i t͡ʃ a k	EAH-41_pocketknife-3
+156	WOT	41_pocketknife	51	bičkä	bit͡ʃkɛ	b i t͡ʃ k ɛ	WOT-41_pocketknife-3
+#
+157	H	42_bull	52	bika	bikɒ	b i k ɒ	H-42_bull-1
+#
+158	EAH	42_bull	52	bika	bika	b i k a	EAH-42_bull-1
+159	WOT	42_bull	52	bïka	bɯka	b ɯ k a	WOT-42_bull-1
+#
+160	H	43_shackles	53	bilincs	bilint͡ʃ	b i l i n t͡ʃ	H-43_shackles-1
+#
+161	OH	43_shackles	53	bilinček	bilint͡ʃɛk	b i l i n t͡ʃ ɛ k	OH-43_shackles-1
+162	EAH	43_shackles	53	bileček	bilɛt͡ʃɛk	b i l ɛ t͡ʃ ɛ k	EAH-43_shackles-1
+163	WOT	43_shackles	53	biläčäk	bilɛt͡ʃɛk	b i l ɛ t͡ʃ ɛ k	WOT-43_shackles-1
+#
+164	H	44_judge	54	bíró	biːroː	b iː r oː	H-44_judge-1
+#
+165	OH	44_judge	54	birō	biroː	b i r oː	OH-44_judge-1
+166	EAH	44_judge	54	biruγ	biruɣ	b i r u ɣ	EAH-44_judge-1
+167	WOT	44_judge	54	bïrug	bɯruɡ	b ɯ r u ɡ	WOT-44_judge-1
+#
+168	H	45_tobeforgiven	55	bocsán	bot͡ʃaːn	b o t͡ʃ aː n	H-45_tobeforgiven-1
+#
+169	OH	45_tobeforgiven	55	bočan	bot͡ʃan	b o t͡ʃ a n	OH-45_tobeforgiven-1
+170	EAH	45_tobeforgiven	55	bolčan	bolt͡ʃan	b o l t͡ʃ a n	EAH-45_tobeforgiven-1
+171	WOT	45_tobeforgiven	55	bolčan	bolt͡ʃan	b o l t͡ʃ a n	WOT-45_tobeforgiven-1
+#
+172	H	46_toforgive	56	bocsát	bot͡ʃaːt	b o t͡ʃ aː t	H-46_toforgive-1
+#
+173	OH	46_toforgive	56	bulšat	bulʃat	b u l ʃ a t	OH-46_toforgive-1
+174	EAH	46_toforgive	56	bulčat	bult͡ʃat	b u l t͡ʃ a t	EAH-46_toforgive-1
+175	WOT	46_toforgive	56	bolčat	bolt͡ʃat	b o l t͡ʃ a t	WOT-46_toforgive-1
+#
+176	H	47_bucklerwithhandlehandleofdifferentarms	57	bóda	boːdɒ	b oː d ɒ	H-47_bucklerwithhandlehandleofdifferentarms-1
+#
+177	OH	47_bucklerwithhandlehandleofdifferentarms	57	boldå	boldɒ	b o l d ɒ	OH-47_bucklerwithhandlehandleofdifferentarms-1
+178	EAH	47_bucklerwithhandlehandleofdifferentarms	57	baldaw	baldaw	b a l d a w	EAH-47_bucklerwithhandlehandleofdifferentarms-1
+#
+179	H	48_knotbend	58	bog	boɡ	b o ɡ	H-48_knotbend-1
+#
+180	EAH	48_knotbend	58	bog	boɡ	b o ɡ	EAH-48_knotbend-1
+181	WOT	48_knotbend	58	bog	boɡ	b o ɡ	WOT-48_knotbend-1
+#
+182	H	49_stackofhay	59	boglya	boɡjɒ	b o ɡ j ɒ	H-49_stackofhay-1
+#
+183	OH	49_stackofhay	59	boglʹå	boɡjɒ	b o ɡ j ɒ	OH-49_stackofhay-1
+184	LAH	49_stackofhay	59	bogulʹa	boɡuja	b o ɡ u j a	LAH-49_stackofhay-1
+185	EAH	49_stackofhay	59	bogul	boɡul	b o ɡ u l	EAH-49_stackofhay-1
+186	WOT	49_stackofhay	59	bogul	boɡul	b o ɡ u l	WOT-49_stackofhay-1
+#
+187	H	50_tasselfringetuftnode	60	bojt	bojt	b o j t	H-50_tasselfringetuftnode-1
+#
+188	OH	50_tasselfringetuftnode	60	buyt	bujt	b u j t	OH-50_tasselfringetuftnode-1
+189	LAH	50_tasselfringetuftnode	60	buγt	buɣt	b u ɣ t	LAH-50_tasselfringetuftnode-1
+190	EAH	50_tasselfringetuftnode	60	buγut	buɣut	b u ɣ u t	EAH-50_tasselfringetuftnode-1
+191	WOT	50_tasselfringetuftnode	60	bogut	boɡut	b o ɡ u t	WOT-50_tasselfringetuftnode-1
+#
+192	H	51_burdockarctiumsp	61	bojtorján	bojtorjaːn	b o j t o r j aː n	H-51_burdockarctiumsp-1
+#
+193	EAH	51_burdockarctiumsp	61	balturγan	balturɣan	b a l t u r ɣ a n	EAH-51_burdockarctiumsp-1
+194	WOT	51_burdockarctiumsp	61	balturgan	balturɡan	b a l t u r ɡ a n	WOT-51_burdockarctiumsp-1
+#
+195	H	52_ankle	62	boka	bokɒ	b o k ɒ	H-52_ankle-1
+#
+196	EAH	52_ankle	62	baka	baka	b a k a	EAH-52_ankle-1
+197	WOT	52_ankle	62	baka	baka	b a k a	WOT-52_ankle-1
+#
+198	H	53_ankleboot	63	bakan	bɒkɒn	b ɒ k ɒ n	H-53_ankleboot-1
+#
+199	EAH	53_ankleboot	63	bokå	bokɒ	b o k ɒ	EAH-53_ankleboot-1
+200	WOT	53_ankleboot	63	baka	baka	b a k a	WOT-53_ankleboot-1
+#
+201	H	53_ankleboot	64	bakan	bɒkɒn	b ɒ k ɒ n	H-53_ankleboot-2
+#
+202	EAH	53_ankleboot	64	båkå	bɒkɒ	b ɒ k ɒ	EAH-53_ankleboot-2
+203	WOT	53_ankleboot	64	baka	baka	b a k a	WOT-53_ankleboot-2
+#
+204	H	54_anthill	65	boly	boj	b o j	H-54_anthill-1
+#
+205	OH	54_anthill	65	bolʹ	boj	b o j	OH-54_anthill-1
+206	EAH	54_anthill	65	boγol	boɣol	b o ɣ o l	EAH-54_anthill-1
+207	WOT	54_anthill	65	boγul	boɣul	b o ɣ u l	WOT-54_anthill-1
+#
+208	H	55_wine	66	bor	bor	b o r	H-55_wine-1
+#
+209	EAH	55_wine	66	bor	bor	b o r	EAH-55_wine-1
+210	WOT	55_wine	66	bor	bor	b o r	WOT-55_wine-1
+#
+211	H	56_tocovertooverturn	67	bor	bor	b o r	H-56_tocovertooverturn-1
+#
+212	EAH	56_tocovertooverturn	67	bor	bor	b o r	EAH-56_tocovertooverturn-1
+213	WOT	56_tocovertooverturn	67	bur	bur	b u r	WOT-56_tocovertooverturn-1
+#
+214	H	57_cover	68	bur	bur	b u r	H-57_cover-1
+#
+215	EAH	57_cover	68	bur	bur	b u r	EAH-57_cover-1
+216	WOT	57_cover	68	bur	bur	b u r	WOT-57_cover-1
+#
+217	H	58_calf	69	borjú	borjuː	b o r j uː	H-58_calf-1
+#
+218	OH	58_calf	69	burγu	burɣu	b u r ɣ u	OH-58_calf-1
+219	EAH	58_calf	69	buraγu	buraɣu	b u r a ɣ u	EAH-58_calf-1
+220	WOT	58_calf	69	buraγu	buraɣu	b u r a ɣ u	WOT-58_calf-1
+#
+221	H	59_pepper	70	bors	borʃ	b o r ʃ	H-59_pepper-1
+#
+222	EAH	59_pepper	70	burč	burt͡ʃ	b u r t͡ʃ	EAH-59_pepper-1
+223	WOT	59_pepper	70	burč	burt͡ʃ	b u r t͡ʃ	WOT-59_pepper-1
+#
+224	H	60_peapisumsativumbean	71	borsó	borʃoː	b o r ʃ oː	H-60_peapisumsativumbean-1
+#
+225	OH	60_peapisumsativumbean	71	buršau̯	burʃaw	b u r ʃ a w	OH-60_peapisumsativumbean-1
+226	EAH	60_peapisumsativumbean	71	burčaγ	burt͡ʃaɣ	b u r t͡ʃ a ɣ	EAH-60_peapisumsativumbean-1
+227	WOT	60_peapisumsativumbean	71	burčaγ	burt͡ʃaɣ	b u r t͡ʃ a ɣ	WOT-60_peapisumsativumbean-1
+#
+228	H	61_badgermelesmeles	72	borz	borz	b o r z	H-61_badgermelesmeles-1
+#
+229	EAH	61_badgermelesmeles	72	borsi	borsi	b o r s i	EAH-61_badgermelesmeles-1
+230	WOT	61_badgermelesmeles	72	borsï	borsɯ	b o r s ɯ	WOT-61_badgermelesmeles-1
+#
+231	H	62_witchsorceress	73	boszorkány	bosorkaːɲ	b o s o r k aː ɲ	H-62_witchsorceress-1
+#
+232	EAH	62_witchsorceress	73	basarkan	basarkan	b a s a r k a n	EAH-62_witchsorceress-1
+233	WOT	62_witchsorceress	73	basarkan	basarkan	b a s a r k a n	WOT-62_witchsorceress-1
+#
+234	H	63_toannoy	74	bosszan	bosːɒn	b o sː ɒ n	H-63_toannoy-1
+#
+235	EAH	63_toannoy	74	busan	busan	b u s a n	EAH-63_toannoy-1
+236	WOT	63_toannoy	74	busan	busan	b u s a n	WOT-63_toannoy-1
+#
+237	H	64_revenge	75	bosszú	bosːuː	b o sː uː	H-64_revenge-1
+#
+238	OH	64_revenge	75	bossou̯	bosːow	b o sː o w	OH-64_revenge-1
+239	EAH	64_revenge	75	bosuγ	bosuɣ	b o s u ɣ	EAH-64_revenge-1
+240	WOT	64_revenge	75	bosuγ	bosuɣ	b o s u ɣ	WOT-64_revenge-1
+#
+241	H	65_stickcane	76	bot	bot	b o t	H-65_stickcane-1
+#
+242	OH	65_stickcane	76	buti	buti	b u t i	OH-65_stickcane-1
+243	LAH	65_stickcane	76	butī	butiː	b u t iː	LAH-65_stickcane-1
+244	EAH	65_stickcane	76	butiγ	butiɣ	b u t i ɣ	EAH-65_stickcane-1
+245	WOT	65_stickcane	76	butїγ	butɯɣ	b u t ɯ ɣ	WOT-65_stickcane-1
+#
+246	H	65_stickcane	77	bot	bot	b o t	H-65_stickcane-2
+#
+247	OH	65_stickcane	77	buti	buti	b u t i	OH-65_stickcane-2
+248	LAH	65_stickcane	77	butu	butu	b u t u	LAH-65_stickcane-2
+249	EAH	65_stickcane	77	butiγ	butiɣ	b u t i ɣ	EAH-65_stickcane-2
+250	WOT	65_stickcane	77	butїγ	butɯɣ	b u t ɯ ɣ	WOT-65_stickcane-2
+#
+251	H	65_stickcane	78	but	but	b u t	H-65_stickcane-3
+#
+252	OH	65_stickcane	78	buti	buti	b u t i	OH-65_stickcane-3
+253	LAH	65_stickcane	78	butī	butiː	b u t iː	LAH-65_stickcane-3
+254	EAH	65_stickcane	78	butiγ	butiɣ	b u t i ɣ	EAH-65_stickcane-3
+255	WOT	65_stickcane	78	butїγ	butɯɣ	b u t ɯ ɣ	WOT-65_stickcane-3
+#
+256	H	65_stickcane	79	but	but	b u t	H-65_stickcane-4
+#
+257	OH	65_stickcane	79	buti	buti	b u t i	OH-65_stickcane-4
+258	LAH	65_stickcane	79	butu	butu	b u t u	LAH-65_stickcane-4
+259	EAH	65_stickcane	79	butiγ	butiɣ	b u t i ɣ	EAH-65_stickcane-4
+260	WOT	65_stickcane	79	butїγ	butɯɣ	b u t ɯ ɣ	WOT-65_stickcane-4
+#
+261	H	66_akindofbeeralcoholicbeverage	80	boza	bozɒ	b o z ɒ	H-66_akindofbeeralcoholicbeverage-1
+#
+262	EAH	66_akindofbeeralcoholicbeverage	80	boza	boza	b o z a	EAH-66_akindofbeeralcoholicbeverage-1
+#
+263	H	67_richabundantroomy	81	bő	bøː	b øː	H-67_richabundantroomy-1
+#
+264	OH	67_richabundantroomy	81	beü̯	bɛw	b ɛ w	OH-67_richabundantroomy-1
+265	EAH	67_richabundantroomy	81	beγ	bɛɣ	b ɛ ɣ	EAH-67_richabundantroomy-1
+266	WOT	67_richabundantroomy	81	bäγ	bɛɣ	b ɛ ɣ	WOT-67_richabundantroomy-1
+#
+267	H	68_horseflygadfly	82	bögöly	bøɡøj	b ø ɡ ø j	H-68_horseflygadfly-1
+#
+268	OH	68_horseflygadfly	82	bögölʹ	bøɡøj	b ø ɡ ø j	OH-68_horseflygadfly-1
+269	LAH	68_horseflygadfly	82	bögölʹök	bøɡøjøk	b ø ɡ ø j ø k	LAH-68_horseflygadfly-1
+270	EAH	68_horseflygadfly	82	bögölök	bøɡøløk	b ø ɡ ø l ø k	EAH-68_horseflygadfly-1
+271	WOT	68_horseflygadfly	82	bögöläk	bøɡølɛk	b ø ɡ ø l ɛ k	WOT-68_horseflygadfly-1
+#
+272	H	69_fasting	83	böjt	bøjt	b ø j t	H-69_fasting-1
+#
+273	OH	69_fasting	83	büχt	byχt	b y χ t	OH-69_fasting-1
+274	EAH	69_fasting	83	büγte	byɣtɛ	b y ɣ t ɛ	EAH-69_fasting-1
+275	WOT	69_fasting	83	büγtä	byɣtɛ	b y ɣ t ɛ	WOT-69_fasting-1
+#
+276	H	70_wise	84	bölcs	bølt͡ʃ	b ø l t͡ʃ	H-70_wise-1
+#
+277	OH	70_wise	84	bȫč	bøːt͡ʃ	b øː t͡ʃ	OH-70_wise-1
+278	EAH	70_wise	84	büγüči	byɣyt͡ʃi	b y ɣ y t͡ʃ i	EAH-70_wise-1
+279	WOT	70_wise	84	büγüči	byɣyt͡ʃi	b y ɣ y t͡ʃ i	WOT-70_wise-1
+#
+280	H	71_cradle	85	bölcső	bølt͡ʃøː	b ø l t͡ʃ øː	H-71_cradle-1
+#
+281	OH	71_cradle	85	belčȫ	bɛlt͡ʃøː	b ɛ l t͡ʃ øː	OH-71_cradle-1
+282	EAH	71_cradle	85	belčeγ	bɛlt͡ʃɛɣ	b ɛ l t͡ʃ ɛ ɣ	EAH-71_cradle-1
+283	WOT	71_cradle	85	belčiγ	bɛlt͡ʃiɣ	b ɛ l t͡ʃ i ɣ	WOT-71_cradle-1
+#
+284	H	72_bison	86	bölény	bøleːɲ	b ø l eː ɲ	H-72_bison-1
+#
+285	OH	72_bison	86	belēń	bɛleːɲ	b ɛ l eː ɲ	OH-72_bison-1
+286	EAH	72_bison	86	belen	bɛlɛn	b ɛ l ɛ n	EAH-72_bison-1
+287	WOT	72_bison	86	bülän	bylɛn	b y l ɛ n	WOT-72_bison-1
+#
+288	H	73_prisonjail	87	börtön	børtøn	b ø r t ø n	H-73_prisonjail-1
+#
+289	EAH	73_prisonjail	87	berten	bɛrtɛn	b ɛ r t ɛ n	EAH-73_prisonjail-1
+290	WOT	73_prisonjail	87	bärtän	bɛrtɛn	b ɛ r t ɛ n	WOT-73_prisonjail-1
+#
+291	H	74_ismaelitenameofanethnicgroupinmedievalhungary	88	böszörmény	bøsørmeːɲ	b ø s ø r m eː ɲ	H-74_ismaelitenameofanethnicgroupinmedievalhungary-1
+#
+292	OH	74_ismaelitenameofanethnicgroupinmedievalhungary	88	besermen	bɛsɛrmɛn	b ɛ s ɛ r m ɛ n	OH-74_ismaelitenameofanethnicgroupinmedievalhungary-1
+293	WOT	74_ismaelitenameofanethnicgroupinmedievalhungary	88	besermen	bɛsɛrmɛn	b ɛ s ɛ r m ɛ n	WOT-74_ismaelitenameofanethnicgroupinmedievalhungary-1
+#
+294	H	75_sadbadtempered	89	bús	buːʃ	b uː ʃ	H-75_sadbadtempered-1
+#
+295	OH	75_sadbadtempered	89	bū	buː	b uː	OH-75_sadbadtempered-1
+296	EAH	75_sadbadtempered	89	buγ	buɣ	b u ɣ	EAH-75_sadbadtempered-1
+297	WOT	75_sadbadtempered	89	buγ	buɣ	b u ɣ	WOT-75_sadbadtempered-1
+#
+298	H	76_farewellindulgencededicationfestivalannualparishfeast	90	búcsú	buːt͡ʃuː	b uː t͡ʃ uː	H-76_farewellindulgencededicationfestivalannualparishfeast-1
+#
+299	OH	76_farewellindulgencededicationfestivalannualparishfeast	90	bulčū	bult͡ʃuː	b u l t͡ʃ uː	OH-76_farewellindulgencededicationfestivalannualparishfeast-1
+300	LAH	76_farewellindulgencededicationfestivalannualparishfeast	90	bulčū	bult͡ʃuː	b u l t͡ʃ uː	LAH-76_farewellindulgencededicationfestivalannualparishfeast-1
+301	EAH	76_farewellindulgencededicationfestivalannualparishfeast	90	bulčuγ	bult͡ʃuɣ	b u l t͡ʃ u ɣ	EAH-76_farewellindulgencededicationfestivalannualparishfeast-1
+302	WOT	76_farewellindulgencededicationfestivalannualparishfeast	90	bolčuγ	bolt͡ʃuɣ	b o l t͡ʃ u ɣ	WOT-76_farewellindulgencededicationfestivalannualparishfeast-1
+#
+303	H	77_oxalsooxgoatramwithoutorwithsmallorunusualhornsstupid	91	buga	buɡɒ	b u ɡ ɒ	H-77_oxalsooxgoatramwithoutorwithsmallorunusualhornsstupid-1
+#
+304	EAH	77_oxalsooxgoatramwithoutorwithsmallorunusualhornsstupid	91	buga	buɡa	b u ɡ a	EAH-77_oxalsooxgoatramwithoutorwithsmallorunusualhornsstupid-1
+#
+305	H	78_volgabulgar	92	bular	bulɒr	b u l ɒ r	H-78_volgabulgar-1
+#
+306	EAH	78_volgabulgar	92	bular	bular	b u l a r	EAH-78_volgabulgar-1
+307	WOT	78_volgabulgar	92	bular	bular	b u l a r	WOT-78_volgabulgar-1
+#
+308	H	79_steamvapourfumesheat	93	búsz	buːs	b uː s	H-79_steamvapourfumesheat-1
+#
+309	EAH	79_steamvapourfumesheat	93	būs	buːs	b uː s	EAH-79_steamvapourfumesheat-1
+310	WOT	79_steamvapourfumesheat	93	būs	buːs	b uː s	WOT-79_steamvapourfumesheat-1
+#
+311	H	80_wheattriticum	94	búza	buːzɒ	b uː z ɒ	H-80_wheattriticum-1
+#
+312	OH	80_wheattriticum	94	būza	buːza	b uː z a	OH-80_wheattriticum-1
+313	EAH	80_wheattriticum	94	buγzai	buɣzai	b u ɣ z a i	EAH-80_wheattriticum-1
+314	WOT	80_wheattriticum	94	buγδay	buɣðaj	b u ɣ ð a j	WOT-80_wheattriticum-1
+#
+315	H	81_clubmacereedmace	95	buzogány	buzoɡaːɲ	b u z o ɡ aː ɲ	H-81_clubmacereedmace-1
+#
+316	EAH	81_clubmacereedmace	95	buzgan	buzɡan	b u z ɡ a n	EAH-81_clubmacereedmace-1
+#
+317	H	82_beech	96	bükk	bykː	b y kː	H-82_beech-1
+#
+318	OH	82_beech	96	bük	byk	b y k	OH-82_beech-1
+319	EAH	82_beech	96	bik	bik	b i k	EAH-82_beech-1
+320	WOT	82_beech	96	bik	bik	b i k	WOT-82_beech-1
+#
+321	H	83_sin	97	bűn	byːn	b yː n	H-83_sin-1
+#
+322	EAH	83_sin	97	bǖn	byːn	b yː n	EAH-83_sin-1
+323	WOT	83_sin	97	bǖn	byːn	b yː n	WOT-83_sin-1
+#
+324	H	84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill	98	bütü	byty	b y t y	H-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1
+#
+325	EAH	84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill	98	bütüγ	bytyɣ	b y t y ɣ	EAH-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1
+326	WOT	84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill	98	bütüγ	bytyɣ	b y t y ɣ	WOT-84_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1
+#
+327	H	85_magical	99	bű	byː	b yː	H-85_magical-1
+#
+328	OH	85_magical	99	bǖ	byː	b yː	OH-85_magical-1
+329	EAH	85_magical	99	büγü	byɣy	b y ɣ y	EAH-85_magical-1
+330	WOT	85_magical	99	büγü	byɣy	b y ɣ y	WOT-85_magical-1
+#
+331	H	86_akindofwillowsalixelgnos	100	cigle	t͡siɡlɛ	t͡s i ɡ l ɛ	H-86_akindofwillowsalixelgnos-1
+#
+332	EAH	86_akindofwillowsalixelgnos	100	čigle	t͡ʃiɡlɛ	t͡ʃ i ɡ l ɛ	EAH-86_akindofwillowsalixelgnos-1
+333	WOT	86_akindofwillowsalixelgnos	100	čiglä	t͡ʃiɡlɛ	t͡ʃ i ɡ l ɛ	WOT-86_akindofwillowsalixelgnos-1
+#
+334	H	87_trapsnareforcatchingbirdsbirdcage	101	csigle	t͡ʃiɡlɛ	t͡ʃ i ɡ l ɛ	H-87_trapsnareforcatchingbirdsbirdcage-1
+#
+335	EAH	87_trapsnareforcatchingbirdsbirdcage	101	čikle	t͡ʃiklɛ	t͡ʃ i k l ɛ	EAH-87_trapsnareforcatchingbirdsbirdcage-1
+336	WOT	87_trapsnareforcatchingbirdsbirdcage	101	čiklä	t͡ʃiklɛ	t͡ʃ i k l ɛ	WOT-87_trapsnareforcatchingbirdsbirdcage-1
+#
+337	H	87_trapsnareforcatchingbirdsbirdcage	102	csekle	t͡ʃɛklɛ	t͡ʃ ɛ k l ɛ	H-87_trapsnareforcatchingbirdsbirdcage-2
+#
+338	EAH	87_trapsnareforcatchingbirdsbirdcage	102	čikle	t͡ʃiklɛ	t͡ʃ i k l ɛ	EAH-87_trapsnareforcatchingbirdsbirdcage-2
+339	WOT	87_trapsnareforcatchingbirdsbirdcage	102	čiklä	t͡ʃiklɛ	t͡ʃ i k l ɛ	WOT-87_trapsnareforcatchingbirdsbirdcage-2
+#
+340	H	87_trapsnareforcatchingbirdsbirdcage	103	cseklye	t͡ʃɛkjɛ	t͡ʃ ɛ k j ɛ	H-87_trapsnareforcatchingbirdsbirdcage-3
+#
+341	EAH	87_trapsnareforcatchingbirdsbirdcage	103	čikle	t͡ʃiklɛ	t͡ʃ i k l ɛ	EAH-87_trapsnareforcatchingbirdsbirdcage-3
+342	WOT	87_trapsnareforcatchingbirdsbirdcage	103	čiklä	t͡ʃiklɛ	t͡ʃ i k l ɛ	WOT-87_trapsnareforcatchingbirdsbirdcage-3
+#
+343	H	87_trapsnareforcatchingbirdsbirdcage	104	csikle	t͡ʃiklɛ	t͡ʃ i k l ɛ	H-87_trapsnareforcatchingbirdsbirdcage-4
+#
+344	EAH	87_trapsnareforcatchingbirdsbirdcage	104	čikle	t͡ʃiklɛ	t͡ʃ i k l ɛ	EAH-87_trapsnareforcatchingbirdsbirdcage-4
+345	WOT	87_trapsnareforcatchingbirdsbirdcage	104	čiklä	t͡ʃiklɛ	t͡ʃ i k l ɛ	WOT-87_trapsnareforcatchingbirdsbirdcage-4
+#
+346	H	88_akindofwillowusedforbasketsandinviticulturesalixpurpurea	105	csigolya	t͡ʃiɡojɒ	t͡ʃ i ɡ o j ɒ	H-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1
+#
+347	OH	88_akindofwillowusedforbasketsandinviticulturesalixpurpurea	105	čigolʹa	t͡ʃiɡoja	t͡ʃ i ɡ o j a	OH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1
+348	EAH	88_akindofwillowusedforbasketsandinviticulturesalixpurpurea	105	čigla	t͡ʃiɡla	t͡ʃ i ɡ l a	EAH-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1
+349	WOT	88_akindofwillowusedforbasketsandinviticulturesalixpurpurea	105	čïgla	t͡ʃɯɡla	t͡ʃ ɯ ɡ l a	WOT-88_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1
+#
+350	H	89_akindofwillow	106	csigla	t͡ʃiɡlɒ	t͡ʃ i ɡ l ɒ	H-89_akindofwillow-1
+#
+351	EAH	89_akindofwillow	106	čigla	t͡ʃiɡla	t͡ʃ i ɡ l a	EAH-89_akindofwillow-1
+352	WOT	89_akindofwillow	106	čïgla	t͡ʃɯɡla	t͡ʃ ɯ ɡ l a	WOT-89_akindofwillow-1
+#
+353	H	90_akindofwolfsmilkeasterflowereuphorbia	107	cötkény	t͡søtkeːɲ	t͡s ø t k eː ɲ	H-90_akindofwolfsmilkeasterflowereuphorbia-1
+#
+354	EAH	90_akindofwolfsmilkeasterflowereuphorbia	107	sütken	sytkɛn	s y t k ɛ n	EAH-90_akindofwolfsmilkeasterflowereuphorbia-1
+#
+355	H	90_akindofwolfsmilkeasterflowereuphorbia	108	cötkény	t͡søtkeːɲ	t͡s ø t k eː ɲ	H-90_akindofwolfsmilkeasterflowereuphorbia-2
+#
+356	EAH	90_akindofwolfsmilkeasterflowereuphorbia	108	süttegen	sytːɛɡɛn	s y tː ɛ ɡ ɛ n	EAH-90_akindofwolfsmilkeasterflowereuphorbia-2
+#
+357	H	91_afishleuciscussouffiaagassizi	109	csabak	t͡ʃɒbɒk	t͡ʃ ɒ b ɒ k	H-91_afishleuciscussouffiaagassizi-1
+#
+358	EAH	91_afishleuciscussouffiaagassizi	109	čabak	t͡ʃabak	t͡ʃ a b a k	EAH-91_afishleuciscussouffiaagassizi-1
+#
+359	H	92_onlyjust	110	csak	t͡ʃɒk	t͡ʃ ɒ k	H-92_onlyjust-1
+#
+360	EAH	92_onlyjust	110	čak	t͡ʃak	t͡ʃ a k	EAH-92_onlyjust-1
+361	WOT	92_onlyjust	110	čak	t͡ʃak	t͡ʃ a k	WOT-92_onlyjust-1
+#
+362	H	93_pickaxemaceasmallaxewarhammer	111	csákány	t͡ʃaːkaːɲ	t͡ʃ aː k aː ɲ	H-93_pickaxemaceasmallaxewarhammer-1
+#
+363	EAH	93_pickaxemaceasmallaxewarhammer	111	čakan	t͡ʃakan	t͡ʃ a k a n	EAH-93_pickaxemaceasmallaxewarhammer-1
+364	WOT	93_pickaxemaceasmallaxewarhammer	111	čakkan	t͡ʃakːan	t͡ʃ a kː a n	WOT-93_pickaxemaceasmallaxewarhammer-1
+#
+365	H	94_nettleurtica	112	csalán	t͡ʃɒlaːn	t͡ʃ ɒ l aː n	H-94_nettleurtica-1
+#
+366	EAH	94_nettleurtica	112	čalān	t͡ʃalaːn	t͡ʃ a l aː n	EAH-94_nettleurtica-1
+367	WOT	94_nettleurtica	112	čalïγan	t͡ʃalɯɣan	t͡ʃ a l ɯ ɣ a n	WOT-94_nettleurtica-1
+#
+368	H	94_nettleurtica	113	csalán	t͡ʃɒlaːn	t͡ʃ ɒ l aː n	H-94_nettleurtica-2
+#
+369	EAH	94_nettleurtica	113	čilān	t͡ʃilaːn	t͡ʃ i l aː n	EAH-94_nettleurtica-2
+370	WOT	94_nettleurtica	113	čalïγan	t͡ʃalɯɣan	t͡ʃ a l ɯ ɣ a n	WOT-94_nettleurtica-2
+#
+371	H	94_nettleurtica	114	csalán	t͡ʃɒlaːn	t͡ʃ ɒ l aː n	H-94_nettleurtica-3
+#
+372	EAH	94_nettleurtica	114	čalaγan	t͡ʃalaɣan	t͡ʃ a l a ɣ a n	EAH-94_nettleurtica-3
+373	WOT	94_nettleurtica	114	čalïγan	t͡ʃalɯɣan	t͡ʃ a l ɯ ɣ a n	WOT-94_nettleurtica-3
+#
+374	H	96_thicketbrushwooddryfoliagegrovemeadow	115	csalit	t͡ʃɒlit	t͡ʃ ɒ l i t	H-96_thicketbrushwooddryfoliagegrovemeadow-1
+#
+375	EAH	96_thicketbrushwooddryfoliagegrovemeadow	115	čalit	t͡ʃalit	t͡ʃ a l i t	EAH-96_thicketbrushwooddryfoliagegrovemeadow-1
+376	WOT	96_thicketbrushwooddryfoliagegrovemeadow	115	čaltï	t͡ʃaltɯ	t͡ʃ a l t ɯ	WOT-96_thicketbrushwooddryfoliagegrovemeadow-1
+#
+377	H	96_thicketbrushwooddryfoliagegrovemeadow	116	csalit	t͡ʃɒlit	t͡ʃ ɒ l i t	H-96_thicketbrushwooddryfoliagegrovemeadow-2
+#
+378	EAH	96_thicketbrushwooddryfoliagegrovemeadow	116	čalit	t͡ʃalit	t͡ʃ a l i t	EAH-96_thicketbrushwooddryfoliagegrovemeadow-2
+379	WOT	96_thicketbrushwooddryfoliagegrovemeadow	116	čalït	t͡ʃalɯt	t͡ʃ a l ɯ t	WOT-96_thicketbrushwooddryfoliagegrovemeadow-2
+#
+380	H	97_silvercupwoodenladleearthenwarebowl	117	csanak	t͡ʃɒnɒk	t͡ʃ ɒ n ɒ k	H-97_silvercupwoodenladleearthenwarebowl-1
+#
+381	EAH	97_silvercupwoodenladleearthenwarebowl	117	čanak	t͡ʃanak	t͡ʃ a n a k	EAH-97_silvercupwoodenladleearthenwarebowl-1
+382	WOT	97_silvercupwoodenladleearthenwarebowl	117	čanak	t͡ʃanak	t͡ʃ a n a k	WOT-97_silvercupwoodenladleearthenwarebowl-1
+#
+383	H	98_fightingtrooparmygroupbattlequarrelhubbubflock	118	csata	t͡ʃɒtɒ	t͡ʃ ɒ t ɒ	H-98_fightingtrooparmygroupbattlequarrelhubbubflock-1
+#
+384	EAH	98_fightingtrooparmygroupbattlequarrelhubbubflock	118	čata	t͡ʃata	t͡ʃ a t a	EAH-98_fightingtrooparmygroupbattlequarrelhubbubflock-1
+385	WOT	98_fightingtrooparmygroupbattlequarrelhubbubflock	118	čata	t͡ʃata	t͡ʃ a t a	WOT-98_fightingtrooparmygroupbattlequarrelhubbubflock-1
+#
+386	H	98_fightingtrooparmygroupbattlequarrelhubbubflock	119	csata	t͡ʃɒtɒ	t͡ʃ ɒ t ɒ	H-98_fightingtrooparmygroupbattlequarrelhubbubflock-2
+#
+387	EAH	98_fightingtrooparmygroupbattlequarrelhubbubflock	119	čata	t͡ʃata	t͡ʃ a t a	EAH-98_fightingtrooparmygroupbattlequarrelhubbubflock-2
+388	WOT	98_fightingtrooparmygroupbattlequarrelhubbubflock	119	čatï	t͡ʃatɯ	t͡ʃ a t ɯ	WOT-98_fightingtrooparmygroupbattlequarrelhubbubflock-2
+#
+389	H	99_toaddtojointobuckleupsomething	120	csat	t͡ʃɒt	t͡ʃ ɒ t	H-99_toaddtojointobuckleupsomething-1
+#
+390	OH	99_toaddtojointobuckleupsomething	120	čatol	t͡ʃatol	t͡ʃ a t o l	OH-99_toaddtojointobuckleupsomething-1
+391	EAH	99_toaddtojointobuckleupsomething	120	čat	t͡ʃat	t͡ʃ a t	EAH-99_toaddtojointobuckleupsomething-1
+392	WOT	99_toaddtojointobuckleupsomething	120	čat	t͡ʃat	t͡ʃ a t	WOT-99_toaddtojointobuckleupsomething-1
+#
+393	H	100_clasp	121	csat	t͡ʃɒt	t͡ʃ ɒ t	H-100_clasp-1
+#
+394	OH	100_clasp	121	čåtol	t͡ʃɒtol	t͡ʃ ɒ t o l	OH-100_clasp-1
+395	LAH	100_clasp	121	čat	t͡ʃat	t͡ʃ a t	LAH-100_clasp-1
+396	EAH	100_clasp	121	čati	t͡ʃati	t͡ʃ a t i	EAH-100_clasp-1
+397	WOT	100_clasp	121	čatï	t͡ʃatɯ	t͡ʃ a t ɯ	WOT-100_clasp-1
+#
+398	H	101_measlesmallpoxpocksskineruptiondecorativeembroidery	122	csécs	t͡ʃeːt͡ʃ	t͡ʃ eː t͡ʃ	H-101_measlesmallpoxpocksskineruptiondecorativeembroidery-1
+#
+399	EAH	101_measlesmallpoxpocksskineruptiondecorativeembroidery	122	čëč	t͡ʃet͡ʃ	t͡ʃ e t͡ʃ	EAH-101_measlesmallpoxpocksskineruptiondecorativeembroidery-1
+400	WOT	101_measlesmallpoxpocksskineruptiondecorativeembroidery	122	čeč	t͡ʃɛt͡ʃ	t͡ʃ ɛ t͡ʃ	WOT-101_measlesmallpoxpocksskineruptiondecorativeembroidery-1
+#
+401	H	101_measlesmallpoxpocksskineruptiondecorativeembroidery	123	csécs	t͡ʃeːt͡ʃ	t͡ʃ eː t͡ʃ	H-101_measlesmallpoxpocksskineruptiondecorativeembroidery-2
+#
+402	LAH	101_measlesmallpoxpocksskineruptiondecorativeembroidery	123	čëč	t͡ʃet͡ʃ	t͡ʃ e t͡ʃ	LAH-101_measlesmallpoxpocksskineruptiondecorativeembroidery-1
+403	EAH	101_measlesmallpoxpocksskineruptiondecorativeembroidery	123	čëček	t͡ʃet͡ʃɛk	t͡ʃ e t͡ʃ ɛ k	EAH-101_measlesmallpoxpocksskineruptiondecorativeembroidery-2
+404	WOT	101_measlesmallpoxpocksskineruptiondecorativeembroidery	123	čečäk	t͡ʃɛt͡ʃɛk	t͡ʃ ɛ t͡ʃ ɛ k	WOT-101_measlesmallpoxpocksskineruptiondecorativeembroidery-2
+#
+405	H	102_tobindsomething	124	csekél	t͡ʃɛkeːl	t͡ʃ ɛ k eː l	H-102_tobindsomething-1
+#
+406	OH	102_tobindsomething	124	ček	t͡ʃɛk	t͡ʃ ɛ k	OH-102_tobindsomething-1
+407	EAH	102_tobindsomething	124	čik	t͡ʃik	t͡ʃ i k	EAH-102_tobindsomething-1
+408	WOT	102_tobindsomething	124	čik	t͡ʃik	t͡ʃ i k	WOT-102_tobindsomething-1
+#
+409	H	103_impuritiestowchaff	125	csepű	t͡ʃɛpyː	t͡ʃ ɛ p yː	H-103_impuritiestowchaff-1
+#
+410	OH	103_impuritiestowchaff	125	čöpǖ	t͡ʃøpyː	t͡ʃ ø p yː	OH-103_impuritiestowchaff-1
+411	LAH	103_impuritiestowchaff	125	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	LAH-103_impuritiestowchaff-1
+412	EAH	103_impuritiestowchaff	125	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	EAH-103_impuritiestowchaff-1
+413	WOT	103_impuritiestowchaff	125	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	WOT-103_impuritiestowchaff-1
+#
+414	H	103_impuritiestowchaff	126	csepű	t͡ʃɛpyː	t͡ʃ ɛ p yː	H-103_impuritiestowchaff-2
+#
+415	OH	103_impuritiestowchaff	126	čöpǖ	t͡ʃøpyː	t͡ʃ ø p yː	OH-103_impuritiestowchaff-2
+416	LAH	103_impuritiestowchaff	126	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	LAH-103_impuritiestowchaff-2
+417	EAH	103_impuritiestowchaff	126	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	EAH-103_impuritiestowchaff-2
+418	WOT	103_impuritiestowchaff	126	čöpiγ	t͡ʃøpiɣ	t͡ʃ ø p i ɣ	WOT-103_impuritiestowchaff-2
+#
+419	H	103_impuritiestowchaff	127	csepű	t͡ʃɛpyː	t͡ʃ ɛ p yː	H-103_impuritiestowchaff-3
+#
+420	OH	103_impuritiestowchaff	127	čepǖ	t͡ʃɛpyː	t͡ʃ ɛ p yː	OH-103_impuritiestowchaff-3
+421	LAH	103_impuritiestowchaff	127	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	LAH-103_impuritiestowchaff-3
+422	EAH	103_impuritiestowchaff	127	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	EAH-103_impuritiestowchaff-3
+423	WOT	103_impuritiestowchaff	127	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	WOT-103_impuritiestowchaff-3
+#
+424	H	103_impuritiestowchaff	128	csepű	t͡ʃɛpyː	t͡ʃ ɛ p yː	H-103_impuritiestowchaff-4
+#
+425	OH	103_impuritiestowchaff	128	čepǖ	t͡ʃɛpyː	t͡ʃ ɛ p yː	OH-103_impuritiestowchaff-4
+426	LAH	103_impuritiestowchaff	128	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	LAH-103_impuritiestowchaff-4
+427	EAH	103_impuritiestowchaff	128	čöpüγ	t͡ʃøpyɣ	t͡ʃ ø p y ɣ	EAH-103_impuritiestowchaff-4
+428	WOT	103_impuritiestowchaff	128	čöpiγ	t͡ʃøpiɣ	t͡ʃ ø p i ɣ	WOT-103_impuritiestowchaff-4
+#
+429	H	104_snailhelixsnailshellpulleyvertebra	129	csiga	t͡ʃiɡɒ	t͡ʃ i ɡ ɒ	H-104_snailhelixsnailshellpulleyvertebra-1
+#
+430	EAH	104_snailhelixsnailshellpulleyvertebra	129	čïga	t͡ʃɯɡa	t͡ʃ ɯ ɡ a	EAH-104_snailhelixsnailshellpulleyvertebra-1
+431	WOT	104_snailhelixsnailshellpulleyvertebra	129	čïga	t͡ʃɯɡa	t͡ʃ ɯ ɡ a	WOT-104_snailhelixsnailshellpulleyvertebra-1
+#
+432	H	105_awineoflowqualityafruitwine	130	csiger	t͡ʃiɡɛr	t͡ʃ i ɡ ɛ r	H-105_awineoflowqualityafruitwine-1
+#
+433	EAH	105_awineoflowqualityafruitwine	130	čigir	t͡ʃiɡir	t͡ʃ i ɡ i r	EAH-105_awineoflowqualityafruitwine-1
+434	WOT	105_awineoflowqualityafruitwine	130	čïgïr	t͡ʃɯɡɯr	t͡ʃ ɯ ɡ ɯ r	WOT-105_awineoflowqualityafruitwine-1
+#
+435	H	105_awineoflowqualityafruitwine	131	csiger	t͡ʃiɡɛr	t͡ʃ i ɡ ɛ r	H-105_awineoflowqualityafruitwine-2
+#
+436	EAH	105_awineoflowqualityafruitwine	131	čigir	t͡ʃiɡir	t͡ʃ i ɡ i r	EAH-105_awineoflowqualityafruitwine-2
+437	WOT	105_awineoflowqualityafruitwine	131	čȧgïr	t͡ʃɐɡɯr	t͡ʃ ɐ ɡ ɯ r	WOT-105_awineoflowqualityafruitwine-2
+#
+438	H	106_secretionmucusdischargedfromtheeyes	132	csipa	t͡ʃipɒ	t͡ʃ i p ɒ	H-106_secretionmucusdischargedfromtheeyes-1
+#
+439	OH	106_secretionmucusdischargedfromtheeyes	132	čapa	t͡ʃapa	t͡ʃ a p a	OH-106_secretionmucusdischargedfromtheeyes-1
+440	EAH	106_secretionmucusdischargedfromtheeyes	132	čapaγ	t͡ʃapaɣ	t͡ʃ a p a ɣ	EAH-106_secretionmucusdischargedfromtheeyes-1
+441	WOT	106_secretionmucusdischargedfromtheeyes	132	čapaγ	t͡ʃapaɣ	t͡ʃ a p a ɣ	WOT-106_secretionmucusdischargedfromtheeyes-1
+#
+442	H	107_squinteyedblindinoneeyeonearmedonelegged	133	csolák	t͡ʃolaːk	t͡ʃ o l aː k	H-107_squinteyedblindinoneeyeonearmedonelegged-1
+#
+443	EAH	107_squinteyedblindinoneeyeonearmedonelegged	133	čolak	t͡ʃolak	t͡ʃ o l a k	EAH-107_squinteyedblindinoneeyeonearmedonelegged-1
+444	WOT	107_squinteyedblindinoneeyeonearmedonelegged	133	čolak	t͡ʃolak	t͡ʃ o l a k	WOT-107_squinteyedblindinoneeyeonearmedonelegged-1
+#
+445	H	108_acarpentersaxewithalonghelve	134	csomak	t͡ʃomɒk	t͡ʃ o m ɒ k	H-108_acarpentersaxewithalonghelve-1
+#
+446	EAH	108_acarpentersaxewithalonghelve	134	čomak	t͡ʃomak	t͡ʃ o m a k	EAH-108_acarpentersaxewithalonghelve-1
+447	WOT	108_acarpentersaxewithalonghelve	134	čomak	t͡ʃomak	t͡ʃ o m a k	WOT-108_acarpentersaxewithalonghelve-1
+#
+448	H	109_stallion	135	csődör	t͡ʃøːdør	t͡ʃ øː d ø r	H-109_stallion-1
+#
+449	EAH	109_stallion	135	čeü̯dür	t͡ʃɛwdyr	t͡ʃ ɛ w d y r	EAH-109_stallion-1
+#
+450	H	109_stallion	136	csődör	t͡ʃøːdør	t͡ʃ øː d ø r	H-109_stallion-2
+#
+451	EAH	109_stallion	136	čeü̯dür	t͡ʃɛwdyr	t͡ʃ ɛ w d y r	EAH-109_stallion-2
+#
+452	H	109_stallion	137	csődör	t͡ʃøːdør	t͡ʃ øː d ø r	H-109_stallion-3
+#
+453	EAH	109_stallion	137	čeü̯dür	t͡ʃɛwdyr	t͡ʃ ɛ w d y r	EAH-109_stallion-3
+#
+454	H	110_sexualorganoflargemaleanimalsofabullawhipmadefromit	138	csök	t͡ʃøk	t͡ʃ ø k	H-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1
+#
+455	EAH	110_sexualorganoflargemaleanimalsofabullawhipmadefromit	138	čük	t͡ʃyk	t͡ʃ y k	EAH-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1
+456	WOT	110_sexualorganoflargemaleanimalsofabullawhipmadefromit	138	čükV	t͡ʃykə	t͡ʃ y k ə	WOT-110_sexualorganoflargemaleanimalsofabullawhipmadefromit-1
+#
+457	H	111_feastchristeningfeastatbaptism	139	csök	t͡ʃøk	t͡ʃ ø k	H-111_feastchristeningfeastatbaptism-1
+#
+458	EAH	111_feastchristeningfeastatbaptism	139	čük	t͡ʃyk	t͡ʃ y k	EAH-111_feastchristeningfeastatbaptism-1
+459	WOT	111_feastchristeningfeastatbaptism	139	čök	t͡ʃøk	t͡ʃ ø k	WOT-111_feastchristeningfeastatbaptism-1
+#
+460	H	112_tobecomesmallerremainsmalltoswaytotottertosprain	140	csökik	t͡ʃøkik	t͡ʃ ø k i k	H-112_tobecomesmallerremainsmalltoswaytotottertosprain-1
+#
+461	OH	112_tobecomesmallerremainsmalltoswaytotottertosprain	140	čök	t͡ʃøk	t͡ʃ ø k	OH-112_tobecomesmallerremainsmalltoswaytotottertosprain-1
+462	EAH	112_tobecomesmallerremainsmalltoswaytotottertosprain	140	čük	t͡ʃyk	t͡ʃ y k	EAH-112_tobecomesmallerremainsmalltoswaytotottertosprain-1
+463	WOT	112_tobecomesmallerremainsmalltoswaytotottertosprain	140	čök	t͡ʃøk	t͡ʃ ø k	WOT-112_tobecomesmallerremainsmalltoswaytotottertosprain-1
+#
+464	H	113_stubborn	141	csököny	t͡ʃøkøɲ	t͡ʃ ø k ø ɲ	H-113_stubborn-1
+#
+465	OH	113_stubborn	141	čököń	t͡ʃøkøɲ	t͡ʃ ø k ø ɲ	OH-113_stubborn-1
+466	EAH	113_stubborn	141	čükün	t͡ʃykyn	t͡ʃ y k y n	EAH-113_stubborn-1
+467	WOT	113_stubborn	141	čikin	t͡ʃikin	t͡ʃ i k i n	WOT-113_stubborn-1
+#
+468	H	114_fieldguardheraldturkishenvoy	142	csősz	t͡ʃøːs	t͡ʃ øː s	H-114_fieldguardheraldturkishenvoy-1
+#
+469	EAH	114_fieldguardheraldturkishenvoy	142	čäüš	t͡ʃɛyʃ	t͡ʃ ɛ y ʃ	EAH-114_fieldguardheraldturkishenvoy-1
+470	WOT	114_fieldguardheraldturkishenvoy	142	čäwiš	t͡ʃɛwiʃ	t͡ʃ ɛ w i ʃ	WOT-114_fieldguardheraldturkishenvoy-1
+#
+471	H	115_roughcoarseuglywildunbridled	143	csúnya	t͡ʃuːɲɒ	t͡ʃ uː ɲ ɒ	H-115_roughcoarseuglywildunbridled-1
+#
+472	OH	115_roughcoarseuglywildunbridled	143	čuńa	t͡ʃuɲa	t͡ʃ u ɲ a	OH-115_roughcoarseuglywildunbridled-1
+473	EAH	115_roughcoarseuglywildunbridled	143	čunaγ	t͡ʃunaɣ	t͡ʃ u n a ɣ	EAH-115_roughcoarseuglywildunbridled-1
+474	WOT	115_roughcoarseuglywildunbridled	143	čunaγ	t͡ʃunaɣ	t͡ʃ u n a ɣ	WOT-115_roughcoarseuglywildunbridled-1
+#
+475	H	116_towindtoturntodistrortmisinterprettospinayarn	144	csűr	t͡ʃyːr	t͡ʃ yː r	H-116_towindtoturntodistrortmisinterprettospinayarn-1
+#
+476	EAH	116_towindtoturntodistrortmisinterprettospinayarn	144	čevür	t͡ʃɛvyr	t͡ʃ ɛ v y r	EAH-116_towindtoturntodistrortmisinterprettospinayarn-1
+477	WOT	116_towindtoturntodistrortmisinterprettospinayarn	144	čäwür	t͡ʃɛwyr	t͡ʃ ɛ w y r	WOT-116_towindtoturntodistrortmisinterprettospinayarn-1
+#
+478	H	117_bobbinspindle	145	csűr	t͡ʃyːr	t͡ʃ yː r	H-117_bobbinspindle-1
+#
+479	OH	117_bobbinspindle	145	čǖri	t͡ʃyːri	t͡ʃ yː r i	OH-117_bobbinspindle-1
+480	EAH	117_bobbinspindle	145	čeviri	t͡ʃɛviri	t͡ʃ ɛ v i r i	EAH-117_bobbinspindle-1
+481	WOT	117_bobbinspindle	145	čäviri	t͡ʃɛviri	t͡ʃ ɛ v i r i	WOT-117_bobbinspindle-1
+#
+482	H	118_excellentworthless	146	daksi	dɒkʃi	d ɒ k ʃ i	H-118_excellentworthless-1
+#
+483	EAH	118_excellentworthless	146	ǰakši	d͡ʒʲakʃi	d͡ʒʲ a k ʃ i	EAH-118_excellentworthless-1
+#
+484	H	119_ashortfurcoat	147	daku	dɒku	d ɒ k u	H-119_ashortfurcoat-1
+#
+485	EAH	119_ashortfurcoat	147	daku	daku	d a k u	EAH-119_ashortfurcoat-1
+#
+486	H	120_gristgroatssofthail	148	dara	dɒrɒ	d ɒ r ɒ	H-120_gristgroatssofthail-1
+#
+487	EAH	120_gristgroatssofthail	148	dara	dara	d a r a	EAH-120_gristgroatssofthail-1
+488	WOT	120_gristgroatssofthail	148	tarï	tarɯ	t a r ɯ	WOT-120_gristgroatssofthail-1
+#
+489	H	120_gristgroatssofthail	149	dara	dɒrɒ	d ɒ r ɒ	H-120_gristgroatssofthail-2
+#
+490	EAH	120_gristgroatssofthail	149	dara	dara	d a r a	EAH-120_gristgroatssofthail-2
+491	WOT	120_gristgroatssofthail	149	darï	darɯ	d a r ɯ	WOT-120_gristgroatssofthail-2
+#
+492	H	121_noonsouth	150	dél	deːl	d eː l	H-121_noonsouth-1
+#
+493	EAH	121_noonsouth	150	töli	tøli	t ø l i	EAH-121_noonsouth-1
+494	WOT	121_noonsouth	150	tüli	tyli	t y l i	WOT-121_noonsouth-1
+#
+495	H	121_noonsouth	151	dél	deːl	d eː l	H-121_noonsouth-2
+#
+496	EAH	121_noonsouth	151	döli	døli	d ø l i	EAH-121_noonsouth-2
+497	WOT	121_noonsouth	151	düli	dyli	d y l i	WOT-121_noonsouth-2
+#
+498	H	122_nutwalnutjuglans	152	dió	dioː	d i oː	H-122_nutwalnutjuglans-1
+#
+499	OH	122_nutwalnutjuglans	152	ǰiwo	d͡ʒʲiwo	d͡ʒʲ i w o	OH-122_nutwalnutjuglans-1
+500	LAH	122_nutwalnutjuglans	152	ǰiγau̯	d͡ʒʲiɣaw	d͡ʒʲ i ɣ a w	LAH-122_nutwalnutjuglans-1
+501	EAH	122_nutwalnutjuglans	152	ǰiγaγ	d͡ʒʲiɣaɣ	d͡ʒʲ i ɣ a ɣ	EAH-122_nutwalnutjuglans-1
+502	WOT	122_nutwalnutjuglans	152	ǰïγaγ	d͡ʒʲɯɣaɣ	d͡ʒʲ ɯ ɣ a ɣ	WOT-122_nutwalnutjuglans-1
+#
+503	H	122_nutwalnutjuglans	153	dió	dioː	d i oː	H-122_nutwalnutjuglans-2
+#
+504	OH	122_nutwalnutjuglans	153	ǰiwo	d͡ʒʲiwo	d͡ʒʲ i w o	OH-122_nutwalnutjuglans-2
+505	LAH	122_nutwalnutjuglans	153	ǰiγau̯	d͡ʒʲiɣaw	d͡ʒʲ i ɣ a w	LAH-122_nutwalnutjuglans-2
+506	EAH	122_nutwalnutjuglans	153	ǰiγaγ	d͡ʒʲiɣaɣ	d͡ʒʲ i ɣ a ɣ	EAH-122_nutwalnutjuglans-2
+507	WOT	122_nutwalnutjuglans	153	ǰȧγaγ	d͡ʒʲɐɣaɣ	d͡ʒʲ ɐ ɣ a ɣ	WOT-122_nutwalnutjuglans-2
+#
+508	H	123_pigsusdomestica	154	disznó	disnoː	d i s n oː	H-123_pigsusdomestica-1
+#
+509	EAH	123_pigsusdomestica	154	ǰisnaγ	d͡ʒʲisnaɣ	d͡ʒʲ i s n a ɣ	EAH-123_pigsusdomestica-1
+510	WOT	123_pigsusdomestica	154	ǰȧsnaγ	d͡ʒʲɐsnaɣ	d͡ʒʲ ɐ s n a ɣ	WOT-123_pigsusdomestica-1
+#
+511	H	124_toleantoppleoverstreamdown	155	dől	døːl	d øː l	H-124_toleantoppleoverstreamdown-1
+#
+512	OH	124_toleantoppleoverstreamdown	155	dǖl	dyːl	d yː l	OH-124_toleantoppleoverstreamdown-1
+513	EAH	124_toleantoppleoverstreamdown	155	dül	dyl	d y l	EAH-124_toleantoppleoverstreamdown-1
+514	WOT	124_toleantoppleoverstreamdown	155	tül	tyl	t y l	WOT-124_toleantoppleoverstreamdown-1
+#
+515	H	124_toleantoppleoverstreamdown	156	dől	døːl	d øː l	H-124_toleantoppleoverstreamdown-2
+#
+516	OH	124_toleantoppleoverstreamdown	156	dǖl	dyːl	d yː l	OH-124_toleantoppleoverstreamdown-2
+517	EAH	124_toleantoppleoverstreamdown	156	dül	dyl	d y l	EAH-124_toleantoppleoverstreamdown-2
+518	WOT	124_toleantoppleoverstreamdown	156	dül	dyl	d y l	WOT-124_toleantoppleoverstreamdown-2
+#
+519	H	125_tosqueezetothrustinto	157	dug	duɡ	d u ɡ	H-125_tosqueezetothrustinto-1
+#
+520	EAH	125_tosqueezetothrustinto	157	dïg	dɯɡ	d ɯ ɡ	EAH-125_tosqueezetothrustinto-1
+521	WOT	125_tosqueezetothrustinto	157	dïg	dɯɡ	d ɯ ɡ	WOT-125_tosqueezetothrustinto-1
+#
+522	H	125_tosqueezetothrustinto	158	dug	duɡ	d u ɡ	H-125_tosqueezetothrustinto-2
+#
+523	EAH	125_tosqueezetothrustinto	158	dïg	dɯɡ	d ɯ ɡ	EAH-125_tosqueezetothrustinto-2
+524	WOT	125_tosqueezetothrustinto	158	tïk	tɯk	t ɯ k	WOT-125_tosqueezetothrustinto-2
+#
+525	H	126_churchbuildingandorganisation	159	ëgyház	eɟhaːz	e ɟ h aː z	H-126_churchbuildingandorganisation-1
+#
+526	EAH	126_churchbuildingandorganisation	159	ëdʹ	eɟ	e ɟ	EAH-126_churchbuildingandorganisation-1
+527	WOT	126_churchbuildingandorganisation	159	edü	ɛdy	ɛ d y	WOT-126_churchbuildingandorganisation-1
+#
+528	H	126_churchbuildingandorganisation	160	ëgyház	eɟhaːz	e ɟ h aː z	H-126_churchbuildingandorganisation-2
+#
+529	EAH	126_churchbuildingandorganisation	160	ëdʹ	eɟ	e ɟ	EAH-126_churchbuildingandorganisation-2
+530	WOT	126_churchbuildingandorganisation	160	edi	ɛdi	ɛ d i	WOT-126_churchbuildingandorganisation-2
+#
+531	H	127_wedge	161	ék	eːk	eː k	H-127_wedge-1
+#
+532	WOT	127_wedge	161	ēk	eːk	eː k	WOT-127_wedge-1
+#
+533	H	128_plough	162	eke	ɛkɛ	ɛ k ɛ	H-128_plough-1
+#
+534	EAH	128_plough	162	ekeγ	ɛkɛɣ	ɛ k ɛ ɣ	EAH-128_plough-1
+535	WOT	128_plough	162	äkäγ	ɛkɛɣ	ɛ k ɛ ɣ	WOT-128_plough-1
+#
+536	H	129_toallowpermitconcedeyieldgiveway	163	eng	ɛŋ	ɛ ŋ	H-129_toallowpermitconcedeyieldgiveway-1
+#
+537	EAH	129_toallowpermitconcedeyieldgiveway	163	eng	ɛnɡ	ɛ n ɡ	EAH-129_toallowpermitconcedeyieldgiveway-1
+538	WOT	129_toallowpermitconcedeyieldgiveway	163	äŋ	ɛŋ	ɛ ŋ	WOT-129_toallowpermitconcedeyieldgiveway-1
+#
+539	H	130_topropitiate	164	eng	ɛŋ	ɛ ŋ	H-130_topropitiate-1
+#
+540	EAH	130_topropitiate	164	eng	ɛnɡ	ɛ n ɡ	EAH-130_topropitiate-1
+541	WOT	130_topropitiate	164	äŋ	ɛŋ	ɛ ŋ	WOT-130_topropitiate-1
+#
+542	H	131_communityworkinagricultureakindofcorvee	165	enő	ɛnøː	ɛ n øː	H-131_communityworkinagricultureakindofcorvee-1
+#
+543	OH	131_communityworkinagricultureakindofcorvee	165	eneü̯	ɛnɛw	ɛ n ɛ w	OH-131_communityworkinagricultureakindofcorvee-1
+544	EAH	131_communityworkinagricultureakindofcorvee	165	ineγ	inɛɣ	i n ɛ ɣ	EAH-131_communityworkinagricultureakindofcorvee-1
+545	WOT	131_communityworkinagricultureakindofcorvee	165	inäγ	inɛɣ	i n ɛ ɣ	WOT-131_communityworkinagricultureakindofcorvee-1
+#
+546	H	132_toarrivetoreachgetto	166	ér	eːr	eː r	H-132_toarrivetoreachgetto-1
+#
+547	EAH	132_toarrivetoreachgetto	166	er	ɛr	ɛ r	EAH-132_toarrivetoreachgetto-1
+548	WOT	132_toarrivetoreachgetto	166	er	ɛr	ɛ r	WOT-132_toarrivetoreachgetto-1
+#
+549	H	133_merit	167	érdem	eːrdɛm	eː r d ɛ m	H-133_merit-1
+#
+550	EAH	133_merit	167	erdem	ɛrdɛm	ɛ r d ɛ m	EAH-133_merit-1
+551	WOT	133_merit	167	ärdäm	ɛrdɛm	ɛ r d ɛ m	WOT-133_merit-1
+#
+552	H	134_moralsmorality	168	erkölcs	ɛrkølt͡ʃ	ɛ r k ø l t͡ʃ	H-134_moralsmorality-1
+#
+553	EAH	134_moralsmorality	168	erkelč	ɛrkɛlt͡ʃ	ɛ r k ɛ l t͡ʃ	EAH-134_moralsmorality-1
+554	WOT	134_moralsmorality	168	ärkilč	ɛrkilt͡ʃ	ɛ r k i l t͡ʃ	WOT-134_moralsmorality-1
+#
+555	H	135_totirelosevitalityslackenrelax	169	erny	ɛrɲ	ɛ r ɲ	H-135_totirelosevitalityslackenrelax-1
+#
+556	EAH	135_totirelosevitalityslackenrelax	169	erin	ɛrin	ɛ r i n	EAH-135_totirelosevitalityslackenrelax-1
+557	WOT	135_totirelosevitalityslackenrelax	169	ärin	ɛrin	ɛ r i n	WOT-135_totirelosevitalityslackenrelax-1
+#
+558	H	136_strengthpower	170	erő	ɛrøː	ɛ r øː	H-136_strengthpower-1
+#
+559	OH	136_strengthpower	170	ereü̯	ɛrɛw	ɛ r ɛ w	OH-136_strengthpower-1
+560	EAH	136_strengthpower	170	eriγ	ɛriɣ	ɛ r i ɣ	EAH-136_strengthpower-1
+561	WOT	136_strengthpower	170	äriγ	ɛriɣ	ɛ r i ɣ	WOT-136_strengthpower-1
+#
+562	H	137_oath	171	es	ɛʃ	ɛ ʃ	H-137_oath-1
+#
+563	OH	137_oath	171	ešü	ɛʃy	ɛ ʃ y	OH-137_oath-1
+564	LAH	137_oath	171	ečü	ɛt͡ʃy	ɛ t͡ʃ y	LAH-137_oath-1
+565	EAH	137_oath	171	ičü	it͡ʃy	i t͡ʃ y	EAH-137_oath-1
+566	WOT	137_oath	171	ičü	it͡ʃy	i t͡ʃ y	WOT-137_oath-1
+#
+567	H	137_oath	172	eskü	ɛʃky	ɛ ʃ k y	H-137_oath-2
+#
+568	OH	137_oath	172	iškü	iʃky	i ʃ k y	OH-137_oath-2
+569	EAH	137_oath	172	ičkü	it͡ʃky	i t͡ʃ k y	EAH-137_oath-2
+570	WOT	137_oath	172	ičkü	it͡ʃky	i t͡ʃ k y	WOT-137_oath-2
+#
+571	H	138_reasonmind	173	ész	eːs	eː s	H-138_reasonmind-1
+#
+572	EAH	138_reasonmind	173	es	ɛs	ɛ s	EAH-138_reasonmind-1
+573	WOT	138_reasonmind	173	es	ɛs	ɛ s	WOT-138_reasonmind-1
+#
+574	H	139_rivernameofariver	174	etel	ɛtɛl	ɛ t ɛ l	H-139_rivernameofariver-1
+#
+575	EAH	139_rivernameofariver	174	etil	ɛtil	ɛ t i l	EAH-139_rivernameofariver-1
+576	WOT	139_rivernameofariver	174	ätil	ɛtil	ɛ t i l	WOT-139_rivernameofariver-1
+#
+577	H	139_rivernameofariver	175	etil	ɛtil	ɛ t i l	H-139_rivernameofariver-2
+#
+578	EAH	139_rivernameofariver	175	etil	ɛtil	ɛ t i l	EAH-139_rivernameofariver-2
+579	WOT	139_rivernameofariver	175	ätil	ɛtil	ɛ t i l	WOT-139_rivernameofariver-2
+#
+580	H	162_weed	176	gaz	ɡɒz	ɡ ɒ z	H-162_weed-1
+#
+581	OH	162_weed	176	kāz	kaːz	k aː z	OH-162_weed-1
+582	EAH	162_weed	176	kaγzu	kaɣzu	k a ɣ z u	EAH-162_weed-1
+583	WOT	162_weed	176	kaγδu	kaɣðu	k a ɣ ð u	WOT-162_weed-1
+#
+584	H	140_pelicanpelicanus	177	gödény	ɡødeːɲ	ɡ ø d eː ɲ	H-140_pelicanpelicanus-1
+#
+585	OH	140_pelicanpelicanus	177	güden	ɡydɛn	ɡ y d ɛ n	OH-140_pelicanpelicanus-1
+586	EAH	140_pelicanpelicanus	177	güden	ɡydɛn	ɡ y d ɛ n	EAH-140_pelicanpelicanus-1
+587	WOT	140_pelicanpelicanus	177	güdän	ɡydɛn	ɡ y d ɛ n	WOT-140_pelicanpelicanus-1
+#
+588	H	140_pelicanpelicanus	178	gödény	ɡødeːɲ	ɡ ø d eː ɲ	H-140_pelicanpelicanus-2
+#
+589	OH	140_pelicanpelicanus	178	güden	ɡydɛn	ɡ y d ɛ n	OH-140_pelicanpelicanus-2
+590	EAH	140_pelicanpelicanus	178	güden	ɡydɛn	ɡ y d ɛ n	EAH-140_pelicanpelicanus-2
+591	WOT	140_pelicanpelicanus	178	kütän	kytɛn	k y t ɛ n	WOT-140_pelicanpelicanus-2
+#
+592	H	141_polecatputoriusfoetidus	179	görény	ɡøreːɲ	ɡ ø r eː ɲ	H-141_polecatputoriusfoetidus-1
+#
+593	EAH	141_polecatputoriusfoetidus	179	güren	ɡyrɛn	ɡ y r ɛ n	EAH-141_polecatputoriusfoetidus-1
+594	WOT	141_polecatputoriusfoetidus	179	gürän	ɡyrɛn	ɡ y r ɛ n	WOT-141_polecatputoriusfoetidus-1
+#
+595	H	141_polecatputoriusfoetidus	180	görény	ɡøreːɲ	ɡ ø r eː ɲ	H-141_polecatputoriusfoetidus-2
+#
+596	EAH	141_polecatputoriusfoetidus	180	güren	ɡyrɛn	ɡ y r ɛ n	EAH-141_polecatputoriusfoetidus-2
+597	WOT	141_polecatputoriusfoetidus	180	kürän	kyrɛn	k y r ɛ n	WOT-141_polecatputoriusfoetidus-2
+#
+598	H	142_matchmaker	181	gügyű	ɡyɟyː	ɡ y ɟ yː	H-142_matchmaker-1
+#
+599	OH	142_matchmaker	181	küdʹǖ	kyɟyː	k y ɟ yː	OH-142_matchmaker-1
+600	LAH	142_matchmaker	181	küdʹeü̯	kyɟɛw	k y ɟ ɛ w	LAH-142_matchmaker-1
+601	EAH	142_matchmaker	181	küdeγü	kydɛɣy	k y d ɛ ɣ y	EAH-142_matchmaker-1
+#
+602	H	143_gleanermousemusspicilegus	182	güzü	ɡyzy	ɡ y z y	H-143_gleanermousemusspicilegus-1
+#
+603	OH	143_gleanermousemusspicilegus	182	güzǖ	ɡyzyː	ɡ y z yː	OH-143_gleanermousemusspicilegus-1
+604	LAH	143_gleanermousemusspicilegus	182	küzeγü	kyzɛɣy	k y z ɛ ɣ y	LAH-143_gleanermousemusspicilegus-1
+605	EAH	143_gleanermousemusspicilegus	182	küseγü	kysɛɣy	k y s ɛ ɣ y	EAH-143_gleanermousemusspicilegus-1
+606	WOT	143_gleanermousemusspicilegus	182	küsäγü	kysɛɣy	k y s ɛ ɣ y	WOT-143_gleanermousemusspicilegus-1
+#
+607	H	144_toabusecalumniate	183	gyalá	ɟɒlaː	ɟ ɒ l aː	H-144_toabusecalumniate-1
+#
+608	OH	144_toabusecalumniate	183	dʹala	ɟala	ɟ a l a	OH-144_toabusecalumniate-1
+609	EAH	144_toabusecalumniate	183	ǰala	d͡ʒʲala	d͡ʒʲ a l a	EAH-144_toabusecalumniate-1
+610	WOT	144_toabusecalumniate	183	ǰala	d͡ʒʲala	d͡ʒʲ a l a	WOT-144_toabusecalumniate-1
+#
+611	H	145_dragnetakindoffishingnet	184	gyalom	ɟɒlom	ɟ ɒ l o m	H-145_dragnetakindoffishingnet-1
+#
+612	EAH	145_dragnetakindoffishingnet	184	ǰalum	d͡ʒʲalum	d͡ʒʲ a l u m	EAH-145_dragnetakindoffishingnet-1
+613	WOT	145_dragnetakindoffishingnet	184	ǰalïm	d͡ʒʲalɯm	d͡ʒʲ a l ɯ m	WOT-145_dragnetakindoffishingnet-1
+#
+614	H	146_suspicionmistrust	185	gyanú	ɟɒnuː	ɟ ɒ n uː	H-146_suspicionmistrust-1
+#
+615	OH	146_suspicionmistrust	185	ǰanau̯	d͡ʒʲanaw	d͡ʒʲ a n a w	OH-146_suspicionmistrust-1
+616	EAH	146_suspicionmistrust	185	ǰonaγ	d͡ʒʲonaɣ	d͡ʒʲ o n a ɣ	EAH-146_suspicionmistrust-1
+617	WOT	146_suspicionmistrust	185	ǰonaγ	d͡ʒʲonaɣ	d͡ʒʲ o n a ɣ	WOT-146_suspicionmistrust-1
+#
+618	H	147_wool	186	gyapjú	ɟɒpjuː	ɟ ɒ p j uː	H-147_wool-1
+#
+619	OH	147_wool	186	ǰapyu	d͡ʒʲapju	d͡ʒʲ a p j u	OH-147_wool-1
+620	EAH	147_wool	186	ǰapγu	d͡ʒʲapɣu	d͡ʒʲ a p ɣ u	EAH-147_wool-1
+621	WOT	147_wool	186	ǰapaγu	d͡ʒʲapaɣu	d͡ʒʲ a p a ɣ u	WOT-147_wool-1
+#
+622	H	148_cotton	187	gyapot	ɟɒpot	ɟ ɒ p o t	H-148_cotton-1
+#
+623	EAH	148_cotton	187	ǰaput	d͡ʒʲaput	d͡ʒʲ a p u t	EAH-148_cotton-1
+624	WOT	148_cotton	187	ǰaput	d͡ʒʲaput	d͡ʒʲ a p u t	WOT-148_cotton-1
+#
+625	H	149_toincreasetoputonweighttogrowstronger	188	gyarap	ɟɒrɒp	ɟ ɒ r ɒ p	H-149_toincreasetoputonweighttogrowstronger-1
+#
+626	OH	149_toincreasetoputonweighttogrowstronger	188	dʹåråp	ɟɒrɒp	ɟ ɒ r ɒ p	OH-149_toincreasetoputonweighttogrowstronger-1
+627	LAH	149_toincreasetoputonweighttogrowstronger	188	ǰarap	d͡ʒʲarap	d͡ʒʲ a r a p	LAH-149_toincreasetoputonweighttogrowstronger-1
+628	EAH	149_toincreasetoputonweighttogrowstronger	188	ǰarpa	d͡ʒʲarpa	d͡ʒʲ a r p a	EAH-149_toincreasetoputonweighttogrowstronger-1
+629	WOT	149_toincreasetoputonweighttogrowstronger	188	ǰarpa	d͡ʒʲarpa	d͡ʒʲ a r p a	WOT-149_toincreasetoputonweighttogrowstronger-1
+#
+630	H	149_toincreasetoputonweighttogrowstronger	189	gyarap	ɟɒrɒp	ɟ ɒ r ɒ p	H-149_toincreasetoputonweighttogrowstronger-2
+#
+631	OH	149_toincreasetoputonweighttogrowstronger	189	dʹåråp	ɟɒrɒp	ɟ ɒ r ɒ p	OH-149_toincreasetoputonweighttogrowstronger-2
+632	LAH	149_toincreasetoputonweighttogrowstronger	189	ǰarap	d͡ʒʲarap	d͡ʒʲ a r a p	LAH-149_toincreasetoputonweighttogrowstronger-2
+633	EAH	149_toincreasetoputonweighttogrowstronger	189	ǰarpa	d͡ʒʲarpa	d͡ʒʲ a r p a	EAH-149_toincreasetoputonweighttogrowstronger-2
+634	WOT	149_toincreasetoputonweighttogrowstronger	189	ǰarpa	d͡ʒʲarpa	d͡ʒʲ a r p a	WOT-149_toincreasetoputonweighttogrowstronger-2
+#
+635	H	150_poorfrailfeeble	190	gyarló	ɟɒrloː	ɟ ɒ r l oː	H-150_poorfrailfeeble-1
+#
+636	OH	150_poorfrailfeeble	190	ǰarlou̯	d͡ʒʲarlow	d͡ʒʲ a r l o w	OH-150_poorfrailfeeble-1
+637	EAH	150_poorfrailfeeble	190	ǰarlïγ	d͡ʒʲarlɯɣ	d͡ʒʲ a r l ɯ ɣ	EAH-150_poorfrailfeeble-1
+638	WOT	150_poorfrailfeeble	190	ǰarlïγ	d͡ʒʲarlɯɣ	d͡ʒʲ a r l ɯ ɣ	WOT-150_poorfrailfeeble-1
+#
+639	H	151_toproducebuildfabricate	191	gyárt	ɟaːrt	ɟ aː r t	H-151_toproducebuildfabricate-1
+#
+640	OH	151_toproducebuildfabricate	191	dʹarat	ɟarat	ɟ a r a t	OH-151_toproducebuildfabricate-1
+641	EAH	151_toproducebuildfabricate	191	ǰarat	d͡ʒʲarat	d͡ʒʲ a r a t	EAH-151_toproducebuildfabricate-1
+642	WOT	151_toproducebuildfabricate	191	ǰarat	d͡ʒʲarat	d͡ʒʲ a r a t	WOT-151_toproducebuildfabricate-1
+#
+643	H	152_mourningbereavement	192	gyász	ɟaːs	ɟ aː s	H-152_mourningbereavement-1
+#
+644	OH	152_mourningbereavement	192	ǰās	d͡ʒʲaːs	d͡ʒʲ aː s	OH-152_mourningbereavement-1
+645	EAH	152_mourningbereavement	192	ǰas	d͡ʒʲas	d͡ʒʲ a s	EAH-152_mourningbereavement-1
+646	WOT	152_mourningbereavement	192	ǰas	d͡ʒʲas	d͡ʒʲ a s	WOT-152_mourningbereavement-1
+#
+647	H	153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes	193	gyékény	ɟeːkeːɲ	ɟ eː k eː ɲ	H-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1
+#
+648	EAH	153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes	193	ǰeken	d͡ʒʲɛkɛn	d͡ʒʲ ɛ k ɛ n	EAH-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1
+649	WOT	153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes	193	ǰekän	d͡ʒʲɛkɛn	d͡ʒʲ ɛ k ɛ n	WOT-153_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1
+#
+650	H	154_weakfeeble	194	gyënge	ɟeŋɡɛ	ɟ e ŋ ɡ ɛ	H-154_weakfeeble-1
+#
+651	EAH	154_weakfeeble	194	ǰenge	d͡ʒʲɛnɡɛ	d͡ʒʲ ɛ n ɡ ɛ	EAH-154_weakfeeble-1
+652	WOT	154_weakfeeble	194	ǰeŋi	d͡ʒʲɛŋi	d͡ʒʲ ɛ ŋ i	WOT-154_weakfeeble-1
+#
+653	H	155_rein	195	gyeplő	ɟɛpløː	ɟ ɛ p l øː	H-155_rein-1
+#
+654	OH	155_rein	195	ǰepleü̯	d͡ʒʲɛplɛw	d͡ʒʲ ɛ p l ɛ w	OH-155_rein-1
+655	EAH	155_rein	195	ǰipliγ	d͡ʒʲipliɣ	d͡ʒʲ i p l i ɣ	EAH-155_rein-1
+656	WOT	155_rein	195	ǰipliγ	d͡ʒʲipliɣ	d͡ʒʲ i p l i ɣ	WOT-155_rein-1
+#
+657	H	156_borderlandhedge	196	gyepű	ɟɛpyː	ɟ ɛ p yː	H-156_borderlandhedge-1
+#
+658	OH	156_borderlandhedge	196	ǰepeü̯	d͡ʒʲɛpɛw	d͡ʒʲ ɛ p ɛ w	OH-156_borderlandhedge-1
+659	EAH	156_borderlandhedge	196	ǰepiγ	d͡ʒʲɛpiɣ	d͡ʒʲ ɛ p i ɣ	EAH-156_borderlandhedge-1
+660	WOT	156_borderlandhedge	196	ǰäpiγ	d͡ʒʲɛpiɣ	d͡ʒʲ ɛ p i ɣ	WOT-156_borderlandhedge-1
+#
+661	H	157_lawngrassplot	197	gyep	ɟɛp	ɟ ɛ p	H-157_lawngrassplot-1
+#
+662	EAH	157_lawngrassplot	197	ǰepi	d͡ʒʲɛpi	d͡ʒʲ ɛ p i	EAH-157_lawngrassplot-1
+663	WOT	157_lawngrassplot	197	ǰäpi	d͡ʒʲɛpi	d͡ʒʲ ɛ p i	WOT-157_lawngrassplot-1
+#
+664	H	158_child	198	gyermek	ɟɛrmɛk	ɟ ɛ r m ɛ k	H-158_child-1
+#
+665	EAH	158_child	198	ǰärmäk	d͡ʒʲɛrmɛk	d͡ʒʲ ɛ r m ɛ k	EAH-158_child-1
+666	WOT	158_child	198	ǰärmäk	d͡ʒʲɛrmɛk	d͡ʒʲ ɛ r m ɛ k	WOT-158_child-1
+#
+667	H	158_child	199	gyermek	ɟɛrmɛk	ɟ ɛ r m ɛ k	H-158_child-2
+#
+668	EAH	158_child	199	ǰärmäk	d͡ʒʲɛrmɛk	d͡ʒʲ ɛ r m ɛ k	EAH-158_child-2
+669	WOT	158_child	199	ǰärmük	d͡ʒʲɛrmyk	d͡ʒʲ ɛ r m y k	WOT-158_child-2
+#
+670	H	159_candle	200	gyertya	ɟɛrcɒ	ɟ ɛ r c ɒ	H-159_candle-1
+#
+671	EAH	159_candle	200	ǰarta	d͡ʒʲarta	d͡ʒʲ a r t a	EAH-159_candle-1
+672	WOT	159_candle	200	yarta	jarta	j a r t a	WOT-159_candle-1
+#
+673	H	160_hornbeamcarpinusbetulus	201	gyertyán	ɟɛrcaːn	ɟ ɛ r c aː n	H-160_hornbeamcarpinusbetulus-1
+#
+674	OH	160_hornbeamcarpinusbetulus	201	ǰartān	d͡ʒʲartaːn	d͡ʒʲ a r t aː n	OH-160_hornbeamcarpinusbetulus-1
+675	EAH	160_hornbeamcarpinusbetulus	201	ǰartaγan	d͡ʒʲartaɣan	d͡ʒʲ a r t a ɣ a n	EAH-160_hornbeamcarpinusbetulus-1
+676	WOT	160_hornbeamcarpinusbetulus	201	yartaγan	jartaɣan	j a r t a ɣ a n	WOT-160_hornbeamcarpinusbetulus-1
+#
+677	H	161_murderkiller	202	gyilkos	ɟilkoʃ	ɟ i l k o ʃ	H-161_murderkiller-1
+#
+678	EAH	161_murderkiller	202	ǰilkuš	d͡ʒʲilkuʃ	d͡ʒʲ i l k u ʃ	EAH-161_murderkiller-1
+679	WOT	161_murderkiller	202	ǰulkučï	d͡ʒʲulkut͡ʃɯ	d͡ʒʲ u l k u t͡ʃ ɯ	WOT-161_murderkiller-1
+#
+680	H	162_weed	203	gyom	ɟom	ɟ o m	H-162_weed-2
+#
+681	EAH	162_weed	203	ǰom	d͡ʒʲom	d͡ʒʲ o m	EAH-162_weed-2
+682	WOT	162_weed	203	ǰom	d͡ʒʲom	d͡ʒʲ o m	WOT-162_weed-2
+#
+683	H	163_stomach	204	gyomor	ɟomor	ɟ o m o r	H-163_stomach-1
+#
+684	OH	163_stomach	204	dʹumur	ɟumur	ɟ u m u r	OH-163_stomach-1
+685	EAH	163_stomach	204	ǰumur	d͡ʒʲumur	d͡ʒʲ u m u r	EAH-163_stomach-1
+686	WOT	163_stomach	204	ǰumur	d͡ʒʲumur	d͡ʒʲ u m u r	WOT-163_stomach-1
+#
+687	H	164_toconfesssins	205	gyón	ɟoːn	ɟ oː n	H-164_toconfesssins-1
+#
+688	OH	164_toconfesssins	205	dʹun	ɟun	ɟ u n	OH-164_toconfesssins-1
+689	EAH	164_toconfesssins	205	ǰūn	d͡ʒʲuːn	d͡ʒʲ uː n	EAH-164_toconfesssins-1
+690	WOT	164_toconfesssins	205	ǰūn	d͡ʒʲuːn	d͡ʒʲ uː n	WOT-164_toconfesssins-1
+#
+691	H	164_toconfesssins	206	gyovon	ɟovon	ɟ o v o n	H-164_toconfesssins-2
+#
+692	OH	164_toconfesssins	206	dʹuvun	ɟuvun	ɟ u v u n	OH-164_toconfesssins-2
+693	EAH	164_toconfesssins	206	ǰuvun	d͡ʒʲuvun	d͡ʒʲ u v u n	EAH-164_toconfesssins-2
+694	WOT	164_toconfesssins	206	ǰuvun	d͡ʒʲuvun	d͡ʒʲ u v u n	WOT-164_toconfesssins-2
+#
+695	H	165_cudweedgnaphaliumedelweiss	207	gyopár	ɟopaːr	ɟ o p aː r	H-165_cudweedgnaphaliumedelweiss-1
+#
+696	OH	165_cudweedgnaphaliumedelweiss	207	ǰupar	d͡ʒʲupar	d͡ʒʲ u p a r	OH-165_cudweedgnaphaliumedelweiss-1
+697	EAH	165_cudweedgnaphaliumedelweiss	207	ǰïpar	d͡ʒʲɯpar	d͡ʒʲ ɯ p a r	EAH-165_cudweedgnaphaliumedelweiss-1
+698	WOT	165_cudweedgnaphaliumedelweiss	207	ǰïpar	d͡ʒʲɯpar	d͡ʒʲ ɯ p a r	WOT-165_cudweedgnaphaliumedelweiss-1
+#
+699	H	166_pearl	208	gyöngy	ɟøɲɟ	ɟ ø ɲɟ	H-166_pearl-1
+#
+700	OH	166_pearl	208	ǰünǰ	d͡ʒʲynd͡ʒʲ	d͡ʒʲ y n d͡ʒʲ	OH-166_pearl-1
+701	LAH	166_pearl	208	ǰünǰü	d͡ʒʲynd͡ʒʲy	d͡ʒʲ y n d͡ʒʲ y	LAH-166_pearl-1
+702	EAH	166_pearl	208	ǰinǰü	d͡ʒʲind͡ʒʲy	d͡ʒʲ i n d͡ʒʲ y	EAH-166_pearl-1
+703	WOT	166_pearl	208	ǰinǰü	d͡ʒʲind͡ʒʲy	d͡ʒʲ i n d͡ʒʲ y	WOT-166_pearl-1
+#
+704	H	167_totorturetomakesuffer	209	gyötör	ɟøtør	ɟ ø t ø r	H-167_totorturetomakesuffer-1
+#
+705	OH	167_totorturetomakesuffer	209	ǰütür	d͡ʒʲytyr	d͡ʒʲ y t y r	OH-167_totorturetomakesuffer-1
+706	EAH	167_totorturetomakesuffer	209	ǰitür	d͡ʒʲityr	d͡ʒʲ i t y r	EAH-167_totorturetomakesuffer-1
+707	WOT	167_totorturetomakesuffer	209	ǰitür	d͡ʒʲityr	d͡ʒʲ i t y r	WOT-167_totorturetomakesuffer-1
+#
+708	H	168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory	210	győz	ɟøːz	ɟ øː z	H-168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1
+#
+709	OH	168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory	210	dʹēz	ɟeːz	ɟ eː z	OH-168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1
+710	EAH	168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory	210	ǰeγüz	d͡ʒʲɛɣyz	d͡ʒʲ ɛ ɣ y z	EAH-168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1
+711	WOT	168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory	210	ǰäγüz	d͡ʒʲɛɣyz	d͡ʒʲ ɛ ɣ y z	WOT-168_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1
+#
+712	H	169_tocatchfirebekindledtobeignited	211	gyúl	ɟuːl	ɟ uː l	H-169_tocatchfirebekindledtobeignited-1
+#
+713	EAH	169_tocatchfirebekindledtobeignited	211	ǰul	d͡ʒʲul	d͡ʒʲ u l	EAH-169_tocatchfirebekindledtobeignited-1
+714	WOT	169_tocatchfirebekindledtobeignited	211	ǰul	d͡ʒʲul	d͡ʒʲ u l	WOT-169_tocatchfirebekindledtobeignited-1
+#
+715	H	170_tokneadpug	212	gyúr	ɟuːr	ɟ uː r	H-170_tokneadpug-1
+#
+716	EAH	170_tokneadpug	212	ǰuγur	d͡ʒʲuɣur	d͡ʒʲ u ɣ u r	EAH-170_tokneadpug-1
+717	WOT	170_tokneadpug	212	ǰuγur	d͡ʒʲuɣur	d͡ʒʲ u ɣ u r	WOT-170_tokneadpug-1
+#
+718	H	171_toassemblegather	213	gyűl	ɟyːl	ɟ yː l	H-171_toassemblegather-1
+#
+719	OH	171_toassemblegather	213	dʹīl	ɟiːl	ɟ iː l	OH-171_toassemblegather-1
+720	EAH	171_toassemblegather	213	ǰiγil	d͡ʒʲiɣil	d͡ʒʲ i ɣ i l	EAH-171_toassemblegather-1
+721	WOT	171_toassemblegather	213	ǰigil	d͡ʒʲiɡil	d͡ʒʲ i ɡ i l	WOT-171_toassemblegather-1
+#
+722	H	172_tocollectgathersomething	214	gyűjt	ɟyːjt	ɟ yː j t	H-172_tocollectgathersomething-1
+#
+723	EAH	172_tocollectgathersomething	214	dʹǖl	ɟyːl	ɟ yː l	EAH-172_tocollectgathersomething-1
+724	WOT	172_tocollectgathersomething	214	ǰiγil	d͡ʒʲiɣil	d͡ʒʲ i ɣ i l	WOT-172_tocollectgathersomething-1
+#
+725	H	173_tohate	215	gyűlöl	ɟyːløl	ɟ yː l ø l	H-173_tohate-1
+#
+726	OH	173_tohate	215	dʹǖle	ɟyːlɛ	ɟ yː l ɛ	OH-173_tohate-1
+727	LAH	173_tohate	215	dʹeü̯le	ɟɛwlɛ	ɟ ɛ w l ɛ	LAH-173_tohate-1
+728	EAH	173_tohate	215	ǰeγile	d͡ʒʲɛɣilɛ	d͡ʒʲ ɛ ɣ i l ɛ	EAH-173_tohate-1
+729	WOT	173_tohate	215	ǰägilä	d͡ʒʲɛɡilɛ	d͡ʒʲ ɛ ɡ i l ɛ	WOT-173_tohate-1
+#
+730	H	174_fruit	216	gyümölcs	ɟymølt͡ʃ	ɟ y m ø l t͡ʃ	H-174_fruit-1
+#
+731	OH	174_fruit	216	dʹömölč	ɟømølt͡ʃ	ɟ ø m ø l t͡ʃ	OH-174_fruit-1
+732	LAH	174_fruit	216	dʹemilč	ɟɛmilt͡ʃ	ɟ ɛ m i l t͡ʃ	LAH-174_fruit-1
+733	EAH	174_fruit	216	ǰemilč	d͡ʒʲɛmilt͡ʃ	d͡ʒʲ ɛ m i l t͡ʃ	EAH-174_fruit-1
+734	WOT	174_fruit	216	ǰemilč	d͡ʒʲɛmilt͡ʃ	d͡ʒʲ ɛ m i l t͡ʃ	WOT-174_fruit-1
+#
+735	H	175_hawthornaplantsimilartothewhitethornorelder	217	gyümölcsény	ɟymølt͡ʃeːɲ	ɟ y m ø l t͡ʃ eː ɲ	H-175_hawthornaplantsimilartothewhitethornorelder-1
+#
+736	OH	175_hawthornaplantsimilartothewhitethornorelder	217	dʹemilčen	ɟɛmilt͡ʃɛn	ɟ ɛ m i l t͡ʃ ɛ n	OH-175_hawthornaplantsimilartothewhitethornorelder-1
+737	EAH	175_hawthornaplantsimilartothewhitethornorelder	217	ǰemilčen	d͡ʒʲɛmilt͡ʃɛn	d͡ʒʲ ɛ m i l t͡ʃ ɛ n	EAH-175_hawthornaplantsimilartothewhitethornorelder-1
+738	WOT	175_hawthornaplantsimilartothewhitethornorelder	217	ǰemilčen	d͡ʒʲɛmilt͡ʃɛn	d͡ʒʲ ɛ m i l t͡ʃ ɛ n	WOT-175_hawthornaplantsimilartothewhitethornorelder-1
+#
+739	H	176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea	218	gyűrű	ɟyːryː	ɟ yː r yː	H-176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1
+#
+740	OH	176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea	218	dʹereü̯	ɟɛrɛw	ɟ ɛ r ɛ w	OH-176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1
+741	EAH	176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea	218	ǰereγ	d͡ʒʲɛrɛɣ	d͡ʒʲ ɛ r ɛ ɣ	EAH-176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1
+742	WOT	176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea	218	ǰereγ	d͡ʒʲɛrɛɣ	d͡ʒʲ ɛ r ɛ ɣ	WOT-176_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1
+#
+743	H	177_ring	219	gyűrű	ɟyːryː	ɟ yː r yː	H-177_ring-1
+#
+744	OH	177_ring	219	dʹüreü̯	ɟyrɛw	ɟ y r ɛ w	OH-177_ring-1
+745	EAH	177_ring	219	ǰürüγ	d͡ʒʲyryɣ	d͡ʒʲ y r y ɣ	EAH-177_ring-1
+746	WOT	177_ring	219	ǰürüγ	d͡ʒʲyryɣ	d͡ʒʲ y r y ɣ	WOT-177_ring-1
+#
+747	H	178_thimble	220	gyűszű	ɟyːsyː	ɟ yː s yː	H-178_thimble-1
+#
+748	EAH	178_thimble	220	ǰüγsüγ	d͡ʒʲyɣsyɣ	d͡ʒʲ y ɣ s y ɣ	EAH-178_thimble-1
+749	WOT	178_thimble	220	ǰüγsüγ	d͡ʒʲyɣsyɣ	d͡ʒʲ y ɣ s y ɣ	WOT-178_thimble-1
+#
+750	H	179_boatship	221	hajó	hɒjoː	h ɒ j oː	H-179_boatship-1
+#
+751	EAH	179_boatship	221	hayiγ	hajiɣ	h a j i ɣ	EAH-179_boatship-1
+752	WOT	179_boatship	221	χayїγ	χajɯɣ	χ a j ɯ ɣ	WOT-179_boatship-1
+#
+753	H	180_bell	222	harang	hɒrɒŋ	h ɒ r ɒ ŋ	H-180_bell-1
+#
+754	EAH	180_bell	222	hangar	hanɡar	h a n ɡ a r	EAH-180_bell-1
+755	WOT	180_bell	222	χoŋar	χoŋar	χ o ŋ a r	WOT-180_bell-1
+#
+756	H	181_hawk	223	herjó	hɛrjoː	h ɛ r j oː	H-181_hawk-1
+#
+757	EAH	181_hawk	223	xirγuy	xirɣuj	x i r ɣ u j	EAH-181_hawk-1
+758	WOT	181_hawk	223	χїrγuy	χɯrɣuj	χ ɯ r ɣ u j	WOT-181_hawk-1
+#
+759	H	182_sand	224	homok	homok	h o m o k	H-182_sand-1
+#
+760	OH	182_sand	224	humuki	humuki	h u m u k i	OH-182_sand-1
+761	EAH	182_sand	224	humoki	humoki	h u m o k i	EAH-182_sand-1
+762	WOT	182_sand	224	χumakï	χumakɯ	χ u m a k ɯ	WOT-182_sand-1
+#
+763	H	183_nooseloopsnare	225	hurok	hurok	h u r o k	H-183_nooseloopsnare-1
+#
+764	EAH	183_nooseloopsnare	225	urok	urok	u r o k	EAH-183_nooseloopsnare-1
+765	WOT	183_nooseloopsnare	225	urok	urok	u r o k	WOT-183_nooseloopsnare-1
+#
+766	H	184_timeweather	226	idő	idøː	i d øː	H-184_timeweather-1
+#
+767	OH	184_timeweather	226	üdȫ	ydøː	y d øː	OH-184_timeweather-1
+768	LAH	184_timeweather	226	üdeü̯	ydɛw	y d ɛ w	LAH-184_timeweather-1
+769	EAH	184_timeweather	226	üdeγ	ydɛɣ	y d ɛ ɣ	EAH-184_timeweather-1
+770	WOT	184_timeweather	226	üdäγ	ydɛɣ	y d ɛ ɣ	WOT-184_timeweather-1
+#
+771	H	185_wordbiblicalwordverb	227	ige	iɡɛ	i ɡ ɛ	H-185_wordbiblicalwordverb-1
+#
+772	EAH	185_wordbiblicalwordverb	227	üge	yɡɛ	y ɡ ɛ	EAH-185_wordbiblicalwordverb-1
+773	WOT	185_wordbiblicalwordverb	227	ügä	yɡɛ	y ɡ ɛ	WOT-185_wordbiblicalwordverb-1
+#
+774	H	186_yesaffirmativeparticlevery	228	igen	iɡɛn	i ɡ ɛ n	H-186_yesaffirmativeparticlevery-1
+#
+775	EAH	186_yesaffirmativeparticlevery	228	egen	ɛɡɛn	ɛ ɡ ɛ n	EAH-186_yesaffirmativeparticlevery-1
+776	WOT	186_yesaffirmativeparticlevery	228	egän	ɛɡɛn	ɛ ɡ ɛ n	WOT-186_yesaffirmativeparticlevery-1
+#
+777	H	187_tobefrightenedtotakefright	229	ije	ijɛ	i j ɛ	H-187_tobefrightenedtotakefright-1
+#
+778	OH	187_tobefrightenedtotakefright	229	iye	ijɛ	i j ɛ	OH-187_tobefrightenedtotakefright-1
+779	EAH	187_tobefrightenedtotakefright	229	äyi	ɛji	ɛ j i	EAH-187_tobefrightenedtotakefright-1
+780	WOT	187_tobefrightenedtotakefright	229	äyi	ɛji	ɛ j i	WOT-187_tobefrightenedtotakefright-1
+#
+781	H	187_tobefrightenedtotakefright	230	ije	ijɛ	i j ɛ	H-187_tobefrightenedtotakefright-2
+#
+782	OH	187_tobefrightenedtotakefright	230	iye	ijɛ	i j ɛ	OH-187_tobefrightenedtotakefright-2
+783	EAH	187_tobefrightenedtotakefright	230	äyi	ɛji	ɛ j i	EAH-187_tobefrightenedtotakefright-2
+784	WOT	187_tobefrightenedtotakefright	230	äyi	ɛji	ɛ j i	WOT-187_tobefrightenedtotakefright-2
+#
+785	H	188_twin	231	iker	ikɛr	i k ɛ r	H-188_twin-1
+#
+786	EAH	188_twin	231	ikir	ikir	i k i r	EAH-188_twin-1
+787	WOT	188_twin	231	ikir	ikir	i k i r	WOT-188_twin-1
+#
+788	H	189_properbehaviour	232	ildom	ildom	i l d o m	H-189_properbehaviour-1
+#
+789	EAH	189_properbehaviour	232	ildam	ildam	i l d a m	EAH-189_properbehaviour-1
+790	WOT	189_properbehaviour	232	ïldam	ɯldam	ɯ l d a m	WOT-189_properbehaviour-1
+#
+791	H	190_tosuitsomethingtobepropertofitinto	233	ill	ilː	i lː	H-190_tosuitsomethingtobepropertofitinto-1
+#
+792	EAH	190_tosuitsomethingtobepropertofitinto	233	il	il	i l	EAH-190_tosuitsomethingtobepropertofitinto-1
+793	WOT	190_tosuitsomethingtobepropertofitinto	233	il	il	i l	WOT-190_tosuitsomethingtobepropertofitinto-1
+#
+794	H	191_toadoreworship	234	im	im	i m	H-191_toadoreworship-1
+#
+795	OH	191_toadoreworship	234	vimad	vimad	v i m a d	OH-191_toadoreworship-1
+796	EAH	191_toadoreworship	234	vim	vim	v i m	EAH-191_toadoreworship-1
+797	WOT	191_toadoreworship	234	vïm	vɯm	v ɯ m	WOT-191_toadoreworship-1
+#
+798	H	192_shirt	235	ing	iŋ	i ŋ	H-192_shirt-1
+#
+799	OH	192_shirt	235	ümeg	ymɛɡ	y m ɛ ɡ	OH-192_shirt-1
+800	EAH	192_shirt	235	ümmeg	ymːɛɡ	y mː ɛ ɡ	EAH-192_shirt-1
+801	WOT	192_shirt	235	öŋmäk	øŋmɛk	ø ŋ m ɛ k	WOT-192_shirt-1
+#
+802	H	193_towrite	236	ír	iːr	iː r	H-193_towrite-1
+#
+803	EAH	193_towrite	236	ir	ir	i r	EAH-193_towrite-1
+804	WOT	193_towrite	236	ïr	ɯr	ɯ r	WOT-193_towrite-1
+#
+805	H	194_buttermilk	237	író	iːroː	iː r oː	H-194_buttermilk-1
+#
+806	OH	194_buttermilk	237	irō	iroː	i r oː	OH-194_buttermilk-1
+807	EAH	194_buttermilk	237	iraγ	iraɣ	i r a ɣ	EAH-194_buttermilk-1
+808	WOT	194_buttermilk	237	ïraγ	ɯraɣ	ɯ r a ɣ	WOT-194_buttermilk-1
+#
+809	H	195_toglowbehot	238	izzi	izːi	i zː i	H-195_toglowbehot-1
+#
+810	OH	195_toglowbehot	238	izi	izi	i z i	OH-195_toglowbehot-1
+811	EAH	195_toglowbehot	238	isi	isi	i s i	EAH-195_toglowbehot-1
+812	WOT	195_toglowbehot	238	ïsï	ɯsɯ	ɯ s ɯ	WOT-195_toglowbehot-1
+#
+813	H	196_nameofanethnicgroupofiranianorigininhungary	239	jász	jaːs	j aː s	H-196_nameofanethnicgroupofiranianorigininhungary-1
+#
+814	WOT	196_nameofanethnicgroupofiranianorigininhungary	239	yās	jaːs	j aː s	WOT-196_nameofanethnicgroupofiranianorigininhungary-1
+#
+815	H	197_dolessdolittle	240	kajtár	kɒjtaːr	k ɒ j t aː r	H-197_dolessdolittle-1
+#
+816	H	198_bulrushclubrushdifferentplantslikeschoenoplectuscyperace	241	káka	kaːkɒ	k aː k ɒ	H-198_bulrushclubrushdifferentplantslikeschoenoplectuscyperace-1
+#
+817	WOT	198_bulrushclubrushdifferentplantslikeschoenoplectuscyperace	241	kakï	kakɯ	k a k ɯ	WOT-198_bulrushclubrushdifferentplantslikeschoenoplectuscyperace-1
+#
+818	H	199_guidepilotconductorticketinspector	242	kalauz	kɒlɒuz	k ɒ l ɒ u z	H-199_guidepilotconductorticketinspector-1
+#
+819	EAH	199_guidepilotconductorticketinspector	242	kalauz	kalauz	k a l a u z	EAH-199_guidepilotconductorticketinspector-1
+#
+820	H	199_guidepilotconductorticketinspector	243	kalóz	kɒloːz	k ɒ l oː z	H-199_guidepilotconductorticketinspector-2
+#
+821	EAH	199_guidepilotconductorticketinspector	243	kalauz	kalauz	k a l a u z	EAH-199_guidepilotconductorticketinspector-2
+822	WOT	199_guidepilotconductorticketinspector	243	kolavuz	kolavuz	k o l a v u z	WOT-199_guidepilotconductorticketinspector-1
+#
+823	H	200_anethnicgroupofmuslimfaithinmediaevalhungary	244	káliz	kaːliz	k aː l i z	H-200_anethnicgroupofmuslimfaithinmediaevalhungary-1
+#
+824	EAH	200_anethnicgroupofmuslimfaithinmediaevalhungary	244	kaliz	kaliz	k a l i z	EAH-200_anethnicgroupofmuslimfaithinmediaevalhungary-1
+825	WOT	200_anethnicgroupofmuslimfaithinmediaevalhungary	244	kvaliz	kvaliz	k v a l i z	WOT-200_anethnicgroupofmuslimfaithinmediaevalhungary-1
+#
+826	H	201_awaterplantstratiotesaloides	245	kalokány	kɒlokaːɲ	k ɒ l o k aː ɲ	H-201_awaterplantstratiotesaloides-1
+#
+827	EAH	201_awaterplantstratiotesaloides	245	karlukan	karlukan	k a r l u k a n	EAH-201_awaterplantstratiotesaloides-1
+828	WOT	201_awaterplantstratiotesaloides	245	karlukan	karlukan	k a r l u k a n	WOT-201_awaterplantstratiotesaloides-1
+#
+829	H	201_awaterplantstratiotesaloides	246	kolokány	kolokaːɲ	k o l o k aː ɲ	H-201_awaterplantstratiotesaloides-2
+#
+830	EAH	201_awaterplantstratiotesaloides	246	karlukan	karlukan	k a r l u k a n	EAH-201_awaterplantstratiotesaloides-2
+831	WOT	201_awaterplantstratiotesaloides	246	karlukan	karlukan	k a r l u k a n	WOT-201_awaterplantstratiotesaloides-2
+#
+832	H	201_awaterplantstratiotesaloides	247	karlokány	kɒrlokaːɲ	k ɒ r l o k aː ɲ	H-201_awaterplantstratiotesaloides-3
+#
+833	EAH	201_awaterplantstratiotesaloides	247	karlukan	karlukan	k a r l u k a n	EAH-201_awaterplantstratiotesaloides-3
+834	WOT	201_awaterplantstratiotesaloides	247	karlukan	karlukan	k a r l u k a n	WOT-201_awaterplantstratiotesaloides-3
+#
+835	H	202_whiplash	248	kamcsi	kɒmt͡ʃi	k ɒ m t͡ʃ i	H-202_whiplash-1
+#
+836	H	202_whiplash	249	kamsi	kɒmʃi	k ɒ m ʃ i	H-202_whiplash-2
+#
+837	H	202_whiplash	250	kamzsi	kɒmʒi	k ɒ m ʒ i	H-202_whiplash-3
+#
+838	H	203_saddlestrap	251	kangyík	kɒɲɟiːk	k ɒ ɲɟ iː k	H-203_saddlestrap-1
+#
+839	EAH	203_saddlestrap	251	kåndʹikå	kɒnɟikɒ	k ɒ n ɟ i k ɒ	EAH-203_saddlestrap-1
+#
+840	H	203_saddlestrap	252	kangyíka	kɒɲɟiːkɒ	k ɒ ɲɟ iː k ɒ	H-203_saddlestrap-2
+#
+841	EAH	203_saddlestrap	252	kåndʹikå	kɒnɟikɒ	k ɒ n ɟ i k ɒ	EAH-203_saddlestrap-2
+#
+842	H	204_bridlereins	253	kantár	kɒntaːr	k ɒ n t aː r	H-204_bridlereins-1
+#
+843	WOT	204_bridlereins	253	kantar	kantar	k a n t a r	WOT-204_bridlereins-1
+#
+844	H	205_measles	254	kanyaró	kɒɲɒroː	k ɒ ɲ ɒ r oː	H-205_measles-1
+#
+845	OH	205_measles	254	kåråńō	kɒrɒɲoː	k ɒ r ɒ ɲ oː	OH-205_measles-1
+846	LAH	205_measles	254	kåråmō	kɒrɒmoː	k ɒ r ɒ m oː	LAH-205_measles-1
+847	EAH	205_measles	254	karamuγ	karamuɣ	k a r a m u ɣ	EAH-205_measles-1
+848	WOT	205_measles	254	karamuγ	karamuɣ	k a r a m u ɣ	WOT-205_measles-1
+#
+849	H	206_trapsnare	255	kaptány	kɒptaːɲ	k ɒ p t aː ɲ	H-206_trapsnare-1
+#
+850	OH	206_trapsnare	255	kåpkāń	kɒpkaːɲ	k ɒ p k aː ɲ	OH-206_trapsnare-1
+851	EAH	206_trapsnare	255	kapkan	kapkan	k a p k a n	EAH-206_trapsnare-1
+852	WOT	206_trapsnare	255	kapkan	kapkan	k a p k a n	WOT-206_trapsnare-1
+#
+853	H	207_gate	256	kapu	kɒpu	k ɒ p u	H-207_gate-1
+#
+854	OH	207_gate	256	kapū	kapuː	k a p uː	OH-207_gate-1
+855	EAH	207_gate	256	kapuγ	kapuɣ	k a p u ɣ	EAH-207_gate-1
+856	WOT	207_gate	256	kapuγ	kapuɣ	k a p u ɣ	WOT-207_gate-1
+#
+857	H	208_arm	257	kar	kɒr	k ɒ r	H-208_arm-1
+#
+858	EAH	208_arm	257	kar	kar	k a r	EAH-208_arm-1
+859	WOT	208_arm	257	kar	kar	k a r	WOT-208_arm-1
+#
+860	H	209_damageloss	258	kár	kaːr	k aː r	H-209_damageloss-1
+#
+861	WOT	209_damageloss	258	kăvar	kɐvar	k ɐ v a r	WOT-209_damageloss-1
+#
+862	H	210_manofgritstoutfellow	259	karakán	kɒrɒkaːn	k ɒ r ɒ k aː n	H-210_manofgritstoutfellow-1
+#
+863	EAH	210_manofgritstoutfellow	259	karakan	karakan	k a r a k a n	EAH-210_manofgritstoutfellow-1
+864	WOT	210_manofgritstoutfellow	259	karakan	karakan	k a r a k a n	WOT-210_manofgritstoutfellow-1
+#
+865	H	211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals	260	karám	kɒraːm	k ɒ r aː m	H-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1
+#
+866	EAH	211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals	260	korām	koraːm	k o r aː m	EAH-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1
+867	WOT	211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals	260	koram	koram	k o r a m	WOT-211_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1
+#
+868	H	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	261	karambél	kɒrɒmbeːl	k ɒ r ɒ m b eː l	H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1
+#
+869	EAH	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	261	karampil	karampil	k a r a m p i l	EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1
+870	WOT	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	261	karampil	karampil	k a r a m p i l	WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1
+#
+871	H	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	262	karambél	kɒrɒmbeːl	k ɒ r ɒ m b eː l	H-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2
+#
+872	EAH	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	262	karampil	karampil	k a r a m p i l	EAH-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2
+873	WOT	212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace	262	karamfil	karamfil	k a r a m f i l	WOT-212_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-2
+#
+874	H	213_stakepalestick	263	karó	kɒroː	k ɒ r oː	H-213_stakepalestick-1
+#
+875	OH	213_stakepalestick	263	kårou̯	kɒrow	k ɒ r o w	OH-213_stakepalestick-1
+876	EAH	213_stakepalestick	263	karoγ	karoɣ	k a r o ɣ	EAH-213_stakepalestick-1
+877	WOT	213_stakepalestick	263	karoγ	karoɣ	k a r o ɣ	WOT-213_stakepalestick-1
+#
+878	H	214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo	264	kárókaton	kaːroːkɒton	k aː r oː k ɒ t o n	H-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1
+#
+879	OH	214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo	264	karakatona	karakatona	k a r a k a t o n a	OH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1
+880	EAH	214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo	264	karakotan	karakotan	k a r a k o t a n	EAH-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1
+881	WOT	214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo	264	karakotan	karakotan	k a r a k o t a n	WOT-214_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1
+#
+882	H	215_sparrowhawkaccipiternnisus	265	karvaly	kɒrvɒj	k ɒ r v ɒ j	H-215_sparrowhawkaccipiternnisus-1
+#
+883	EAH	215_sparrowhawkaccipiternnisus	265	karγay	karɣaj	k a r ɣ a j	EAH-215_sparrowhawkaccipiternnisus-1
+884	WOT	215_sparrowhawkaccipiternnisus	265	kargay	karɡaj	k a r ɡ a j	WOT-215_sparrowhawkaccipiternnisus-1
+#
+885	H	216_chicorycichoriumspcichoriumintybus	266	katáng	kɒtaːŋ	k ɒ t aː ŋ	H-216_chicorycichoriumspcichoriumintybus-1
+#
+886	EAH	216_chicorycichoriumspcichoriumintybus	266	katāng	kataːnɡ	k a t aː n ɡ	EAH-216_chicorycichoriumspcichoriumintybus-1
+887	WOT	216_chicorycichoriumspcichoriumintybus	266	kataŋ	kataŋ	k a t a ŋ	WOT-216_chicorycichoriumspcichoriumintybus-1
+#
+888	H	217_anethnicnamekazar	267	kazár	kɒzaːr	k ɒ z aː r	H-217_anethnicnamekazar-1
+#
+889	EAH	217_anethnicnamekazar	267	kazar	kazar	k a z a r	EAH-217_anethnicnamekazar-1
+890	WOT	217_anethnicnamekazar	267	kazar	kazar	k a z a r	WOT-217_anethnicnamekazar-1
+#
+891	H	218_bosombreast	268	kebel	kɛbɛl	k ɛ b ɛ l	H-218_bosombreast-1
+#
+892	WOT	218_bosombreast	268	käbäl	kɛbɛl	k ɛ b ɛ l	WOT-218_bosombreast-1
+#
+893	H	219_goatcaprahircus	269	kecske	kɛt͡ʃkɛ	k ɛ t͡ʃ k ɛ	H-219_goatcaprahircus-1
+#
+894	EAH	219_goatcaprahircus	269	kečeke	kɛt͡ʃɛkɛ	k ɛ t͡ʃ ɛ k ɛ	EAH-219_goatcaprahircus-1
+895	WOT	219_goatcaprahircus	269	käčäkä	kɛt͡ʃɛkɛ	k ɛ t͡ʃ ɛ k ɛ	WOT-219_goatcaprahircus-1
+#
+896	H	220_blue	270	kék	keːk	k eː k	H-220_blue-1
+#
+897	EAH	220_blue	270	keyk	kɛjk	k ɛ j k	EAH-220_blue-1
+898	WOT	220_blue	270	kȫk	køːk	k øː k	WOT-220_blue-1
+#
+899	H	221_trousseaudowrygiftgivenwiththebrideorbridegroom	271	kelengye	kɛlɛɲɟɛ	k ɛ l ɛ ɲɟ ɛ	H-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1
+#
+900	OH	221_trousseaudowrygiftgivenwiththebrideorbridegroom	271	kelinǰe	kɛlind͡ʒʲɛ	k ɛ l i n d͡ʒʲ ɛ	OH-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1
+901	EAH	221_trousseaudowrygiftgivenwiththebrideorbridegroom	271	kälinčäγ	kɛlint͡ʃɛɣ	k ɛ l i n t͡ʃ ɛ ɣ	EAH-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1
+902	WOT	221_trousseaudowrygiftgivenwiththebrideorbridegroom	271	kälinčäγ	kɛlint͡ʃɛɣ	k ɛ l i n t͡ʃ ɛ ɣ	WOT-221_trousseaudowrygiftgivenwiththebrideorbridegroom-1
+#
+903	H	222_hempcannabis	272	kender	kɛndɛr	k ɛ n d ɛ r	H-222_hempcannabis-1
+#
+904	EAH	222_hempcannabis	272	kendir	kɛndir	k ɛ n d i r	EAH-222_hempcannabis-1
+905	WOT	222_hempcannabis	272	kändir	kɛndir	k ɛ n d i r	WOT-222_hempcannabis-1
+#
+906	H	223_mercury	273	kéneső	keːnɛʃøː	k eː n ɛ ʃ øː	H-223_mercury-1
+#
+907	EAH	223_mercury	273	kenešǖ	kɛnɛʃyː	k ɛ n ɛ ʃ yː	EAH-223_mercury-1
+908	WOT	223_mercury	273	kenäšū	kɛnɛʃuː	k ɛ n ɛ ʃ uː	WOT-223_mercury-1
+#
+909	H	224_pictureshapeform	274	kép	keːp	k eː p	H-224_pictureshapeform-1
+#
+910	WOT	224_pictureshapeform	274	kǟp	kɛːp	k ɛː p	WOT-224_pictureshapeform-1
+#
+911	H	225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven	275	kepe	kɛpɛ	k ɛ p ɛ	H-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1
+#
+912	EAH	225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven	275	kepeγ	kɛpɛɣ	k ɛ p ɛ ɣ	EAH-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1
+913	WOT	225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven	275	käpäγ	kɛpɛɣ	k ɛ p ɛ ɣ	WOT-225_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1
+#
+914	H	226_akindofship	276	kerep	kɛrɛp	k ɛ r ɛ p	H-226_akindofship-1
+#
+915	WOT	226_akindofship	276	käräp	kɛrɛp	k ɛ r ɛ p	WOT-226_akindofship-1
+#
+916	H	227_toruminateofbovines	277	kér	keːr	k eː r	H-227_toruminateofbovines-1
+#
+917	EAH	227_toruminateofbovines	277	kēr	keːr	k eː r	EAH-227_toruminateofbovines-1
+918	WOT	227_toruminateofbovines	277	käwir	kɛwir	k ɛ w i r	WOT-227_toruminateofbovines-1
+#
+919	H	228_cud	278	kérő	keːrøː	k eː r øː	H-228_cud-1
+#
+920	OH	228_cud	278	kevreγ	kɛvrɛɣ	k ɛ v r ɛ ɣ	OH-228_cud-1
+921	EAH	228_cud	278	kevereγ	kɛvɛrɛɣ	k ɛ v ɛ r ɛ ɣ	EAH-228_cud-1
+922	WOT	228_cud	278	käwiräg	kɛwirɛɡ	k ɛ w i r ɛ ɡ	WOT-228_cud-1
+#
+923	H	229_gardenplaceforanimals	279	kert	kɛrt	k ɛ r t	H-229_gardenplaceforanimals-1
+#
+924	EAH	229_gardenplaceforanimals	279	kerte	kɛrtɛ	k ɛ r t ɛ	EAH-229_gardenplaceforanimals-1
+925	WOT	229_gardenplaceforanimals	279	kärtä	kɛrtɛ	k ɛ r t ɛ	WOT-229_gardenplaceforanimals-1
+#
+926	H	230_vulturevultur	280	keselyű	kɛʃɛjyː	k ɛ ʃ ɛ j yː	H-230_vulturevultur-1
+#
+927	OH	230_vulturevultur	280	kešeleü̯	kɛʃɛlɛw	k ɛ ʃ ɛ l ɛ w	OH-230_vulturevultur-1
+928	EAH	230_vulturevultur	280	küčeleγ	kyt͡ʃɛlɛɣ	k y t͡ʃ ɛ l ɛ ɣ	EAH-230_vulturevultur-1
+929	WOT	230_vulturevultur	280	küčäläγ	kyt͡ʃɛlɛɣ	k y t͡ʃ ɛ l ɛ ɣ	WOT-230_vulturevultur-1
+#
+930	H	231_tobebecomelate	281	kés	keːʃ	k eː ʃ	H-231_tobebecomelate-1
+#
+931	OH	231_tobebecomelate	281	kēš	keːʃ	k eː ʃ	OH-231_tobebecomelate-1
+932	EAH	231_tobebecomelate	281	kēč	keːt͡ʃ	k eː t͡ʃ	EAH-231_tobebecomelate-1
+933	WOT	231_tobebecomelate	281	kēč	keːt͡ʃ	k eː t͡ʃ	WOT-231_tobebecomelate-1
+#
+934	H	233_smalllittle	282	kicsiny	kit͡ʃiɲ	k i t͡ʃ i ɲ	H-233_smalllittle-1
+#
+935	EAH	233_smalllittle	282	kičin	kit͡ʃin	k i t͡ʃ i n	EAH-233_smalllittle-1
+936	WOT	233_smalllittle	282	kičin	kit͡ʃin	k i t͡ʃ i n	WOT-233_smalllittle-1
+#
+937	H	233_smalllittle	283	kicsiny	kit͡ʃiɲ	k i t͡ʃ i ɲ	H-233_smalllittle-2
+#
+938	EAH	233_smalllittle	283	küčün	kyt͡ʃyn	k y t͡ʃ y n	EAH-233_smalllittle-2
+939	WOT	233_smalllittle	283	kičin	kit͡ʃin	k i t͡ʃ i n	WOT-233_smalllittle-2
+#
+940	H	232_small	284	kicsi	kit͡ʃi	k i t͡ʃ i	H-232_small-1
+#
+941	EAH	232_small	284	kičin	kit͡ʃin	k i t͡ʃ i n	EAH-232_small-1
+942	WOT	232_small	284	kičin	kit͡ʃin	k i t͡ʃ i n	WOT-232_small-1
+#
+943	H	233_smalllittle	285	kis	kiʃ	k i ʃ	H-233_smalllittle-3
+#
+944	OH	233_smalllittle	285	kiši	kiʃi	k i ʃ i	OH-233_smalllittle-1
+945	LAH	233_smalllittle	285	kiči	kit͡ʃi	k i t͡ʃ i	LAH-233_smalllittle-1
+946	EAH	233_smalllittle	285	kičiγ	kit͡ʃiɣ	k i t͡ʃ i ɣ	EAH-233_smalllittle-3
+947	WOT	233_smalllittle	285	kičiγ	kit͡ʃiɣ	k i t͡ʃ i ɣ	WOT-233_smalllittle-3
+#
+948	H	234_felt	286	kíjc	kiːjt͡s	k iː j t͡s	H-234_felt-1
+#
+949	OH	234_felt	286	kīyc	kiːjt͡s	k iː j t͡s	OH-234_felt-1
+950	LAH	234_felt	286	kiyic	kijit͡s	k i j i t͡s	LAH-234_felt-1
+951	EAH	234_felt	286	kiyiz	kijiz	k i j i z	EAH-234_felt-1
+#
+952	H	235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum	287	kikerics	kikɛrit͡ʃ	k i k ɛ r i t͡ʃ	H-235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum-1
+#
+953	EAH	235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum	287	kükerilč	kykɛrilt͡ʃ	k y k ɛ r i l t͡ʃ	EAH-235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum-1
+954	WOT	235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum	287	kökärilč	køkɛrilt͡ʃ	k ø k ɛ r i l t͡ʃ	WOT-235_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum-1
+#
+955	H	236_abirdsimilartoafalconakindofbirdofprey	288	kiköcsény	kikøt͡ʃeːɲ	k i k ø t͡ʃ eː ɲ	H-236_abirdsimilartoafalconakindofbirdofprey-1
+#
+956	OH	236_abirdsimilartoafalconakindofbirdofprey	288	kikörčen	kikørt͡ʃɛn	k i k ø r t͡ʃ ɛ n	OH-236_abirdsimilartoafalconakindofbirdofprey-1
+957	EAH	236_abirdsimilartoafalconakindofbirdofprey	288	kükerčen	kykɛrt͡ʃɛn	k y k ɛ r t͡ʃ ɛ n	EAH-236_abirdsimilartoafalconakindofbirdofprey-1
+958	WOT	236_abirdsimilartoafalconakindofbirdofprey	288	kökärčän	køkɛrt͡ʃɛn	k ø k ɛ r t͡ʃ ɛ n	WOT-236_abirdsimilartoafalconakindofbirdofprey-1
+#
+959	H	237_pain	289	kín	kiːn	k iː n	H-237_pain-1
+#
+960	EAH	237_pain	289	kīn	kiːn	k iː n	EAH-237_pain-1
+961	WOT	237_pain	289	kīn	kiːn	k iː n	WOT-237_pain-1
+#
+962	H	238_gourdcalabashlagenariavulgarisheadbillycockhat	290	kobak	kobɒk	k o b ɒ k	H-238_gourdcalabashlagenariavulgarisheadbillycockhat-1
+#
+963	EAH	238_gourdcalabashlagenariavulgarisheadbillycockhat	290	kåbåk	kɒbɒk	k ɒ b ɒ k	EAH-238_gourdcalabashlagenariavulgarisheadbillycockhat-1
+#
+964	H	239_lutecittern	291	koboz	koboz	k o b o z	H-239_lutecittern-1
+#
+965	EAH	239_lutecittern	291	koboz	koboz	k o b o z	EAH-239_lutecittern-1
+#
+966	H	240_tobegtomendicate	292	koldu	koldu	k o l d u	H-240_tobegtomendicate-1
+#
+967	EAH	240_tobegtomendicate	292	koldu	koldu	k o l d u	EAH-240_tobegtomendicate-1
+968	WOT	240_tobegtomendicate	292	koldu	koldu	k o l d u	WOT-240_tobegtomendicate-1
+#
+969	H	241_beggar	293	koldu	koldu	k o l d u	H-241_beggar-1
+#
+970	EAH	241_beggar	293	koldu	koldu	k o l d u	EAH-241_beggar-1
+971	WOT	241_beggar	293	koldu	koldu	k o l d u	WOT-241_beggar-1
+#
+972	H	241_beggar	294	koldu	koldu	k o l d u	H-241_beggar-2
+#
+973	EAH	241_beggar	294	koldu	koldu	k o l d u	EAH-241_beggar-2
+974	WOT	241_beggar	294	kolduš	kolduʃ	k o l d u ʃ	WOT-241_beggar-2
+#
+975	H	242_hopshumuluslupulus	295	komló	komloː	k o m l oː	H-242_hopshumuluslupulus-1
+#
+976	OH	242_hopshumuluslupulus	295	kumlau̯	kumlaw	k u m l a w	OH-242_hopshumuluslupulus-1
+977	EAH	242_hopshumuluslupulus	295	kumlaγ	kumlaɣ	k u m l a ɣ	EAH-242_hopshumuluslupulus-1
+978	WOT	242_hopshumuluslupulus	295	kumlaγ	kumlaɣ	k u m l a ɣ	WOT-242_hopshumuluslupulus-1
+#
+979	H	243_timothygrassphleumphleumsp	296	komócsin	komoːt͡ʃin	k o m oː t͡ʃ i n	H-243_timothygrassphleumphleumsp-1
+#
+980	EAH	243_timothygrassphleumphleumsp	296	kåmičin	kɒmit͡ʃin	k ɒ m i t͡ʃ i n	EAH-243_timothygrassphleumphleumsp-1
+981	WOT	243_timothygrassphleumphleumsp	296	kamїčïn	kamɯt͡ʃɯn	k a m ɯ t͡ʃ ɯ n	WOT-243_timothygrassphleumphleumsp-1
+#
+982	H	244_akindofhungariansheepdog	297	komondor	komondor	k o m o n d o r	H-244_akindofhungariansheepdog-1
+#
+983	EAH	244_akindofhungariansheepdog	297	kumandur	kumandur	k u m a n d u r	EAH-244_akindofhungariansheepdog-1
+#
+984	H	245_gloomygravemorosesombredullcolourednotproperlycastrated	298	komor	komor	k o m o r	H-245_gloomygravemorosesombredullcolourednotproperlycastrated-1
+#
+985	EAH	245_gloomygravemorosesombredullcolourednotproperlycastrated	298	komur	komur	k o m u r	EAH-245_gloomygravemorosesombredullcolourednotproperlycastrated-1
+986	WOT	245_gloomygravemorosesombredullcolourednotproperlycastrated	298	komur	komur	k o m u r	WOT-245_gloomygravemorosesombredullcolourednotproperlycastrated-1
+#
+987	H	246_coffin	299	koporsó	koporʃoː	k o p o r ʃ oː	H-246_coffin-1
+#
+988	EAH	246_coffin	299	kopurčaγ	kopurt͡ʃaɣ	k o p u r t͡ʃ a ɣ	EAH-246_coffin-1
+989	WOT	246_coffin	299	kapurčaγ	kapurt͡ʃaɣ	k a p u r t͡ʃ a ɣ	WOT-246_coffin-1
+#
+990	H	247_ageperiod	300	kor	kor	k o r	H-247_ageperiod-1
+#
+991	EAH	247_ageperiod	300	kur	kur	k u r	EAH-247_ageperiod-1
+992	WOT	247_ageperiod	300	kur	kur	k u r	WOT-247_ageperiod-1
+#
+993	H	248_tombsmallhillelevateddryplaceinamarsh	301	korhány	korhaːɲ	k o r h aː ɲ	H-248_tombsmallhillelevateddryplaceinamarsh-1
+#
+994	EAH	248_tombsmallhillelevateddryplaceinamarsh	301	korγan	korɣan	k o r ɣ a n	EAH-248_tombsmallhillelevateddryplaceinamarsh-1
+995	WOT	248_tombsmallhillelevateddryplaceinamarsh	301	korγan	korɣan	k o r ɣ a n	WOT-248_tombsmallhillelevateddryplaceinamarsh-1
+#
+996	H	249_drystalkofweed	302	kóró	koːroː	k oː r oː	H-249_drystalkofweed-1
+#
+997	OH	249_drystalkofweed	302	korou̯	korow	k o r o w	OH-249_drystalkofweed-1
+998	EAH	249_drystalkofweed	302	kuroγ	kuroɣ	k u r o ɣ	EAH-249_drystalkofweed-1
+999	WOT	249_drystalkofweed	302	kowrog	kowroɡ	k o w r o ɡ	WOT-249_drystalkofweed-1
+#
+1000	H	250_soot	303	korom	korom	k o r o m	H-250_soot-1
+#
+1001	EAH	250_soot	303	kurum	kurum	k u r u m	EAH-250_soot-1
+1002	WOT	250_soot	303	kurum	kurum	k u r u m	WOT-250_soot-1
+#
+1003	H	251_ram	304	kos	koʃ	k o ʃ	H-251_ram-1
+#
+1004	EAH	251_ram	304	koč	kot͡ʃ	k o t͡ʃ	EAH-251_ram-1
+1005	WOT	251_ram	304	koč	kot͡ʃ	k o t͡ʃ	WOT-251_ram-1
+#
+1006	H	252_burn	305	kozma	kozmɒ	k o z m ɒ	H-252_burn-1
+#
+1007	OH	252_burn	305	kosmā	kosmaː	k o s m aː	OH-252_burn-1
+1008	EAH	252_burn	305	kasmaγ	kasmaɣ	k a s m a ɣ	EAH-252_burn-1
+1009	WOT	252_burn	305	kasmaγ	kasmaɣ	k a s m a ɣ	WOT-252_burn-1
+#
+1010	H	253_frocksheepskinwaistcoat	306	ködmön	kødmøn	k ø d m ø n	H-253_frocksheepskinwaistcoat-1
+#
+1011	EAH	253_frocksheepskinwaistcoat	306	kedmen	kɛdmɛn	k ɛ d m ɛ n	EAH-253_frocksheepskinwaistcoat-1
+1012	WOT	253_frocksheepskinwaistcoat	306	kädmän	kɛdmɛn	k ɛ d m ɛ n	WOT-253_frocksheepskinwaistcoat-1
+#
+1013	H	253_frocksheepskinwaistcoat	307	ködmen	kødmɛn	k ø d m ɛ n	H-253_frocksheepskinwaistcoat-2
+#
+1014	EAH	253_frocksheepskinwaistcoat	307	kedmen	kɛdmɛn	k ɛ d m ɛ n	EAH-253_frocksheepskinwaistcoat-2
+1015	WOT	253_frocksheepskinwaistcoat	307	kädmän	kɛdmɛn	k ɛ d m ɛ n	WOT-253_frocksheepskinwaistcoat-2
+#
+1016	H	254_blackthornprunusspinosa	308	kökény	køkeːɲ	k ø k eː ɲ	H-254_blackthornprunusspinosa-1
+#
+1017	EAH	254_blackthornprunusspinosa	308	köken	køkɛn	k ø k ɛ n	EAH-254_blackthornprunusspinosa-1
+1018	WOT	254_blackthornprunusspinosa	308	kökän	køkɛn	k ø k ɛ n	WOT-254_blackthornprunusspinosa-1
+#
+1019	H	255_loan	309	kölcsön	kølt͡ʃøn	k ø l t͡ʃ ø n	H-255_loan-1
+#
+1020	EAH	255_loan	309	külčen	kylt͡ʃɛn	k y l t͡ʃ ɛ n	EAH-255_loan-1
+1021	WOT	255_loan	309	kölčen	kølt͡ʃɛn	k ø l t͡ʃ ɛ n	WOT-255_loan-1
+#
+1022	H	256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre	310	köldök	køldøk	k ø l d ø k	H-256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1
+#
+1023	OH	256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre	310	kildik	kildik	k i l d i k	OH-256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1
+1024	EAH	256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre	310	kindik	kindik	k i n d i k	EAH-256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1
+1025	WOT	256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre	310	kindik	kindik	k i n d i k	WOT-256_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1
+#
+1026	H	257_youngofananimalkidpuppylad	311	kölyök	køjøk	k ø j ø k	H-257_youngofananimalkidpuppylad-1
+#
+1027	OH	257_youngofananimalkidpuppylad	311	kölʹök	køjøk	k ø j ø k	OH-257_youngofananimalkidpuppylad-1
+1028	LAH	257_youngofananimalkidpuppylad	311	kölek	kølɛk	k ø l ɛ k	LAH-257_youngofananimalkidpuppylad-1
+1029	EAH	257_youngofananimalkidpuppylad	311	külek	kylɛk	k y l ɛ k	EAH-257_youngofananimalkidpuppylad-1
+1030	WOT	257_youngofananimalkidpuppylad	311	köläk	kølɛk	k ø l ɛ k	WOT-257_youngofananimalkidpuppylad-1
+#
+1031	H	258_pounderbeatersmallmortar	312	kölyű	køjyː	k ø j yː	H-258_pounderbeatersmallmortar-1
+#
+1032	OH	258_pounderbeatersmallmortar	312	kelǖ	kɛlyː	k ɛ l yː	OH-258_pounderbeatersmallmortar-1
+1033	EAH	258_pounderbeatersmallmortar	312	keliγ	kɛliɣ	k ɛ l i ɣ	EAH-258_pounderbeatersmallmortar-1
+1034	WOT	258_pounderbeatersmallmortar	312	keliγ	kɛliɣ	k ɛ l i ɣ	WOT-258_pounderbeatersmallmortar-1
+#
+1035	H	259_breaststrap	313	kömődörög	kømøːdørøɡ	k ø m øː d ø r ø ɡ	H-259_breaststrap-1
+#
+1036	EAH	259_breaststrap	313	kömöndörök	kømøndørøk	k ø m ø n d ø r ø k	EAH-259_breaststrap-1
+#
+1037	H	259_breaststrap	314	kentreg	kɛntrɛɡ	k ɛ n t r ɛ ɡ	H-259_breaststrap-2
+#
+1038	OH	259_breaststrap	314	köndrög	køndrøɡ	k ø n d r ø ɡ	OH-259_breaststrap-1
+1039	LAH	259_breaststrap	314	kömdörök	kømdørøk	k ø m d ø r ø k	LAH-259_breaststrap-1
+1040	EAH	259_breaststrap	314	kömöndörök	kømøndørøk	k ø m ø n d ø r ø k	EAH-259_breaststrap-2
+#
+1041	H	260_book	315	könyv	køɲv	k ø ɲ v	H-260_book-1
+#
+1042	OH	260_book	315	köńüγ	køɲyɣ	k ø ɲ y ɣ	OH-260_book-1
+1043	EAH	260_book	315	küńüγ	kyɲyɣ	k y ɲ y ɣ	EAH-260_book-1
+1044	WOT	260_book	315	küńüγ	kyɲyɣ	k y ɲ y ɣ	WOT-260_book-1
+#
+1045	H	260_book	316	könyü	køɲy	k ø ɲ y	H-260_book-2
+#
+1046	OH	260_book	316	köńüγ	køɲyɣ	k ø ɲ y ɣ	OH-260_book-2
+1047	EAH	260_book	316	küńüγ	kyɲyɣ	k y ɲ y ɣ	EAH-260_book-2
+1048	WOT	260_book	316	küńüγ	kyɲyɣ	k y ɲ y ɣ	WOT-260_book-2
+#
+1049	H	261_stumpyasmallthickman	317	köpcös	køpt͡søʃ	k ø p t͡s ø ʃ	H-261_stumpyasmallthickman-1
+#
+1050	OH	261_stumpyasmallthickman	317	köpčöš	køpt͡ʃøʃ	k ø p t͡ʃ ø ʃ	OH-261_stumpyasmallthickman-1
+1051	LAH	261_stumpyasmallthickman	317	köpčȫ	køpt͡ʃøː	k ø p t͡ʃ øː	LAH-261_stumpyasmallthickman-1
+1052	EAH	261_stumpyasmallthickman	317	köpčeγ	køpt͡ʃɛɣ	k ø p t͡ʃ ɛ ɣ	EAH-261_stumpyasmallthickman-1
+1053	WOT	261_stumpyasmallthickman	317	köpčäγ	køpt͡ʃɛɣ	k ø p t͡ʃ ɛ ɣ	WOT-261_stumpyasmallthickman-1
+#
+1054	H	262_akindofhungariansheepdogkomondor	318	köpec	køpɛt͡s	k ø p ɛ t͡s	H-262_akindofhungariansheepdogkomondor-1
+#
+1055	OH	262_akindofhungariansheepdogkomondor	318	köpečke	køpɛt͡ʃkɛ	k ø p ɛ t͡ʃ k ɛ	OH-262_akindofhungariansheepdogkomondor-1
+1056	LAH	262_akindofhungariansheepdogkomondor	318	köpekče	køpɛkt͡ʃɛ	k ø p ɛ k t͡ʃ ɛ	LAH-262_akindofhungariansheepdogkomondor-1
+1057	EAH	262_akindofhungariansheepdogkomondor	318	köpek	køpɛk	k ø p ɛ k	EAH-262_akindofhungariansheepdogkomondor-1
+1058	WOT	262_akindofhungariansheepdogkomondor	318	köpäk	køpɛk	k ø p ɛ k	WOT-262_akindofhungariansheepdogkomondor-1
+#
+1059	H	263_cloakgownovercoat	319	köpönyek	køpøɲɛk	k ø p ø ɲ ɛ k	H-263_cloakgownovercoat-1
+#
+1060	EAH	263_cloakgownovercoat	319	kepenek	kɛpɛnɛk	k ɛ p ɛ n ɛ k	EAH-263_cloakgownovercoat-1
+1061	WOT	263_cloakgownovercoat	319	kepenek	kɛpɛnɛk	k ɛ p ɛ n ɛ k	WOT-263_cloakgownovercoat-1
+#
+1062	H	264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania	320	köpű	køpyː	k ø p yː	H-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1
+#
+1063	OH	264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania	320	küpǖ	kypyː	k y p yː	OH-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1
+1064	EAH	264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania	320	küpüγ	kypyɣ	k y p y ɣ	EAH-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1
+1065	WOT	264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania	320	küpüγ	kypyɣ	k y p y ɣ	WOT-264_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1
+#
+1066	H	265_ashtreefraxinussp	321	kőris	køːriʃ	k øː r i ʃ	H-265_ashtreefraxinussp-1
+#
+1067	OH	265_ashtreefraxinussp	321	kǖriš	kyːriʃ	k yː r i ʃ	OH-265_ashtreefraxinussp-1
+1068	EAH	265_ashtreefraxinussp	321	kewrič	kɛwrit͡ʃ	k ɛ w r i t͡ʃ	EAH-265_ashtreefraxinussp-1
+1069	WOT	265_ashtreefraxinussp	321	kevrič	kɛvrit͡ʃ	k ɛ v r i t͡ʃ	WOT-265_ashtreefraxinussp-1
+#
+1070	H	266_mellowpowderycrumblyrottenmouldy	322	kőrő	køːrøː	k øː r øː	H-266_mellowpowderycrumblyrottenmouldy-1
+#
+1071	EAH	266_mellowpowderycrumblyrottenmouldy	322	kevreγ	kɛvrɛɣ	k ɛ v r ɛ ɣ	EAH-266_mellowpowderycrumblyrottenmouldy-1
+1072	WOT	266_mellowpowderycrumblyrottenmouldy	322	kävräγ	kɛvrɛɣ	k ɛ v r ɛ ɣ	WOT-266_mellowpowderycrumblyrottenmouldy-1
+#
+1073	H	267_pearpyruscommunis	323	körtvély	kørtveːj	k ø r t v eː j	H-267_pearpyruscommunis-1
+#
+1074	OH	267_pearpyruscommunis	323	kërtveli	kertvɛli	k e r t v ɛ l i	OH-267_pearpyruscommunis-1
+1075	EAH	267_pearpyruscommunis	323	kertβeli	kɛrtwɛli	k ɛ r t w ɛ l i	EAH-267_pearpyruscommunis-1
+1076	WOT	267_pearpyruscommunis	323	kertweliγ	kɛrtwɛliɣ	k ɛ r t w ɛ l i ɣ	WOT-267_pearpyruscommunis-1
+#
+1077	H	267_pearpyruscommunis	324	körtvély	kørtveːj	k ø r t v eː j	H-267_pearpyruscommunis-2
+#
+1078	OH	267_pearpyruscommunis	324	kertmeli	kɛrtmɛli	k ɛ r t m ɛ l i	OH-267_pearpyruscommunis-2
+1079	EAH	267_pearpyruscommunis	324	kertmeliγ	kɛrtmɛliɣ	k ɛ r t m ɛ l i ɣ	EAH-267_pearpyruscommunis-2
+1080	WOT	267_pearpyruscommunis	324	kertmeliγ	kɛrtmɛliɣ	k ɛ r t m ɛ l i ɣ	WOT-267_pearpyruscommunis-2
+#
+1081	H	268_togreettothank	325	köszön	køsøn	k ø s ø n	H-268_togreettothank-1
+#
+1082	EAH	268_togreettothank	325	küsen	kysɛn	k y s ɛ n	EAH-268_togreettothank-1
+1083	WOT	268_togreettothank	325	küsän	kysɛn	k y s ɛ n	WOT-268_togreettothank-1
+#
+1084	H	269_thecumanethnicgroupinhungary	326	kun	kun	k u n	H-269_thecumanethnicgroupinhungary-1
+#
+1085	OH	269_thecumanethnicgroupinhungary	326	kūn	kuːn	k uː n	OH-269_thecumanethnicgroupinhungary-1
+1086	EAH	269_thecumanethnicgroupinhungary	326	kuwan	kuwan	k u w a n	EAH-269_thecumanethnicgroupinhungary-1
+1087	WOT	269_thecumanethnicgroupinhungary	326	kuwan	kuwan	k u w a n	WOT-269_thecumanethnicgroupinhungary-1
+#
+1088	H	270_akindofdogahungarianbreedofsheepdog	327	kuvasz	kuvɒs	k u v ɒ s	H-270_akindofdogahungarianbreedofsheepdog-1
+#
+1089	EAH	270_akindofdogahungarianbreedofsheepdog	327	kuwaz	kuwaz	k u w a z	EAH-270_akindofdogahungarianbreedofsheepdog-1
+#
+1090	H	272_laughingbirdpicusviridis	328	küllő	kylːøː	k y lː øː	H-272_laughingbirdpicusviridis-1
+#
+1091	EAH	272_laughingbirdpicusviridis	328	külleγ	kylːɛɣ	k y lː ɛ ɣ	EAH-272_laughingbirdpicusviridis-1
+1092	WOT	272_laughingbirdpicusviridis	328	külüläγ	kylylɛɣ	k y l y l ɛ ɣ	WOT-272_laughingbirdpicusviridis-1
+#
+1093	H	271_afishlivingatthebottomoftherivergudgeongobiofluviatilis	329	küllő	kylːøː	k y lː øː	H-271_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1
+#
+1094	OH	271_afishlivingatthebottomoftherivergudgeongobiofluviatilis	329	külliγ	kylːiɣ	k y lː i ɣ	OH-271_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1
+1095	LAH	271_afishlivingatthebottomoftherivergudgeongobiofluviatilis	329	kölliγ	kølːiɣ	k ø lː i ɣ	LAH-271_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1
+1096	EAH	271_afishlivingatthebottomoftherivergudgeongobiofluviatilis	329	köligeliγ	køliɡɛliɣ	k ø l i ɡ ɛ l i ɣ	EAH-271_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1
+1097	WOT	271_afishlivingatthebottomoftherivergudgeongobiofluviatilis	329	köligäliγ	køliɡɛliɣ	k ø l i ɡ ɛ l i ɣ	WOT-271_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1
+#
+1098	H	272_laughingbirdpicusviridis	330	küllő	kylːøː	k y lː øː	H-272_laughingbirdpicusviridis-2
+#
+1099	OH	272_laughingbirdpicusviridis	330	külȫ	kyløː	k y l øː	OH-272_laughingbirdpicusviridis-1
+1100	LAH	272_laughingbirdpicusviridis	330	küvȫ	kyvøː	k y v øː	LAH-272_laughingbirdpicusviridis-1
+1101	EAH	272_laughingbirdpicusviridis	330	küvey	kyvɛj	k y v ɛ j	EAH-272_laughingbirdpicusviridis-2
+1102	WOT	272_laughingbirdpicusviridis	330	küväy	kyvɛj	k y v ɛ j	WOT-272_laughingbirdpicusviridis-2
+#
+1103	H	273_drysummerfograinbow	331	mónár	moːnaːr	m oː n aː r	H-273_drysummerfograinbow-1
+#
+1104	OH	273_drysummerfograinbow	331	mōnār	moːnaːr	m oː n aː r	OH-273_drysummerfograinbow-1
+1105	EAH	273_drysummerfograinbow	331	munar	munar	m u n a r	EAH-273_drysummerfograinbow-1
+1106	WOT	273_drysummerfograinbow	331	munar	munar	m u n a r	WOT-273_drysummerfograinbow-1
+#
+1107	H	274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking	332	nyögér	ɲøɡeːr	ɲ ø ɡ eː r	H-274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking-1
+#
+1108	EAH	274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking	332	nöger	nøɡɛr	n ø ɡ ɛ r	EAH-274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking-1
+1109	WOT	274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking	332	nögär	nøɡɛr	n ø ɡ ɛ r	WOT-274_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking-1
+#
+1110	H	275_chaffhuskswinnowingstailingsrefuseofgrain	333	ocsú	ot͡ʃuː	o t͡ʃ uː	H-275_chaffhuskswinnowingstailingsrefuseofgrain-1
+#
+1111	OH	275_chaffhuskswinnowingstailingsrefuseofgrain	333	učū	ut͡ʃuː	u t͡ʃ uː	OH-275_chaffhuskswinnowingstailingsrefuseofgrain-1
+1112	LAH	275_chaffhuskswinnowingstailingsrefuseofgrain	333	učou̯	ut͡ʃow	u t͡ʃ o w	LAH-275_chaffhuskswinnowingstailingsrefuseofgrain-1
+1113	EAH	275_chaffhuskswinnowingstailingsrefuseofgrain	333	učoγ	ut͡ʃoɣ	u t͡ʃ o ɣ	EAH-275_chaffhuskswinnowingstailingsrefuseofgrain-1
+1114	WOT	275_chaffhuskswinnowingstailingsrefuseofgrain	333	učoγ	ut͡ʃoɣ	u t͡ʃ o ɣ	WOT-275_chaffhuskswinnowingstailingsrefuseofgrain-1
+#
+1115	H	276_causereason	334	ok	ok	o k	H-276_causereason-1
+#
+1116	EAH	276_causereason	334	uk	uk	u k	EAH-276_causereason-1
+1117	WOT	276_causereason	334	uk	uk	u k	WOT-276_causereason-1
+#
+1118	H	277_toteach	335	okt	okt	o k t	H-277_toteach-1
+#
+1119	OH	277_toteach	335	ok	ok	o k	OH-277_toteach-1
+1120	EAH	277_toteach	335	uk	uk	u k	EAH-277_toteach-1
+1121	WOT	277_toteach	335	uk	uk	u k	WOT-277_toteach-1
+#
+1122	H	278_stycattlepensheepfold	336	ól	oːl	oː l	H-278_stycattlepensheepfold-1
+#
+1123	OH	278_stycattlepensheepfold	336	oγul	oɣul	o ɣ u l	OH-278_stycattlepensheepfold-1
+1124	EAH	278_stycattlepensheepfold	336	aγul	aɣul	a ɣ u l	EAH-278_stycattlepensheepfold-1
+1125	WOT	278_stycattlepensheepfold	336	aγul	aɣul	a ɣ u l	WOT-278_stycattlepensheepfold-1
+#
+1126	H	279_cheap	337	olcsó	olt͡ʃoː	o l t͡ʃ oː	H-279_cheap-1
+#
+1127	OH	279_cheap	337	ōčō	oːt͡ʃoː	oː t͡ʃ oː	OH-279_cheap-1
+1128	LAH	279_cheap	337	učau̯	ut͡ʃaw	u t͡ʃ a w	LAH-279_cheap-1
+1129	EAH	279_cheap	337	učaγ	ut͡ʃaɣ	u t͡ʃ a ɣ	EAH-279_cheap-1
+1130	WOT	279_cheap	337	učaγ	ut͡ʃaɣ	u t͡ʃ a ɣ	WOT-279_cheap-1
+#
+1131	H	280_kidofagoat	338	olló	olːoː	o lː oː	H-280_kidofagoat-1
+#
+1132	OH	280_kidofagoat	338	oγlou̯	oɣlow	o ɣ l o w	OH-280_kidofagoat-1
+1133	EAH	280_kidofagoat	338	oγlaγ	oɣlaɣ	o ɣ l a ɣ	EAH-280_kidofagoat-1
+1134	WOT	280_kidofagoat	338	oγlaγ	oɣlaɣ	o ɣ l a ɣ	WOT-280_kidofagoat-1
+#
+1135	H	281_spermseminalfluid	339	ondó	ondoː	o n d oː	H-281_spermseminalfluid-1
+#
+1136	OH	281_spermseminalfluid	339	ondau̯	ondaw	o n d a w	OH-281_spermseminalfluid-1
+1137	EAH	281_spermseminalfluid	339	undaγ	undaɣ	u n d a ɣ	EAH-281_spermseminalfluid-1
+1138	WOT	281_spermseminalfluid	339	undaγ	undaɣ	u n d a ɣ	WOT-281_spermseminalfluid-1
+#
+1139	H	282_crumbofbreadmorselasmallpieceofbread	340	ontok	ontok	o n t o k	H-282_crumbofbreadmorselasmallpieceofbread-1
+#
+1140	WOT	282_crumbofbreadmorselasmallpieceofbread	340	untak	untak	u n t a k	WOT-282_crumbofbreadmorselasmallpieceofbread-1
+#
+1141	H	282_crumbofbreadmorselasmallpieceofbread	341	ontog	ontoɡ	o n t o ɡ	H-282_crumbofbreadmorselasmallpieceofbread-2
+#
+1142	WOT	282_crumbofbreadmorselasmallpieceofbread	341	untak	untak	u n t a k	WOT-282_crumbofbreadmorselasmallpieceofbread-2
+#
+1143	H	283_russian	342	orosz	oros	o r o s	H-283_russian-1
+#
+1144	EAH	283_russian	342	urus	urus	u r u s	EAH-283_russian-1
+1145	WOT	283_russian	342	urus	urus	u r u s	WOT-283_russian-1
+#
+1146	H	284_lion	343	oroszlán	oroslaːn	o r o s l aː n	H-284_lion-1
+#
+1147	EAH	284_lion	343	uruslān	uruslaːn	u r u s l aː n	EAH-284_lion-1
+1148	WOT	284_lion	343	aruslan	aruslan	a r u s l a n	WOT-284_lion-1
+#
+1149	H	285_spindlewhorl	344	orsó	orʃoː	o r ʃ oː	H-285_spindlewhorl-1
+#
+1150	OH	285_spindlewhorl	344	uršū	urʃuː	u r ʃ uː	OH-285_spindlewhorl-1
+1151	EAH	285_spindlewhorl	344	určuγ	urt͡ʃuɣ	u r t͡ʃ u ɣ	EAH-285_spindlewhorl-1
+1152	WOT	285_spindlewhorl	344	určuγ	urt͡ʃuɣ	u r t͡ʃ u ɣ	WOT-285_spindlewhorl-1
+#
+1153	H	286_thief	345	orv	orv	o r v	H-286_thief-1
+#
+1154	OH	286_thief	345	urvu	urvu	u r v u	OH-286_thief-1
+1155	LAH	286_thief	345	uvru	uvru	u v r u	LAH-286_thief-1
+1156	EAH	286_thief	345	uγru	uɣru	u ɣ r u	EAH-286_thief-1
+1157	WOT	286_thief	345	ogru	oɡru	o ɡ r u	WOT-286_thief-1
+#
+1158	H	287_physician	346	orvos	orvoʃ	o r v o ʃ	H-287_physician-1
+#
+1159	OH	287_physician	346	urvoš	urvoʃ	u r v o ʃ	OH-287_physician-1
+1160	EAH	287_physician	346	urvoči	urvot͡ʃi	u r v o t͡ʃ i	EAH-287_physician-1
+1161	WOT	287_physician	346	orwučï	orwut͡ʃɯ	o r w u t͡ʃ ɯ	WOT-287_physician-1
+#
+1162	H	288_cuneinplayinostabla	347	os	oʃ	o ʃ	H-288_cuneinplayinostabla-1
+#
+1163	OH	288_cuneinplayinostabla	347	ošk	oʃk	o ʃ k	OH-288_cuneinplayinostabla-1
+1164	LAH	288_cuneinplayinostabla	347	ačk	at͡ʃk	a t͡ʃ k	LAH-288_cuneinplayinostabla-1
+1165	EAH	288_cuneinplayinostabla	347	alčuk	alt͡ʃuk	a l t͡ʃ u k	EAH-288_cuneinplayinostabla-1
+1166	WOT	288_cuneinplayinostabla	347	alčuk	alt͡ʃuk	a l t͡ʃ u k	WOT-288_cuneinplayinostabla-1
+#
+1167	H	289_ox	348	ökör	økør	ø k ø r	H-289_ox-1
+#
+1168	OH	289_ox	348	ökür	økyr	ø k y r	OH-289_ox-1
+1169	EAH	289_ox	348	ükür	ykyr	y k y r	EAH-289_ox-1
+1170	WOT	289_ox	348	ökür	økyr	ø k y r	WOT-289_ox-1
+#
+1171	H	290_tostitchtoputonadress	349	ölt	ølt	ø l t	H-290_tostitchtoputonadress-1
+#
+1172	EAH	290_tostitchtoputonadress	349	ilt	ilt	i l t	EAH-290_tostitchtoputonadress-1
+1173	WOT	290_tostitchtoputonadress	349	ilt	ilt	i l t	WOT-290_tostitchtoputonadress-1
+#
+1174	H	291_hawkbuzzardbuteobuteo	350	ölyv	øjv	ø j v	H-291_hawkbuzzardbuteobuteo-1
+#
+1175	OH	291_hawkbuzzardbuteobuteo	350	ölʹü	øjy	ø j y	OH-291_hawkbuzzardbuteobuteo-1
+1176	EAH	291_hawkbuzzardbuteobuteo	350	eliγ	ɛliɣ	ɛ l i ɣ	EAH-291_hawkbuzzardbuteobuteo-1
+1177	WOT	291_hawkbuzzardbuteobuteo	350	eliγ	ɛliɣ	ɛ l i ɣ	WOT-291_hawkbuzzardbuteobuteo-1
+#
+1178	H	292_totakeroottogrowstrongerplantanimal	351	ön	øn	ø n	H-292_totakeroottogrowstrongerplantanimal-1
+#
+1179	OH	292_totakeroottogrowstrongerplantanimal	351	ön	øn	ø n	OH-292_totakeroottogrowstrongerplantanimal-1
+1180	EAH	292_totakeroottogrowstrongerplantanimal	351	ün	yn	y n	EAH-292_totakeroottogrowstrongerplantanimal-1
+1181	WOT	292_totakeroottogrowstrongerplantanimal	351	ǖn	yːn	yː n	WOT-292_totakeroottogrowstrongerplantanimal-1
+#
+1182	H	293_togrindmill	352	őr	øːr	øː r	H-293_togrindmill-1
+#
+1183	EAH	293_togrindmill	352	evir	ɛvir	ɛ v i r	EAH-293_togrindmill-1
+1184	WOT	293_togrindmill	352	ävir	ɛvir	ɛ v i r	WOT-293_togrindmill-1
+#
+1185	H	294_millingproduct	353	örmény	ørmeːɲ	ø r m eː ɲ	H-294_millingproduct-1
+#
+1186	EAH	294_millingproduct	353	eü̯rmen	ɛwrmɛn	ɛ w r m ɛ n	EAH-294_millingproduct-1
+1187	WOT	294_millingproduct	353	ävirmän	ɛvirmɛn	ɛ v i r m ɛ n	WOT-294_millingproduct-1
+#
+1188	H	295_armenian	354	örmény	ørmeːɲ	ø r m eː ɲ	H-295_armenian-1
+#
+1189	EAH	295_armenian	354	ermeni	ɛrmɛni	ɛ r m ɛ n i	EAH-295_armenian-1
+1190	WOT	295_armenian	354	ärmäni	ɛrmɛni	ɛ r m ɛ n i	WOT-295_armenian-1
+#
+1191	H	296_eternal	355	örök	ørøk	ø r ø k	H-296_eternal-1
+#
+1192	EAH	296_eternal	355	ürük	yryk	y r y k	EAH-296_eternal-1
+1193	WOT	296_eternal	355	ürük	yryk	y r y k	WOT-296_eternal-1
+#
+1194	H	297_torejoicetobeglad	356	ör	ør	ø r	H-297_torejoicetobeglad-1
+#
+1195	OH	297_torejoicetobeglad	356	ör	ør	ø r	OH-297_torejoicetobeglad-1
+1196	LAH	297_torejoicetobeglad	356	ȫr	øːr	øː r	LAH-297_torejoicetobeglad-1
+1197	EAH	297_torejoicetobeglad	356	öγir	øɣir	ø ɣ i r	EAH-297_torejoicetobeglad-1
+1198	WOT	297_torejoicetobeglad	356	öγir	øɣir	ø ɣ i r	WOT-297_torejoicetobeglad-1
+#
+1199	H	298_tobecomemad	357	őrül	øːryl	øː r y l	H-298_tobecomemad-1
+#
+1200	OH	298_tobecomemad	357	eü̯ril	ɛwril	ɛ w r i l	OH-298_tobecomemad-1
+1201	EAH	298_tobecomemad	357	evril	ɛvril	ɛ v r i l	EAH-298_tobecomemad-1
+1202	WOT	298_tobecomemad	357	ävril	ɛvril	ɛ v r i l	WOT-298_tobecomemad-1
+#
+1203	H	299_whirlpooleddy	358	örvény	ørveːɲ	ø r v eː ɲ	H-299_whirlpooleddy-1
+#
+1204	OH	299_whirlpooleddy	358	ȫr	øːr	øː r	OH-299_whirlpooleddy-1
+1205	LAH	299_whirlpooleddy	358	ewir	ɛwir	ɛ w i r	LAH-299_whirlpooleddy-1
+1206	EAH	299_whirlpooleddy	358	eγir	ɛɣir	ɛ ɣ i r	EAH-299_whirlpooleddy-1
+1207	WOT	299_whirlpooleddy	358	äγir	ɛɣir	ɛ ɣ i r	WOT-299_whirlpooleddy-1
+#
+1208	H	299_whirlpooleddy	359	őrém	øːreːm	øː r eː m	H-299_whirlpooleddy-2
+#
+1209	OH	299_whirlpooleddy	359	eürem	ɛyrɛm	ɛ y r ɛ m	OH-299_whirlpooleddy-2
+1210	EAH	299_whirlpooleddy	359	eγrim	ɛɣrim	ɛ ɣ r i m	EAH-299_whirlpooleddy-2
+1211	WOT	299_whirlpooleddy	359	ägirim	ɛɡirim	ɛ ɡ i r i m	WOT-299_whirlpooleddy-2
+#
+1212	H	299_whirlpooleddy	360	őrém	øːreːm	øː r eː m	H-299_whirlpooleddy-3
+#
+1213	OH	299_whirlpooleddy	360	eürem	ɛyrɛm	ɛ y r ɛ m	OH-299_whirlpooleddy-3
+1214	EAH	299_whirlpooleddy	360	eγrim	ɛɣrim	ɛ ɣ r i m	EAH-299_whirlpooleddy-3
+1215	WOT	299_whirlpooleddy	360	ägrim	ɛɡrim	ɛ ɡ r i m	WOT-299_whirlpooleddy-3
+#
+1216	H	299_whirlpooleddy	361	örmény	ørmeːɲ	ø r m eː ɲ	H-299_whirlpooleddy-4
+#
+1217	EAH	299_whirlpooleddy	361	örmen	ørmɛn	ø r m ɛ n	EAH-299_whirlpooleddy-4
+1218	WOT	299_whirlpooleddy	361	äγirmän	ɛɣirmɛn	ɛ ɣ i r m ɛ n	WOT-299_whirlpooleddy-4
+#
+1219	H	299_whirlpooleddy	362	örmény	ørmeːɲ	ø r m eː ɲ	H-299_whirlpooleddy-5
+#
+1220	EAH	299_whirlpooleddy	362	örmen	ørmɛn	ø r m ɛ n	EAH-299_whirlpooleddy-5
+1221	WOT	299_whirlpooleddy	362	ägir	ɛɡir	ɛ ɡ i r	WOT-299_whirlpooleddy-5
+#
+1222	H	299_whirlpooleddy	363	örmény	ørmeːɲ	ø r m eː ɲ	H-299_whirlpooleddy-6
+#
+1223	EAH	299_whirlpooleddy	363	örmen	ørmɛn	ø r m ɛ n	EAH-299_whirlpooleddy-6
+1224	WOT	299_whirlpooleddy	363	ägir	ɛɡir	ɛ ɡ i r	WOT-299_whirlpooleddy-6
+#
+1225	H	300_flooddelugestream	364	özön	øzøn	ø z ø n	H-300_flooddelugestream-1
+#
+1226	EAH	300_flooddelugestream	364	üzen	yzɛn	y z ɛ n	EAH-300_flooddelugestream-1
+1227	WOT	300_flooddelugestream	364	özän	øzɛn	ø z ɛ n	WOT-300_flooddelugestream-1
+#
+1228	H	301_cheese	365	sajt	ʃɒjt	ʃ ɒ j t	H-301_cheese-1
+#
+1229	OH	301_cheese	365	šaχt	ʃaχt	ʃ a χ t	OH-301_cheese-1
+1230	EAH	301_cheese	365	čaγt	t͡ʃaɣt	t͡ʃ a ɣ t	EAH-301_cheese-1
+1231	WOT	301_cheese	365	čïγt	t͡ʃɯɣt	t͡ʃ ɯ ɣ t	WOT-301_cheese-1
+#
+1232	H	301_cheese	366	sajt	ʃɒjt	ʃ ɒ j t	H-301_cheese-2
+#
+1233	OH	301_cheese	366	šaχt	ʃaχt	ʃ a χ t	OH-301_cheese-2
+1234	EAH	301_cheese	366	čaγt	t͡ʃaɣt	t͡ʃ a ɣ t	EAH-301_cheese-2
+1235	WOT	301_cheese	366	čïgït	t͡ʃɯɡɯt	t͡ʃ ɯ ɡ ɯ t	WOT-301_cheese-2
+#
+1236	H	302_mudmarsh	367	sár	ʃaːr	ʃ aː r	H-302_mudmarsh-1
+#
+1237	EAH	302_mudmarsh	367	šar	ʃar	ʃ a r	EAH-302_mudmarsh-1
+1238	WOT	302_mudmarsh	367	šar	ʃar	ʃ a r	WOT-302_mudmarsh-1
+#
+1239	H	303_yellow	368	sár	ʃaːr	ʃ aː r	H-303_yellow-1
+#
+1240	EAH	303_yellow	368	šari	ʃari	ʃ a r i	EAH-303_yellow-1
+1241	WOT	303_yellow	368	šarï	ʃarɯ	ʃ a r ɯ	WOT-303_yellow-1
+#
+1242	H	303_yellow	369	sárga	ʃaːrɡɒ	ʃ aː r ɡ ɒ	H-303_yellow-2
+#
+1243	OH	303_yellow	369	šarog	ʃaroɡ	ʃ a r o ɡ	OH-303_yellow-1
+1244	EAH	303_yellow	369	šarug	ʃaruɡ	ʃ a r u ɡ	EAH-303_yellow-2
+1245	WOT	303_yellow	369	šarug	ʃaruɡ	ʃ a r u ɡ	WOT-303_yellow-2
+#
+1246	H	304_dragon	370	sárkány	ʃaːrkaːɲ	ʃ aː r k aː ɲ	H-304_dragon-1
+#
+1247	EAH	304_dragon	370	šārkān	ʃaːrkaːn	ʃ aː r k aː n	EAH-304_dragon-1
+1248	WOT	304_dragon	370	šarakan	ʃarakan	ʃ a r a k a n	WOT-304_dragon-1
+#
+1249	H	305_sickle	371	sarló	ʃɒrloː	ʃ ɒ r l oː	H-305_sickle-1
+#
+1250	EAH	305_sickle	371	čarlaγ	t͡ʃarlaɣ	t͡ʃ a r l a ɣ	EAH-305_sickle-1
+1251	WOT	305_sickle	371	čarlaγ	t͡ʃarlaɣ	t͡ʃ a r l a ɣ	WOT-305_sickle-1
+#
+1252	H	306_atypeofwildonionornithogalum	372	sárma	ʃaːrmɒ	ʃ aː r m ɒ	H-306_atypeofwildonionornithogalum-1
+#
+1253	EAH	306_atypeofwildonionornithogalum	372	šarmaγ	ʃarmaɣ	ʃ a r m a ɣ	EAH-306_atypeofwildonionornithogalum-1
+1254	WOT	306_atypeofwildonionornithogalum	372	šarmaγ	ʃarmaɣ	ʃ a r m a ɣ	WOT-306_atypeofwildonionornithogalum-1
+#
+1255	H	307_footwearsandals	373	saru	ʃɒru	ʃ ɒ r u	H-307_footwearsandals-1
+#
+1256	OH	307_footwearsandals	373	šarū	ʃaruː	ʃ a r uː	OH-307_footwearsandals-1
+1257	EAH	307_footwearsandals	373	čaruγ	t͡ʃaruɣ	t͡ʃ a r u ɣ	EAH-307_footwearsandals-1
+1258	WOT	307_footwearsandals	373	čaruγ	t͡ʃaruɣ	t͡ʃ a r u ɣ	WOT-307_footwearsandals-1
+#
+1259	H	308_tent	374	sátor	ʃaːtor	ʃ aː t o r	H-308_tent-1
+#
+1260	OH	308_tent	374	šatur	ʃatur	ʃ a t u r	OH-308_tent-1
+1261	EAH	308_tent	374	čatur	t͡ʃatur	t͡ʃ a t u r	EAH-308_tent-1
+1262	WOT	308_tent	374	čatur	t͡ʃatur	t͡ʃ a t u r	WOT-308_tent-1
+#
+1263	H	309_fastquick	375	seb	ʃɛb	ʃ ɛ b	H-309_fastquick-1
+#
+1264	EAH	309_fastquick	375	šeb	ʃɛb	ʃ ɛ b	EAH-309_fastquick-1
+1265	WOT	309_fastquick	375	šip	ʃip	ʃ i p	WOT-309_fastquick-1
+#
+1266	H	310_tosweeptobroom	376	seper	ʃɛpɛr	ʃ ɛ p ɛ r	H-310_tosweeptobroom-1
+#
+1267	EAH	310_tosweeptobroom	376	šipir	ʃipir	ʃ i p i r	EAH-310_tosweeptobroom-1
+1268	WOT	310_tosweeptobroom	376	šipir	ʃipir	ʃ i p i r	WOT-310_tosweeptobroom-1
+#
+1269	H	311_broom	377	seprű	ʃɛpryː	ʃ ɛ p r yː	H-311_broom-1
+#
+1270	EAH	311_broom	377	šipiriγ	ʃipiriɣ	ʃ i p i r i ɣ	EAH-311_broom-1
+1271	WOT	311_broom	377	šipiriγ	ʃipiriɣ	ʃ i p i r i ɣ	WOT-311_broom-1
+#
+1272	H	312_draffleesdregsofwine	378	seprő	ʃɛprøː	ʃ ɛ p r øː	H-312_draffleesdregsofwine-1
+#
+1273	OH	312_draffleesdregsofwine	378	čeprȫ	t͡ʃɛprøː	t͡ʃ ɛ p r øː	OH-312_draffleesdregsofwine-1
+1274	EAH	312_draffleesdregsofwine	378	čöpreγ	t͡ʃøprɛɣ	t͡ʃ ø p r ɛ ɣ	EAH-312_draffleesdregsofwine-1
+1275	WOT	312_draffleesdregsofwine	378	čöpräγ	t͡ʃøprɛɣ	t͡ʃ ø p r ɛ ɣ	WOT-312_draffleesdregsofwine-1
+#
+1276	H	312_draffleesdregsofwine	379	seprő	ʃɛprøː	ʃ ɛ p r øː	H-312_draffleesdregsofwine-2
+#
+1277	OH	312_draffleesdregsofwine	379	čeprȫ	t͡ʃɛprøː	t͡ʃ ɛ p r øː	OH-312_draffleesdregsofwine-2
+1278	EAH	312_draffleesdregsofwine	379	čöpreγ	t͡ʃøprɛɣ	t͡ʃ ø p r ɛ ɣ	EAH-312_draffleesdregsofwine-2
+1279	WOT	312_draffleesdregsofwine	379	čöprök	t͡ʃøprøk	t͡ʃ ø p r ø k	WOT-312_draffleesdregsofwine-2
+#
+1280	H	313_toinjuretohurt	380	sér	ʃeːr	ʃ eː r	H-313_toinjuretohurt-1
+#
+1281	EAH	313_toinjuretohurt	380	šir	ʃir	ʃ i r	EAH-313_toinjuretohurt-1
+1282	WOT	313_toinjuretohurt	380	šir	ʃir	ʃ i r	WOT-313_toinjuretohurt-1
+#
+1283	H	314_armytroopscrowd	381	sereg	ʃɛrɛɡ	ʃ ɛ r ɛ ɡ	H-314_armytroopscrowd-1
+#
+1284	OH	314_armytroopscrowd	381	šerig	ʃɛriɡ	ʃ ɛ r i ɡ	OH-314_armytroopscrowd-1
+1285	EAH	314_armytroopscrowd	381	čärig	t͡ʃɛriɡ	t͡ʃ ɛ r i ɡ	EAH-314_armytroopscrowd-1
+1286	WOT	314_armytroopscrowd	381	čärig	t͡ʃɛriɡ	t͡ʃ ɛ r i ɡ	WOT-314_armytroopscrowd-1
+#
+1287	H	315_anit	382	serke	ʃɛrkɛ	ʃ ɛ r k ɛ	H-315_anit-1
+#
+1288	EAH	315_anit	382	širke	ʃirkɛ	ʃ i r k ɛ	EAH-315_anit-1
+1289	WOT	315_anit	382	širkä	ʃirkɛ	ʃ i r k ɛ	WOT-315_anit-1
+#
+1290	H	316_cupgoblet	383	serleg	ʃɛrlɛɡ	ʃ ɛ r l ɛ ɡ	H-316_cupgoblet-1
+#
+1291	EAH	316_cupgoblet	383	šerleg	ʃɛrlɛɡ	ʃ ɛ r l ɛ ɡ	EAH-316_cupgoblet-1
+1292	WOT	316_cupgoblet	383	širlig	ʃirliɡ	ʃ i r l i ɡ	WOT-316_cupgoblet-1
+#
+1293	H	317_bristlesalsoshortsheavesusedtostrengthenathatchedroof	384	sert	ʃɛrt	ʃ ɛ r t	H-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1
+#
+1294	OH	317_bristlesalsoshortsheavesusedtostrengthenathatchedroof	384	širte	ʃirtɛ	ʃ i r t ɛ	OH-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1
+1295	EAH	317_bristlesalsoshortsheavesusedtostrengthenathatchedroof	384	širt	ʃirt	ʃ i r t	EAH-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1
+1296	WOT	317_bristlesalsoshortsheavesusedtostrengthenathatchedroof	384	širt	ʃirt	ʃ i r t	WOT-317_bristlesalsoshortsheavesusedtostrengthenathatchedroof-1
+#
+1297	H	318_evenflatopenwater	385	sík	ʃiːk	ʃ iː k	H-318_evenflatopenwater-1
+#
+1298	EAH	318_evenflatopenwater	385	šik	ʃik	ʃ i k	EAH-318_evenflatopenwater-1
+1299	WOT	318_evenflatopenwater	385	šïk	ʃɯk	ʃ ɯ k	WOT-318_evenflatopenwater-1
+#
+1300	H	319_smoothsimit	386	sima	ʃimɒ	ʃ i m ɒ	H-319_smoothsimit-1
+#
+1301	EAH	319_smoothsimit	386	šima	ʃima	ʃ i m a	EAH-319_smoothsimit-1
+1302	WOT	319_smoothsimit	386	šïma	ʃɯma	ʃ ɯ m a	WOT-319_smoothsimit-1
+#
+1303	H	320_runningwaterrunningchannelunderamill	387	sió	ʃioː	ʃ i oː	H-320_runningwaterrunningchannelunderamill-1
+#
+1304	EAH	320_runningwaterrunningchannelunderamill	387	šiu	ʃiu	ʃ i u	EAH-320_runningwaterrunningchannelunderamill-1
+1305	WOT	320_runningwaterrunningchannelunderamill	387	šiu	ʃiu	ʃ i u	WOT-320_runningwaterrunningchannelunderamill-1
+#
+1306	H	321_springwellbrook	388	sé	ʃeː	ʃ eː	H-321_springwellbrook-1
+#
+1307	OH	321_springwellbrook	388	šīd	ʃiːd	ʃ iː d	OH-321_springwellbrook-1
+1308	EAH	321_springwellbrook	388	šiu	ʃiu	ʃ i u	EAH-321_springwellbrook-1
+1309	WOT	321_springwellbrook	388	šiw	ʃiw	ʃ i w	WOT-321_springwellbrook-1
+#
+1310	H	322_muchmany	389	sok	ʃok	ʃ o k	H-322_muchmany-1
+#
+1311	WOT	322_muchmany	389	čok	t͡ʃok	t͡ʃ o k	WOT-322_muchmany-1
+#
+1312	H	323_falcon	390	sólyo	ʃoːjo	ʃ oː j o	H-323_falcon-1
+#
+1313	OH	323_falcon	390	šolʹom	ʃojom	ʃ o j o m	OH-323_falcon-1
+1314	LAH	323_falcon	390	čawlim	t͡ʃawlim	t͡ʃ a w l i m	LAH-323_falcon-1
+1315	EAH	323_falcon	390	čavli	t͡ʃavli	t͡ʃ a v l i	EAH-323_falcon-1
+1316	WOT	323_falcon	390	čavlï	t͡ʃavlɯ	t͡ʃ a v l ɯ	WOT-323_falcon-1
+#
+1317	H	323_falcon	391	sólyo	ʃoːjo	ʃ oː j o	H-323_falcon-2
+#
+1318	OH	323_falcon	391	šolʹom	ʃojom	ʃ o j o m	OH-323_falcon-2
+1319	LAH	323_falcon	391	čawlim	t͡ʃawlim	t͡ʃ a w l i m	LAH-323_falcon-2
+1320	EAH	323_falcon	391	čavli	t͡ʃavli	t͡ʃ a v l i	EAH-323_falcon-2
+1321	WOT	323_falcon	391	čavlïm	t͡ʃavlɯm	t͡ʃ a v l ɯ m	WOT-323_falcon-2
+#
+1322	H	324_dogwoodtreecornelcornus	392	som	ʃom	ʃ o m	H-324_dogwoodtreecornelcornus-1
+#
+1323	OH	324_dogwoodtreecornelcornus	392	šum	ʃum	ʃ u m	OH-324_dogwoodtreecornelcornus-1
+1324	EAH	324_dogwoodtreecornelcornus	392	čum	t͡ʃum	t͡ʃ u m	EAH-324_dogwoodtreecornelcornus-1
+1325	WOT	324_dogwoodtreecornelcornus	392	čum	t͡ʃum	t͡ʃ u m	WOT-324_dogwoodtreecornelcornus-1
+#
+1326	H	324_dogwoodtreecornelcornus	393	somlyó	ʃomjoː	ʃ o m j oː	H-324_dogwoodtreecornelcornus-2
+#
+1327	OH	324_dogwoodtreecornelcornus	393	šomlyō	ʃomjoː	ʃ o m j oː	OH-324_dogwoodtreecornelcornus-2
+1328	EAH	324_dogwoodtreecornelcornus	393	šumluγ	ʃumluɣ	ʃ u m l u ɣ	EAH-324_dogwoodtreecornelcornus-2
+1329	WOT	324_dogwoodtreecornelcornus	393	čumluγ	t͡ʃumluɣ	t͡ʃ u m l u ɣ	WOT-324_dogwoodtreecornelcornus-2
+#
+1330	H	325_beer	394	sör	ʃør	ʃ ø r	H-325_beer-1
+#
+1331	OH	325_beer	394	šer	ʃɛr	ʃ ɛ r	OH-325_beer-1
+1332	EAH	325_beer	394	šere	ʃɛrɛ	ʃ ɛ r ɛ	EAH-325_beer-1
+1333	WOT	325_beer	394	šire	ʃirɛ	ʃ i r ɛ	WOT-325_beer-1
+#
+1334	H	326_sterletsturgeonacipenserstellatusruthenus	395	sőreg	ʃøːrɛɡ	ʃ øː r ɛ ɡ	H-326_sterletsturgeonacipenserstellatusruthenus-1
+#
+1335	EAH	326_sterletsturgeonacipenserstellatusruthenus	395	ševrege	ʃɛvrɛɡɛ	ʃ ɛ v r ɛ ɡ ɛ	EAH-326_sterletsturgeonacipenserstellatusruthenus-1
+1336	WOT	326_sterletsturgeonacipenserstellatusruthenus	395	šivrigey	ʃivriɡɛj	ʃ i v r i ɡ ɛ j	WOT-326_sterletsturgeonacipenserstellatusruthenus-1
+#
+1337	H	327_pikeperchzanderstizostedionlucioperca	396	süllő	ʃylːøː	ʃ y lː øː	H-327_pikeperchzanderstizostedionlucioperca-1
+#
+1338	OH	327_pikeperchzanderstizostedionlucioperca	396	šilleü	ʃilːɛy	ʃ i lː ɛ y	OH-327_pikeperchzanderstizostedionlucioperca-1
+1339	EAH	327_pikeperchzanderstizostedionlucioperca	396	šilleγ	ʃilːɛɣ	ʃ i lː ɛ ɣ	EAH-327_pikeperchzanderstizostedionlucioperca-1
+1340	WOT	327_pikeperchzanderstizostedionlucioperca	396	šilliγ	ʃilːiɣ	ʃ i lː i ɣ	WOT-327_pikeperchzanderstizostedionlucioperca-1
+#
+1341	H	328_scurvy	397	süly	ʃyj	ʃ y j	H-328_scurvy-1
+#
+1342	OH	328_scurvy	397	šǖlʹ	ʃyːj	ʃ yː j	OH-328_scurvy-1
+1343	EAH	328_scurvy	397	šiγül	ʃiɣyl	ʃ i ɣ y l	EAH-328_scurvy-1
+1344	WOT	328_scurvy	397	šiγül	ʃiɣyl	ʃ i ɣ y l	WOT-328_scurvy-1
+#
+1345	H	329_densethickofwoodsorsoup	398	sűrű	ʃyːryː	ʃ yː r yː	H-329_densethickofwoodsorsoup-1
+#
+1346	OH	329_densethickofwoodsorsoup	398	šireü̯	ʃirɛw	ʃ i r ɛ w	OH-329_densethickofwoodsorsoup-1
+1347	EAH	329_densethickofwoodsorsoup	398	čireγ	t͡ʃirɛɣ	t͡ʃ i r ɛ ɣ	EAH-329_densethickofwoodsorsoup-1
+1348	WOT	329_densethickofwoodsorsoup	398	čiräγ	t͡ʃirɛɣ	t͡ʃ i r ɛ ɣ	WOT-329_densethickofwoodsorsoup-1
+#
+1349	H	330_brotherinlaw	399	sű	ʃyː	ʃ yː	H-330_brotherinlaw-1
+#
+1350	OH	330_brotherinlaw	399	šiv	ʃiv	ʃ i v	OH-330_brotherinlaw-1
+1351	EAH	330_brotherinlaw	399	siγ	siɣ	s i ɣ	EAH-330_brotherinlaw-1
+1352	WOT	330_brotherinlaw	399	siγ	siɣ	s i ɣ	WOT-330_brotherinlaw-1
+#
+1353	H	330_brotherinlaw	400	süv	ʃyv	ʃ y v	H-330_brotherinlaw-2
+#
+1354	OH	330_brotherinlaw	400	šiv	ʃiv	ʃ i v	OH-330_brotherinlaw-2
+1355	EAH	330_brotherinlaw	400	siγ	siɣ	s i ɣ	EAH-330_brotherinlaw-2
+1356	WOT	330_brotherinlaw	400	siγ	siɣ	s i ɣ	WOT-330_brotherinlaw-2
+#
+1357	H	331_mirage	401	szágom	saːɡom	s aː ɡ o m	H-331_mirage-1
+#
+1358	EAH	331_mirage	401	sagum	saɡum	s a ɡ u m	EAH-331_mirage-1
+1359	WOT	331_mirage	401	sagïm	saɡɯm	s a ɡ ɯ m	WOT-331_mirage-1
+#
+1360	H	332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken	402	szaka	sɒkɒ	s ɒ k ɒ	H-332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1
+#
+1361	EAH	332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken	402	sakaγ	sakaɣ	s a k a ɣ	EAH-332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1
+1362	WOT	332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken	402	sakaγ	sakaɣ	s a k a ɣ	WOT-332_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1
+#
+1363	H	333_beard	403	szakáll	sɒkaːlː	s ɒ k aː lː	H-333_beard-1
+#
+1364	EAH	333_beard	403	sakal	sakal	s a k a l	EAH-333_beard-1
+1365	WOT	333_beard	403	sakal	sakal	s a k a l	WOT-333_beard-1
+#
+1366	H	334_raft	404	szál	saːl	s aː l	H-334_raft-1
+#
+1367	EAH	334_raft	404	sal	sal	s a l	EAH-334_raft-1
+1368	WOT	334_raft	404	sāl	saːl	s aː l	WOT-334_raft-1
+#
+1369	H	335_number	405	szám	saːm	s aː m	H-335_number-1
+#
+1370	EAH	335_number	405	sam	sam	s a m	EAH-335_number-1
+1371	WOT	335_number	405	sām	saːm	s aː m	WOT-335_number-1
+#
+1372	H	336_tohavepityfortoregret	406	szán	saːn	s aː n	H-336_tohavepityfortoregret-1
+#
+1373	OH	336_tohavepityfortoregret	406	sān	saːn	s aː n	OH-336_tohavepityfortoregret-1
+1374	EAH	336_tohavepityfortoregret	406	saγin	saɣin	s a ɣ i n	EAH-336_tohavepityfortoregret-1
+1375	WOT	336_tohavepityfortoregret	406	saγïn	saɣɯn	s a ɣ ɯ n	WOT-336_tohavepityfortoregret-1
+#
+1376	H	337_towishtointendsomethingforsomebodysomethingtodevote	407	szán	saːn	s aː n	H-337_towishtointendsomethingforsomebodysomethingtodevote-1
+#
+1377	WOT	337_towishtointendsomethingforsomebodysomethingtodevote	407	sān	saːn	s aː n	WOT-337_towishtointendsomethingforsomebodysomethingtodevote-1
+#
+1378	H	338_trousseaubox	408	szándok	saːndok	s aː n d o k	H-338_trousseaubox-1
+#
+1379	WOT	338_trousseaubox	408	sanduk	sanduk	s a n d u k	WOT-338_trousseaubox-1
+#
+1380	H	339_bucketwoodenpailwithahandle	409	szapu	sɒpu	s ɒ p u	H-339_bucketwoodenpailwithahandle-1
+#
+1381	OH	339_bucketwoodenpailwithahandle	409	sapū	sapuː	s a p uː	OH-339_bucketwoodenpailwithahandle-1
+1382	LAH	339_bucketwoodenpailwithahandle	409	sapau̯	sapaw	s a p a w	LAH-339_bucketwoodenpailwithahandle-1
+1383	EAH	339_bucketwoodenpailwithahandle	409	sapaγ	sapaɣ	s a p a ɣ	EAH-339_bucketwoodenpailwithahandle-1
+1384	WOT	339_bucketwoodenpailwithahandle	409	sapaγ	sapaɣ	s a p a ɣ	WOT-339_bucketwoodenpailwithahandle-1
+#
+1385	H	340_lightcolouredyellowishpalepartlybald	410	szár	saːr	s aː r	H-340_lightcolouredyellowishpalepartlybald-1
+#
+1386	EAH	340_lightcolouredyellowishpalepartlybald	410	sar	sar	s a r	EAH-340_lightcolouredyellowishpalepartlybald-1
+1387	WOT	340_lightcolouredyellowishpalepartlybald	410	sar	sar	s a r	WOT-340_lightcolouredyellowishpalepartlybald-1
+#
+1388	H	341_wing	411	szárny	saːrɲ	s aː r ɲ	H-341_wing-1
+#
+1389	EAH	341_wing	411	śārn	sʲaːrn	sʲ aː r n	EAH-341_wing-1
+1390	WOT	341_wing	411	čaγrïn	t͡ʃaɣrɯn	t͡ʃ a ɣ r ɯ n	WOT-341_wing-1
+#
+1391	H	342_grocergrandhandler	412	szatócs	sɒtoːt͡ʃ	s ɒ t oː t͡ʃ	H-342_grocergrandhandler-1
+#
+1392	OH	342_grocergrandhandler	412	satōč	satoːt͡ʃ	s a t oː t͡ʃ	OH-342_grocergrandhandler-1
+1393	LAH	342_grocergrandhandler	412	satiwči	satiwt͡ʃi	s a t i w t͡ʃ i	LAH-342_grocergrandhandler-1
+1394	EAH	342_grocergrandhandler	412	satiγči	satiɣt͡ʃi	s a t i ɣ t͡ʃ i	EAH-342_grocergrandhandler-1
+1395	WOT	342_grocergrandhandler	412	satïγčï	satɯɣt͡ʃɯ	s a t ɯ ɣ t͡ʃ ɯ	WOT-342_grocergrandhandler-1
+#
+1396	H	343_chairseatbenchthrone	413	szék	seːk	s eː k	H-343_chairseatbenchthrone-1
+#
+1397	EAH	343_chairseatbenchthrone	413	sekü	sɛky	s ɛ k y	EAH-343_chairseatbenchthrone-1
+1398	WOT	343_chairseatbenchthrone	413	säkü	sɛky	s ɛ k y	WOT-343_chairseatbenchthrone-1
+#
+1399	H	344_wind	414	szél	seːl	s eː l	H-344_wind-1
+#
+1400	EAH	344_wind	414	sēl	seːl	s eː l	EAH-344_wind-1
+1401	WOT	344_wind	414	śēl	sʲeːl	sʲ eː l	WOT-344_wind-1
+#
+1402	H	345_toslumbertodoze	415	szend	sɛnd	s ɛ n d	H-345_toslumbertodoze-1
+#
+1403	EAH	345_toslumbertodoze	415	sen	sɛn	s ɛ n	EAH-345_toslumbertodoze-1
+1404	WOT	345_toslumbertodoze	415	sender	sɛndɛr	s ɛ n d ɛ r	WOT-345_toslumbertodoze-1
+#
+1405	H	345_toslumbertodoze	416	szönd	sønd	s ø n d	H-345_toslumbertodoze-2
+#
+1406	EAH	345_toslumbertodoze	416	sön	søn	s ø n	EAH-345_toslumbertodoze-2
+1407	WOT	345_toslumbertodoze	416	sön	søn	s ø n	WOT-345_toslumbertodoze-2
+#
+1408	H	346_beautiful	417	szép	seːp	s eː p	H-346_beautiful-1
+#
+1409	EAH	346_beautiful	417	sip	sip	s i p	EAH-346_beautiful-1
+1410	WOT	346_beautiful	417	sip	sip	s i p	WOT-346_beautiful-1
+#
+1411	H	347_frecklesunspotstain	418	szeplő	sɛpløː	s ɛ p l øː	H-347_frecklesunspotstain-1
+#
+1412	EAH	347_frecklesunspotstain	418	sepleγ	sɛplɛɣ	s ɛ p l ɛ ɣ	EAH-347_frecklesunspotstain-1
+1413	WOT	347_frecklesunspotstain	418	säpliγ	sɛpliɣ	s ɛ p l i ɣ	WOT-347_frecklesunspotstain-1
+#
+1414	H	348_partofavillagestreetgroupofpeoplerowlineorder	419	szer	sɛr	s ɛ r	H-348_partofavillagestreetgroupofpeoplerowlineorder-1
+#
+1415	EAH	348_partofavillagestreetgroupofpeoplerowlineorder	419	śer	sʲɛr	sʲ ɛ r	EAH-348_partofavillagestreetgroupofpeoplerowlineorder-1
+1416	WOT	348_partofavillagestreetgroupofpeoplerowlineorder	419	čer	t͡ʃɛr	t͡ʃ ɛ r	WOT-348_partofavillagestreetgroupofpeoplerowlineorder-1
+#
+1417	H	349_threshingfloorround	420	szérű	seːryː	s eː r yː	H-349_threshingfloorround-1
+#
+1418	EAH	349_threshingfloorround	420	sürüγ	syryɣ	s y r y ɣ	EAH-349_threshingfloorround-1
+1419	WOT	349_threshingfloorround	420	čürüγ	t͡ʃyryɣ	t͡ʃ y r y ɣ	WOT-349_threshingfloorround-1
+#
+1420	H	350_fumesvapourspiritsalcoholhumours	421	szesz	sɛs	s ɛ s	H-350_fumesvapourspiritsalcoholhumours-1
+#
+1421	EAH	350_fumesvapourspiritsalcoholhumours	421	sis	sis	s i s	EAH-350_fumesvapourspiritsalcoholhumours-1
+1422	WOT	350_fumesvapourspiritsalcoholhumours	421	sis	sis	s i s	WOT-350_fumesvapourspiritsalcoholhumours-1
+#
+1423	H	351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething	422	szín	siːn	s iː n	H-351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething-1
+#
+1424	EAH	351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething	422	sin	sin	s i n	EAH-351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething-1
+1425	WOT	351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething	422	sin	sin	s i n	WOT-351_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething-1
+#
+1426	H	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	423	szirony	siroɲ	s i r o ɲ	H-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1
+#
+1427	OH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	423	siron	siron	s i r o n	OH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1
+1428	LAH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	423	sirum	sirum	s i r u m	LAH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1
+1429	EAH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	423	siyrum	sijrum	s i j r u m	EAH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1
+1430	WOT	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	423	sïyrum	sɯjrum	s ɯ j r u m	WOT-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1
+#
+1431	H	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	424	szirony	siroɲ	s i r o ɲ	H-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-2
+#
+1432	OH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	424	sirom	sirom	s i r o m	OH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-2
+1433	LAH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	424	sirum	sirum	s i r u m	LAH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-2
+1434	EAH	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	424	siyrum	sijrum	s i j r u m	EAH-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-2
+1435	WOT	352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow	424	sïyrum	sɯjrum	s ɯ j r u m	WOT-352_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-2
+#
+1436	H	353_rockcliffocciputcrestofmountain	425	szirt	sirt	s i r t	H-353_rockcliffocciputcrestofmountain-1
+#
+1437	WOT	353_rockcliffocciputcrestofmountain	425	sïrt	sɯrt	s ɯ r t	WOT-353_rockcliffocciputcrestofmountain-1
+#
+1438	H	354_word	426	szó	soː	s oː	H-354_word-1
+#
+1439	EAH	354_word	426	saw	saw	s a w	EAH-354_word-1
+1440	WOT	354_word	426	sav	sav	s a v	WOT-354_word-1
+#
+1441	H	355_akindoffalconpielfalcusgyrfalco	427	szongor	soŋɡor	s o ŋ ɡ o r	H-355_akindoffalconpielfalcusgyrfalco-1
+#
+1442	EAH	355_akindoffalconpielfalcusgyrfalco	427	sonkor	sonkor	s o n k o r	EAH-355_akindoffalconpielfalcusgyrfalco-1
+1443	WOT	355_akindoffalconpielfalcusgyrfalco	427	soŋkur	soŋkur	s o ŋ k u r	WOT-355_akindoffalconpielfalcusgyrfalco-1
+#
+1444	H	356_tospreadtoscattertowinnow	428	szór	soːr	s oː r	H-356_tospreadtoscattertowinnow-1
+#
+1445	EAH	356_tospreadtoscattertowinnow	428	sawur	sawur	s a w u r	EAH-356_tospreadtoscattertowinnow-1
+1446	WOT	356_tospreadtoscattertowinnow	428	sawur	sawur	s a w u r	WOT-356_tospreadtoscattertowinnow-1
+#
+1447	H	357_grasshopper	429	szöcsk	søt͡ʃk	s ø t͡ʃ k	H-357_grasshopper-1
+#
+1448	OH	357_grasshopper	429	sökče	søkt͡ʃɛ	s ø k t͡ʃ ɛ	OH-357_grasshopper-1
+1449	LAH	357_grasshopper	429	sökśȫ	søksʲøː	s ø k sʲ øː	LAH-357_grasshopper-1
+1450	EAH	357_grasshopper	429	sek	sɛk	s ɛ k	EAH-357_grasshopper-1
+1451	WOT	357_grasshopper	429	sek	sɛk	s ɛ k	WOT-357_grasshopper-1
+#
+1452	H	358_toleaptojumptoescapetoflee	430	szök	søk	s ø k	H-358_toleaptojumptoescapetoflee-1
+#
+1453	OH	358_toleaptojumptoescapetoflee	430	sök	søk	s ø k	OH-358_toleaptojumptoescapetoflee-1
+1454	EAH	358_toleaptojumptoescapetoflee	430	sek	sɛk	s ɛ k	EAH-358_toleaptojumptoescapetoflee-1
+1455	WOT	358_toleaptojumptoescapetoflee	430	sek	sɛk	s ɛ k	WOT-358_toleaptojumptoescapetoflee-1
+#
+1456	H	359_grapewinegrapevitisvinifer	431	szőlő	søːløː	s øː l øː	H-359_grapewinegrapevitisvinifer-1
+#
+1457	OH	359_grapewinegrapevitisvinifer	431	seleγ	sɛlɛɣ	s ɛ l ɛ ɣ	OH-359_grapewinegrapevitisvinifer-1
+1458	EAH	359_grapewinegrapevitisvinifer	431	śeleγ	sʲɛlɛɣ	sʲ ɛ l ɛ ɣ	EAH-359_grapewinegrapevitisvinifer-1
+1459	WOT	359_grapewinegrapevitisvinifer	431	čeleγ	t͡ʃɛlɛɣ	t͡ʃ ɛ l ɛ ɣ	WOT-359_grapewinegrapevitisvinifer-1
+#
+1460	H	359_grapewinegrapevitisvinifer	432	szöllő	sølːøː	s ø lː øː	H-359_grapewinegrapevitisvinifer-2
+#
+1461	OH	359_grapewinegrapevitisvinifer	432	selleγ	sɛlːɛɣ	s ɛ lː ɛ ɣ	OH-359_grapewinegrapevitisvinifer-2
+1462	EAH	359_grapewinegrapevitisvinifer	432	śeleγ	sʲɛlɛɣ	sʲ ɛ l ɛ ɣ	EAH-359_grapewinegrapevitisvinifer-2
+1463	WOT	359_grapewinegrapevitisvinifer	432	čeleγ	t͡ʃɛlɛɣ	t͡ʃ ɛ l ɛ ɣ	WOT-359_grapewinegrapevitisvinifer-2
+#
+1464	H	360_mosquitognatculexpipens	433	szúnyog	suːɲoɡ	s uː ɲ o ɡ	H-360_mosquitognatculexpipens-1
+#
+1465	OH	360_mosquitognatculexpipens	433	sunug	sunuɡ	s u n u ɡ	OH-360_mosquitognatculexpipens-1
+1466	EAH	360_mosquitognatculexpipens	433	sinuk	sinuk	s i n u k	EAH-360_mosquitognatculexpipens-1
+1467	WOT	360_mosquitognatculexpipens	433	siŋuk	siŋuk	s i ŋ u k	WOT-360_mosquitognatculexpipens-1
+#
+1468	H	361_furrier	434	szűcs	syːt͡ʃ	s yː t͡ʃ	H-361_furrier-1
+#
+1469	OH	361_furrier	434	seü̯či	sɛwt͡ʃi	s ɛ w t͡ʃ i	OH-361_furrier-1
+1470	LAH	361_furrier	434	siwči	siwt͡ʃi	s i w t͡ʃ i	LAH-361_furrier-1
+1471	EAH	361_furrier	434	śiγči	sʲiɣt͡ʃi	sʲ i ɣ t͡ʃ i	EAH-361_furrier-1
+1472	WOT	361_furrier	434	čiγči	t͡ʃiɣt͡ʃi	t͡ʃ i ɣ t͡ʃ i	WOT-361_furrier-1
+#
+1473	H	362_toceasetostop	435	szűn	syːn	s yː n	H-362_toceasetostop-1
+#
+1474	OH	362_toceasetostop	435	sün	syn	s y n	OH-362_toceasetostop-1
+1475	EAH	362_toceasetostop	435	sön	søn	s ø n	EAH-362_toceasetostop-1
+1476	WOT	362_toceasetostop	435	sön	søn	s ø n	WOT-362_toceasetostop-1
+#
+1477	H	363_tostraintofilter	436	szűr	syːr	s yː r	H-363_tostraintofilter-1
+#
+1478	EAH	363_tostraintofilter	436	sür	syr	s y r	EAH-363_tostraintofilter-1
+1479	WOT	363_tostraintofilter	436	sür	syr	s y r	WOT-363_tostraintofilter-1
+#
+1480	H	364_virginpure	437	szűz	syːz	s yː z	H-364_virginpure-1
+#
+1481	OH	364_virginpure	437	süz	syz	s y z	OH-364_virginpure-1
+1482	EAH	364_virginpure	437	süzök	syzøk	s y z ø k	EAH-364_virginpure-1
+1483	WOT	364_virginpure	437	süzök	syzøk	s y z ø k	WOT-364_virginpure-1
+#
+1484	H	365_sorcerermedicineman	438	táltos	taːltoʃ	t aː l t o ʃ	H-365_sorcerermedicineman-1
+#
+1485	OH	365_sorcerermedicineman	438	taltuš	taltuʃ	t a l t u ʃ	OH-365_sorcerermedicineman-1
+1486	EAH	365_sorcerermedicineman	438	taltuči	taltut͡ʃi	t a l t u t͡ʃ i	EAH-365_sorcerermedicineman-1
+1487	WOT	365_sorcerermedicineman	438	taltučï	taltut͡ʃɯ	t a l t u t͡ʃ ɯ	WOT-365_sorcerermedicineman-1
+#
+1488	H	366_advicecouncil	439	tanács	tɒnaːt͡ʃ	t ɒ n aː t͡ʃ	H-366_advicecouncil-1
+#
+1489	EAH	366_advicecouncil	439	tanilč	tanilt͡ʃ	t a n i l t͡ʃ	EAH-366_advicecouncil-1
+1490	WOT	366_advicecouncil	439	tanïlč	tanɯlt͡ʃ	t a n ɯ l t͡ʃ	WOT-366_advicecouncil-1
+#
+1491	H	367_witness	440	tanú	tɒnuː	t ɒ n uː	H-367_witness-1
+#
+1492	EAH	367_witness	440	tanu	tanu	t a n u	EAH-367_witness-1
+1493	WOT	367_witness	440	tanuγ	tanuɣ	t a n u ɣ	WOT-367_witness-1
+#
+1494	H	368_tofeedtonourish	441	táplá	taːplaː	t aː p l aː	H-368_tofeedtonourish-1
+#
+1495	OH	368_tofeedtonourish	441	tāplā	taːplaː	t aː p l aː	OH-368_tofeedtonourish-1
+1496	EAH	368_tofeedtonourish	441	taplaγ	taplaɣ	t a p l a ɣ	EAH-368_tofeedtonourish-1
+1497	WOT	368_tofeedtonourish	441	taplaγ	taplaɣ	t a p l a ɣ	WOT-368_tofeedtonourish-1
+#
+1498	H	369_tindertinderfungusfomesfomentarius	442	tapló	tɒploː	t ɒ p l oː	H-369_tindertinderfungusfomesfomentarius-1
+#
+1499	OH	369_tindertinderfungusfomesfomentarius	442	tåplou̯	tɒplow	t ɒ p l o w	OH-369_tindertinderfungusfomesfomentarius-1
+1500	LAH	369_tindertinderfungusfomesfomentarius	442	toplau̯	toplaw	t o p l a w	LAH-369_tindertinderfungusfomesfomentarius-1
+1501	EAH	369_tindertinderfungusfomesfomentarius	442	topluγ	topluɣ	t o p l u ɣ	EAH-369_tindertinderfungusfomesfomentarius-1
+1502	WOT	369_tindertinderfungusfomesfomentarius	442	topluγ	topluɣ	t o p l u ɣ	WOT-369_tindertinderfungusfomesfomentarius-1
+#
+1503	H	370_bald	443	tar	tɒr	t ɒ r	H-370_bald-1
+#
+1504	EAH	370_bald	443	tar	tar	t a r	EAH-370_bald-1
+1505	WOT	370_bald	443	tar	tar	t a r	WOT-370_bald-1
+#
+1506	H	371_depot	444	tár	taːr	t aː r	H-371_depot-1
+#
+1507	EAH	371_depot	444	tavar	tavar	t a v a r	EAH-371_depot-1
+1508	WOT	371_depot	444	tavar	tavar	t a v a r	WOT-371_depot-1
+#
+1509	H	372_ploughfieldarablefieldstubblefield	445	tarló	tɒrloː	t ɒ r l oː	H-372_ploughfieldarablefieldstubblefield-1
+#
+1510	EAH	372_ploughfieldarablefieldstubblefield	445	tarlaγ	tarlaɣ	t a r l a ɣ	EAH-372_ploughfieldarablefieldstubblefield-1
+1511	WOT	372_ploughfieldarablefieldstubblefield	445	tarïlaγ	tarɯlaɣ	t a r ɯ l a ɣ	WOT-372_ploughfieldarablefieldstubblefield-1
+#
+1512	H	373_toholdcarrytolastvisszatart	446	tart	tɒrt	t ɒ r t	H-373_toholdcarrytolastvisszatart-1
+#
+1513	EAH	373_toholdcarrytolastvisszatart	446	tart	tart	t a r t	EAH-373_toholdcarrytolastvisszatart-1
+1514	WOT	373_toholdcarrytolastvisszatart	446	tart	tart	t a r t	WOT-373_toholdcarrytolastvisszatart-1
+#
+1515	H	374_tatar	447	tatár	tɒtaːr	t ɒ t aː r	H-374_tatar-1
+#
+1516	EAH	374_tatar	447	tatar	tatar	t a t a r	EAH-374_tatar-1
+1517	WOT	374_tatar	447	tatar	tatar	t a t a r	WOT-374_tatar-1
+#
+1518	H	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	448	tátorján	taːtorjaːn	t aː t o r j aː n	H-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1
+#
+1519	OH	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	448	tāturyan	taːturjan	t aː t u r j a n	OH-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1
+1520	EAH	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	448	taturγan	taturɣan	t a t u r ɣ a n	EAH-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1
+1521	WOT	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	448	taturgan	taturɡan	t a t u r ɡ a n	WOT-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1
+#
+1522	H	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	449	tátorján	taːtorjaːn	t aː t o r j aː n	H-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-2
+#
+1523	OH	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	449	tāturyan	taːturjan	t aː t u r j a n	OH-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-2
+1524	EAH	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	449	taturγan	taturɣan	t a t u r ɣ a n	EAH-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-2
+1525	WOT	375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind	449	tåtrång	tɒtrɒnɡ	t ɒ t r ɒ n ɡ	WOT-375_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-2
+#
+1526	H	376_towindsomethingroundtotwist	450	teker	tɛkɛr	t ɛ k ɛ r	H-376_towindsomethingroundtotwist-1
+#
+1527	EAH	376_towindsomethingroundtotwist	450	teker	tɛkɛr	t ɛ k ɛ r	EAH-376_towindsomethingroundtotwist-1
+1528	WOT	376_towindsomethingroundtotwist	450	täkir	tɛkir	t ɛ k i r	WOT-376_towindsomethingroundtotwist-1
+#
+1529	H	377_troughwashtubhutch	451	teknő	tɛknøː	t ɛ k n øː	H-377_troughwashtubhutch-1
+#
+1530	OH	377_troughwashtubhutch	451	tekenȫ	tɛkɛnøː	t ɛ k ɛ n øː	OH-377_troughwashtubhutch-1
+1531	EAH	377_troughwashtubhutch	451	tekeneγ	tɛkɛnɛɣ	t ɛ k ɛ n ɛ ɣ	EAH-377_troughwashtubhutch-1
+1532	WOT	377_troughwashtubhutch	451	täkänäγ	tɛkɛnɛɣ	t ɛ k ɛ n ɛ ɣ	WOT-377_troughwashtubhutch-1
+#
+1533	H	378_straponawhiporonakindofsandal	452	telek	tɛlɛk	t ɛ l ɛ k	H-378_straponawhiporonakindofsandal-1
+#
+1534	EAH	378_straponawhiporonakindofsandal	452	telük	tɛlyk	t ɛ l y k	EAH-378_straponawhiporonakindofsandal-1
+1535	WOT	378_straponawhiporonakindofsandal	452	tilök	tiløk	t i l ø k	WOT-378_straponawhiporonakindofsandal-1
+#
+1536	H	379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung	453	telek	tɛlɛk	t ɛ l ɛ k	H-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1
+#
+1537	EAH	379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung	453	telük	tɛlyk	t ɛ l y k	EAH-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1
+1538	WOT	379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung	453	tilök	tiløk	t i l ø k	WOT-379_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1
+#
+1539	H	380_tovegetatetolingerinmisery	454	tengődik	tɛŋɡøːdik	t ɛ ŋ ɡ øː d i k	H-380_tovegetatetolingerinmisery-1
+#
+1540	OH	380_tovegetatetolingerinmisery	454	teng	tɛnɡ	t ɛ n ɡ	OH-380_tovegetatetolingerinmisery-1
+1541	EAH	380_tovegetatetolingerinmisery	454	teng	tɛnɡ	t ɛ n ɡ	EAH-380_tovegetatetolingerinmisery-1
+1542	WOT	380_tovegetatetolingerinmisery	454	täŋ	tɛŋ	t ɛ ŋ	WOT-380_tovegetatetolingerinmisery-1
+#
+1543	H	381_axle	455	tengely	tɛŋɡɛj	t ɛ ŋ ɡ ɛ j	H-381_axle-1
+#
+1544	EAH	381_axle	455	tengel	tɛnɡɛl	t ɛ n ɡ ɛ l	EAH-381_axle-1
+1545	WOT	381_axle	455	teŋäl	tɛŋɛl	t ɛ ŋ ɛ l	WOT-381_axle-1
+#
+1546	H	382_sea	456	tenger	tɛŋɡɛr	t ɛ ŋ ɡ ɛ r	H-382_sea-1
+#
+1547	EAH	382_sea	456	teŋir	tɛŋir	t ɛ ŋ i r	EAH-382_sea-1
+1548	WOT	382_sea	456	täŋir	tɛŋir	t ɛ ŋ i r	WOT-382_sea-1
+#
+1549	H	383_toturntochangetheoriginaldirection	457	tér	teːr	t eː r	H-383_toturntochangetheoriginaldirection-1
+#
+1550	OH	383_toturntochangetheoriginaldirection	457	tēr	teːr	t eː r	OH-383_toturntochangetheoriginaldirection-1
+1551	EAH	383_toturntochangetheoriginaldirection	457	tevir	tɛvir	t ɛ v i r	EAH-383_toturntochangetheoriginaldirection-1
+1552	WOT	383_toturntochangetheoriginaldirection	457	tävir	tɛvir	t ɛ v i r	WOT-383_toturntochangetheoriginaldirection-1
+#
+1553	H	383_toturntochangetheoriginaldirection	458	térít	teːriːt	t eː r iː t	H-383_toturntochangetheoriginaldirection-2
+#
+1554	OH	383_toturntochangetheoriginaldirection	458	tēr	teːr	t eː r	OH-383_toturntochangetheoriginaldirection-2
+1555	EAH	383_toturntochangetheoriginaldirection	458	tevir	tɛvir	t ɛ v i r	EAH-383_toturntochangetheoriginaldirection-2
+1556	WOT	383_toturntochangetheoriginaldirection	458	tävir	tɛvir	t ɛ v i r	WOT-383_toturntochangetheoriginaldirection-2
+#
+1557	H	384_knee	459	térd	teːrd	t eː r d	H-384_knee-1
+#
+1558	EAH	384_knee	459	tīr	tiːr	t iː r	EAH-384_knee-1
+1559	WOT	384_knee	459	tīr	tiːr	t iː r	WOT-384_knee-1
+#
+1560	H	385_hallchambergreatroom	460	terem	tɛrɛm	t ɛ r ɛ m	H-385_hallchambergreatroom-1
+#
+1561	EAH	385_hallchambergreatroom	460	terem	tɛrɛm	t ɛ r ɛ m	EAH-385_hallchambergreatroom-1
+1562	WOT	385_hallchambergreatroom	460	terem	tɛrɛm	t ɛ r ɛ m	WOT-385_hallchambergreatroom-1
+#
+1563	H	386_camel	461	teve	tɛvɛ	t ɛ v ɛ	H-386_camel-1
+#
+1564	EAH	386_camel	461	teve	tɛvɛ	t ɛ v ɛ	EAH-386_camel-1
+1565	WOT	386_camel	461	teve	tɛvɛ	t ɛ v ɛ	WOT-386_camel-1
+#
+1566	H	387_hempbreakerswinglescutch	462	tiló	tiloː	t i l oː	H-387_hempbreakerswinglescutch-1
+#
+1567	OH	387_hempbreakerswinglescutch	462	talō	taloː	t a l oː	OH-387_hempbreakerswinglescutch-1
+1568	EAH	387_hempbreakerswinglescutch	462	talkiγ	talkiɣ	t a l k i ɣ	EAH-387_hempbreakerswinglescutch-1
+1569	WOT	387_hempbreakerswinglescutch	462	talkïγ	talkɯɣ	t a l k ɯ ɣ	WOT-387_hempbreakerswinglescutch-1
+#
+1570	H	388_steeryoungbullockox	463	tinó	tinoː	t i n oː	H-388_steeryoungbullockox-1
+#
+1571	EAH	388_steeryoungbullockox	463	tana	tana	t a n a	EAH-388_steeryoungbullockox-1
+1572	WOT	388_steeryoungbullockox	463	tana	tana	t a n a	WOT-388_steeryoungbullockox-1
+#
+1573	H	389_tolayeggs	464	toj	toj	t o j	H-389_tolayeggs-1
+#
+1574	OH	389_tolayeggs	464	tuik	tuik	t u i k	OH-389_tolayeggs-1
+1575	LAH	389_tolayeggs	464	tuγik	tuɣik	t u ɣ i k	LAH-389_tolayeggs-1
+1576	EAH	389_tolayeggs	464	tuγ	tuɣ	t u ɣ	EAH-389_tolayeggs-1
+1577	WOT	389_tolayeggs	464	tuγ	tuɣ	t u ɣ	WOT-389_tolayeggs-1
+#
+1578	H	389_tolayeggs	465	toj	toj	t o j	H-389_tolayeggs-2
+#
+1579	OH	389_tolayeggs	465	tuik	tuik	t u i k	OH-389_tolayeggs-2
+1580	LAH	389_tolayeggs	465	tuγik	tuɣik	t u ɣ i k	LAH-389_tolayeggs-2
+1581	EAH	389_tolayeggs	465	tuγ	tuɣ	t u ɣ	EAH-389_tolayeggs-2
+1582	WOT	389_tolayeggs	465	toγ	toɣ	t o ɣ	WOT-389_tolayeggs-2
+#
+1583	H	390_sturgeonacipensersturio	466	tok	tok	t o k	H-390_sturgeonacipensersturio-1
+#
+1584	EAH	390_sturgeonacipensersturio	466	toku	toku	t o k u	EAH-390_sturgeonacipensersturio-1
+1585	WOT	390_sturgeonacipensersturio	466	toku	toku	t o k u	WOT-390_sturgeonacipensersturio-1
+#
+1586	H	391_oneyearoldlamb	467	toklyó	tokjoː	t o k j oː	H-391_oneyearoldlamb-1
+#
+1587	OH	391_oneyearoldlamb	467	toklʹu	tokju	t o k j u	OH-391_oneyearoldlamb-1
+1588	EAH	391_oneyearoldlamb	467	toklu	toklu	t o k l u	EAH-391_oneyearoldlamb-1
+1589	WOT	391_oneyearoldlamb	467	toklu	toklu	t o k l u	WOT-391_oneyearoldlamb-1
+#
+1590	H	392_interpreter	468	tolmács	tolmaːt͡ʃ	t o l m aː t͡ʃ	H-392_interpreter-1
+#
+1591	EAH	392_interpreter	468	tolmač	tolmat͡ʃ	t o l m a t͡ʃ	EAH-392_interpreter-1
+1592	WOT	392_interpreter	468	tolmač	tolmat͡ʃ	t o l m a t͡ʃ	WOT-392_interpreter-1
+#
+1593	H	393_horseradisharmoraciarusticana	469	torma	tormɒ	t o r m ɒ	H-393_horseradisharmoraciarusticana-1
+#
+1594	EAH	393_horseradisharmoraciarusticana	469	turma	turma	t u r m a	EAH-393_horseradisharmoraciarusticana-1
+1595	WOT	393_horseradisharmoraciarusticana	469	turma	turma	t u r m a	WOT-393_horseradisharmoraciarusticana-1
+#
+1596	H	394_topileuptobecomeblocked	470	torló	torloː	t o r l oː	H-394_topileuptobecomeblocked-1
+#
+1597	OH	394_topileuptobecomeblocked	470	torol	torol	t o r o l	OH-394_topileuptobecomeblocked-1
+1598	LAH	394_topileuptobecomeblocked	470	toro	toro	t o r o	LAH-394_topileuptobecomeblocked-1
+1599	EAH	394_topileuptobecomeblocked	470	toro	toro	t o r o	EAH-394_topileuptobecomeblocked-1
+1600	WOT	394_topileuptobecomeblocked	470	turo	turo	t u r o	WOT-394_topileuptobecomeblocked-1
+#
+1601	H	394_topileuptobecomeblocked	471	torli	torli	t o r l i	H-394_topileuptobecomeblocked-2
+#
+1602	OH	394_topileuptobecomeblocked	471	torol	torol	t o r o l	OH-394_topileuptobecomeblocked-2
+1603	LAH	394_topileuptobecomeblocked	471	toro	toro	t o r o	LAH-394_topileuptobecomeblocked-2
+1604	EAH	394_topileuptobecomeblocked	471	toro	toro	t o r o	EAH-394_topileuptobecomeblocked-2
+1605	WOT	394_topileuptobecomeblocked	471	turo	turo	t u r o	WOT-394_topileuptobecomeblocked-2
+#
+1606	H	395_akindofsmallfalconfalcocolumbariusaescalon	472	torontál	torontaːl	t o r o n t aː l	H-395_akindofsmallfalconfalcocolumbariusaescalon-1
+#
+1607	OH	395_akindofsmallfalconfalcocolumbariusaescalon	472	turuntalʹ	turuntaj	t u r u n t a j	OH-395_akindofsmallfalconfalcocolumbariusaescalon-1
+1608	EAH	395_akindofsmallfalconfalcocolumbariusaescalon	472	turuntay	turuntaj	t u r u n t a j	EAH-395_akindofsmallfalconfalcocolumbariusaescalon-1
+1609	WOT	395_akindofsmallfalconfalcocolumbariusaescalon	472	turuntay	turuntaj	t u r u n t a j	WOT-395_akindofsmallfalconfalcocolumbariusaescalon-1
+#
+1610	H	396_slovak	473	tót	toːt	t oː t	H-396_slovak-1
+#
+1611	OH	396_slovak	473	tat	tat	t a t	OH-396_slovak-1
+1612	EAH	396_slovak	473	tāt	taːt	t aː t	EAH-396_slovak-1
+1613	WOT	396_slovak	473	tāt	taːt	t aː t	WOT-396_slovak-1
+#
+1614	H	397_perfect	474	töké	tøkeː	t ø k eː	H-397_perfect-1
+#
+1615	OH	397_perfect	474	tökēl	tøkeːl	t ø k eː l	OH-397_perfect-1
+1616	LAH	397_perfect	474	tökē	tøkeː	t ø k eː	LAH-397_perfect-1
+1617	EAH	397_perfect	474	tüke	tykɛ	t y k ɛ	EAH-397_perfect-1
+1618	WOT	397_perfect	474	tükä	tykɛ	t y k ɛ	WOT-397_perfect-1
+#
+1619	H	398_innumerable	475	tömén	tømeːn	t ø m eː n	H-398_innumerable-1
+#
+1620	OH	398_innumerable	475	tömēń	tømeːɲ	t ø m eː ɲ	OH-398_innumerable-1
+1621	EAH	398_innumerable	475	tümen	tymɛn	t y m ɛ n	EAH-398_innumerable-1
+1622	WOT	398_innumerable	475	tümän	tymɛn	t y m ɛ n	WOT-398_innumerable-1
+#
+1623	H	399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush	476	tör	tør	t ø r	H-399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush-1
+#
+1624	OH	399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush	476	tȫr	tøːr	t øː r	OH-399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush-1
+1625	LAH	399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush	476	tǖr	tyːr	t yː r	LAH-399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush-1
+1626	EAH	399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush	476	tüγür	tyɣyr	t y ɣ y r	EAH-399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush-1
+1627	WOT	399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush	476	töγür	tøɣyr	t ø ɣ y r	WOT-399_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush-1
+#
+1628	H	400_snaretrap	477	tőr	tøːr	t øː r	H-400_snaretrap-1
+#
+1629	EAH	400_snaretrap	477	tȫr	tøːr	t øː r	EAH-400_snaretrap-1
+1630	WOT	400_snaretrap	477	tȫr	tøːr	t øː r	WOT-400_snaretrap-1
+#
+1631	H	401_turkturkishturkicottoman	478	török	tørøk	t ø r ø k	H-401_turkturkishturkicottoman-1
+#
+1632	OH	401_turkturkishturkicottoman	478	türük	tyryk	t y r y k	OH-401_turkturkishturkicottoman-1
+1633	LAH	401_turkturkishturkicottoman	478	türk	tyrk	t y r k	LAH-401_turkturkishturkicottoman-1
+1634	EAH	401_turkturkishturkicottoman	478	türkü	tyrky	t y r k y	EAH-401_turkturkishturkicottoman-1
+1635	WOT	401_turkturkishturkicottoman	478	türkü	tyrky	t y r k y	WOT-401_turkturkishturkicottoman-1
+#
+1636	H	402_tohappentooccur	479	történ	tørteːn	t ø r t eː n	H-402_tohappentooccur-1
+#
+1637	OH	402_tohappentooccur	479	törtēn	tørteːn	t ø r t eː n	OH-402_tohappentooccur-1
+1638	EAH	402_tohappentooccur	479	törtün	tørtyn	t ø r t y n	EAH-402_tohappentooccur-1
+1639	WOT	402_tohappentooccur	479	törütün	tørytyn	t ø r y t y n	WOT-402_tohappentooccur-1
+#
+1640	H	403_law	480	törvény	tørveːɲ	t ø r v eː ɲ	H-403_law-1
+#
+1641	OH	403_law	480	türven	tyrvɛn	t y r v ɛ n	OH-403_law-1
+1642	LAH	403_law	480	türγen	tyrɣɛn	t y r ɣ ɛ n	LAH-403_law-1
+1643	EAH	403_law	480	türüγen	tyryɣɛn	t y r y ɣ ɛ n	EAH-403_law-1
+1644	WOT	403_law	480	törüγän	tøryɣɛn	t ø r y ɣ ɛ n	WOT-403_law-1
+#
+1645	H	404_peatturfdrieddung	481	tőzeg	tøːzɛɡ	t øː z ɛ ɡ	H-404_peatturfdrieddung-1
+#
+1646	EAH	404_peatturfdrieddung	481	tözek	tøzɛk	t ø z ɛ k	EAH-404_peatturfdrieddung-1
+1647	WOT	404_peatturfdrieddung	481	tezäk	tɛzɛk	t ɛ z ɛ k	WOT-404_peatturfdrieddung-1
+#
+1648	H	405_steeryoungbullockoxorcow	482	tulok	tulok	t u l o k	H-405_steeryoungbullockoxorcow-1
+#
+1649	EAH	405_steeryoungbullockoxorcow	482	tukol	tukol	t u k o l	EAH-405_steeryoungbullockoxorcow-1
+1650	WOT	405_steeryoungbullockoxorcow	482	tokol	tokol	t o k o l	WOT-405_steeryoungbullockoxorcow-1
+#
+1651	H	406_cottagecheesecheesecurds	483	túró	tuːroː	t uː r oː	H-406_cottagecheesecheesecurds-1
+#
+1652	OH	406_cottagecheesecheesecurds	483	turō	turoː	t u r oː	OH-406_cottagecheesecheesecurds-1
+1653	EAH	406_cottagecheesecheesecurds	483	toraγ	toraɣ	t o r a ɣ	EAH-406_cottagecheesecheesecurds-1
+1654	WOT	406_cottagecheesecheesecurds	483	toraγ	toraɣ	t o r a ɣ	WOT-406_cottagecheesecheesecurds-1
+#
+1655	H	407_thetotembirdofthearpaddynastyabirdofprey	484	turul	turul	t u r u l	H-407_thetotembirdofthearpaddynastyabirdofprey-1
+#
+1656	OH	407_thetotembirdofthearpaddynastyabirdofprey	484	tūrul	tuːrul	t uː r u l	OH-407_thetotembirdofthearpaddynastyabirdofprey-1
+1657	EAH	407_thetotembirdofthearpaddynastyabirdofprey	484	tuγrïl	tuɣrɯl	t u ɣ r ɯ l	EAH-407_thetotembirdofthearpaddynastyabirdofprey-1
+1658	WOT	407_thetotembirdofthearpaddynastyabirdofprey	484	toγrïl	toɣrɯl	t o ɣ r ɯ l	WOT-407_thetotembirdofthearpaddynastyabirdofprey-1
+#
+1659	H	408_bustardotis	485	túzok	tuːzok	t uː z o k	H-408_bustardotis-1
+#
+1660	EAH	408_bustardotis	485	toγzak	toɣzak	t o ɣ z a k	EAH-408_bustardotis-1
+1661	WOT	408_bustardotis	485	togδak	toɡðak	t o ɡ ð a k	WOT-408_bustardotis-1
+#
+1662	H	409_mirror	486	tükör	tykør	t y k ø r	H-409_mirror-1
+#
+1663	EAH	409_mirror	486	tiker	tikɛr	t i k ɛ r	EAH-409_mirror-1
+1664	WOT	409_mirror	486	tikär	tikɛr	t i k ɛ r	WOT-409_mirror-1
+#
+1665	H	409_mirror	487	tükör	tykør	t y k ø r	H-409_mirror-2
+#
+1666	EAH	409_mirror	487	tüker	tykɛr	t y k ɛ r	EAH-409_mirror-2
+1667	WOT	409_mirror	487	tükär	tykɛr	t y k ɛ r	WOT-409_mirror-2
+#
+1668	H	410_toenduresufferbearstand	488	tűr	tyːr	t yː r	H-410_toenduresufferbearstand-1
+#
+1669	EAH	410_toenduresufferbearstand	488	tür	tyr	t y r	EAH-410_toenduresufferbearstand-1
+1670	WOT	410_toenduresufferbearstand	488	tör	tør	t ø r	WOT-410_toenduresufferbearstand-1
+#
+1671	H	411_torollupascrolloronessleeves	489	tűr	tyːr	t yː r	H-411_torollupascrolloronessleeves-1
+#
+1672	EAH	411_torollupascrolloronessleeves	489	tür	tyr	t y r	EAH-411_torollupascrolloronessleeves-1
+1673	WOT	411_torollupascrolloronessleeves	489	tür	tyr	t y r	WOT-411_torollupascrolloronessleeves-1
+#
+1674	H	412_hen	490	tyúk	cuːk	c uː k	H-412_hen-1
+#
+1675	OH	412_hen	490	tiuk	tiuk	t i u k	OH-412_hen-1
+1676	LAH	412_hen	490	tiwuk	tiwuk	t i w u k	LAH-412_hen-1
+1677	EAH	412_hen	490	tiγuk	tiɣuk	t i ɣ u k	EAH-412_hen-1
+1678	WOT	412_hen	490	tiγuk	tiɣuk	t i ɣ u k	WOT-412_hen-1
+#
+1679	H	413_owlstrix	491	ug	uɡ	u ɡ	H-413_owlstrix-1
+#
+1680	EAH	413_owlstrix	491	ugu	uɡu	u ɡ u	EAH-413_owlstrix-1
+1681	WOT	413_owlstrix	491	uγu	uɣu	u ɣ u	WOT-413_owlstrix-1
+#
+1682	H	414_gentlemanlordsirhighdignitylordalsoofakingorofgod	492	úr	uːr	uː r	H-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1
+#
+1683	EAH	414_gentlemanlordsirhighdignitylordalsoofakingorofgod	492	uri	uri	u r i	EAH-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1
+1684	WOT	414_gentlemanlordsirhighdignitylordalsoofakingorofgod	492	urï	urɯ	u r ɯ	WOT-414_gentlemanlordsirhighdignitylordalsoofakingorofgod-1
+#
+1685	H	415_torefreshoneselftoresttobecomecured	493	üdü	ydy	y d y	H-415_torefreshoneselftoresttobecomecured-1
+#
+1686	OH	415_torefreshoneselftoresttobecomecured	493	idül	idyl	i d y l	OH-415_torefreshoneselftoresttobecomecured-1
+1687	LAH	415_torefreshoneselftoresttobecomecured	493	edül	ɛdyl	ɛ d y l	LAH-415_torefreshoneselftoresttobecomecured-1
+1688	EAH	415_torefreshoneselftoresttobecomecured	493	edü	ɛdy	ɛ d y	EAH-415_torefreshoneselftoresttobecomecured-1
+1689	WOT	415_torefreshoneselftoresttobecomecured	493	edü	ɛdy	ɛ d y	WOT-415_torefreshoneselftoresttobecomecured-1
+#
+1690	H	416_feast	494	ünnep	ynːɛp	y nː ɛ p	H-416_feast-1
+#
+1691	OH	416_feast	494	üdnep	ydnɛp	y d n ɛ p	OH-416_feast-1
+1692	LAH	416_feast	494	idnep	idnɛp	i d n ɛ p	LAH-416_feast-1
+1693	EAH	416_feast	494	idnap	idnap	i d n a p	EAH-416_feast-1
+1694	WOT	416_feast	494	edü	ɛdy	ɛ d y	WOT-416_feast-1
+#
+1695	H	417_heiferroedoe	495	ünő	ynøː	y n øː	H-417_heiferroedoe-1
+#
+1696	OH	417_heiferroedoe	495	inȫ	inøː	i n øː	OH-417_heiferroedoe-1
+1697	LAH	417_heiferroedoe	495	ineü	inɛy	i n ɛ y	LAH-417_heiferroedoe-1
+1698	EAH	417_heiferroedoe	495	ineγ	inɛɣ	i n ɛ ɣ	EAH-417_heiferroedoe-1
+1699	WOT	417_heiferroedoe	495	inäγ	inɛɣ	i n ɛ ɣ	WOT-417_heiferroedoe-1
+#
+1700	H	418_groundsquirrelcitelluscitellus	496	irge	irɡɛ	i r ɡ ɛ	H-418_groundsquirrelcitelluscitellus-1
+#
+1701	EAH	418_groundsquirrelcitelluscitellus	496	ürge	yrɡɛ	y r ɡ ɛ	EAH-418_groundsquirrelcitelluscitellus-1
+1702	WOT	418_groundsquirrelcitelluscitellus	496	örgä	ørɡɛ	ø r ɡ ɛ	WOT-418_groundsquirrelcitelluscitellus-1
+#
+1703	H	418_groundsquirrelcitelluscitellus	497	ürge	yrɡɛ	y r ɡ ɛ	H-418_groundsquirrelcitelluscitellus-2
+#
+1704	EAH	418_groundsquirrelcitelluscitellus	497	ürge	yrɡɛ	y r ɡ ɛ	EAH-418_groundsquirrelcitelluscitellus-2
+1705	WOT	418_groundsquirrelcitelluscitellus	497	örgä	ørɡɛ	ø r ɡ ɛ	WOT-418_groundsquirrelcitelluscitellus-2
+#
+1706	H	419_wormwoodartemisiabitterness	498	üröm	yrøm	y r ø m	H-419_wormwoodartemisiabitterness-1
+#
+1707	OH	419_wormwoodartemisiabitterness	498	ürim	yrim	y r i m	OH-419_wormwoodartemisiabitterness-1
+1708	EAH	419_wormwoodartemisiabitterness	498	erim	ɛrim	ɛ r i m	EAH-419_wormwoodartemisiabitterness-1
+1709	WOT	419_wormwoodartemisiabitterness	498	erim	ɛrim	ɛ r i m	WOT-419_wormwoodartemisiabitterness-1
+#
+1710	H	419_wormwoodartemisiabitterness	499	üröm	yrøm	y r ø m	H-419_wormwoodartemisiabitterness-2
+#
+1711	OH	419_wormwoodartemisiabitterness	499	irim	irim	i r i m	OH-419_wormwoodartemisiabitterness-2
+1712	EAH	419_wormwoodartemisiabitterness	499	erim	ɛrim	ɛ r i m	EAH-419_wormwoodartemisiabitterness-2
+1713	WOT	419_wormwoodartemisiabitterness	499	erim	ɛrim	ɛ r i m	WOT-419_wormwoodartemisiabitterness-2
+#
+1714	H	420_wethersheep	500	ürü	yry	y r y	H-420_wethersheep-1
+#
+1715	OH	420_wethersheep	500	irǖ	iryː	i r yː	OH-420_wethersheep-1
+1716	EAH	420_wethersheep	500	iriγ	iriɣ	i r i ɣ	EAH-420_wethersheep-1
+1717	WOT	420_wethersheep	500	iriγ	iriɣ	i r i ɣ	WOT-420_wethersheep-1
+#
+1718	H	421_hotembersextinguishedembers	501	üszök	ysøk	y s ø k	H-421_hotembersextinguishedembers-1
+#
+1719	EAH	421_hotembersextinguishedembers	501	isüg	isyɡ	i s y ɡ	EAH-421_hotembersextinguishedembers-1
+1720	WOT	421_hotembersextinguishedembers	501	isig	isiɡ	i s i ɡ	WOT-421_hotembersextinguishedembers-1
+#
+1721	H	421_hotembersextinguishedembers	502	üszög	ysøɡ	y s ø ɡ	H-421_hotembersextinguishedembers-2
+#
+1722	EAH	421_hotembersextinguishedembers	502	isüg	isyɡ	i s y ɡ	EAH-421_hotembersextinguishedembers-2
+1723	WOT	421_hotembersextinguishedembers	502	isig	isiɡ	i s i ɡ	WOT-421_hotembersextinguishedembers-2
+#
+1724	H	422_oneyearoldfemalesheep	503	üvecs	yvɛt͡ʃ	y v ɛ t͡ʃ	H-422_oneyearoldfemalesheep-1
+#
+1725	EAH	422_oneyearoldfemalesheep	503	öveč	øvɛt͡ʃ	ø v ɛ t͡ʃ	EAH-422_oneyearoldfemalesheep-1
+1726	WOT	422_oneyearoldfemalesheep	503	öväč	øvɛt͡ʃ	ø v ɛ t͡ʃ	WOT-422_oneyearoldfemalesheep-1
+#
+1727	H	423_tohollowouttoscoopout	504	váj	vaːj	v aː j	H-423_tohollowouttoscoopout-1
+#
+1728	EAH	423_tohollowouttoscoopout	504	vay	vaj	v a j	EAH-423_tohollowouttoscoopout-1
+1729	WOT	423_tohollowouttoscoopout	504	vay	vaj	v a j	WOT-423_tohollowouttoscoopout-1
+#
+1730	H	424_troughtray	505	vályú	vaːjuː	v aː j uː	H-424_troughtray-1
+#
+1731	OH	424_troughtray	505	valʹū	vajuː	v a j uː	OH-424_troughtray-1
+1732	LAH	424_troughtray	505	vālū	vaːluː	v aː l uː	LAH-424_troughtray-1
+1733	EAH	424_troughtray	505	valaγ	valaɣ	v a l a ɣ	EAH-424_troughtray-1
+1734	WOT	424_troughtray	505	valaγ	valaɣ	v a l a ɣ	WOT-424_troughtray-1
+#
+1735	H	425_fishweir	506	vejsze	vɛjsɛ	v ɛ j s ɛ	H-425_fishweir-1
+#
+1736	EAH	425_fishweir	506	veyseγ	vɛjsɛɣ	v ɛ j s ɛ ɣ	EAH-425_fishweir-1
+1737	WOT	425_fishweir	506	väyśäγ	vɛjsʲɛɣ	v ɛ j sʲ ɛ ɣ	WOT-425_fishweir-1
+#
+1738	H	426_aholeintheiceforfishing	507	lék	leːk	l eː k	H-426_aholeintheiceforfishing-1
+#
+1739	EAH	426_aholeintheiceforfishing	507	vekü	vɛky	v ɛ k y	EAH-426_aholeintheiceforfishing-1
+1740	WOT	426_aholeintheiceforfishing	507	väkü	vɛky	v ɛ k y	WOT-426_aholeintheiceforfishing-1
+#
+1741	H	426_aholeintheiceforfishing	508	vék	veːk	v eː k	H-426_aholeintheiceforfishing-2
+#
+1742	EAH	426_aholeintheiceforfishing	508	vekü	vɛky	v ɛ k y	EAH-426_aholeintheiceforfishing-2
+1743	WOT	426_aholeintheiceforfishing	508	väkü	vɛky	v ɛ k y	WOT-426_aholeintheiceforfishing-2
+#
+1744	H	427_guest	509	vendég	vɛndeːɡ	v ɛ n d eː ɡ	H-427_guest-1
+#
+1745	EAH	427_guest	509	vendeg	vɛndɛɡ	v ɛ n d ɛ ɡ	EAH-427_guest-1
+1746	WOT	427_guest	509	vändäg	vɛndɛɡ	v ɛ n d ɛ ɡ	WOT-427_guest-1
+#
+1747	H	428_toplaittolaytherope	510	ver	vɛr	v ɛ r	H-428_toplaittolaytherope-1
+#
+1748	WOT	428_toplaittolaytherope	510	ver	vɛr	v ɛ r	WOT-428_toplaittolaytherope-1
+#
+1749	H	429_gablefrontispiece	511	vértelek	veːrtɛlɛk	v eː r t ɛ l ɛ k	H-429_gablefrontispiece-1
+#
+1750	EAH	429_gablefrontispiece	511	vertelük	vɛrtɛlyk	v ɛ r t ɛ l y k	EAH-429_gablefrontispiece-1
+1751	WOT	429_gablefrontispiece	511	vertülük	vɛrtylyk	v ɛ r t y l y k	WOT-429_gablefrontispiece-1
+#
+1752	H	430_chamoisrupicaprarupicapra	512	zerge	zɛrɡɛ	z ɛ r ɡ ɛ	H-430_chamoisrupicaprarupicapra-1
+#
+1753	EAH	430_chamoisrupicaprarupicapra	512	serge	sɛrɡɛ	s ɛ r ɡ ɛ	EAH-430_chamoisrupicaprarupicapra-1
+1754	WOT	430_chamoisrupicaprarupicapra	512	särgä	sɛrɡɛ	s ɛ r ɡ ɛ	WOT-430_chamoisrupicaprarupicapra-1
