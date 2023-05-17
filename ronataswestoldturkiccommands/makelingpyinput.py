@@ -21,19 +21,19 @@ def run(args):
     with open("cldf/forms.csv") as f:
         forms = list(csv.reader(f))
 
-    with open("lingpy/wot.csv", "w+") as f:
+    with open("lingpy/wot.tsv", "w+") as f:
         writer = csv.writer(f, delimiter="\t")
+        writer.writerow(['# KSL']),
         writer.writerow([
-            ['# KSL'],
-            ['ID', 'DOCULECT', 'CONCEPT', 'GlossID',
-            'Orthography', 'IPA', 'Tokens', 'CogID']
-            ])
+            'ID', 'DOCULECT', 'CONCEPT', 'GlossID',
+            'Orthography', 'IPA', 'Tokens', 'CogID'
+                        ])
 
         for i, row in enumerate(forms[1:]):
-            if i > 0 and row[9] != forms[i-1][9]:  # cognacy
+            if i == 0 or row[9] != forms[i][9]:  # cognacy
                 writer.writerow(["#"])
 
             newrow = [i, row[2], row[3], row[9],
-                      row[5], re.sub("[. ]", "", row[6]), row[6], row[0]]
+                      row[5], re.sub("[. ]", "", row[6]), row[6], row[9]]
 
             writer.writerow(newrow)

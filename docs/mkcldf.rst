@@ -116,11 +116,8 @@ name as the language IDs in ``etc/languages.tsv``, CLDF automatically creates
 new columns in ``cldf/forms.csv`` that contain
 IPA transcriptions and segmentations. In this step, we are creating the
 IPA transcription rules for our raw data. The data in the original source
-already comes phonetically transcribed. However, this is an idiosyncratic
-transcription system, unique to the source and therefore not suitable for
-data intended for cross-linguistic comparisons. The transcription
-system is well described in the appendix of the work and this can be used to
-to map each element to its counterparts in `IPA
+is `UPA <https://en.wikipedia.org/wiki/Uralic_Phonetic_Alphabet>`_
+-transcribed, which is here converted to `IPA
 <https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf>`__.
 Hungarian
 headwords in the original source were provided in both, their official
