@@ -1,8 +1,8 @@
 """
 Open terminal in folder containing GitHub projects or
-in a newly created folder and run the commands below.
+in a newly created folder and run the commands below to...
 
-make cldf (download size: 1GB+):
+...create the contents of the cldf-folder (download size: 1GB+):
 
 .. code-block:: sh
 
@@ -26,7 +26,7 @@ make cldf (download size: 1GB+):
    pytest --cldf-metadata=cldf/cldf-metadata.json test.py
 
 
-make edictor:
+...create the contents of the edictor-folder:
 
 .. code-block:: sh
 
@@ -39,7 +39,7 @@ make edictor:
    cldfbench ronataswestoldturkic.evaledicted WOT EAH
 
 
-make loanpy:
+...create the contents of the loanpy-folder:
 
 .. code-block:: sh
 
