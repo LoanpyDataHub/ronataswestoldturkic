@@ -1,4 +1,7 @@
 """
+Open terminal in folder containing GitHub projects or
+in a newly created folder and run the commands below.
+
 make cldf (download size: 1GB+):
 
 .. code-block:: sh
@@ -21,7 +24,7 @@ make cldf (download size: 1GB+):
    cldfbench lexibank.makecldf lexibank_ronataswestoldturkic.py  --concepticon-version=v3.0.0 --glottolog-version=v4.5 --clts-version=v2.2.0 --concepticon=../concepticon/concepticon-data --glottolog=../glottolog --clts=../clts
 
    pytest --cldf-metadata=cldf/cldf-metadata.json test.py
-   
+
 
 make edictor:
 
